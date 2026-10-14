@@ -1,0 +1,58 @@
+# Copia TUTTO il contenuto di questo file in un nuovo file su GitHub chiamato:
+#   .github/workflows/aggiorna.yml
+# (istruzioni passo passo nel README, punto 4)
+
+name: Aggiorna VC Prep
+
+on:
+  schedule:
+    # Ogni giorno alle 04:17 UTC = 06:17 in Italia con l'ora legale, 05:17 con l'ora solare.
+    # GitHub a volte parte con qualche minuto di ritardo.
+    - cron: "17 4 * * *"
+  workflow_dispatch: # permette di lanciarlo a mano dalla scheda Actions
+
+permissions:
+  contents: write   # per salvare l'archivio delle notizie
+  pages: write      # per pubblicare il sito
+  id-token: write
+
+concurrency:
+  group: vc-prep
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v6
+
+      - name: Scarica e seleziona le notizie
+        run: python3 scripts/update.py
+
+      - name: Salva l'archivio delle notizie
+        run: |
+          git config user.name "vc-prep-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/archive.json
+          if git diff --cached --quiet; then
+            echo "Nessuna notizia nuova da salvare"
+          else
+            git commit -m "Notizie del $(date -u +%Y-%m-%d)"
+            git push
+          fi
+
+      - uses: actions/configure-pages@v5
+
+      - uses: actions/upload-pages-artifact@v4
+        with:
+          path: site
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4

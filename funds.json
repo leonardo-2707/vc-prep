@@ -1,0 +1,47 @@
+[
+  {
+    "id": "360-capital",
+    "name": "360 Capital",
+    "priority": "Target principale",
+    "location": "Milano",
+    "stage": "Seed ed early stage",
+    "sectors": ["Digital", "Deep tech", "Climate tech"],
+    "watch": ["360 Capital", "Skillvue", "Tundr", "Neuronova", "Circular Materials", "Cyberkord", "Energy Dome"],
+    "thesis": "Investe in startup europee in fase seed ed early stage in tre verticali: digital, deep tech e climate tech. Cerca aziende capaci di diventare leader di categoria e di «restituire il fondo», anche con founder molto giovani.",
+    "how_they_work": [
+      "Il cuore del lavoro è il sourcing: un solo vincitore può restituire l'intero fondo (power law).",
+      "Due diligence tecnica approfondita con esperti esterni prima del term sheet, poi verifiche su proprietà intellettuale e laboratorio.",
+      "Approccio hands-on «come un medico»: aiuto su clienti chiave, consulenti, decisioni importanti, senza dettare le scelte al founder."
+    ],
+    "hiring": "Assumono anche intern e analyst appena usciti dall'università. Colloquio in tre parti: tu e il fondo, opinioni sui temi caldi, case su un pitch deck da analizzare in circa 10 minuti senza AI.",
+    "portfolio": [
+      {"name": "Skillvue", "sector": "B2B digital · HR tech", "url": "https://skillvue.ai", "one_liner": "Valutazione delle competenze con l'AI per assunzioni, promozioni e sviluppo delle persone.", "prepare": "Perché l'HR è uno dei primi settori enterprise trasformati dall'AI? Perché un grande del software HR dovrebbe comprare una startup come questa invece di costruire la tecnologia in casa?"},
+      {"name": "Tundr", "sector": "Fintech · B2B2C", "url": "https://tundr.tech", "one_liner": "Welfare aziendale digitale: carta, app e console per l'HR.", "prepare": "Un modello già visto all'estero e portato in Italia può diventare abbastanza grande da restituire un fondo? Come cresce oltre l'Italia?"},
+      {"name": "Neuronova", "sector": "Deep tech · Semiconduttori", "url": "https://neuronovatech.com", "one_liner": "Chip neuromorfici a bassissimo consumo che elaborano il segnale dei sensori prima della conversione digitale.", "prepare": "Spiega a un non ingegnere perché elaborare il segnale prima della conversione digitale fa risparmiare energia. Chi sono i clienti naturali?"},
+      {"name": "Circular Materials", "sector": "Climate tech · Economia circolare", "url": "https://circularmaterials.it", "one_liner": "Tratta le acque reflue industriali e ne recupera i metalli strategici.", "prepare": "Perché il recupero di metalli dagli scarichi industriali è un tema geopolitico oltre che ambientale? Quali sono i rischi di scalare un impianto industriale?"},
+      {"name": "Cyberkord", "sector": "Cybersecurity · AI", "url": "https://cyberkord.com", "one_liner": "Un digital twin delle identità aziendali per scoprire gli abusi che partono da account legittimi.", "prepare": "Perché gli agenti AI con credenziali valide rendono più urgente il problema delle identità? Come vende una startup giovane a una grande azienda?"},
+      {"name": "Energy Dome", "sector": "Climate tech · Accumulo di energia", "url": "https://energydome.com", "one_liner": "Accumulo di energia di lunga durata con la CO₂ Battery.", "prepare": "Spiega la CO₂ Battery in 30 secondi. Perché un accumulo di 8-24 ore serve alle reti rinnovabili più delle batterie al litio da ~4 ore?"}
+    ],
+    "deals_to_prepare": [
+      {"company": "Energy Dome", "question": "Perché Energy Dome? Spiegami cosa hai capito della tecnologia.", "points": ["Come funziona: la CO₂ viene compressa fino allo stato liquido e poi fatta espandere in una turbina", "Perché serve: le rinnovabili richiedono accumuli più lunghi delle batterie al litio", "Perché è difendibile: componenti standard, niente materie prime critiche", "Il nodo: quanto capitale serve per costruire impianti e chi può fornirlo in Europa"]},
+      {"company": "Circular Materials", "question": "Che cosa rende Circular Materials un investimento strategico per l'Europa?", "points": ["Dipendenza europea dalle materie prime critiche", "Recupero dei metalli e trattamento delle acque in un solo processo", "Rischio industriale e di scala", "Chi finanzia la crescita: VC, fondi pubblici, corporate"]},
+      {"company": "Skillvue", "question": "Qual è la tesi dietro Skillvue e come può uscire il fondo?", "points": ["L'HR come primo settore enterprise trasformato dall'AI", "Software tradizionali non nati AI-native", "Il mercato delle exit: i grandi del software comprano invece di costruire", "Serve un altro round se l'azienda genera cassa?"]}
+    ],
+    "likely_questions": [
+      "Raccontami di te: perché il VC e non la banca d'affari o il private equity?",
+      "Perché 360 Capital e non un altro fondo italiano?",
+      "Quale partecipata di 360 ti piace di più, e perché?",
+      "Spiegami la tecnologia di Energy Dome (o di Neuronova) come se fossi un investitore non tecnico.",
+      "Cosa pensi di Nvidia che investe direttamente nei round di venture?",
+      "Le startup deep tech europee vanno spesso negli USA per raccogliere round grandi: è una sconfitta per l'Europa?",
+      "Come capisci se un founder ha l'ambizione giusta?",
+      "Hai letto qualcosa di recente su TechCrunch o Sifted che ti ha colpito?"
+    ],
+    "smart_questions": [
+      "Come decidete quando seguire un round successivo con le riserve del fondo?",
+      "Come usate gli esperti esterni nella due diligence tecnica, e come gestite i loro possibili conflitti d'interesse?",
+      "Come sta cambiando il sourcing con l'AI nel vostro team?",
+      "Cosa distingue un analyst che cresce nel fondo da uno che non ce la fa?"
+    ]
+  }
+]

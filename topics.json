@@ -1,0 +1,363 @@
+[
+  {
+    "id": "ai-race",
+    "title": "Corsa all'AI: modelli chiusi, aperti e costo per task",
+    "question": "Chi vince la corsa ai modelli, e dove può creare valore un VC early-stage europeo?",
+    "context": [
+      "A lezione: le aziende sceglieranno il modello in base al compito: modelli aperti ed economici per i compiti ripetitivi, modelli chiusi di punta per quelli complessi.",
+      "Un modello aperto adattato a un settore verticale può battere un modello chiuso generalista, anche se ha raccolto molto meno capitale.",
+      "Sui compiti complessi l'accuratezza dei modelli è ancora molto inferiore a quella sui compiti ripetitivi (dati mostrati da Meta e citati a lezione).",
+      "Altri trend indicati: physical AI e modelli verticali per accelerare la ricerca scientifica e medica."
+    ],
+    "data": [
+      {
+        "label": "Anthropic, Series H (maggio 2026)",
+        "value": "$65B raccolti, $965B post-money"
+      },
+      {
+        "label": "Mistral AI, Series D",
+        "value": "€3B raccolti, €21B post-money, lead Samsung: il più grande round azionario di sempre per una tech europea"
+      },
+      {
+        "label": "Peso dell'AI sul valore dei deal VC",
+        "value": "60% negli USA, 39% in Europa"
+      }
+    ],
+    "prompts": [
+      "Se il costo dei modelli scende, dove resta il margine per una startup che costruisce sopra i modelli?",
+      "Un campione «sovrano» come Mistral ha senso economico o solo politico?",
+      "Quale sarebbe la tua tesi per investire in AI con un fondo da 100-200 milioni?"
+    ],
+    "keywords": [
+      "openai",
+      "anthropic",
+      "mistral",
+      "gemini",
+      "llm",
+      "llms",
+      "language model*",
+      "foundation model*",
+      "frontier model*",
+      "open model*",
+      "open-weight",
+      "open source model*",
+      "gpt",
+      "claude",
+      "deepseek",
+      "kimi",
+      "ai model*",
+      "ai lab*",
+      "inference"
+    ],
+    "data_source": "Slide del corso; fonti originali: PitchBook, ECB, Draghi report, Atomico, EIF/EIB, Carta, Cooley, Orrick, Reuters, TechCrunch"
+  },
+  {
+    "id": "nvidia-vc",
+    "title": "Nvidia e Big Tech come investitori",
+    "question": "Le Big Tech che investono nelle startup accelerano il mercato o lo distorcono?",
+    "context": [
+      "Le corporate finanziano i loro futuri clienti e comprano i vincitori: l'effetto rete si rafforza a favore degli USA.",
+      "In Europa i contraltari sono pochi: ASML (lead del Series C di Mistral) e, sempre di più, investitori strategici asiatici."
+    ],
+    "data": [
+      {
+        "label": "Deal di venture di Nvidia nel 2025",
+        "value": "97, di cui 30 tramite NVentures"
+      },
+      {
+        "label": "Maggiori round AI del 2025 con Nvidia nel cap table",
+        "value": "13 su 20"
+      },
+      {
+        "label": "Meta in Scale AI",
+        "value": "$14,3B per il 49%"
+      },
+      {
+        "label": "Amazon in Anthropic (aprile 2026)",
+        "value": "$25B impegnati: $5B subito, fino a $20B in più"
+      }
+    ],
+    "prompts": [
+      "Nvidia investe in aziende che comprano i suoi chip: che effetto ha questa circolarità su valutazioni e domanda reale?",
+      "Per un fondo seed, avere un corporate nel round è un vantaggio o un vincolo per l'exit?"
+    ],
+    "keywords": [
+      "nvidia",
+      "nventures",
+      "corporate venture",
+      "cvc",
+      "big tech",
+      "microsoft",
+      "amazon",
+      "alphabet",
+      "google ventures",
+      "meta invest*",
+      "strategic investor*"
+    ],
+    "data_source": "Slide del corso; fonti originali: PitchBook, ECB, Draghi report, Atomico, EIF/EIB, Carta, Cooley, Orrick, Reuters, TechCrunch"
+  },
+  {
+    "id": "physical-ai",
+    "title": "Physical AI e robotica",
+    "question": "L'Europa può vincere nella physical AI, dove contano industria e dati più del software?",
+    "context": [
+      "A lezione è stata indicata la physical AI, cioè addestrare robot ad agire nel mondo fisico, come uno dei grandi trend dei prossimi anni.",
+      "Avranno un vantaggio i modelli più forti nell'analisi di immagini e video (ha citato Gemini)."
+    ],
+    "data": [],
+    "prompts": [
+      "Qual è il collo di bottiglia: hardware, dati di addestramento o clienti industriali disposti a sperimentare?",
+      "La base manifatturiera europea e italiana è un vantaggio competitivo reale?"
+    ],
+    "keywords": [
+      "physical ai",
+      "robot*",
+      "humanoid*",
+      "self-driving",
+      "autonomous vehicle*",
+      "drone*",
+      "embodied",
+      "industrial ai"
+    ]
+  },
+  {
+    "id": "climate-capex",
+    "title": "Climate e deep tech ad alta intensità di capitale",
+    "question": "Come trattiene l'Europa le aziende deep tech che hanno bisogno di round enormi?",
+    "context": [
+      "Le aziende climate e deep tech che devono raccogliere round da centinaia di milioni spesso guardano agli USA, perché in Europa pochi investitori possono firmare assegni così grandi.",
+      "Per trattenere i founder servono soldi, anche nelle fasi successive, e competenze. Il vantaggio europeo è un talento di qualità a costo più basso.",
+      "Il VC deve dimostrare di essere utile: se il founder lo percepisce come una commodity, se ne va."
+    ],
+    "data": [
+      {
+        "label": "Chi finanzia le aziende europee in early stage",
+        "value": "81% investitori UE, 13% USA"
+      },
+      {
+        "label": "Chi finanzia le scale-up europee",
+        "value": "42% investitori UE, 41% USA"
+      },
+      {
+        "label": "Valore delle exit cleantech in Europa (2025)",
+        "value": "€2,3B"
+      }
+    ],
+    "prompts": [
+      "Come gestisce un fondo seed il rischio di non poter seguire i round successivi delle sue partecipate?",
+      "Debito, fondi pubblici (EIC, CDP) e corporate: quale mix per finanziare un primo impianto industriale?"
+    ],
+    "keywords": [
+      "climate",
+      "energy storage",
+      "battery",
+      "batteries",
+      "fusion",
+      "geothermal",
+      "hydrogen",
+      "carbon removal",
+      "carbon capture",
+      "nuclear",
+      "grid",
+      "cleantech",
+      "climate tech",
+      "green steel",
+      "critical raw material*",
+      "critical mineral*",
+      "first-of-a-kind",
+      "deep tech",
+      "deeptech",
+      "quantum"
+    ],
+    "data_source": "Slide del corso; fonti originali: PitchBook, ECB, Draghi report, Atomico, EIF/EIB, Carta, Cooley, Orrick, Reuters, TechCrunch"
+  },
+  {
+    "id": "europa-usa",
+    "title": "Europa vs USA: capitale, liquidità, exit",
+    "question": "Perché l'Europa produce meno exit grandi, e cosa servirebbe per cambiare?",
+    "context": [
+      "Le exit europee sono meno numerose e più piccole, e i compratori strategici stanno negli USA.",
+      "Solo il 2% circa delle exit EMEA di aziende venture-backed sono IPO; le M&A superano l'85% e gli acquirenti USA sono in testa.",
+      "A lezione è emerso che i fondi pensione italiani investono in VC soprattutto per gli incentivi fiscali, non come segnale di qualità.",
+      "2025: uno degli anni più deboli di sempre per la raccolta dei fondi VC europei; i round late-stage dipendono dal capitale USA."
+    ],
+    "data": [
+      {
+        "label": "VC investito nel 2025",
+        "value": "Europa €66,2B (22% degli USA) · USA ~€300B"
+      },
+      {
+        "label": "Dimensione totale dei fondi VC",
+        "value": "UE €150B · USA €930B"
+      },
+      {
+        "label": "Fondi VC sopra $1B dal 2013",
+        "value": "UE 11 · USA 137"
+      },
+      {
+        "label": "Asset pensionistici in % del PIL",
+        "value": "UE ~25% · USA 147%"
+      },
+      {
+        "label": "Quota del capitale pensionistico allocata al VC",
+        "value": "UE ~0,12% · USA ~3%"
+      },
+      {
+        "label": "Exit 2025",
+        "value": "Europa 781 per €40B (media ~€51M) · USA 1.636 per $298B (media ~$182M)"
+      },
+      {
+        "label": "Confronto shock",
+        "value": "Il solo Series H di Anthropic ($65B) vale quasi quanto tutto il VC europeo del 2025 (€66,2B)"
+      }
+    ],
+    "prompts": [
+      "Quale leva sbloccherebbe più capitale: fondi pensione, mercati dei capitali unificati o fiscalità?",
+      "Se le exit europee sono piccole, come deve cambiare la strategia di un fondo seed europeo?"
+    ],
+    "keywords": [
+      "europe's",
+      "european vc",
+      "european startups",
+      "european tech",
+      "europe vs",
+      "us investors",
+      "american investors",
+      "silicon valley",
+      "scale-up*",
+      "scaleup*",
+      "late-stage",
+      "growth-stage",
+      "unicorn*",
+      "exits",
+      "european vcs",
+      "us vcs"
+    ],
+    "data_source": "Slide del corso; fonti originali: PitchBook, ECB, Draghi report, Atomico, EIF/EIB, Carta, Cooley, Orrick, Reuters, TechCrunch"
+  },
+  {
+    "id": "regime-28",
+    "title": "Il 28° regime UE",
+    "question": "Il 28° regime può davvero ridurre il divario con gli USA?",
+    "context": [
+      "È l'idea della UE di creare un insieme comune di regole e procedure per le startup, per superare frammentazione e burocrazia: gli USA operano come un unico mercato da oltre 300 milioni di persone.",
+      "Oggi una startup che entra in Francia deve adattare tutto al mercato francese; all'exit viene valutata anche in base a quanti paesi copre.",
+      "360 Capital, con altri VC europei riuniti in un'associazione, fa pressione perché venga approvato."
+    ],
+    "data": [],
+    "prompts": [
+      "Quali problemi risolve (costituzione delle società, stock option, insolvenza) e quali no (capitale, cultura del rischio)?",
+      "Che impatto avrebbe sulle partecipate di un fondo italiano?"
+    ],
+    "keywords": [
+      "28th regime",
+      "eu inc",
+      "eu-inc",
+      "european commission",
+      "capital markets union",
+      "savings and investments union",
+      "single market",
+      "eu startup",
+      "startup europe",
+      "draghi"
+    ]
+  },
+  {
+    "id": "italia-ambizione",
+    "title": "Ecosistema italiano: ambizione e cultura del fallimento",
+    "question": "Il vero limite delle startup italiane è il capitale o la mentalità?",
+    "context": [
+      "In Italia il VC esiste davvero da 10-15 anni, negli USA dagli anni '80.",
+      "Il tessuto è fatto di PMI costruite senza capitale di rischio: molti founder pensano che non serva tanto capitale per un'attività dignitosa. Per un VC non basta.",
+      "Il fallimento è punito, socialmente e legalmente: il founder ha un solo colpo, il VC ne ha 20-40.",
+      "Esempio raccontato a lezione: un founder senza ambizione ha proposto di ricomprare le quote; il fondo ha accettato un'exit al costo pur di uscire.",
+      "Segnale positivo: i round crescono. Un seed deep tech oggi può essere di €10M invece di €2M, come per i concorrenti tedeschi, e questo cambia anche l'ambizione."
+    ],
+    "data": [
+      {
+        "label": "Diluizione mediana al seed",
+        "value": "USA 18% · Europa ~21%"
+      },
+      {
+        "label": "Pre-money dei Series A europei",
+        "value": "−38% rispetto agli USA"
+      }
+    ],
+    "prompts": [
+      "Come valuteresti l'ambizione di un founder in un primo incontro di 30 minuti?",
+      "Un'azienda da 10 milioni di ricavi è un fallimento per un VC?"
+    ],
+    "keywords": [
+      "italy",
+      "italian",
+      "milan",
+      "milano",
+      "rome",
+      "turin",
+      "torino",
+      "bologna",
+      "padua",
+      "padova",
+      "italia",
+      "italiana",
+      "italiano",
+      "italiane",
+      "italiani",
+      "cdp venture"
+    ],
+    "data_source": "Slide del corso; fonti originali: PitchBook, ECB, Draghi report, Atomico, EIF/EIB, Carta, Cooley, Orrick, Reuters, TechCrunch"
+  },
+  {
+    "id": "vc-vs-pe",
+    "title": "Mentalità VC vs PE e condizioni dei deal",
+    "question": "Che tipo di investitore deve essere un VC per vincere i deal migliori?",
+    "context": [
+      "Molti VC europei vengono dal private equity: mentalità da EBITDA e profittabilità, avversione al rischio, attesa dei report trimestrali.",
+      "Oltre il 60% dei fondi VC USA è fondato da ex founder.",
+      "Il PE prende la maggioranza e spesso sostituisce il management; il VC è hands-on «come un medico»: presente quando serve, mai a dettare le decisioni.",
+      "Un'azienda di successo in VC può rendere 10-100 volte l'investimento iniziale; il PE non investirebbe mai a quel livello di rischio.",
+      "Esempio raccontato a lezione: a un founder che chiedeva se accettare un'offerta da 50 milioni la risposta è stata che, se veniva dal fondo per quella cifra, i loro interessi non erano allineati."
+    ],
+    "data": [
+      {
+        "label": "Strumento a pre-seed / seed",
+        "value": "USA: SAFE (~90% dei pre-seed, 64% dei seed) · Europa: per lo più equity con patti parasociali"
+      },
+      {
+        "label": "Posto in board all'ingresso",
+        "value": "USA: nessuno con il SAFE · Europa: posto o osservatore dell'investitore già dal seed"
+      },
+      {
+        "label": "Liquidation preference 1x non partecipante",
+        "value": "USA ~95% · Europa 77%"
+      },
+      {
+        "label": "Protezione dal downside",
+        "value": "USA: anti-diluizione broad-based standard · Europa: 79% broad-based, ma compaiono ancora multipli >1x"
+      }
+    ],
+    "prompts": [
+      "Perché un founder dovrebbe scegliere 360 Capital rispetto a un fondo con più capitale?",
+      "Se ti candidi sia in PE sia in VC, come racconti la tua motivazione senza contraddirti?"
+    ],
+    "keywords": [
+      "private equity",
+      "buyout",
+      "term sheet",
+      "valuation*",
+      "secondar*",
+      "limited partner*",
+      "lps",
+      "fundrais*",
+      "fund ii",
+      "fund iii",
+      "fund iv",
+      "new fund",
+      "venture fund",
+      "dilution",
+      "down round",
+      "liquidation preference"
+    ],
+    "data_source": "Slide del corso; fonti originali: PitchBook, ECB, Draghi report, Atomico, EIF/EIB, Carta, Cooley, Orrick, Reuters, TechCrunch"
+  }
+]

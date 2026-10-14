@@ -1,0 +1,10 @@
+[
+  {"id": "techcrunch-venture", "name": "TechCrunch", "url": "https://techcrunch.com/category/venture/feed/", "recommended": true, "mode": "all"},
+  {"id": "techcrunch", "name": "TechCrunch", "url": "https://techcrunch.com/feed/", "recommended": true, "mode": "signals"},
+  {"id": "sifted", "name": "Sifted", "url": "https://sifted.eu/feed", "recommended": true, "mode": "all", "note": "Molti articoli sono riservati agli abbonati: il feed dà solo il titolo."},
+  {"id": "mittr", "name": "MIT Technology Review", "url": "https://www.technologyreview.com/feed/", "recommended": true, "mode": "signals"},
+  {"id": "techeu", "name": "Tech.eu", "url": "https://tech.eu/feed/", "recommended": false, "mode": "all"},
+  {"id": "eustartups", "name": "EU-Startups", "url": "https://www.eu-startups.com/feed/", "recommended": false, "mode": "all"},
+  {"id": "crunchbase", "name": "Crunchbase News", "url": "https://news.crunchbase.com/feed/", "recommended": false, "mode": "all"},
+  {"id": "startupitalia", "name": "StartupItalia", "url": "https://startupitalia.eu/feed", "recommended": false, "mode": "italian"}
+]

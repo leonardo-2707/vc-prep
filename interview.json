@@ -1,0 +1,70 @@
+{
+  "source": "Guest lecture di una partner di 360 Capital — corso Venture Capital and Valuation, Bocconi, ottobre 2026",
+  "key_message": "Se il VC ti piace, entra il prima possibile: i fondi assumono intern e analyst direttamente dall'università. Non serve passare prima da consulenza o banca, serve essere migliore degli altri candidati per conoscenza e attitudine.",
+  "evaluated": [
+    {"name": "Curiosità", "detail": "Leggi, ti informi, fai domande. Le hard skill sono ormai una commodity: gli analyst usano l'AI e l'output è sempre buono."},
+    {"name": "Drive", "detail": "Motivazione vera per questo lavoro e per quel fondo specifico, non per il VC in astratto."},
+    {"name": "Fame", "detail": "Voglia di crescere e di vedere aziende di continuo. Un buon investitore non smette mai di incontrare startup."},
+    {"name": "Capacità relazionali", "detail": "Il VC è un lavoro umano: devi creare fiducia con founder spesso tuoi coetanei, restando un partner e non un amico."}
+  ],
+  "stages": [
+    {
+      "title": "Tu e il fondo",
+      "what": "Background, perché il VC, perché questo fondo, cosa pensi della loro tesi d'investimento, quali partecipate ti piacciono. Poi l'approfondimento: «Perché questa partecipata? Spiegami cosa hai capito della tecnologia».",
+      "prepare": [
+        "Studia la tesi del fondo e sappila riformulare con parole tue",
+        "Prepara 3 partecipate a fondo: tecnologia, mercato, perché il fondo ha investito, cosa può andare storto",
+        "Prepara una storia personale breve e coerente: perché VC, perché ora, perché loro"
+      ]
+    },
+    {
+      "title": "Le tue opinioni",
+      "what": "Ti chiedono cosa pensi dei temi caldi: la corsa all'AI, Nvidia che investe nei round di venture, i nuovi trend dell'AI. Vogliono un'opinione argomentata, non un riassunto.",
+      "prepare": [
+        "Per ogni tema della Banca opinioni scrivi una posizione in 3 frasi con almeno un dato",
+        "Cita articoli precisi: «ho letto su Sifted che…» ti distingue dagli altri candidati",
+        "Allenati a rispondere all'obiezione: «Su quale dato basi questa opinione?»"
+      ]
+    },
+    {
+      "title": "Il case sul pitch deck",
+      "what": "Non è un case da consulenza con il market sizing. Ti danno il pitch deck di una startup, hai circa 10 minuti, senza AI e senza strumenti, poi lo discuti con l'intervistatore e formuli la tua investment thesis.",
+      "prepare": [
+        "Allenati a cronometro nella sezione Allenamento",
+        "Usa sempre la stessa griglia: team, problema, prodotto, mercato, trazione, modello di business, concorrenza, round, rischi, ritorno",
+        "Chiudi sempre con una decisione: investirei / non investirei / approfondirei, e perché"
+      ]
+    }
+  ],
+  "job_reality": [
+    "Gran parte del tempo di un analyst (a lezione: circa il 60%) va nell'analisi dei pitch deck.",
+    "Un buon investitore vede aziende di continuo, anche da partner: decine al mese.",
+    "Il valore principale di un investitore è il sourcing: un solo vincitore può restituire l'intero fondo (power law).",
+    "Un VC può avere successo con 1 scommessa giusta su 20; il founder invece ha un solo colpo.",
+    "Il VC è hands-on «come un medico»: c'è quando il founder ne ha bisogno, non gli dice cosa fare."
+  ],
+  "warning": "Il lato di cui si parla poco: per diventare partner di solito bisogna investire capitale proprio nel fondo (GP commitment), a volte anche indebitandosi. È un lavoro che cambia la vita, adatto a chi ha propensione al rischio: va valutato con attenzione.",
+  "readings": [
+    {"name": "TechCrunch", "url": "https://techcrunch.com/category/venture/", "why": "Round, fondi e investitori, soprattutto USA. Consigliata a lezione."},
+    {"name": "Sifted", "url": "https://sifted.eu", "why": "La testata di riferimento su startup e VC europei, del gruppo Financial Times. Consigliata a lezione."},
+    {"name": "MIT Technology Review", "url": "https://www.technologyreview.com", "why": "Per capire la tecnologia dietro i trend. Consigliata a lezione; la newsletter The Download è un buon riassunto quotidiano."},
+    {"name": "Financial Times", "url": "https://www.ft.com", "why": "Il contesto macro e di mercato. Consigliata a lezione; a pagamento, verifica l'accesso tramite Bocconi."},
+    {"name": "Tech.eu · EU-Startups · Crunchbase News · StartupItalia", "url": "https://tech.eu", "why": "Fonti aperte aggiunte qui per coprire i round europei e italiani che su Sifted sono a pagamento."}
+  ],
+  "routine": [
+    "Ogni mattina: 10 minuti sulla sezione Oggi",
+    "Una notizia al giorno: collegala a un tema della Banca opinioni e aggiorna la tua posizione",
+    "Due volte a settimana: un pitch deck a cronometro nella sezione Allenamento",
+    "Prima di ogni candidatura: ripassa il dossier del fondo e le sue notizie recenti"
+  ],
+  "checklist": [
+    {"id": "tesi-360", "text": "So spiegare la tesi di 360 Capital in 30 secondi"},
+    {"id": "deal-3", "text": "Ho preparato 3 partecipate a fondo (tecnologia, mercato, rischi)"},
+    {"id": "energy-dome", "text": "So spiegare come funziona la CO₂ Battery di Energy Dome"},
+    {"id": "storia", "text": "Ho una risposta pronta a «perché VC e perché ora»"},
+    {"id": "opinioni", "text": "Ho una posizione scritta su almeno 5 temi della Banca opinioni"},
+    {"id": "articoli", "text": "Posso citare 3 articoli letti nell'ultimo mese"},
+    {"id": "pitch-5", "text": "Ho fatto almeno 5 allenamenti sui pitch deck a cronometro"},
+    {"id": "domande", "text": "Ho 3 domande intelligenti da fare all'intervistatore"}
+  ]
+}
