@@ -27,10 +27,19 @@ from email.utils import parsedate_to_datetime
 from pathlib import Path
 from urllib.parse import urlsplit, urlunsplit
 
-ROOT = Path(__file__).resolve().parent.parent
-CONFIG = ROOT / "config"
-ARCHIVE = ROOT / "data" / "archive.json"
-TEMPLATE = ROOT / "template" / "index.html"
+HERE = Path(__file__).resolve().parent
+if (HERE.parent / "config").is_dir():
+    # struttura con cartelle: config/, data/, scripts/, template/
+    ROOT = HERE.parent
+    CONFIG = ROOT / "config"
+    ARCHIVE = ROOT / "data" / "archive.json"
+    TEMPLATE = ROOT / "template" / "index.html"
+else:
+    # tutti i file nella cartella principale del repository
+    ROOT = HERE
+    CONFIG = ROOT
+    ARCHIVE = ROOT / "archive.json"
+    TEMPLATE = ROOT / "index.html"
 SITE = ROOT / "site"
 
 RETENTION_DAYS = 45      # quanto tempo restano le notizie nell'archivio
