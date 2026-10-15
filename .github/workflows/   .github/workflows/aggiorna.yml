@@ -1,0 +1,56 @@
+name: Aggiorna VC Prep
+
+on:
+  schedule:
+    # Ogni giorno alle 04:17 UTC = 06:17 in Italia con l'ora legale, 05:17 con l'ora solare.
+    - cron: "17 4 * * *"
+  workflow_dispatch: # permette di lanciarlo a mano dalla scheda Actions
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: vc-prep
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v6
+
+      - name: Scarica e seleziona le notizie
+        run: |
+          if [ -f scripts/update.py ]; then python3 scripts/update.py; else python3 update.py; fi
+
+      - name: Salva l'archivio delle notizie
+        run: |
+          git config user.name "vc-prep-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          for f in data/archive.json archive.json; do
+            if [ -f "$f" ]; then git add "$f"; fi
+          done
+          if git diff --cached --quiet; then
+            echo "Nessuna notizia nuova da salvare"
+          else
+            git commit -m "Notizie del $(date -u +%Y-%m-%d)"
+            git push
+          fi
+
+      - uses: actions/configure-pages@v5
+
+      - uses: actions/upload-pages-artifact@v4
+        with:
+          path: site
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4
