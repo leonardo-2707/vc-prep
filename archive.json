@@ -1,5 +1,626 @@
 [
  {
+  "id": "18f9fd010555",
+  "url": "https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/",
+  "title": "Replit is no longer working with Anthropic, CEO says",
+  "source": "TechCrunch",
+  "source_id": "techcrunch",
+  "recommended": true,
+  "date": "2026-10-16T21:22+00:00",
+  "excerpt": "Masad said the decision was made for a number of different reasons, including cost. Replit announced a partnership with OpenAI in August, but there was never any indication that it was no longer with Anthropic.",
+  "tags": [
+   "ai"
+  ],
+  "topics": [
+   "ai-race"
+  ],
+  "watch": [],
+  "kinds": [],
+  "round": null,
+  "score": 5,
+  "angles": [
+   "Chi vince la corsa ai modelli, e dove può creare valore un VC early-stage europeo?"
+  ],
+  "first_seen": "2026-10-17T04:37+00:00"
+ },
+ {
+  "id": "8e38105a14b5",
+  "url": "https://techcrunch.com/2026/10/16/porsches-electric-macan-turbo-is-an-automotive-existential-crisis/",
+  "title": "Porsche’s electric Macan Turbo is an automotive existential crisis",
+  "source": "TechCrunch",
+  "source_id": "techcrunch",
+  "recommended": true,
+  "date": "2026-10-16T19:40+00:00",
+  "excerpt": "The 2026 Porsche Macan Turbo EV is a two-row crossover with 630 horsepower and a 100-kilowatt-hour battery.",
+  "tags": [
+   "climate"
+  ],
+  "topics": [
+   "climate-capex"
+  ],
+  "watch": [],
+  "kinds": [],
+  "round": null,
+  "score": 5,
+  "angles": [
+   "Come trattiene l'Europa le aziende deep tech che hanno bisogno di round enormi?"
+  ],
+  "first_seen": "2026-10-17T04:37+00:00"
+ },
+ {
+  "id": "8069354151ed",
+  "url": "https://www.technologyreview.com/2026/10/16/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/",
+  "title": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
+  "source": "MIT Technology Review",
+  "source_id": "mittr",
+  "recommended": true,
+  "date": "2026-10-16T18:00+00:00",
+  "excerpt": "Listen to the session or watch below Can AI design new life forms? In 2025, Stanford University PhD student Samuel King came up with a preliminary answer when he used a generative AI model to propose genetic blueprints for microscopic viruses. It isn’t yet an…",
+  "tags": [
+   "ai"
+  ],
+  "topics": [
+   "ai-race"
+  ],
+  "watch": [],
+  "kinds": [],
+  "round": null,
+  "score": 5,
+  "angles": [
+   "Chi vince la corsa ai modelli, e dove può creare valore un VC early-stage europeo?"
+  ],
+  "first_seen": "2026-10-17T04:37+00:00"
+ },
+ {
+  "id": "84c2c565c396",
+  "url": "https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/",
+  "title": "An Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet",
+  "source": "TechCrunch",
+  "source_id": "techcrunch-venture",
+  "recommended": true,
+  "date": "2026-10-16T16:30+00:00",
+  "excerpt": "Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA’s robotics platforms, says robotics is currently in its “Lego era,” with the basic building blocks like actuators, robotic hands, software, and safety standards still being rebuilt…",
+  "tags": [
+   "deep-tech"
+  ],
+  "topics": [
+   "nvidia-vc",
+   "physical-ai"
+  ],
+  "watch": [],
+  "kinds": [],
+  "round": null,
+  "score": 7,
+  "angles": [
+   "Le Big Tech che investono nelle startup accelerano il mercato o lo distorcono?"
+  ],
+  "first_seen": "2026-10-17T04:37+00:00"
+ },
+ {
+  "id": "6bb605f3ee09",
+  "url": "https://techcrunch.com/2026/10/16/waymos-robotaxis-are-headed-to-canada/",
+  "title": "Waymo’s robotaxis are headed to Canada",
+  "source": "TechCrunch",
+  "source_id": "techcrunch",
+  "recommended": true,
+  "date": "2026-10-16T16:06+00:00",
+  "excerpt": "The company will start off by testing its self-driving vehicles on Toronto's streets.",
+  "tags": [
+   "deep-tech"
+  ],
+  "topics": [
+   "physical-ai"
+  ],
+  "watch": [],
+  "kinds": [],
+  "round": null,
+  "score": 5,
+  "angles": [
+   "L'Europa può vincere nella physical AI, dove contano industria e dati più del software?"
+  ],
+  "first_seen": "2026-10-17T04:37+00:00"
+ },
+ {
+  "id": "1aa8b1ac1c09",
+  "url": "https://techcrunch.com/2026/10/16/elorians-first-ai-model-wants-to-reason-with-images-not-just-about-them/",
+  "title": "Elorian’s first AI model wants to reason with images, not just about them",
+  "source": "TechCrunch",
+  "source_id": "techcrunch",
+  "recommended": true,
+  "date": "2026-10-16T16:01+00:00",
+  "excerpt": "According to Elorian's evaluations, Glimpse outperforms even GPT-6 Astra on scientific chart reasoning and short-form video captioning, with competitive results on other visual reasoning tasks.",
+  "tags": [
+   "ai"
+  ],
+  "topics": [
+   "ai-race"
+  ],
+  "watch": [],
+  "kinds": [],
+  "round": null,
+  "score": 5,
+  "angles": [
+   "Chi vince la corsa ai modelli, e dove può creare valore un VC early-stage europeo?"
+  ],
+  "first_seen": "2026-10-17T04:37+00:00"
+ },
+ {
+  "id": "351478776159",
+  "url": "https://techcrunch.com/2026/10/16/jev-is-vercels-fastest-adopted-ai-model-ever/",
+  "title": "Jev is Vercel’s fastest-adopted AI model ever",
+  "source": "TechCrunch",
+  "source_id": "techcrunch",
+  "recommended": true,
+  "date": "2026-10-16T15:33+00:00",
+  "excerpt": "The data comes from Vercel's AI gateway, a unified API service similar to OpenRouter.",
+  "tags": [
+   "ai"
+  ],
+  "topics": [
+   "ai-race"
+  ],
+  "watch": [],
+  "kinds": [],
+  "round": null,
+  "score": 5,
+  "angles": [
+   "Chi vince la corsa ai modelli, e dove può creare valore un VC early-stage europeo?"
+  ],
+  "first_seen": "2026-10-17T04:37+00:00"
+ },
+ {
+  "id": "6a0b3b0e012a",
+  "url": "https://sifted.eu/articles/harry-stebbings-podcast/",
+  "title": "Harry Stebbings on 996 regrets, political ambitions and building a personal brand",
+  "source": "Sifted",
+  "source_id": "sifted",
+  "recommended": true,
+  "date": "2026-10-16T15:16+00:00",
+  "excerpt": "",
+  "tags": [],
+  "topics": [],
+  "watch": [],
+  "kinds": [],
+  "round": null,
+  "score": 3,
+  "angles": [],
+  "first_seen": "2026-10-17T04:37+00:00"
+ },
+ {
+  "id": "0671023ca374",
+  "url": "https://www.eu-startups.com/2026/10/weekly-funding-round-up-all-of-the-european-startup-funding-rounds-we-tracked-this-week-oct-12-oct-16/",
+  "title": "Weekly funding round-up! All of the European startup funding rounds we tracked this week (Oct. 12 – Oct. 16)",
+  "source": "EU-Startups",
+  "source_id": "eustartups",
+  "recommended": false,
+  "date": "2026-10-16T15:10+00:00",
+  "excerpt": "This article is visible for CLUB members only. If you are already a member but don’t see the content of this article, please login here. If you’re not a CLUB member yet, but you’d like to read members-only content like this one, have unrestricted access to…",
+  "tags": [
+   "europa"
+  ],
+  "topics": [],
+  "watch": [],
+  "kinds": [],
+  "round": null,
+  "score": 4,
+  "angles": [],
+  "first_seen": "2026-10-17T04:37+00:00"
+ },
+ {
+  "id": "1c7915ccd02a",
+  "url": "https://tech.eu/2026/10/16/id-finance-lands-545m-uk-launches-refugee-focused-vc-fund-and-the-race-to-save-eu-inc/",
+  "title": "ID Finance lands €545M, UK launches refugee-focused VC fund, and the race to save EU Inc",
+  "source": "Tech.eu",
+  "source_id": "techeu",
+  "recommended": false,
+  "date": "2026-10-16T14:26+00:00",
+  "excerpt": "This week, we tracked more than 65 tech funding deals worth over €1.8 billion and over 5 exits, M&A transactions, rumours, and related news stories across Europe.Europe has spent years talking abo...",
+  "tags": [
+   "europa",
+   "policy"
+  ],
+  "topics": [
+   "europa-usa",
+   "regime-28"
+  ],
+  "watch": [],
+  "kinds": [
+   "fondi"
+  ],
+  "round": {
+   "amount": "€545M",
+   "musd": 599.5,
+   "stage": null,
+   "company": null
+  },
+  "score": 13,
+  "angles": [
+   "Perché l'Europa produce meno exit grandi, e cosa servirebbe per cambiare?",
+   "Cosa dice questa raccolta sull'appetito degli LP per il venture capital in questo momento?"
+  ],
+  "first_seen": "2026-10-17T04:37+00:00"
+ },
+ {
+  "id": "2e746c756a9e",
+  "url": "https://tech.eu/2026/10/16/dj-reinier-zonneveld-launches-ai-music-startup-gaslab-with-1m-pre-seed-funding/",
+  "title": "DJ Reinier Zonneveld launches AI music startup GasLab with $1M pre-seed funding",
+  "source": "Tech.eu",
+  "source_id": "techeu",
+  "recommended": false,
+  "date": "2026-10-16T14:23+00:00",
+  "excerpt": "GasLab (Generative AI Solutions Lab), a GenAI music platform created by DJ and producer Reinier Zonneveld, is launched this week, backed by $1 million in pre-seed funding. GasLab is on a mission to k...",
+  "tags": [
+   "ai"
+  ],
+  "topics": [],
+  "watch": [],
+  "kinds": [
+   "round"
+  ],
+  "round": {
+   "amount": "$1M",
+   "musd": 1.0,
+   "stage": "Pre-seed",
+   "company": null
+  },
+  "score": 6,
+  "angles": [
+   "Faresti questo investimento? Chiediti chi è il team, quanto è grande il mercato e se l'azienda può restituire un fondo."
+  ],
+  "first_seen": "2026-10-17T04:37+00:00"
+ },
+ {
+  "id": "c6ece67566a2",
+  "url": "https://www.eu-startups.com/2026/10/oxford-spin-out-omass-therapeutics-lands-e275-million-to-bring-novel-small-molecule-therapies-closer-to-patients/",
+  "title": "Oxford spin-out OMass Therapeutics lands €275 million to bring novel small-molecule therapies closer to patients",
+  "source": "EU-Startups",
+  "source_id": "eustartups",
+  "recommended": false,
+  "date": "2026-10-16T13:59+00:00",
+  "excerpt": "OMass Therapeutics, a UK BioTech company developing small molecule therapeutics against highly validated target ecosystems, announced an oversubscribed €275 million (£230 million) Series C round. The round was co-led by new investors Bain Capital Life…",
+  "tags": [
+   "deep-tech",
+   "europa"
+  ],
+  "topics": [],
+  "watch": [],
+  "kinds": [
+   "round"
+  ],
+  "round": {
+   "amount": "€275M",
+   "musd": 302.5,
+   "stage": "Series C",
+   "company": "Oxford spin-out OMass Therapeutics"
+  },
+  "score": 10,
+  "angles": [
+   "Faresti questo investimento? Chiediti chi è il team, quanto è grande il mercato e se l'azienda può restituire un fondo."
+  ],
+  "first_seen": "2026-10-17T04:37+00:00"
+ },
+ {
+  "id": "c64f2ee438d0",
+  "url": "https://www.eu-startups.com/2026/10/opinion-how-founders-can-stop-wasting-time-on-fundraising/",
+  "title": "OPINION: How founders can stop wasting time on fundraising",
+  "source": "EU-Startups",
+  "source_id": "eustartups",
+  "recommended": false,
+  "date": "2026-10-16T13:18+00:00",
+  "excerpt": "Any founder who has raised money knows what investor due diligence feels like from the receiving end. The questions about the model, the customer contracts, the gap in your CV, the calls to people you worked with years ago. Investors do that work because they…",
+  "tags": [],
+  "topics": [
+   "vc-vs-pe"
+  ],
+  "watch": [],
+  "kinds": [],
+  "round": null,
+  "score": 4,
+  "angles": [
+   "Che tipo di investitore deve essere un VC per vincere i deal migliori?"
+  ],
+  "first_seen": "2026-10-17T04:37+00:00"
+ },
+ {
+  "id": "e6b0c9baa366",
+  "url": "https://techcrunch.com/2026/10/16/replits-ceo-says-the-future-of-work-is-the-self-driving-company/",
+  "title": "Replit’s CEO says the future of work is the ‘self-driving company’",
+  "source": "TechCrunch",
+  "source_id": "techcrunch",
+  "recommended": true,
+  "date": "2026-10-16T12:55+00:00",
+  "excerpt": "Replit CEO Amjad Masad envisions a future of “self-driving companies,” where AI agents handle day-to-day tasks and people focus on higher-level decisions.",
+  "tags": [
+   "ai"
+  ],
+  "topics": [
+   "physical-ai"
+  ],
+  "watch": [],
+  "kinds": [],
+  "round": null,
+  "score": 5,
+  "angles": [
+   "L'Europa può vincere nella physical AI, dove contano industria e dati più del software?"
+  ],
+  "first_seen": "2026-10-17T04:37+00:00"
+ },
+ {
+  "id": "4ccf55898ced",
+  "url": "https://tech.eu/2026/10/16/a16z-backed-uk-fintech-sequence-sold-to-intuit-in-reported-200m-deal/",
+  "title": "A16z-backed UK fintech Sequence sold to Intuit in reported $200M deal",
+  "source": "Tech.eu",
+  "source_id": "techeu",
+  "recommended": false,
+  "date": "2026-10-16T11:56+00:00",
+  "excerpt": "A UK fintech using AI to help startups better manage revenue has been sold to US software giant Intuit, in what is reported to be one of the largest exits by a UK AI startup with a female co-founder.I...",
+  "tags": [
+   "ai",
+   "fintech",
+   "europa",
+   "usa"
+  ],
+  "topics": [
+   "europa-usa"
+  ],
+  "watch": [],
+  "kinds": [
+   "round",
+   "exit"
+  ],
+  "round": {
+   "amount": "$200M",
+   "musd": 200.0,
+   "stage": null,
+   "company": null
+  },
+  "score": 15,
+  "angles": [
+   "Perché l'Europa produce meno exit grandi, e cosa servirebbe per cambiare?",
+   "Faresti questo investimento? Chiediti chi è il team, quanto è grande il mercato e se l'azienda può restituire un fondo."
+  ],
+  "first_seen": "2026-10-17T04:37+00:00"
+ },
+ {
+  "id": "4455b578a344",
+  "url": "https://www.eu-startups.com/2026/10/new-treatment-for-inflammatory-bowel-disease-lands-microbiotica-e42-million/",
+  "title": "New treatment for inflammatory bowel disease lands Microbiotica €42 million",
+  "source": "EU-Startups",
+  "source_id": "eustartups",
+  "recommended": false,
+  "date": "2026-10-16T11:12+00:00",
+  "excerpt": "Microbiotica, a British clinical-stage biopharma company developing a pipeline of orally-dosed, precision microbiome medicines, today announces the first close of a €42 million (£36 million) Series C financing. The financing was led by British Business Bank…",
+  "tags": [
+   "europa"
+  ],
+  "topics": [],
+  "watch": [],
+  "kinds": [
+   "round"
+  ],
+  "round": {
+   "amount": "€42M",
+   "musd": 46.2,
+   "stage": "First Close",
+   "company": "New treatment for inflammatory bowel disease"
+  },
+  "score": 9,
+  "angles": [
+   "Faresti questo investimento? Chiediti chi è il team, quanto è grande il mercato e se l'azienda può restituire un fondo."
+  ],
+  "first_seen": "2026-10-17T04:37+00:00"
+ },
+ {
+  "id": "aefd1ac3467b",
+  "url": "https://www.eu-startups.com/2026/10/norwegian-open-banking-provider-neonomics-secures-e3-56-million-after-cutting-operating-costs-by-nearly-half/",
+  "title": "Norwegian open banking provider Neonomics secures €3.56 million after cutting operating costs by nearly half",
+  "source": "EU-Startups",
+  "source_id": "eustartups",
+  "recommended": false,
+  "date": "2026-10-16T10:52+00:00",
+  "excerpt": "Neonomics, the Norwegian full-stack open finance platform that provides financial data, intelligence, verification, and payment infrastructure to businesses across Europe, has raised €3.55 million ($4 million). The company said the funding came from existing…",
+  "tags": [
+   "fintech",
+   "europa"
+  ],
+  "topics": [],
+  "watch": [],
+  "kinds": [
+   "round"
+  ],
+  "round": {
+   "amount": "€3.6M",
+   "musd": 3.92,
+   "stage": null,
+   "company": "Neonomics"
+  },
+  "score": 8,
+  "angles": [
+   "Faresti questo investimento? Chiediti chi è il team, quanto è grande il mercato e se l'azienda può restituire un fondo."
+  ],
+  "first_seen": "2026-10-17T04:37+00:00"
+ },
+ {
+  "id": "2fa26d2bad86",
+  "url": "https://tech.eu/2026/10/16/hostinger-ceo-ai-is-moving-faster-than-peoples-willingness-to-use-it/",
+  "title": "Hostinger CEO: AI is moving faster than people's willingness to use it",
+  "source": "Tech.eu",
+  "source_id": "techeu",
+  "recommended": false,
+  "date": "2026-10-16T10:18+00:00",
+  "excerpt": "AI has made it easier than ever to build a website, launch a product, or even create a software business without writing a line of code. But while the technology is advancing at breakneck speed, peopl...",
+  "tags": [
+   "ai"
+  ],
+  "topics": [],
+  "watch": [],
+  "kinds": [],
+  "round": null,
+  "score": 2,
+  "angles": [],
+  "first_seen": "2026-10-17T04:37+00:00"
+ },
+ {
+  "id": "0dc0e9cbf58c",
+  "url": "https://www.eu-startups.com/2026/10/aws-wants-to-prove-its-cloud-can-survive-without-the-us-european-startups-are-already-there/",
+  "title": "AWS wants to prove its cloud can survive without the US, European startups are already there",
+  "source": "EU-Startups",
+  "source_id": "eustartups",
+  "recommended": false,
+  "date": "2026-10-16T09:57+00:00",
+  "excerpt": "Amazon Web Services (AWS) is preparing to test whether its European Sovereign Cloud can operate independently of foreign infrastructure – challenging if Europe can maintain greater control over its digital infrastructure. This also marks a clear effort on…",
+  "tags": [
+   "europa"
+  ],
+  "topics": [
+   "nvidia-vc",
+   "europa-usa"
+  ],
+  "watch": [],
+  "kinds": [],
+  "round": null,
+  "score": 8,
+  "angles": [
+   "Le Big Tech che investono nelle startup accelerano il mercato o lo distorcono?"
+  ],
+  "first_seen": "2026-10-17T04:37+00:00"
+ },
+ {
+  "id": "033e709dab3b",
+  "url": "https://tech.eu/2026/10/16/eu-inc-will-europe-blow-its-biggest-chance-to-get-startups-right/",
+  "title": "EU Inc: Will Europe blow its biggest chance to get startups right?",
+  "source": "Tech.eu",
+  "source_id": "techeu",
+  "recommended": false,
+  "date": "2026-10-16T09:17+00:00",
+  "excerpt": "Yesterday, the founders of EU–INC issued an urgent public appeal to Europe's Heads of State and Government, warning that months of negotiations are stripping away the very provisions that would make t...",
+  "tags": [
+   "europa",
+   "policy"
+  ],
+  "topics": [
+   "europa-usa",
+   "regime-28"
+  ],
+  "watch": [],
+  "kinds": [],
+  "round": null,
+  "score": 8,
+  "angles": [
+   "Perché l'Europa produce meno exit grandi, e cosa servirebbe per cambiare?"
+  ],
+  "first_seen": "2026-10-17T04:37+00:00"
+ },
+ {
+  "id": "db3322cec8de",
+  "url": "https://www.eu-startups.com/2026/10/londons-unravel-health-raises-e2-96-million-to-help-women-track-hormones-at-home-with-a-palm-sized-lab/",
+  "title": "London’s Unravel Health raises €2.96 million to help women track hormones at home with a palm-sized lab",
+  "source": "EU-Startups",
+  "source_id": "eustartups",
+  "recommended": false,
+  "date": "2026-10-16T08:52+00:00",
+  "excerpt": "Unravel Health, a London-based startup developing technology to measure hormones at home daily, has raised €2.96 million (£2.5 million) to develop the Micro Lab, a palm-sized device that reads multiple hormones from a saliva sample in minutes. The round was…",
+  "tags": [
+   "europa"
+  ],
+  "topics": [],
+  "watch": [],
+  "kinds": [
+   "round"
+  ],
+  "round": {
+   "amount": "€3M",
+   "musd": 3.26,
+   "stage": null,
+   "company": "Unravel Health"
+  },
+  "score": 8,
+  "angles": [
+   "Faresti questo investimento? Chiediti chi è il team, quanto è grande il mercato e se l'azienda può restituire un fondo."
+  ],
+  "first_seen": "2026-10-17T04:37+00:00"
+ },
+ {
+  "id": "1b9fc16c3a35",
+  "url": "https://www.eu-startups.com/2026/10/dublin-based-learnupon-secures-e44-5-million-to-scale-its-agentic-learning-platform/",
+  "title": "Dublin-based LearnUpon secures €44.5 million to scale its agentic learning platform",
+  "source": "EU-Startups",
+  "source_id": "eustartups",
+  "recommended": false,
+  "date": "2026-10-16T07:11+00:00",
+  "excerpt": "LearnUpon, a Dublin-based enterprise learning platform, has secured a €44.5 million ($50 million) growth financing facility. The financing came from Claret Capital Partners, a London-based independent growth debt fund manager, which has deployed over €1.5…",
+  "tags": [
+   "ai",
+   "europa"
+  ],
+  "topics": [],
+  "watch": [],
+  "kinds": [
+   "round"
+  ],
+  "round": {
+   "amount": "€44.5M",
+   "musd": 48.95,
+   "stage": null,
+   "company": "Dublin-based LearnUpon"
+  },
+  "score": 9,
+  "angles": [
+   "Faresti questo investimento? Chiediti chi è il team, quanto è grande il mercato e se l'azienda può restituire un fondo."
+  ],
+  "first_seen": "2026-10-17T04:37+00:00"
+ },
+ {
+  "id": "dcf3ae17546b",
+  "url": "https://www.eu-startups.com/2026/10/strasbourg-founded-goodweek-raises-e10-69-million-to-become-the-ai-manager-for-smbs/",
+  "title": "Strasbourg-founded Goodweek raises €10.69 million to become the AI Manager for SMBs",
+  "source": "EU-Startups",
+  "source_id": "eustartups",
+  "recommended": false,
+  "date": "2026-10-16T06:28+00:00",
+  "excerpt": "Goodweek, a Los Angeles-headquartered French startup positioning itself as a one-stop AI management platform for small and medium-sized businesses, has raised a €10.69 million ($12 million) Seed round. The funding round was led by Spanish venture capital firm…",
+  "tags": [
+   "ai",
+   "europa"
+  ],
+  "topics": [],
+  "watch": [],
+  "kinds": [
+   "round"
+  ],
+  "round": {
+   "amount": "€10.7M",
+   "musd": 11.76,
+   "stage": "Seed",
+   "company": "Strasbourg-founded Goodweek"
+  },
+  "score": 9,
+  "angles": [
+   "Faresti questo investimento? Chiediti chi è il team, quanto è grande il mercato e se l'azienda può restituire un fondo."
+  ],
+  "first_seen": "2026-10-17T04:37+00:00"
+ },
+ {
+  "id": "a1e5c012c858",
+  "url": "https://techcrunch.com/2026/10/15/even-benchmark-thinks-ai-is-eroding-the-venture-pact-against-backing-rivals/",
+  "title": "Even Benchmark thinks AI is eroding the venture pact against backing rivals",
+  "source": "TechCrunch",
+  "source_id": "techcrunch-venture",
+  "recommended": true,
+  "date": "2026-10-16T05:16+00:00",
+  "excerpt": "Benchmark says the Valley’s rule against backing rivals is getting harder to keep.",
+  "tags": [
+   "ai"
+  ],
+  "topics": [],
+  "watch": [],
+  "kinds": [],
+  "round": null,
+  "score": 3,
+  "angles": [],
+  "first_seen": "2026-10-17T04:37+00:00"
+ },
+ {
   "id": "a3c1d770d76b",
   "url": "https://sifted.eu/articles/open-weight-models-sovereignty-ai-safety/",
   "title": "Are open-weight AI models safe?",
