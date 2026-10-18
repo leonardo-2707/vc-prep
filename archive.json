@@ -1,5 +1,53 @@
 [
  {
+  "id": "0dabc6c10b97",
+  "url": "https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/",
+  "title": "Anthropic says its workforce has become less junior and is spending more time in meetings",
+  "source": "TechCrunch",
+  "source_id": "techcrunch",
+  "recommended": true,
+  "date": "2026-10-17T20:21+00:00",
+  "excerpt": "The composition of Anthropic’s workforce and the type of work getting done have changed significantly in the past year.",
+  "tags": [
+   "ai"
+  ],
+  "topics": [
+   "ai-race"
+  ],
+  "watch": [],
+  "kinds": [],
+  "round": null,
+  "score": 5,
+  "angles": [
+   "Chi vince la corsa ai modelli, e dove può creare valore un VC early-stage europeo?"
+  ],
+  "first_seen": "2026-10-18T04:37+00:00"
+ },
+ {
+  "id": "6435f671229b",
+  "url": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/",
+  "title": "Replit makes OpenAI its default over Anthropic, CEO says",
+  "source": "TechCrunch",
+  "source_id": "techcrunch",
+  "recommended": true,
+  "date": "2026-10-17T18:48+00:00",
+  "excerpt": "Over the weekend, Masad clarified that OpenAI would replace Anthropic as its default model provider. Claude will still be available to customers on the platform.",
+  "tags": [
+   "ai"
+  ],
+  "topics": [
+   "ai-race"
+  ],
+  "watch": [],
+  "kinds": [],
+  "round": null,
+  "score": 5,
+  "angles": [
+   "Chi vince la corsa ai modelli, e dove può creare valore un VC early-stage europeo?"
+  ],
+  "first_seen": "2026-10-18T04:37+00:00"
+ },
+ {
   "id": "18f9fd010555",
   "url": "https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/",
   "title": "Replit is no longer working with Anthropic, CEO says",
