@@ -1,5 +1,776 @@
 [
  {
+  "id": "1b16f2a2a47a",
+  "url": "https://techcrunch.com/2026/10/27/vcs-will-make-billions-on-anthropics-ipo-but-amazon-is-set-to-make-much-much-more/",
+  "title": "VCs will make billions on Anthropic’s IPO, but Amazon is set to make much (much) more",
+  "source": "TechCrunch",
+  "source_id": "techcrunch-venture",
+  "recommended": true,
+  "date": "2026-10-28T01:15+00:00",
+  "excerpt": "Massive note conversions reveal the true extent of Amazon's ownership in Anthropic.",
+  "tags": [
+   "ai"
+  ],
+  "topics": [
+   "ai-race",
+   "nvidia-vc"
+  ],
+  "watch": [],
+  "kinds": [
+   "exit"
+  ],
+  "round": null,
+  "score": 10,
+  "angles": [
+   "Chi vince la corsa ai modelli, e dove può creare valore un VC early-stage europeo?",
+   "Chi guadagna da questa exit e cosa insegna sulle strade di uscita per le startup europee?"
+  ],
+  "first_seen": "2026-10-28T04:51+00:00"
+ },
+ {
+  "id": "a2f907c053da",
+  "url": "https://techcrunch.com/2026/10/27/parents-sue-openai-alleging-gpt-4o-coached-their-daughter-off-seizure-medication/",
+  "title": "Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication",
+  "source": "TechCrunch",
+  "source_id": "techcrunch",
+  "recommended": true,
+  "date": "2026-10-27T23:34+00:00",
+  "excerpt": "A family is suing OpenAI, saying ChatGPT coached their daughter to quietly taper off her seizure medication and keep it from her doctors before she died in February.",
+  "tags": [
+   "ai"
+  ],
+  "topics": [
+   "ai-race"
+  ],
+  "watch": [],
+  "kinds": [],
+  "round": null,
+  "score": 5,
+  "angles": [
+   "Chi vince la corsa ai modelli, e dove può creare valore un VC early-stage europeo?"
+  ],
+  "first_seen": "2026-10-28T04:51+00:00"
+ },
+ {
+  "id": "a81d0c1c06b0",
+  "url": "https://techcrunch.com/2026/10/27/the-data-center-boom-has-an-upside-innovation-for-the-us-grid/",
+  "title": "The data center boom has an upside: innovation for the US grid",
+  "source": "TechCrunch",
+  "source_id": "techcrunch",
+  "recommended": true,
+  "date": "2026-10-27T22:55+00:00",
+  "excerpt": "As the AI boom stresses the existing power grid, all sorts of new opportunities for grid modernization are also emerging as a result, industry insiders say.",
+  "tags": [
+   "ai",
+   "climate"
+  ],
+  "topics": [
+   "climate-capex"
+  ],
+  "watch": [],
+  "kinds": [],
+  "round": null,
+  "score": 5,
+  "angles": [
+   "Come trattiene l'Europa le aziende deep tech che hanno bisogno di round enormi?"
+  ],
+  "first_seen": "2026-10-28T04:51+00:00"
+ },
+ {
+  "id": "aa0467b514b2",
+  "url": "https://sifted.eu/articles/revolut-faces-bank-of-england-scrutiny-over-product-approval-process-reports-say/",
+  "title": "Revolut faces Bank of England scrutiny over product approval process, reports say",
+  "source": "Sifted",
+  "source_id": "sifted",
+  "recommended": true,
+  "date": "2026-10-27T22:38+00:00",
+  "excerpt": "",
+  "tags": [],
+  "topics": [],
+  "watch": [],
+  "kinds": [],
+  "round": null,
+  "score": 3,
+  "angles": [],
+  "first_seen": "2026-10-28T04:51+00:00"
+ },
+ {
+  "id": "31f30cc34078",
+  "url": "https://techcrunch.com/2026/10/27/guidewire-buys-hyperexponential-for-1-7b-in-cash/",
+  "title": "Guidewire buys Hyperexponential for $1.7B in cash",
+  "source": "TechCrunch",
+  "source_id": "techcrunch-venture",
+  "recommended": true,
+  "date": "2026-10-27T22:26+00:00",
+  "excerpt": "The deal, expected to close sometime next year, is to help bring AI agents to work alongside humans to underwrite, analyze, and price decisions.",
+  "tags": [
+   "ai"
+  ],
+  "topics": [],
+  "watch": [],
+  "kinds": [
+   "exit"
+  ],
+  "round": null,
+  "score": 6,
+  "angles": [
+   "Chi guadagna da questa exit e cosa insegna sulle strade di uscita per le startup europee?"
+  ],
+  "first_seen": "2026-10-28T04:51+00:00"
+ },
+ {
+  "id": "d03b0dd7f067",
+  "url": "https://techcrunch.com/2026/10/27/from-8vc-to-benchmark-heres-whats-hiding-in-october-sec-filings/",
+  "title": "From 8VC to Benchmark, here’s what’s hiding in October SEC filings",
+  "source": "TechCrunch",
+  "source_id": "techcrunch-venture",
+  "recommended": true,
+  "date": "2026-10-27T22:17+00:00",
+  "excerpt": "A whole crop of venture capital firms are raising significant new funds.",
+  "tags": [],
+  "topics": [],
+  "watch": [],
+  "kinds": [],
+  "round": null,
+  "score": 3,
+  "angles": [],
+  "first_seen": "2026-10-28T04:51+00:00"
+ },
+ {
+  "id": "2ea67223be98",
+  "url": "https://techcrunch.com/2026/10/27/gm-is-embracing-hybrids-now/",
+  "title": "GM is embracing hybrids now",
+  "source": "TechCrunch",
+  "source_id": "techcrunch",
+  "recommended": true,
+  "date": "2026-10-27T21:47+00:00",
+  "excerpt": "GM eschewed hybrids in favor of battery-electric vehicles. Now it's gearing up to offer hybrid versions of its SUVs.",
+  "tags": [
+   "climate"
+  ],
+  "topics": [
+   "climate-capex"
+  ],
+  "watch": [],
+  "kinds": [],
+  "round": null,
+  "score": 5,
+  "angles": [
+   "Come trattiene l'Europa le aziende deep tech che hanno bisogno di round enormi?"
+  ],
+  "first_seen": "2026-10-28T04:51+00:00"
+ },
+ {
+  "id": "e4dbba9a243c",
+  "url": "https://techcrunch.com/2026/10/27/whos-really-in-charge-at-anthropic-after-the-ipo/",
+  "title": "Who’s really in charge at Anthropic after the IPO?",
+  "source": "TechCrunch",
+  "source_id": "techcrunch",
+  "recommended": true,
+  "date": "2026-10-27T21:38+00:00",
+  "excerpt": "Here's a clear explanation of Anthropic's incredibly complex governance structure.",
+  "tags": [
+   "ai"
+  ],
+  "topics": [
+   "ai-race"
+  ],
+  "watch": [],
+  "kinds": [
+   "exit"
+  ],
+  "round": null,
+  "score": 8,
+  "angles": [
+   "Chi vince la corsa ai modelli, e dove può creare valore un VC early-stage europeo?",
+   "Chi guadagna da questa exit e cosa insegna sulle strade di uscita per le startup europee?"
+  ],
+  "first_seen": "2026-10-28T04:51+00:00"
+ },
+ {
+  "id": "485d190c3a3e",
+  "url": "https://techcrunch.com/2026/10/27/rebuild-which-spun-out-slate-auto-raises-2-1b/",
+  "title": "Re:Build, which spun out Slate Auto, raises $2.1B",
+  "source": "TechCrunch",
+  "source_id": "techcrunch",
+  "recommended": true,
+  "date": "2026-10-27T20:31+00:00",
+  "excerpt": "The manufacturing accelerator bills itself as \"America’s answer to Shenzhen.\"",
+  "tags": [],
+  "topics": [],
+  "watch": [],
+  "kinds": [
+   "round"
+  ],
+  "round": {
+   "amount": "$2.1B",
+   "musd": 2100.0,
+   "stage": null,
+   "company": "which spun out Slate Auto,"
+  },
+  "score": 9,
+  "angles": [
+   "Faresti questo investimento? Chiediti chi è il team, quanto è grande il mercato e se l'azienda può restituire un fondo."
+  ],
+  "first_seen": "2026-10-28T04:51+00:00"
+ },
+ {
+  "id": "195cb6337f5e",
+  "url": "https://techcrunch.com/2026/10/27/disruptive-raises-10b-fund-to-make-big-bets-on-at-least-10-companies/",
+  "title": "Disruptive raises $10B fund to make big bets on at least 10 companies",
+  "source": "TechCrunch",
+  "source_id": "techcrunch-venture",
+  "recommended": true,
+  "date": "2026-10-27T18:55+00:00",
+  "excerpt": "Disruptive has made headlines in recent years for pouring money into companies like chip startup Groq and the AI voice-generation startup ElevenLabs.",
+  "tags": [
+   "ai",
+   "deep-tech"
+  ],
+  "topics": [],
+  "watch": [],
+  "kinds": [
+   "fondi"
+  ],
+  "round": {
+   "amount": "$10B",
+   "musd": 10000.0,
+   "stage": null,
+   "company": null
+  },
+  "score": 8,
+  "angles": [
+   "Cosa dice questa raccolta sull'appetito degli LP per il venture capital in questo momento?"
+  ],
+  "first_seen": "2026-10-28T04:51+00:00"
+ },
+ {
+  "id": "8a93bec2dc7c",
+  "url": "https://techcrunch.com/2026/10/27/frontier-ai-labs-say-their-models-refuted-the-exponential-time-hypothesis-what-does-that-mean/",
+  "title": "Frontier AI labs say their models refuted the Exponential Time Hypothesis. What does that mean?",
+  "source": "TechCrunch",
+  "source_id": "techcrunch",
+  "recommended": true,
+  "date": "2026-10-27T17:08+00:00",
+  "excerpt": "TechCrunch spoke to the MIT computer scientist charged with explaining OpenAI's latest mind-bending discovery.",
+  "tags": [
+   "ai"
+  ],
+  "topics": [
+   "ai-race"
+  ],
+  "watch": [],
+  "kinds": [],
+  "round": null,
+  "score": 5,
+  "angles": [
+   "Chi vince la corsa ai modelli, e dove può creare valore un VC early-stage europeo?"
+  ],
+  "first_seen": "2026-10-28T04:51+00:00"
+ },
+ {
+  "id": "39b135a96d19",
+  "url": "https://sifted.eu/articles/are-vcs-as-dangerous-as-nik-storonsky-thinks-they-are/",
+  "title": "Are VCs as ‘dangerous’ as Nik Storonsky thinks they are?",
+  "source": "Sifted",
+  "source_id": "sifted",
+  "recommended": true,
+  "date": "2026-10-27T16:00+00:00",
+  "excerpt": "",
+  "tags": [],
+  "topics": [],
+  "watch": [],
+  "kinds": [],
+  "round": null,
+  "score": 3,
+  "angles": [],
+  "first_seen": "2026-10-28T04:51+00:00"
+ },
+ {
+  "id": "589e720f9b32",
+  "url": "https://www.eu-startups.com/2026/10/londons-querio-launches-with-e4-48-million-to-help-companies-and-their-data-teams-tackle-conflicting-answers-across-ai-tools/",
+  "title": "London’s Querio launches with €4.48 million to help companies tackle conflicting answers across AI tools",
+  "source": "EU-Startups",
+  "source_id": "eustartups",
+  "recommended": false,
+  "date": "2026-10-27T16:00+00:00",
+  "excerpt": "Querio, a London-based analytics platform for data teams and their AI agents, has launched today with €4.48 million ($5 million) in total funding. Its investors include BMW i Ventures, which led the company’s Seed financing, alongside LAUNCH, the fund run by…",
+  "tags": [
+   "ai",
+   "europa"
+  ],
+  "topics": [],
+  "watch": [],
+  "kinds": [
+   "round"
+  ],
+  "round": {
+   "amount": "€4.5M",
+   "musd": 4.93,
+   "stage": "Seed",
+   "company": null
+  },
+  "score": 8,
+  "angles": [
+   "Faresti questo investimento? Chiediti chi è il team, quanto è grande il mercato e se l'azienda può restituire un fondo."
+  ],
+  "first_seen": "2026-10-28T04:51+00:00"
+ },
+ {
+  "id": "f5776dd2e2f3",
+  "url": "https://www.eu-startups.com/2026/10/impress-bags-e40-million-eib-financing-to-expand-its-digital-orthodontics-network-across-europe/",
+  "title": "Impress bags €40 million EIB financing to expand its digital orthodontics network across Europe",
+  "source": "EU-Startups",
+  "source_id": "eustartups",
+  "recommended": false,
+  "date": "2026-10-27T15:29+00:00",
+  "excerpt": "Impress, a Spanish digital orthodontics network, has signed a €40 million venture debt loan with the European Investment Bank (EIB) to scale up investments in its AI platform across its network of more than 110 clinics worldwide. The loan will also accelerate…",
+  "tags": [
+   "ai",
+   "europa"
+  ],
+  "topics": [],
+  "watch": [],
+  "kinds": [
+   "round"
+  ],
+  "round": {
+   "amount": "€40M",
+   "musd": 44.0,
+   "stage": null,
+   "company": "Impress"
+  },
+  "score": 9,
+  "angles": [
+   "Faresti questo investimento? Chiediti chi è il team, quanto è grande il mercato e se l'azienda può restituire un fondo."
+  ],
+  "first_seen": "2026-10-28T04:51+00:00"
+ },
+ {
+  "id": "c526fd0ea990",
+  "url": "https://www.eu-startups.com/2026/10/french-vc-aquiti-just-closed-their-e60-million-fund-for-founders-outside-of-traditional-venture-hubs/",
+  "title": "French VC Aquiti closes €60 million fund for founders outside of traditional venture hubs",
+  "source": "EU-Startups",
+  "source_id": "eustartups",
+  "recommended": false,
+  "date": "2026-10-27T15:07+00:00",
+  "excerpt": "French VC Aquiti announces the final close of their AVA1 fund at nearly €60 million in order to back founders building across the Greater Southwest of France from pre-Seed onwards. Through its AVA1 fund, Aquiti invests at pre-Seed and Seed, with initial…",
+  "tags": [
+   "europa"
+  ],
+  "topics": [],
+  "watch": [],
+  "kinds": [
+   "fondi"
+  ],
+  "round": {
+   "amount": "€60M",
+   "musd": 66.0,
+   "stage": "Pre-seed",
+   "company": null
+  },
+  "score": 9,
+  "angles": [
+   "Cosa dice questa raccolta sull'appetito degli LP per il venture capital in questo momento?"
+  ],
+  "first_seen": "2026-10-28T04:51+00:00"
+ },
+ {
+  "id": "bb124f9e261c",
+  "url": "https://techcrunch.com/2026/10/27/meta-ai-director-rohit-patel-leaves-to-take-on-microsoft-office-and-google-workspace/",
+  "title": "Meta AI director Rohit Patel leaves to take on Microsoft Office and Google Workspace",
+  "source": "TechCrunch",
+  "source_id": "techcrunch",
+  "recommended": true,
+  "date": "2026-10-27T14:59+00:00",
+  "excerpt": "Rohit Patel is departing Meta after eight years working on AI evaluations and reinforcement learning, TechCrunch has exclusively learned. His startup, Ndoc, aims to take on Microsoft Office Suite.",
+  "tags": [
+   "ai"
+  ],
+  "topics": [
+   "nvidia-vc"
+  ],
+  "watch": [],
+  "kinds": [],
+  "round": null,
+  "score": 5,
+  "angles": [
+   "Le Big Tech che investono nelle startup accelerano il mercato o lo distorcono?"
+  ],
+  "first_seen": "2026-10-28T04:51+00:00"
+ },
+ {
+  "id": "042781ef42dd",
+  "url": "https://techcrunch.com/2026/10/27/ford-fathom-will-be-the-cheapest-american-ev-capable-of-powering-a-house/",
+  "title": "Ford Fathom will be the cheapest American EV capable of powering a house",
+  "source": "TechCrunch",
+  "source_id": "techcrunch",
+  "recommended": true,
+  "date": "2026-10-27T14:51+00:00",
+  "excerpt": "Ford is rolling out two new chargers capable of powering a home or the grid — so-called V2X capability.",
+  "tags": [
+   "climate",
+   "usa"
+  ],
+  "topics": [
+   "climate-capex"
+  ],
+  "watch": [],
+  "kinds": [],
+  "round": null,
+  "score": 5,
+  "angles": [
+   "Come trattiene l'Europa le aziende deep tech che hanno bisogno di round enormi?"
+  ],
+  "first_seen": "2026-10-28T04:51+00:00"
+ },
+ {
+  "id": "2a73e713621b",
+  "url": "https://techcrunch.com/2026/10/27/apple-unveils-new-14-inch-macbook-pro-with-m6-chip/",
+  "title": "Apple unveils new 14-inch MacBook Pro with M6 chip",
+  "source": "TechCrunch",
+  "source_id": "techcrunch",
+  "recommended": true,
+  "date": "2026-10-27T14:25+00:00",
+  "excerpt": "The new MacBook Pro comes with 24 hours of battery life, and now features support for Wi-Fi 7 and Bluetooth 6 connectivity.",
+  "tags": [
+   "deep-tech",
+   "climate"
+  ],
+  "topics": [
+   "climate-capex"
+  ],
+  "watch": [],
+  "kinds": [],
+  "round": null,
+  "score": 5,
+  "angles": [
+   "Come trattiene l'Europa le aziende deep tech che hanno bisogno di round enormi?"
+  ],
+  "first_seen": "2026-10-28T04:51+00:00"
+ },
+ {
+  "id": "dbe7bc9c0f5b",
+  "url": "https://www.eu-startups.com/2026/10/opinon-europes-legal-work-is-awash-with-ai-slop-but-there-is-a-way-to-fix-it/",
+  "title": "OPINON: Europe’s legal work is awash with AI slop, but there is a way to fix it",
+  "source": "EU-Startups",
+  "source_id": "eustartups",
+  "recommended": false,
+  "date": "2026-10-27T14:07+00:00",
+  "excerpt": "Europe’s startups have been riding a wave of innovation, creating numerous applications of generative and agentic AI. This innovation has explored the art of the possible, but it has also flooded the world with slop. Content is awash with it, whether it is…",
+  "tags": [
+   "ai",
+   "europa"
+  ],
+  "topics": [],
+  "watch": [],
+  "kinds": [],
+  "round": null,
+  "score": 4,
+  "angles": [],
+  "first_seen": "2026-10-28T04:51+00:00"
+ },
+ {
+  "id": "6000ac2277f5",
+  "url": "https://sifted.eu/articles/sequoia-general-catalyst-22one-ai-police-startup/",
+  "title": "Sequoia and General Catalyst value ex-police chief’s AI startup at $400m — reports",
+  "source": "Sifted",
+  "source_id": "sifted",
+  "recommended": true,
+  "date": "2026-10-27T12:21+00:00",
+  "excerpt": "",
+  "tags": [
+   "ai",
+   "usa"
+  ],
+  "topics": [],
+  "watch": [],
+  "kinds": [],
+  "round": null,
+  "score": 3,
+  "angles": [],
+  "first_seen": "2026-10-28T04:51+00:00"
+ },
+ {
+  "id": "86e551dd7e95",
+  "url": "https://www.technologyreview.com/2026/10/27/1147693/the-download-anthropic-ipo-smarter-power-grids-exercise-pills/",
+  "title": "The Download: Anthropic’s IPO, smarter power grids, and exercise pills",
+  "source": "MIT Technology Review",
+  "source_id": "mittr",
+  "recommended": true,
+  "date": "2026-10-27T12:10+00:00",
+  "excerpt": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Will the real Anthropic please stand up? After weeks of frenzied speculation, Anthropic has filed its IPO prospectus. The…",
+  "tags": [
+   "ai"
+  ],
+  "topics": [
+   "ai-race"
+  ],
+  "watch": [],
+  "kinds": [
+   "exit"
+  ],
+  "round": null,
+  "score": 8,
+  "angles": [
+   "Chi vince la corsa ai modelli, e dove può creare valore un VC early-stage europeo?",
+   "Chi guadagna da questa exit e cosa insegna sulle strade di uscita per le startup europee?"
+  ],
+  "first_seen": "2026-10-28T04:51+00:00"
+ },
+ {
+  "id": "e4f2c3480bfb",
+  "url": "https://www.eu-startups.com/2026/10/british-sme-lender-lovey-secures-up-to-e298-million-to-support-uk-companies/",
+  "title": "British SME lender Lovey secures up to €298 million to support UK companies",
+  "source": "EU-Startups",
+  "source_id": "eustartups",
+  "recommended": false,
+  "date": "2026-10-27T11:43+00:00",
+  "excerpt": "Lovey, a British FinTech and financial services provider specialising in SME lending and brokerage, has today announced a senior secured credit facility of up to €298 million (£250 million) with Pollen Street Capital, an alternative asset manager. The…",
+  "tags": [
+   "fintech",
+   "europa"
+  ],
+  "topics": [],
+  "watch": [],
+  "kinds": [
+   "round"
+  ],
+  "round": {
+   "amount": "€298M",
+   "musd": 327.8,
+   "stage": null,
+   "company": "British SME lender Lovey"
+  },
+  "score": 10,
+  "angles": [
+   "Faresti questo investimento? Chiediti chi è il team, quanto è grande il mercato e se l'azienda può restituire un fondo."
+  ],
+  "first_seen": "2026-10-28T04:51+00:00"
+ },
+ {
+  "id": "fc8d04130bb3",
+  "url": "https://www.eu-startups.com/2026/10/finnish-defencetech-arctic-ravn-secures-e2-5-million-in-loan-commitments-before-its-first-product-launch/",
+  "title": "Finnish DefenceTech Arctic RAVN secures €2.5 million in loan commitments before its first product launch",
+  "source": "EU-Startups",
+  "source_id": "eustartups",
+  "recommended": false,
+  "date": "2026-10-27T11:12+00:00",
+  "excerpt": "Arctic RAVN, an Espoo-based DefenceTech startup, has secured €2.5 million in convertible loan commitments, surpassing its original €2 million target in under a week. The round, launched in October 2026, saw investor commitments arrive within just five days, a…",
+  "tags": [
+   "europa"
+  ],
+  "topics": [],
+  "watch": [],
+  "kinds": [
+   "round"
+  ],
+  "round": {
+   "amount": "€2.5M",
+   "musd": 2.75,
+   "stage": null,
+   "company": "Finnish DefenceTech Arctic RAVN"
+  },
+  "score": 8,
+  "angles": [
+   "Faresti questo investimento? Chiediti chi è il team, quanto è grande il mercato e se l'azienda può restituire un fondo."
+  ],
+  "first_seen": "2026-10-28T04:51+00:00"
+ },
+ {
+  "id": "912821485ddd",
+  "url": "https://sifted.eu/articles/repeat-fintech-founders-face-ai/",
+  "title": "‘It feels like you’re wearing a Superman suit’: Why Europe’s fintech founders are starting over with AI",
+  "source": "Sifted",
+  "source_id": "sifted",
+  "recommended": true,
+  "date": "2026-10-27T11:00+00:00",
+  "excerpt": "",
+  "tags": [
+   "ai",
+   "fintech",
+   "europa"
+  ],
+  "topics": [],
+  "watch": [],
+  "kinds": [],
+  "round": null,
+  "score": 5,
+  "angles": [],
+  "first_seen": "2026-10-28T04:51+00:00"
+ },
+ {
+  "id": "52122d3ed169",
+  "url": "https://news.crunchbase.com/venture/q3-2026-us-china-robotics-startup-funding-jumps-physical-ai-push/",
+  "title": "Crunchbase Data Shows Q3 Robotics Startup Funding Jumps 185% As US And China Lead Physical AI Push",
+  "source": "Crunchbase News",
+  "source_id": "crunchbase",
+  "recommended": false,
+  "date": "2026-10-27T11:00+00:00",
+  "excerpt": "Venture funding to robotics startups has soared in 2026, with the bulk of investment going to companies based in China and the U.S., Crunchbase data shows. All told, global venture funding to robotics startups totaled $9.9 billion in Q3, more than double the…",
+  "tags": [
+   "ai",
+   "deep-tech",
+   "usa"
+  ],
+  "topics": [
+   "physical-ai"
+  ],
+  "watch": [],
+  "kinds": [
+   "round"
+  ],
+  "round": {
+   "amount": "$9.9B",
+   "musd": 9900.0,
+   "stage": null,
+   "company": null
+  },
+  "score": 10,
+  "angles": [
+   "L'Europa può vincere nella physical AI, dove contano industria e dati più del software?",
+   "Faresti questo investimento? Chiediti chi è il team, quanto è grande il mercato e se l'azienda può restituire un fondo."
+  ],
+  "first_seen": "2026-10-28T04:51+00:00"
+ },
+ {
+  "id": "0d4c913f9d52",
+  "url": "https://news.crunchbase.com/real-estate-property-tech/agentic-ai-staffing-coo-folgmann-get-covered/",
+  "title": "Your AI Agents Need A Chief Operating Officer, Too",
+  "source": "Crunchbase News",
+  "source_id": "crunchbase",
+  "recommended": false,
+  "date": "2026-10-27T11:00+00:00",
+  "excerpt": "Scaling AI agents requires treating them like employees in regulated roles, with written rules, clearly defined responsibilities and a named human manager accountable for their performance. Guest author Rick Folgmann, COO at Get Covered, tells companies they…",
+  "tags": [
+   "ai",
+   "policy"
+  ],
+  "topics": [],
+  "watch": [],
+  "kinds": [],
+  "round": null,
+  "score": 2,
+  "angles": [],
+  "first_seen": "2026-10-28T04:51+00:00"
+ },
+ {
+  "id": "631a6f171e9d",
+  "url": "https://www.technologyreview.com/2026/10/27/1147684/solid-state-transformers/",
+  "title": "How solid-state transformers could help power the AI boom",
+  "source": "MIT Technology Review",
+  "source_id": "mittr",
+  "recommended": true,
+  "date": "2026-10-27T09:00+00:00",
+  "excerpt": "Transformers are a crucial but nearly invisible part of our grid. The devices help efficiently move power across long distances, but they’re complicated and in short supply. And given that their basic design hasn’t changed much for about a century, they could…",
+  "tags": [
+   "ai",
+   "climate"
+  ],
+  "topics": [
+   "climate-capex"
+  ],
+  "watch": [],
+  "kinds": [],
+  "round": null,
+  "score": 5,
+  "angles": [
+   "Come trattiene l'Europa le aziende deep tech che hanno bisogno di round enormi?"
+  ],
+  "first_seen": "2026-10-28T04:51+00:00"
+ },
+ {
+  "id": "88f413c64797",
+  "url": "https://www.eu-startups.com/2026/10/paris-based-naboo-acquires-uk-meetings-and-events-specialist-pro-ven-following-e58-7-million-series-b/",
+  "title": "Paris-based Naboo acquires UK meetings and events specialist pro-ven following €58.7 million Series B",
+  "source": "EU-Startups",
+  "source_id": "eustartups",
+  "recommended": false,
+  "date": "2026-10-27T08:14+00:00",
+  "excerpt": "Naboo, a Paris-based EventTech scale-up, has joined forces with UK specialist pro-ven, bringing together two of the Meetings and Events (M&E) sector’s prominent names. Starting today, pro-ven becomes Naboo UK. Together, the combined entity now oversees €269…",
+  "tags": [
+   "europa"
+  ],
+  "topics": [
+   "europa-usa"
+  ],
+  "watch": [],
+  "kinds": [
+   "round",
+   "exit"
+  ],
+  "round": {
+   "amount": "€58.7M",
+   "musd": 64.57,
+   "stage": "Series B",
+   "company": null
+  },
+  "score": 15,
+  "angles": [
+   "Perché l'Europa produce meno exit grandi, e cosa servirebbe per cambiare?",
+   "Faresti questo investimento? Chiediti chi è il team, quanto è grande il mercato e se l'azienda può restituire un fondo."
+  ],
+  "first_seen": "2026-10-28T04:51+00:00"
+ },
+ {
+  "id": "b78ba7ad7e78",
+  "url": "https://www.eu-startups.com/2026/10/exclusive-copenhagen-based-proptech-cortas-lands-e1-47-million-in-a-pre-seed-round-led-by-psv-tech/",
+  "title": "EXCLUSIVE: Copenhagen-based PropTech Cortas lands €1.47 million in a pre-Seed round led by PSV Tech",
+  "source": "EU-Startups",
+  "source_id": "eustartups",
+  "recommended": false,
+  "date": "2026-10-27T07:30+00:00",
+  "excerpt": "Cortas, a Copenhagen-based PropTech startup building what it calls an entirely new operating model for property management, has raised €1.47 million in pre-Seed funding. The round was led by PSV Tech, which has backed Nordic companies for more than two…",
+  "tags": [
+   "europa"
+  ],
+  "topics": [],
+  "watch": [],
+  "kinds": [
+   "round"
+  ],
+  "round": {
+   "amount": "€1.5M",
+   "musd": 1.62,
+   "stage": "Pre-seed",
+   "company": "Copenhagen-based PropTech Cortas"
+  },
+  "score": 8,
+  "angles": [
+   "Faresti questo investimento? Chiediti chi è il team, quanto è grande il mercato e se l'azienda può restituire un fondo."
+  ],
+  "first_seen": "2026-10-28T04:51+00:00"
+ },
+ {
+  "id": "e287b22dd229",
+  "url": "https://sifted.eu/articles/new-funds-in-europe-in-q3-2026/",
+  "title": "New funds in Europe in Q3 2026",
+  "source": "Sifted",
+  "source_id": "sifted",
+  "recommended": true,
+  "date": "2026-10-27T05:00+00:00",
+  "excerpt": "",
+  "tags": [
+   "europa"
+  ],
+  "topics": [],
+  "watch": [],
+  "kinds": [
+   "fondi"
+  ],
+  "round": {
+   "amount": null,
+   "musd": null,
+   "stage": null,
+   "company": null
+  },
+  "score": 8,
+  "angles": [
+   "Cosa dice questa raccolta sull'appetito degli LP per il venture capital in questo momento?"
+  ],
+  "first_seen": "2026-10-28T04:51+00:00"
+ },
+ {
   "id": "62ecc12b68be",
   "url": "https://techcrunch.com/2026/10/26/how-openai-turned-its-coding-tools-into-dots-an-always-on-personal-assistant/",
   "title": "How OpenAI turned its coding tools into dots, an always-on personal assistant",
