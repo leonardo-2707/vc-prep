@@ -1,5 +1,769 @@
 [
  {
+  "id": "823f1d2d8a8d",
+  "url": "https://techcrunch.com/2026/10/28/upwind-raises-400m-after-walking-away-from-datadog-acquisition-offer/",
+  "title": "Upwind raises $400M after walking away from Datadog acquisition offer",
+  "source": "TechCrunch",
+  "source_id": "techcrunch",
+  "recommended": true,
+  "date": "2026-10-28T23:15+00:00",
+  "excerpt": "The cloud security startup raised a Series C at a $3.8B valuation, instead of selling itself for the same price.",
+  "tags": [],
+  "topics": [
+   "vc-vs-pe"
+  ],
+  "watch": [],
+  "kinds": [
+   "round",
+   "exit"
+  ],
+  "round": {
+   "amount": "$400M",
+   "musd": 400.0,
+   "stage": "Series C",
+   "company": "Upwind"
+  },
+  "score": 14,
+  "angles": [
+   "Che tipo di investitore deve essere un VC per vincere i deal migliori?",
+   "Faresti questo investimento? Chiediti chi è il team, quanto è grande il mercato e se l'azienda può restituire un fondo."
+  ],
+  "first_seen": "2026-10-29T04:52+00:00"
+ },
+ {
+  "id": "1134b6a1764a",
+  "url": "https://techcrunch.com/2026/10/28/microsoft-just-shared-azures-actual-revenue-in-dollars-33-2-billion/",
+  "title": "Microsoft just shared Azure’s actual revenue in dollars: $33.2 billion",
+  "source": "TechCrunch",
+  "source_id": "techcrunch",
+  "recommended": true,
+  "date": "2026-10-28T21:58+00:00",
+  "excerpt": "Microsoft has never disclosed Azure's quarterly revenue in dollars. But for the first time, we can see just how close it is getting to besting the biggest competitor in the market, AWS.",
+  "tags": [],
+  "topics": [
+   "nvidia-vc"
+  ],
+  "watch": [],
+  "kinds": [],
+  "round": null,
+  "score": 5,
+  "angles": [
+   "Le Big Tech che investono nelle startup accelerano il mercato o lo distorcono?"
+  ],
+  "first_seen": "2026-10-29T04:52+00:00"
+ },
+ {
+  "id": "9b7dd4a7a685",
+  "url": "https://techcrunch.com/2026/10/28/google-expands-ai-search-ads-globally-as-core-ad-growth-slows/",
+  "title": "Google expands AI Search ads globally as core ad growth slows",
+  "source": "TechCrunch",
+  "source_id": "techcrunch",
+  "recommended": true,
+  "date": "2026-10-28T21:48+00:00",
+  "excerpt": "The announcement came alongside parent company Alphabet's third-quarter earnings report, which saw revenue grow 25% year over year to $127.6 billion.",
+  "tags": [
+   "ai"
+  ],
+  "topics": [
+   "nvidia-vc"
+  ],
+  "watch": [],
+  "kinds": [],
+  "round": null,
+  "score": 5,
+  "angles": [
+   "Le Big Tech che investono nelle startup accelerano il mercato o lo distorcono?"
+  ],
+  "first_seen": "2026-10-29T04:52+00:00"
+ },
+ {
+  "id": "f9d1493b929c",
+  "url": "https://techcrunch.com/2026/10/28/microsoft-recorded-10-billion-in-revenue-from-openai/",
+  "title": "Microsoft recorded $10 billion in revenue from OpenAI",
+  "source": "TechCrunch",
+  "source_id": "techcrunch",
+  "recommended": true,
+  "date": "2026-10-28T21:34+00:00",
+  "excerpt": "Microsoft said it made $10 billion in revenue from commercial arrangements with OpenAI, including revenue-sharing payments, in the quarter ending September 30. It underscores the still-enormous financial dependency of the partnership.",
+  "tags": [
+   "ai",
+   "fintech"
+  ],
+  "topics": [
+   "ai-race",
+   "nvidia-vc"
+  ],
+  "watch": [],
+  "kinds": [],
+  "round": null,
+  "score": 7,
+  "angles": [
+   "Chi vince la corsa ai modelli, e dove può creare valore un VC early-stage europeo?"
+  ],
+  "first_seen": "2026-10-29T04:52+00:00"
+ },
+ {
+  "id": "0ef91bd8c8c1",
+  "url": "https://techcrunch.com/2026/10/28/microsoft-hits-10-quarters-of-record-breaking-revenue-in-a-row/",
+  "title": "Microsoft hits 10 quarters of record-breaking revenue in a row",
+  "source": "TechCrunch",
+  "source_id": "techcrunch",
+  "recommended": true,
+  "date": "2026-10-28T21:25+00:00",
+  "excerpt": "Whatever the future of AI might be, the current situation is still very good for Microsoft. The tech giant reported yet another record for quarterly revenue on Wednesday: $92.3 billion, a 19% increase over the year-ago quarter.",
+  "tags": [
+   "ai"
+  ],
+  "topics": [
+   "nvidia-vc"
+  ],
+  "watch": [],
+  "kinds": [],
+  "round": null,
+  "score": 5,
+  "angles": [
+   "Le Big Tech che investono nelle startup accelerano il mercato o lo distorcono?"
+  ],
+  "first_seen": "2026-10-29T04:52+00:00"
+ },
+ {
+  "id": "ea370fdd96af",
+  "url": "https://techcrunch.com/2026/10/28/anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-is-buying/",
+  "title": "Anthropic just launched tools to show companies what their AI spending is buying",
+  "source": "TechCrunch",
+  "source_id": "techcrunch",
+  "recommended": true,
+  "date": "2026-10-28T19:19+00:00",
+  "excerpt": "The frontier lab is lifting the curtain on how users spend money on its models ahead of a planned IPO.",
+  "tags": [
+   "ai"
+  ],
+  "topics": [
+   "ai-race"
+  ],
+  "watch": [],
+  "kinds": [],
+  "round": null,
+  "score": 5,
+  "angles": [
+   "Chi vince la corsa ai modelli, e dove può creare valore un VC early-stage europeo?"
+  ],
+  "first_seen": "2026-10-29T04:52+00:00"
+ },
+ {
+  "id": "a01db71b034c",
+  "url": "https://techcrunch.com/2026/10/28/as-ai-agents-reshape-the-web-google-opens-gemini-and-search-to-more-apps/",
+  "title": "As AI agents reshape the web, Google opens Gemini and Search to more apps",
+  "source": "TechCrunch",
+  "source_id": "techcrunch",
+  "recommended": true,
+  "date": "2026-10-28T17:00+00:00",
+  "excerpt": "A new developer platform will let businesses bring their services to Google's AI experiences, potentially changing how consumers discover and use apps.",
+  "tags": [
+   "ai"
+  ],
+  "topics": [
+   "ai-race"
+  ],
+  "watch": [],
+  "kinds": [],
+  "round": null,
+  "score": 5,
+  "angles": [
+   "Chi vince la corsa ai modelli, e dove può creare valore un VC early-stage europeo?"
+  ],
+  "first_seen": "2026-10-29T04:52+00:00"
+ },
+ {
+  "id": "232f3b13da83",
+  "url": "https://news.crunchbase.com/startups/tech-layoffs/",
+  "title": "The Crunchbase Tech Layoffs Tracker",
+  "source": "Crunchbase News",
+  "source_id": "crunchbase",
+  "recommended": false,
+  "date": "2026-10-28T16:25+00:00",
+  "excerpt": "Over 127,000 workers at U.S.-based tech companies were laid off in mass job cuts in 2025, per a Crunchbase News tally, and the layoffs have continued into 2026. See the latest companies to cut roles.",
+  "tags": [
+   "usa"
+  ],
+  "topics": [],
+  "watch": [],
+  "kinds": [],
+  "round": null,
+  "score": 2,
+  "angles": [],
+  "first_seen": "2026-10-29T04:52+00:00"
+ },
+ {
+  "id": "0ebb7cec19b7",
+  "url": "https://techcrunch.com/2026/10/28/trump-doe-loans-5b-to-nuclear-plants-that-will-power-data-centers/",
+  "title": "Trump DOE loans $5B to nuclear plants that will power data centers",
+  "source": "TechCrunch",
+  "source_id": "techcrunch",
+  "recommended": true,
+  "date": "2026-10-28T15:53+00:00",
+  "excerpt": "Constellation Energy will get $5 billion in government loans to modernize nuclear reactors. Most of the new capacity is already committed to Google, Amazon, and Meta.",
+  "tags": [
+   "climate",
+   "policy"
+  ],
+  "topics": [
+   "nvidia-vc",
+   "climate-capex"
+  ],
+  "watch": [],
+  "kinds": [],
+  "round": null,
+  "score": 7,
+  "angles": [
+   "Le Big Tech che investono nelle startup accelerano il mercato o lo distorcono?"
+  ],
+  "first_seen": "2026-10-29T04:52+00:00"
+ },
+ {
+  "id": "4e1499210ff5",
+  "url": "https://www.eu-startups.com/2026/10/german-startups-are-betting-big-on-japan-should-the-rest-of-europe-follow/",
+  "title": "German startups are betting big on Japan. Should the rest of Europe follow?",
+  "source": "EU-Startups",
+  "source_id": "eustartups",
+  "recommended": false,
+  "date": "2026-10-28T15:44+00:00",
+  "excerpt": "German startups are increasingly looking towards Japan as a destination for international expansion, industrial partnerships and technological cooperation. From DefenceTech and nuclear fusion to quantum computing and space infrastructure, recent developments…",
+  "tags": [
+   "deep-tech",
+   "climate",
+   "europa"
+  ],
+  "topics": [
+   "climate-capex"
+  ],
+  "watch": [],
+  "kinds": [],
+  "round": null,
+  "score": 6,
+  "angles": [
+   "Come trattiene l'Europa le aziende deep tech che hanno bisogno di round enormi?"
+  ],
+  "first_seen": "2026-10-29T04:52+00:00"
+ },
+ {
+  "id": "d9d311919980",
+  "url": "https://techcrunch.com/2026/10/28/voice-ai-in-vogue-nvidia-releases-new-open-transcription-model/",
+  "title": "Voice AI in vogue: Nvidia releases new open transcription model",
+  "source": "TechCrunch",
+  "source_id": "techcrunch",
+  "recommended": true,
+  "date": "2026-10-28T15:00+00:00",
+  "excerpt": "Nvidia just released a free speech-to-text model that can transcribe up to 40 languages, but it only works on recordings, not live audio, so it’s a big step for meeting and medical transcription tools while still leaving real-time use to rivals like…",
+  "tags": [
+   "ai"
+  ],
+  "topics": [
+   "nvidia-vc"
+  ],
+  "watch": [],
+  "kinds": [],
+  "round": null,
+  "score": 5,
+  "angles": [
+   "Le Big Tech che investono nelle startup accelerano il mercato o lo distorcono?"
+  ],
+  "first_seen": "2026-10-29T04:52+00:00"
+ },
+ {
+  "id": "8732586230bb",
+  "url": "https://techcrunch.com/2026/10/28/amazon-debuts-the-alexa-photo-frame-and-echo-time-smart-clock-plus-other-upgraded-devices/",
+  "title": "Amazon debuts the Alexa Photo Frame and Echo Time smart clock, plus other upgraded devices",
+  "source": "TechCrunch",
+  "source_id": "techcrunch",
+  "recommended": true,
+  "date": "2026-10-28T14:34+00:00",
+  "excerpt": "Amazon's other new devices include an upgraded Echo Dot, an Echo Studio with visual intelligence features, and the Echo Show 16.",
+  "tags": [],
+  "topics": [
+   "nvidia-vc"
+  ],
+  "watch": [],
+  "kinds": [],
+  "round": null,
+  "score": 5,
+  "angles": [
+   "Le Big Tech che investono nelle startup accelerano il mercato o lo distorcono?"
+  ],
+  "first_seen": "2026-10-29T04:52+00:00"
+ },
+ {
+  "id": "cc44e5241576",
+  "url": "https://sifted.eu/articles/uk-autumn-budget-2026-startups/",
+  "title": "UK Budget: Capital gains, work visas and young entrepreneur allowances",
+  "source": "Sifted",
+  "source_id": "sifted",
+  "recommended": true,
+  "date": "2026-10-28T13:51+00:00",
+  "excerpt": "",
+  "tags": [
+   "europa"
+  ],
+  "topics": [],
+  "watch": [],
+  "kinds": [],
+  "round": null,
+  "score": 5,
+  "angles": [],
+  "first_seen": "2026-10-29T04:52+00:00"
+ },
+ {
+  "id": "aa8048880ffd",
+  "url": "https://www.technologyreview.com/2026/10/28/1147767/the-download-dead-startups-fueling-ai-interspecies-communication/",
+  "title": "The Download: dead startups fueling AI and interspecies communication",
+  "source": "MIT Technology Review",
+  "source_id": "mittr",
+  "recommended": true,
+  "date": "2026-10-28T12:10+00:00",
+  "excerpt": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. AI labs are buying data from dead startups to train their models When Keelan Miskell began winding down his crypto…",
+  "tags": [
+   "ai",
+   "fintech"
+  ],
+  "topics": [
+   "ai-race"
+  ],
+  "watch": [],
+  "kinds": [],
+  "round": null,
+  "score": 5,
+  "angles": [
+   "Chi vince la corsa ai modelli, e dove può creare valore un VC early-stage europeo?"
+  ],
+  "first_seen": "2026-10-29T04:52+00:00"
+ },
+ {
+  "id": "85069581580d",
+  "url": "https://www.technologyreview.com/2026/10/28/1147637/pairing-industrial-ai-autonomy-and-human-control/",
+  "title": "Pairing industrial AI autonomy and human control",
+  "source": "MIT Technology Review",
+  "source_id": "mittr",
+  "recommended": true,
+  "date": "2026-10-28T12:00+00:00",
+  "excerpt": "",
+  "tags": [
+   "ai"
+  ],
+  "topics": [
+   "physical-ai"
+  ],
+  "watch": [],
+  "kinds": [],
+  "round": null,
+  "score": 5,
+  "angles": [
+   "L'Europa può vincere nella physical AI, dove contano industria e dati più del software?"
+  ],
+  "first_seen": "2026-10-29T04:52+00:00"
+ },
+ {
+  "id": "e7e83ea532e0",
+  "url": "https://news.crunchbase.com/venture/numeracle-raise-edison-ai-spam-communications-johnson/",
+  "title": "Exclusive: Numeracle Raises $28M To Keep Legitimate Business Calls From Spam Label",
+  "source": "Crunchbase News",
+  "source_id": "crunchbase",
+  "recommended": false,
+  "date": "2026-10-28T12:00+00:00",
+  "excerpt": "Numeracle, a McLean, Virginia-based company that verifies businesses and links their identities to the phone numbers they use to contact customers, has raised $28 million from Edison Partners to help businesses whose calls are incorrectly labeled as spam or…",
+  "tags": [],
+  "topics": [],
+  "watch": [],
+  "kinds": [
+   "round"
+  ],
+  "round": {
+   "amount": "$28M",
+   "musd": 28.0,
+   "stage": null,
+   "company": "Numeracle"
+  },
+  "score": 7,
+  "angles": [
+   "Faresti questo investimento? Chiediti chi è il team, quanto è grande il mercato e se l'azienda può restituire un fondo."
+  ],
+  "first_seen": "2026-10-29T04:52+00:00"
+ },
+ {
+  "id": "348ac2f0ec15",
+  "url": "https://www.eu-startups.com/2026/10/my-grandfather-fell-and-remained-on-the-floor-for-an-entire-day-magic-vision-raises-e600k-for-monitoring-tech/",
+  "title": "“My grandfather fell and remained on the floor for an entire day” – Magic Vision raises €600k for monitoring tech",
+  "source": "EU-Startups",
+  "source_id": "eustartups",
+  "recommended": false,
+  "date": "2026-10-28T11:56+00:00",
+  "excerpt": "Magic Vision, an Italian DeepTech startup developing AI and computer vision technologies to monitor and support older people and vulnerable individuals, has closed a €600k funding round. Investors include SixS, the Italian company behind Gecos, a management…",
+  "tags": [
+   "ai",
+   "deep-tech",
+   "italia"
+  ],
+  "topics": [
+   "climate-capex",
+   "italia-ambizione"
+  ],
+  "watch": [],
+  "kinds": [
+   "round"
+  ],
+  "round": {
+   "amount": "€0.6M",
+   "musd": 0.66,
+   "stage": null,
+   "company": "Magic Vision"
+  },
+  "score": 13,
+  "angles": [
+   "Come trattiene l'Europa le aziende deep tech che hanno bisogno di round enormi?",
+   "Faresti questo investimento? Chiediti chi è il team, quanto è grande il mercato e se l'azienda può restituire un fondo."
+  ],
+  "first_seen": "2026-10-29T04:52+00:00"
+ },
+ {
+  "id": "4bf1949939e1",
+  "url": "https://www.eu-startups.com/2026/10/opinion-scaling-is-the-real-test-of-europes-ai-boom/",
+  "title": "OPINION: Scaling is the real test of Europe’s AI boom",
+  "source": "EU-Startups",
+  "source_id": "eustartups",
+  "recommended": false,
+  "date": "2026-10-28T11:04+00:00",
+  "excerpt": "Europe’s AI funding boom is not benefiting every part of the market equally. Recorded Series A–C investment rose by approximately 66% in the first nine months of 2026, yet funding in rounds worth €22.2 million to less than €88.9 million declined by around 8%…",
+  "tags": [
+   "ai",
+   "europa"
+  ],
+  "topics": [],
+  "watch": [],
+  "kinds": [
+   "round"
+  ],
+  "round": {
+   "amount": "€22.2M",
+   "musd": 24.42,
+   "stage": "Series A",
+   "company": null
+  },
+  "score": 9,
+  "angles": [
+   "Faresti questo investimento? Chiediti chi è il team, quanto è grande il mercato e se l'azienda può restituire un fondo."
+  ],
+  "first_seen": "2026-10-29T04:52+00:00"
+ },
+ {
+  "id": "faa3938a7e19",
+  "url": "https://news.crunchbase.com/ma/grow-revenue-lose-enterprise-value-sagie/",
+  "title": "The Invisible Graph: How Companies Grow Revenue And Still Lose Value",
+  "source": "Crunchbase News",
+  "source_id": "crunchbase",
+  "recommended": false,
+  "date": "2026-10-28T11:00+00:00",
+  "excerpt": "Revenue growth does not guarantee a larger exit, as declining valuation multiples can outweigh operating gains and reduce enterprise value. Guest author Itay Sagie suggests that founders and boards should track valuation alongside financial performance, model…",
+  "tags": [],
+  "topics": [
+   "vc-vs-pe"
+  ],
+  "watch": [],
+  "kinds": [],
+  "round": null,
+  "score": 4,
+  "angles": [
+   "Che tipo di investitore deve essere un VC per vincere i deal migliori?"
+  ],
+  "first_seen": "2026-10-29T04:52+00:00"
+ },
+ {
+  "id": "138b4764fa92",
+  "url": "https://news.crunchbase.com/startups/nontech-founder-government-ai-software-chen-fsh/",
+  "title": "From Monk To Startups: One Founder’s Unusual Path To Building Government Software",
+  "source": "Crunchbase News",
+  "source_id": "crunchbase",
+  "recommended": false,
+  "date": "2026-10-28T11:00+00:00",
+  "excerpt": "After living as a monk while managing Graves’ disease, a former Facebook engineer left Big Tech to pursue meaningful work, eventually founding government software startup FSH Technologies which aims to improve processes such as school food services and public…",
+  "tags": [
+   "policy"
+  ],
+  "topics": [
+   "nvidia-vc"
+  ],
+  "watch": [],
+  "kinds": [],
+  "round": null,
+  "score": 4,
+  "angles": [
+   "Le Big Tech che investono nelle startup accelerano il mercato o lo distorcono?"
+  ],
+  "first_seen": "2026-10-29T04:52+00:00"
+ },
+ {
+  "id": "7e63571db483",
+  "url": "https://sifted.eu/articles/how-to-expand-into-new-markets/",
+  "title": "How to expand into new markets",
+  "source": "Sifted",
+  "source_id": "sifted",
+  "recommended": true,
+  "date": "2026-10-28T10:40+00:00",
+  "excerpt": "",
+  "tags": [],
+  "topics": [],
+  "watch": [],
+  "kinds": [],
+  "round": null,
+  "score": 3,
+  "angles": [],
+  "first_seen": "2026-10-29T04:52+00:00"
+ },
+ {
+  "id": "793bc05a2bc8",
+  "url": "https://sifted.eu/articles/best-linkedin-photo-in-european-tech/",
+  "title": "Who has the best LinkedIn photo in European tech?",
+  "source": "Sifted",
+  "source_id": "sifted",
+  "recommended": true,
+  "date": "2026-10-28T10:35+00:00",
+  "excerpt": "",
+  "tags": [
+   "europa"
+  ],
+  "topics": [
+   "europa-usa"
+  ],
+  "watch": [],
+  "kinds": [],
+  "round": null,
+  "score": 7,
+  "angles": [
+   "Perché l'Europa produce meno exit grandi, e cosa servirebbe per cambiare?"
+  ],
+  "first_seen": "2026-10-29T04:52+00:00"
+ },
+ {
+  "id": "e70dccd42811",
+  "url": "https://www.eu-startups.com/2026/10/londons-ap-ventures-closes-e269-million-third-fund-to-back-early-stage-industrial-and-energy-tech-startups/",
+  "title": "London’s AP Ventures closes €269.62 million third fund to back early-stage industrial and energy tech startups",
+  "source": "EU-Startups",
+  "source_id": "eustartups",
+  "recommended": false,
+  "date": "2026-10-28T10:13+00:00",
+  "excerpt": "AP Ventures, a London-based independent VC firm investing in early-stage industrial and energy technologies, today announced the final close of AP Ventures Fund III LP (Fund III). The VC firm has raised €269.62 million ($300 million) in commitments for Fund…",
+  "tags": [
+   "climate",
+   "europa"
+  ],
+  "topics": [
+   "vc-vs-pe"
+  ],
+  "watch": [],
+  "kinds": [
+   "fondi"
+  ],
+  "round": {
+   "amount": "€270M",
+   "musd": 296.58,
+   "stage": null,
+   "company": null
+  },
+  "score": 11,
+  "angles": [
+   "Che tipo di investitore deve essere un VC per vincere i deal migliori?",
+   "Cosa dice questa raccolta sull'appetito degli LP per il venture capital in questo momento?"
+  ],
+  "first_seen": "2026-10-29T04:52+00:00"
+ },
+ {
+  "id": "0f9667b0405c",
+  "url": "https://www.eu-startups.com/2026/10/as-merz-visits-japan-energy-startup-proxima-fusion-moves-to-secure-germanys-place-in-the-global-fusion-race/",
+  "title": "As Merz visits Japan, energy startup Proxima Fusion moves to secure Germany’s place in the global fusion race",
+  "source": "EU-Startups",
+  "source_id": "eustartups",
+  "recommended": false,
+  "date": "2026-10-28T09:51+00:00",
+  "excerpt": "Proxima Fusion, a German stellarator fusion company, has today signed a Memorandum of Understanding (MoU) in Japan to strengthen the industrial supply chain behind Germany’s ambition to become a global leader in fusion energy. The MoU was signed during…",
+  "tags": [
+   "deep-tech",
+   "climate",
+   "europa"
+  ],
+  "topics": [
+   "climate-capex"
+  ],
+  "watch": [],
+  "kinds": [],
+  "round": null,
+  "score": 6,
+  "angles": [
+   "Come trattiene l'Europa le aziende deep tech che hanno bisogno di round enormi?"
+  ],
+  "first_seen": "2026-10-29T04:52+00:00"
+ },
+ {
+  "id": "133f06311771",
+  "url": "https://www.eu-startups.com/2026/10/polands-autofixer-raises-e3-million-in-venture-debt-to-scale-its-online-car-parts-platform/",
+  "title": "Poland’s Autofixer raises €3 million in venture debt to scale its online car parts platform",
+  "source": "EU-Startups",
+  "source_id": "eustartups",
+  "recommended": false,
+  "date": "2026-10-28T07:34+00:00",
+  "excerpt": "Autofixer, a Polish online car parts platform, has raised €3 million in venture debt financing to expand further across Europe, develop its platform and grow its team. The financing came from Orbit Capital, a growth-stage venture debt and growth equity firm…",
+  "tags": [
+   "europa"
+  ],
+  "topics": [
+   "europa-usa"
+  ],
+  "watch": [],
+  "kinds": [
+   "round"
+  ],
+  "round": {
+   "amount": "€3M",
+   "musd": 3.3,
+   "stage": null,
+   "company": "Autofixer"
+  },
+  "score": 10,
+  "angles": [
+   "Perché l'Europa produce meno exit grandi, e cosa servirebbe per cambiare?",
+   "Faresti questo investimento? Chiediti chi è il team, quanto è grande il mercato e se l'azienda può restituire un fondo."
+  ],
+  "first_seen": "2026-10-29T04:52+00:00"
+ },
+ {
+  "id": "40f9f5f87f3a",
+  "url": "https://www.eu-startups.com/2026/10/barcelonas-artiso-raises-over-e3-million-to-scale-its-ai-operating-system-for-fashion-teams/",
+  "title": "Barcelona’s Artiso raises over €3 million to scale its AI operating system for fashion teams",
+  "source": "EU-Startups",
+  "source_id": "eustartups",
+  "recommended": false,
+  "date": "2026-10-28T07:00+00:00",
+  "excerpt": "Artiso, a Barcelona-based FashionTech startup building an AI operating system built for fashion teams, has raised more than €3 million in a fully equity pre-Seed round. Criteria Venture Tech led the round and has supported the company since it emerged from…",
+  "tags": [
+   "ai",
+   "europa"
+  ],
+  "topics": [],
+  "watch": [],
+  "kinds": [
+   "round"
+  ],
+  "round": {
+   "amount": "€3M",
+   "musd": 3.3,
+   "stage": "Pre-seed",
+   "company": "Artiso"
+  },
+  "score": 8,
+  "angles": [
+   "Faresti questo investimento? Chiediti chi è il team, quanto è grande il mercato e se l'azienda può restituire un fondo."
+  ],
+  "first_seen": "2026-10-29T04:52+00:00"
+ },
+ {
+  "id": "6855df7d26be",
+  "url": "https://www.eu-startups.com/2026/10/danish-biotech-samplix-secures-e25-million-in-first-close-of-financing-round-to-scale-antibody-discovery/",
+  "title": "Danish BioTech Samplix secures €25 million in first close of financing round to scale antibody discovery",
+  "source": "EU-Startups",
+  "source_id": "eustartups",
+  "recommended": false,
+  "date": "2026-10-28T06:31+00:00",
+  "excerpt": "Samplix, a Danish BioTech company developing droplet microfluidics technology for functional single-cell analysis, has announced a €25 million first closing of a financing round. The financing comprises €3 million in new capital and €22 million in shareholder…",
+  "tags": [
+   "deep-tech",
+   "europa"
+  ],
+  "topics": [],
+  "watch": [],
+  "kinds": [
+   "round"
+  ],
+  "round": {
+   "amount": "€25M",
+   "musd": 27.5,
+   "stage": "First Close",
+   "company": "Danish BioTech Samplix"
+  },
+  "score": 9,
+  "angles": [
+   "Faresti questo investimento? Chiediti chi è il team, quanto è grande il mercato e se l'azienda può restituire un fondo."
+  ],
+  "first_seen": "2026-10-29T04:52+00:00"
+ },
+ {
+  "id": "25acbdd9cf7e",
+  "url": "https://sifted.eu/articles/climate-tech-growth/",
+  "title": "The climate tech startups still growing despite the funding slowdown",
+  "source": "Sifted",
+  "source_id": "sifted",
+  "recommended": true,
+  "date": "2026-10-28T05:00+00:00",
+  "excerpt": "",
+  "tags": [
+   "climate"
+  ],
+  "topics": [
+   "climate-capex"
+  ],
+  "watch": [],
+  "kinds": [],
+  "round": null,
+  "score": 5,
+  "angles": [
+   "Come trattiene l'Europa le aziende deep tech che hanno bisogno di round enormi?"
+  ],
+  "first_seen": "2026-10-29T04:52+00:00"
+ },
+ {
+  "id": "e9e29d1b31e3",
+  "url": "https://sifted.eu/articles/lovable-employee-share-sale/",
+  "title": "Exclusive: Lovable offers employees $80m cash-out at $13.3bn valuation",
+  "source": "Sifted",
+  "source_id": "sifted",
+  "recommended": true,
+  "date": "2026-10-28T05:00+00:00",
+  "excerpt": "",
+  "tags": [],
+  "topics": [
+   "vc-vs-pe"
+  ],
+  "watch": [],
+  "kinds": [],
+  "round": null,
+  "score": 5,
+  "angles": [
+   "Che tipo di investitore deve essere un VC per vincere i deal migliori?"
+  ],
+  "first_seen": "2026-10-29T04:52+00:00"
+ },
+ {
+  "id": "970a1fd7a329",
+  "url": "https://sifted.eu/articles/how-to-fund-your-robotics-company/",
+  "title": "How to fund your robotics company: not another fundraise",
+  "source": "Sifted",
+  "source_id": "sifted",
+  "recommended": true,
+  "date": "2026-10-28T05:00+00:00",
+  "excerpt": "",
+  "tags": [
+   "deep-tech"
+  ],
+  "topics": [
+   "physical-ai",
+   "vc-vs-pe"
+  ],
+  "watch": [],
+  "kinds": [],
+  "round": null,
+  "score": 7,
+  "angles": [
+   "L'Europa può vincere nella physical AI, dove contano industria e dati più del software?"
+  ],
+  "first_seen": "2026-10-29T04:52+00:00"
+ },
+ {
   "id": "1b16f2a2a47a",
   "url": "https://techcrunch.com/2026/10/27/vcs-will-make-billions-on-anthropics-ipo-but-amazon-is-set-to-make-much-much-more/",
   "title": "VCs will make billions on Anthropic’s IPO, but Amazon is set to make much (much) more",
