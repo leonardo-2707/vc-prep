@@ -1,5 +1,781 @@
 [
  {
+  "id": "20fcd8c5d7b0",
+  "url": "https://techcrunch.com/2026/10/29/andy-jassy-says-prime-video-is-on-track-to-earn-tens-of-billions-of-dollars/",
+  "title": "Andy Jassy says Prime Video is on track to earn ‘tens of billions of dollars’",
+  "source": "TechCrunch",
+  "source_id": "techcrunch",
+  "recommended": true,
+  "date": "2026-10-29T23:44+00:00",
+  "excerpt": "The success of blockbuster hits like Project Hail Mary and Verity is only part of the story, Amazon's CEO says.",
+  "tags": [],
+  "topics": [
+   "nvidia-vc"
+  ],
+  "watch": [],
+  "kinds": [],
+  "round": null,
+  "score": 5,
+  "angles": [
+   "Le Big Tech che investono nelle startup accelerano il mercato o lo distorcono?"
+  ],
+  "first_seen": "2026-10-30T04:52+00:00"
+ },
+ {
+  "id": "720b04b8c5b9",
+  "url": "https://techcrunch.com/2026/10/29/aws-will-be-a-1t-business-jassy-says-but-first-it-will-spend-big/",
+  "title": "AWS will be a $1T business, Jassy says. But first, it will spend big.",
+  "source": "TechCrunch",
+  "source_id": "techcrunch",
+  "recommended": true,
+  "date": "2026-10-29T23:42+00:00",
+  "excerpt": "Amazon wants to be the king of AI cloud computing and become the first $1 trillion revenue business. But to do that it will have to continue on its capex spending spree, its CEO said Thursday.",
+  "tags": [
+   "ai"
+  ],
+  "topics": [
+   "nvidia-vc"
+  ],
+  "watch": [],
+  "kinds": [],
+  "round": null,
+  "score": 5,
+  "angles": [
+   "Le Big Tech che investono nelle startup accelerano il mercato o lo distorcono?"
+  ],
+  "first_seen": "2026-10-30T04:52+00:00"
+ },
+ {
+  "id": "88e0d9f027a1",
+  "url": "https://techcrunch.com/2026/10/29/amazon-reported-booming-cloud-revenue-but-otherwise-missed-expectations/",
+  "title": "Amazon reported booming cloud revenue but otherwise missed expectations",
+  "source": "TechCrunch",
+  "source_id": "techcrunch",
+  "recommended": true,
+  "date": "2026-10-29T21:20+00:00",
+  "excerpt": "The biggest ouch of the report was its negative free cash flow of $2.4 billion.",
+  "tags": [],
+  "topics": [
+   "nvidia-vc"
+  ],
+  "watch": [],
+  "kinds": [],
+  "round": null,
+  "score": 5,
+  "angles": [
+   "Le Big Tech che investono nelle startup accelerano il mercato o lo distorcono?"
+  ],
+  "first_seen": "2026-10-30T04:52+00:00"
+ },
+ {
+  "id": "4db20898e948",
+  "url": "https://techcrunch.com/2026/10/29/openai-backed-thrive-holdings-acquires-adt/",
+  "title": "OpenAI-backed Thrive Holdings acquires ADT",
+  "source": "TechCrunch",
+  "source_id": "techcrunch-venture",
+  "recommended": true,
+  "date": "2026-10-29T19:56+00:00",
+  "excerpt": "OpenAI-backed Thrive Holdings is buying ADT in a $15.3 billion deal, with plans to bring AI to the home security business.",
+  "tags": [
+   "ai"
+  ],
+  "topics": [
+   "ai-race"
+  ],
+  "watch": [],
+  "kinds": [
+   "round",
+   "exit"
+  ],
+  "round": {
+   "amount": "$15.3B",
+   "musd": 15300.0,
+   "stage": null,
+   "company": null
+  },
+  "score": 14,
+  "angles": [
+   "Chi vince la corsa ai modelli, e dove può creare valore un VC early-stage europeo?",
+   "Faresti questo investimento? Chiediti chi è il team, quanto è grande il mercato e se l'azienda può restituire un fondo."
+  ],
+  "first_seen": "2026-10-30T04:52+00:00"
+ },
+ {
+  "id": "23e63926ccea",
+  "url": "https://techcrunch.com/2026/10/29/mistral-releases-weights-for-its-trillion-parameter-ai-model-targeting-cybersecurity/",
+  "title": "Mistral releases weights for its trillion-parameter AI model, targeting cybersecurity",
+  "source": "TechCrunch",
+  "source_id": "techcrunch",
+  "recommended": true,
+  "date": "2026-10-29T17:00+00:00",
+  "excerpt": "Mistral says its new model can afford organizations a kind of control over its cyber defenses that closed models can't.",
+  "tags": [
+   "ai"
+  ],
+  "topics": [
+   "ai-race"
+  ],
+  "watch": [],
+  "kinds": [],
+  "round": null,
+  "score": 5,
+  "angles": [
+   "Chi vince la corsa ai modelli, e dove può creare valore un VC early-stage europeo?"
+  ],
+  "first_seen": "2026-10-30T04:52+00:00"
+ },
+ {
+  "id": "a9493e03c65c",
+  "url": "https://techcrunch.com/2026/10/29/u-s-investigated-chinese-spy-plot-aimed-at-nvidia-ceo/",
+  "title": "US investigated Chinese spy plot aimed at Nvidia CEO",
+  "source": "TechCrunch",
+  "source_id": "techcrunch",
+  "recommended": true,
+  "date": "2026-10-29T16:42+00:00",
+  "excerpt": "A top executive of a Singapore AI cloud company that was accused of illegally selling Nvidia chips to China could also have been a Chinese spy, sources have told the New York Times.",
+  "tags": [
+   "ai",
+   "deep-tech",
+   "usa"
+  ],
+  "topics": [
+   "nvidia-vc"
+  ],
+  "watch": [],
+  "kinds": [],
+  "round": null,
+  "score": 5,
+  "angles": [
+   "Le Big Tech che investono nelle startup accelerano il mercato o lo distorcono?"
+  ],
+  "first_seen": "2026-10-30T04:52+00:00"
+ },
+ {
+  "id": "4dcfcc0d1943",
+  "url": "https://techcrunch.com/2026/10/29/ex-palantir-execs-launch-dream-with-17m-from-a16z-to-build-ai-world-models-for-construction/",
+  "title": "Ex-Palantir execs launch Dream with $17M from a16z to build AI world models for construction",
+  "source": "TechCrunch",
+  "source_id": "techcrunch-venture",
+  "recommended": true,
+  "date": "2026-10-29T16:21+00:00",
+  "excerpt": "Dream is grounded in real physics and construction standards. Just as LLMs learn from text, Dream's world model is trained on more than 100 million square feet of building data gathered from permit archives across the United States.",
+  "tags": [
+   "ai",
+   "usa"
+  ],
+  "topics": [
+   "ai-race"
+  ],
+  "watch": [],
+  "kinds": [],
+  "round": null,
+  "score": 5,
+  "angles": [
+   "Chi vince la corsa ai modelli, e dove può creare valore un VC early-stage europeo?"
+  ],
+  "first_seen": "2026-10-30T04:52+00:00"
+ },
+ {
+  "id": "d626a55e5125",
+  "url": "https://techcrunch.com/2026/10/29/superme-raises-20m-for-its-network-of-ai-expert-profiles/",
+  "title": "SuperMe raises $20M for its network of AI expert profiles",
+  "source": "TechCrunch",
+  "source_id": "techcrunch",
+  "recommended": true,
+  "date": "2026-10-29T16:19+00:00",
+  "excerpt": "SuperMe is a network of AI profiles built from the knowledge of real-life experts. When you ask a question, the platform determines which experts are best suited to answer and creates a group chat with their AI profiles.",
+  "tags": [
+   "ai"
+  ],
+  "topics": [],
+  "watch": [],
+  "kinds": [
+   "round"
+  ],
+  "round": {
+   "amount": "$20M",
+   "musd": 20.0,
+   "stage": null,
+   "company": "SuperMe"
+  },
+  "score": 8,
+  "angles": [
+   "Faresti questo investimento? Chiediti chi è il team, quanto è grande il mercato e se l'azienda può restituire un fondo."
+  ],
+  "first_seen": "2026-10-30T04:52+00:00"
+ },
+ {
+  "id": "170fd49c2519",
+  "url": "https://sifted.eu/articles/uk-budget-alex-depledge-advisor-startups/",
+  "title": "‘There’s no magic money tree’: Alex Depledge on the Budget, startup lobbying and why she left the UK government",
+  "source": "Sifted",
+  "source_id": "sifted",
+  "recommended": true,
+  "date": "2026-10-29T15:52+00:00",
+  "excerpt": "",
+  "tags": [
+   "europa",
+   "policy"
+  ],
+  "topics": [],
+  "watch": [],
+  "kinds": [],
+  "round": null,
+  "score": 5,
+  "angles": [],
+  "first_seen": "2026-10-30T04:52+00:00"
+ },
+ {
+  "id": "1f0a53dc9ed6",
+  "url": "https://www.eu-startups.com/2026/10/tool-that-identifies-ai-generated-material-helps-pixel-systems-raise-e2-7-million/",
+  "title": "Tool that identifies AI-generated material helps Pixel Systems raise €2.7 million",
+  "source": "EU-Startups",
+  "source_id": "eustartups",
+  "recommended": false,
+  "date": "2026-10-29T15:10+00:00",
+  "excerpt": "Swedish AI startup Pixel Systems has raised €2.7 million ($3.1 million) in a Seed round to accelerate their commercial initiatives and continue building the technology that helps identify AI-generated and manipulated images, documents, and other digital…",
+  "tags": [
+   "ai",
+   "europa"
+  ],
+  "topics": [],
+  "watch": [],
+  "kinds": [
+   "round"
+  ],
+  "round": {
+   "amount": "€2.7M",
+   "musd": 2.97,
+   "stage": "Seed",
+   "company": null
+  },
+  "score": 8,
+  "angles": [
+   "Faresti questo investimento? Chiediti chi è il team, quanto è grande il mercato e se l'azienda può restituire un fondo."
+  ],
+  "first_seen": "2026-10-30T04:52+00:00"
+ },
+ {
+  "id": "57297bcc76d2",
+  "url": "https://www.eu-startups.com/2026/10/opinion-your-product-is-no-longer-a-competitive-advantage/",
+  "title": "OPINION: Your product is no longer a competitive advantage",
+  "source": "EU-Startups",
+  "source_id": "eustartups",
+  "recommended": false,
+  "date": "2026-10-29T14:50+00:00",
+  "excerpt": "A friend of mine runs a company that builds software for other companies. He has the same problem in most sales meetings. He shows what the system can do, the prospect leans forward and asks how it works, and my friend, who is not daft, goes slightly vague…",
+  "tags": [],
+  "topics": [],
+  "watch": [],
+  "kinds": [],
+  "round": null,
+  "score": 2,
+  "angles": [],
+  "first_seen": "2026-10-30T04:52+00:00"
+ },
+ {
+  "id": "228abc979b5c",
+  "url": "https://sifted.eu/articles/exclusive-fractile-series-c/",
+  "title": "Exclusive: Fractile raises £540m in new Series C funding, filings show",
+  "source": "Sifted",
+  "source_id": "sifted",
+  "recommended": true,
+  "date": "2026-10-29T13:51+00:00",
+  "excerpt": "",
+  "tags": [],
+  "topics": [],
+  "watch": [],
+  "kinds": [
+   "round"
+  ],
+  "round": {
+   "amount": "£540M",
+   "musd": 702.0,
+   "stage": "Series C",
+   "company": "Fractile"
+  },
+  "score": 9,
+  "angles": [
+   "Faresti questo investimento? Chiediti chi è il team, quanto è grande il mercato e se l'azienda può restituire un fondo."
+  ],
+  "first_seen": "2026-10-30T04:52+00:00"
+ },
+ {
+  "id": "a02958f8b3c2",
+  "url": "https://www.eu-startups.com/2026/10/french-startup-bleu-robotics-secures-e5-million-to-teach-humanoid-robots-new-tasks-with-fewer-demonstrations/",
+  "title": "French startup Bleu Robotics secures €5 million to teach humanoid robots new tasks with fewer demonstrations",
+  "source": "EU-Startups",
+  "source_id": "eustartups",
+  "recommended": false,
+  "date": "2026-10-29T12:35+00:00",
+  "excerpt": "Bleu Robotics, a Paris-based startup building AI models for industrial humanoid robots, has raised a €5 million pre-Seed round, to reach its goal of reducing the full humanoid robot deployment process to one hour or shorter. The round was co-led by Contrarian…",
+  "tags": [
+   "ai",
+   "deep-tech",
+   "europa"
+  ],
+  "topics": [
+   "ai-race",
+   "physical-ai"
+  ],
+  "watch": [],
+  "kinds": [
+   "round"
+  ],
+  "round": {
+   "amount": "€5M",
+   "musd": 5.5,
+   "stage": "Pre-seed",
+   "company": "Bleu Robotics"
+  },
+  "score": 12,
+  "angles": [
+   "Chi vince la corsa ai modelli, e dove può creare valore un VC early-stage europeo?",
+   "Faresti questo investimento? Chiediti chi è il team, quanto è grande il mercato e se l'azienda può restituire un fondo."
+  ],
+  "first_seen": "2026-10-30T04:52+00:00"
+ },
+ {
+  "id": "893bdc0ab4ed",
+  "url": "https://www.technologyreview.com/2026/10/29/1147830/the-download-monitoring-ai-agents-climate-feedback-loops/",
+  "title": "The Download: AI agent tracking and climate feedback loops",
+  "source": "MIT Technology Review",
+  "source_id": "mittr",
+  "recommended": true,
+  "date": "2026-10-29T12:10+00:00",
+  "excerpt": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Opinion: We urgently need to monitor AI agents’ actions in real time —Madhulika Srikumar and Claire Leibowicz from the…",
+  "tags": [
+   "ai",
+   "climate"
+  ],
+  "topics": [
+   "climate-capex"
+  ],
+  "watch": [],
+  "kinds": [],
+  "round": null,
+  "score": 5,
+  "angles": [
+   "Come trattiene l'Europa le aziende deep tech che hanno bisogno di round enormi?"
+  ],
+  "first_seen": "2026-10-30T04:52+00:00"
+ },
+ {
+  "id": "6274feddaaa3",
+  "url": "https://www.eu-startups.com/2026/10/strollme-bags-e22-million-to-put-more-bikes-strollers-and-car-seats-into-european-homes/",
+  "title": "StrollMe bags €22 million to put more bikes, strollers and car seats into European homes",
+  "source": "EU-Startups",
+  "source_id": "eustartups",
+  "recommended": false,
+  "date": "2026-10-29T11:45+00:00",
+  "excerpt": "Strollme, a German provider of children’s mobility on subscription, has secured €22 million in equity and debt financing to support their growth in its existing markets and lay the foundation for future expansion into other European countries. Existing…",
+  "tags": [
+   "europa"
+  ],
+  "topics": [],
+  "watch": [],
+  "kinds": [
+   "round"
+  ],
+  "round": {
+   "amount": "€22M",
+   "musd": 24.2,
+   "stage": null,
+   "company": "StrollMe"
+  },
+  "score": 9,
+  "angles": [
+   "Faresti questo investimento? Chiediti chi è il team, quanto è grande il mercato e se l'azienda può restituire un fondo."
+  ],
+  "first_seen": "2026-10-30T04:52+00:00"
+ },
+ {
+  "id": "0ed23134771e",
+  "url": "https://news.crunchbase.com/venture/seriesb-startup-funding-up-deals-down-ai-prometheus/",
+  "title": "Series B Funding Is Up, But Fewer Deals Are Getting Done",
+  "source": "Crunchbase News",
+  "source_id": "crunchbase",
+  "recommended": false,
+  "date": "2026-10-29T11:00+00:00",
+  "excerpt": "Crunchbase data shows that so far this year, investors have poured around $48 billion into financings around the Series B stage, the highest tally in years. Yet round counts are below year-ago levels and are on track for a multiyear low. We take a look at the…",
+  "tags": [],
+  "topics": [],
+  "watch": [],
+  "kinds": [
+   "round"
+  ],
+  "round": {
+   "amount": "$48B",
+   "musd": 48000.0,
+   "stage": "Series B",
+   "company": null
+  },
+  "score": 8,
+  "angles": [
+   "Faresti questo investimento? Chiediti chi è il team, quanto è grande il mercato e se l'azienda può restituire un fondo."
+  ],
+  "first_seen": "2026-10-30T04:52+00:00"
+ },
+ {
+  "id": "c34e72482a6e",
+  "url": "https://news.crunchbase.com/seed/jumbo-seriesa-squeeze-seed-startup-funding-schroder-mgv/",
+  "title": "Jumbo Series A Rounds Hiding The Real Squeeze On Seed Startups",
+  "source": "Crunchbase News",
+  "source_id": "crunchbase",
+  "recommended": false,
+  "date": "2026-10-29T11:00+00:00",
+  "excerpt": "AI megarounds are masking a shrinking Series A market, leaving seed founders facing higher revenue expectations and longer timelines despite larger seed checks. To improve their chances, MGV's Marc Schröder says, founders should size their seed funding around…",
+  "tags": [
+   "ai"
+  ],
+  "topics": [],
+  "watch": [],
+  "kinds": [
+   "round"
+  ],
+  "round": {
+   "amount": null,
+   "musd": null,
+   "stage": "Series A",
+   "company": null
+  },
+  "score": 6,
+  "angles": [
+   "Faresti questo investimento? Chiediti chi è il team, quanto è grande il mercato e se l'azienda può restituire un fondo."
+  ],
+  "first_seen": "2026-10-30T04:52+00:00"
+ },
+ {
+  "id": "24f676feeb3a",
+  "url": "https://www.technologyreview.com/2026/10/29/1147824/monitor-ai-agents-actions-real-time/",
+  "title": "We urgently need to monitor AI agents’ actions in real time",
+  "source": "MIT Technology Review",
+  "source_id": "mittr",
+  "recommended": true,
+  "date": "2026-10-29T10:11+00:00",
+  "excerpt": "This summer, hundreds of OpenAI agents tried to cheat on a cybersecurity test. They broke out of their test environment and successfully hacked Hugging Face, a site that they believed held clues about how they’d be graded. Around the same time, another OpenAI…",
+  "tags": [
+   "ai"
+  ],
+  "topics": [
+   "ai-race"
+  ],
+  "watch": [],
+  "kinds": [],
+  "round": null,
+  "score": 5,
+  "angles": [
+   "Chi vince la corsa ai modelli, e dove può creare valore un VC early-stage europeo?"
+  ],
+  "first_seen": "2026-10-30T04:52+00:00"
+ },
+ {
+  "id": "80723490c958",
+  "url": "https://www.technologyreview.com/2026/10/29/1147735/climate-models-blind-spot/",
+  "title": "Our climate models have a big, dangerous blind spot",
+  "source": "MIT Technology Review",
+  "source_id": "mittr",
+  "recommended": true,
+  "date": "2026-10-29T10:00+00:00",
+  "excerpt": "Climate change itself is increasingly fueling climate change. Rising concentrations of greenhouse gases are driving up global temperatures, setting off dangerous feedback loops that we have not fully accounted for in our climate models—or our…",
+  "tags": [
+   "climate"
+  ],
+  "topics": [
+   "climate-capex"
+  ],
+  "watch": [],
+  "kinds": [],
+  "round": null,
+  "score": 5,
+  "angles": [
+   "Come trattiene l'Europa le aziende deep tech che hanno bisogno di round enormi?"
+  ],
+  "first_seen": "2026-10-30T04:52+00:00"
+ },
+ {
+  "id": "2e62a5d5db47",
+  "url": "https://www.eu-startups.com/2026/10/pieterjan-boutens-entourage-closes-e100-million-second-fund-after-surpassing-e75-million-target-in-two-weeks/",
+  "title": "Pieterjan Bouten’s Entourage closes €100 million second fund after surpassing €75 million target in two weeks",
+  "source": "EU-Startups",
+  "source_id": "eustartups",
+  "recommended": false,
+  "date": "2026-10-29T10:00+00:00",
+  "excerpt": "Entourage, the London-based early-stage VC firm founded by Showpad co-founder and former CEO Pieterjan Bouten, today announced the close of its €100 million second fund, just over two years after launching its first fund in 2024. Entourage Fund II has been…",
+  "tags": [
+   "europa"
+  ],
+  "topics": [
+   "vc-vs-pe"
+  ],
+  "watch": [],
+  "kinds": [
+   "fondi"
+  ],
+  "round": {
+   "amount": "€100M",
+   "musd": 110.0,
+   "stage": null,
+   "company": null
+  },
+  "score": 11,
+  "angles": [
+   "Che tipo di investitore deve essere un VC per vincere i deal migliori?",
+   "Cosa dice questa raccolta sull'appetito degli LP per il venture capital in questo momento?"
+  ],
+  "first_seen": "2026-10-30T04:52+00:00"
+ },
+ {
+  "id": "6fd97e08712c",
+  "url": "https://www.eu-startups.com/2026/10/exclusive-freiburgs-vuse-xr-raises-e1-2-million-to-bring-ai-powered-mixed-reality-training-to-enterprises/",
+  "title": "EXCLUSIVE: Freiburg’s VUSE XR raises €1.2 million to bring AI-powered mixed reality training to enterprises",
+  "source": "EU-Startups",
+  "source_id": "eustartups",
+  "recommended": false,
+  "date": "2026-10-29T08:01+00:00",
+  "excerpt": "VUSE XR, a Freiburg-based startup developing enterprise software for mixed reality training, today announced the closing of a €1.2 million pre-Seed financing round. The round was led by IACD, a Düsseldorf-based business angel network, with additional…",
+  "tags": [
+   "ai"
+  ],
+  "topics": [],
+  "watch": [],
+  "kinds": [
+   "round"
+  ],
+  "round": {
+   "amount": "€1.2M",
+   "musd": 1.32,
+   "stage": "Pre-seed",
+   "company": "VUSE XR"
+  },
+  "score": 6,
+  "angles": [
+   "Faresti questo investimento? Chiediti chi è il team, quanto è grande il mercato e se l'azienda può restituire un fondo."
+  ],
+  "first_seen": "2026-10-30T04:52+00:00"
+ },
+ {
+  "id": "0917850341e1",
+  "url": "https://www.eu-startups.com/2026/10/auriga-partners-reaches-e80-million-interim-close-for-second-fund-dedicated-to-cybersecurity/",
+  "title": "Auriga Partners reaches €80 million interim close for second fund dedicated to cybersecurity",
+  "source": "EU-Startups",
+  "source_id": "eustartups",
+  "recommended": false,
+  "date": "2026-10-29T07:29+00:00",
+  "excerpt": "Auriga Partners, a Paris-based asset management firm specialising in venture capital and innovation investment, has announced an €80 million interim close for Auriga Cyber Ventures II, its second fund dedicated exclusively to cybersecurity. Auriga Cyber…",
+  "tags": [
+   "europa"
+  ],
+  "topics": [],
+  "watch": [],
+  "kinds": [
+   "fondi"
+  ],
+  "round": {
+   "amount": "€80M",
+   "musd": 88.0,
+   "stage": null,
+   "company": null
+  },
+  "score": 9,
+  "angles": [
+   "Cosa dice questa raccolta sull'appetito degli LP per il venture capital in questo momento?"
+  ],
+  "first_seen": "2026-10-30T04:52+00:00"
+ },
+ {
+  "id": "da8c8f67063e",
+  "url": "https://www.eu-startups.com/2026/10/profitable-dutch-startup-braid-raises-e34-12-to-help-brands-launch-their-own-mobile-connectivity/",
+  "title": "Profitable Dutch startup Braid raises €34.13 million to help brands launch their own mobile connectivity",
+  "source": "EU-Startups",
+  "source_id": "eustartups",
+  "recommended": false,
+  "date": "2026-10-29T06:14+00:00",
+  "excerpt": "Braid, a Dutch company that enables enterprises to launch their own branded mobile connectivity, has raised €34.13 million ($38 million) in a Series A funding round. The company also announced its rebrand from Next Communications. The raise marks the…",
+  "tags": [
+   "europa"
+  ],
+  "topics": [],
+  "watch": [],
+  "kinds": [
+   "round"
+  ],
+  "round": {
+   "amount": "€34.1M",
+   "musd": 37.54,
+   "stage": "Series A",
+   "company": "Braid"
+  },
+  "score": 9,
+  "angles": [
+   "Faresti questo investimento? Chiediti chi è il team, quanto è grande il mercato e se l'azienda può restituire un fondo."
+  ],
+  "first_seen": "2026-10-30T04:52+00:00"
+ },
+ {
+  "id": "57660f1e58a8",
+  "url": "https://sifted.eu/articles/exclusive-deeptech-startup-muray-raises-e7-1m-to-see-inside-rocket-engines/",
+  "title": "Exclusive: Deeptech startup MuRay raises €7.1m to see inside rocket engines",
+  "source": "Sifted",
+  "source_id": "sifted",
+  "recommended": true,
+  "date": "2026-10-29T05:00+00:00",
+  "excerpt": "",
+  "tags": [
+   "deep-tech"
+  ],
+  "topics": [
+   "climate-capex"
+  ],
+  "watch": [],
+  "kinds": [
+   "round"
+  ],
+  "round": {
+   "amount": "€7.1M",
+   "musd": 7.81,
+   "stage": null,
+   "company": "MuRay"
+  },
+  "score": 9,
+  "angles": [
+   "Come trattiene l'Europa le aziende deep tech che hanno bisogno di round enormi?",
+   "Faresti questo investimento? Chiediti chi è il team, quanto è grande il mercato e se l'azienda può restituire un fondo."
+  ],
+  "first_seen": "2026-10-30T04:52+00:00"
+ },
+ {
+  "id": "2644cce92ebf",
+  "url": "https://sifted.eu/articles/french-robotics-startup-industrial-humanoids-20-minutes-of-training/",
+  "title": "The French robotics startup promising to deploy industrial humanoids after just 20 minutes of training",
+  "source": "Sifted",
+  "source_id": "sifted",
+  "recommended": true,
+  "date": "2026-10-29T05:00+00:00",
+  "excerpt": "",
+  "tags": [
+   "deep-tech",
+   "europa"
+  ],
+  "topics": [
+   "physical-ai"
+  ],
+  "watch": [],
+  "kinds": [],
+  "round": null,
+  "score": 7,
+  "angles": [
+   "L'Europa può vincere nella physical AI, dove contano industria e dati più del software?"
+  ],
+  "first_seen": "2026-10-30T04:52+00:00"
+ },
+ {
+  "id": "ae3e57932880",
+  "url": "https://sifted.eu/articles/how-to-build-an-investment-thesis-and-win-early-stage-deals-according-to-vcs/",
+  "title": "How to build an investment thesis and win early-stage deals, according to VCs",
+  "source": "Sifted",
+  "source_id": "sifted",
+  "recommended": true,
+  "date": "2026-10-29T05:00+00:00",
+  "excerpt": "",
+  "tags": [],
+  "topics": [],
+  "watch": [],
+  "kinds": [],
+  "round": null,
+  "score": 3,
+  "angles": [],
+  "first_seen": "2026-10-30T04:52+00:00"
+ },
+ {
+  "id": "156ffc3be485",
+  "url": "https://sifted.eu/articles/norway-investinor-raising-new-lp-fund-nordics-europe-scaleup/",
+  "title": "Norway's Investinor out raising new LP fund amid European push to fund scaleups",
+  "source": "Sifted",
+  "source_id": "sifted",
+  "recommended": true,
+  "date": "2026-10-29T05:00+00:00",
+  "excerpt": "",
+  "tags": [
+   "europa"
+  ],
+  "topics": [
+   "europa-usa"
+  ],
+  "watch": [],
+  "kinds": [
+   "fondi"
+  ],
+  "round": {
+   "amount": null,
+   "musd": null,
+   "stage": null,
+   "company": null
+  },
+  "score": 10,
+  "angles": [
+   "Perché l'Europa produce meno exit grandi, e cosa servirebbe per cambiare?",
+   "Cosa dice questa raccolta sull'appetito degli LP per il venture capital in questo momento?"
+  ],
+  "first_seen": "2026-10-30T04:52+00:00"
+ },
+ {
+  "id": "64f339334e1e",
+  "url": "https://sifted.eu/articles/spiko-interview/",
+  "title": "This fintech wasn’t ‘actively’ fundraising. Then it closed a $90m round at an $800m valuation",
+  "source": "Sifted",
+  "source_id": "sifted",
+  "recommended": true,
+  "date": "2026-10-29T05:00+00:00",
+  "excerpt": "",
+  "tags": [
+   "fintech"
+  ],
+  "topics": [
+   "vc-vs-pe"
+  ],
+  "watch": [],
+  "kinds": [
+   "round"
+  ],
+  "round": {
+   "amount": "$90M",
+   "musd": 90.0,
+   "stage": null,
+   "company": null
+  },
+  "score": 11,
+  "angles": [
+   "Che tipo di investitore deve essere un VC per vincere i deal migliori?",
+   "Faresti questo investimento? Chiediti chi è il team, quanto è grande il mercato e se l'azienda può restituire un fondo."
+  ],
+  "first_seen": "2026-10-30T04:52+00:00"
+ },
+ {
+  "id": "b86dd5620810",
+  "url": "https://sifted.eu/articles/how-to-outcompete-ai-labs/",
+  "title": "How to outcompete the ‘warp speed’ AI labs on hiring",
+  "source": "Sifted",
+  "source_id": "sifted",
+  "recommended": true,
+  "date": "2026-10-29T05:00+00:00",
+  "excerpt": "",
+  "tags": [
+   "ai"
+  ],
+  "topics": [
+   "ai-race"
+  ],
+  "watch": [],
+  "kinds": [],
+  "round": null,
+  "score": 5,
+  "angles": [
+   "Chi vince la corsa ai modelli, e dove può creare valore un VC early-stage europeo?"
+  ],
+  "first_seen": "2026-10-30T04:52+00:00"
+ },
+ {
   "id": "823f1d2d8a8d",
   "url": "https://techcrunch.com/2026/10/28/upwind-raises-400m-after-walking-away-from-datadog-acquisition-offer/",
   "title": "Upwind raises $400M after walking away from Datadog acquisition offer",
