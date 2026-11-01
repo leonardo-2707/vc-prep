@@ -1,5 +1,29 @@
 [
  {
+  "id": "c10fef6ec816",
+  "url": "https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/",
+  "title": "OpenAI reportedly lowers funding target for new round",
+  "source": "TechCrunch",
+  "source_id": "techcrunch",
+  "recommended": true,
+  "date": "2026-10-31T16:12+00:00",
+  "excerpt": "OpenAI’s latest funding round doesn't seem to be living up to expectations.",
+  "tags": [
+   "ai"
+  ],
+  "topics": [
+   "ai-race"
+  ],
+  "watch": [],
+  "kinds": [],
+  "round": null,
+  "score": 5,
+  "angles": [
+   "Chi vince la corsa ai modelli, e dove può creare valore un VC early-stage europeo?"
+  ],
+  "first_seen": "2026-11-01T04:54+00:00"
+ },
+ {
   "id": "fa15f2024532",
   "url": "https://techcrunch.com/2026/10/30/pile-ins-payouts-and-pacing-pressure-the-investors-behind-the-vcs-open-up/",
   "title": "Pile-ins, payouts, and pacing pressure: the investors behind the VCs open up",
