@@ -1,5 +1,29 @@
 [
  {
+  "id": "0dbf0226aa90",
+  "url": "https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/",
+  "title": "OpenAI might rebrand its data centers as ‘AI compute campuses’",
+  "source": "TechCrunch",
+  "source_id": "techcrunch",
+  "recommended": true,
+  "date": "2026-11-01T21:55+00:00",
+  "excerpt": "Data centers are deeply unpopular. But what if we called them something else?",
+  "tags": [
+   "ai"
+  ],
+  "topics": [
+   "ai-race"
+  ],
+  "watch": [],
+  "kinds": [],
+  "round": null,
+  "score": 5,
+  "angles": [
+   "Chi vince la corsa ai modelli, e dove può creare valore un VC early-stage europeo?"
+  ],
+  "first_seen": "2026-11-02T05:05+00:00"
+ },
+ {
   "id": "c10fef6ec816",
   "url": "https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/",
   "title": "OpenAI reportedly lowers funding target for new round",
