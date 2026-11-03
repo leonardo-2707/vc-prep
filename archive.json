@@ -1,5 +1,610 @@
 [
  {
+  "id": "a251fc6094e1",
+  "url": "https://techcrunch.com/2026/11/02/ukraines-new-pocket-sized-gadget-turns-russian-drones-cameras-against-them/",
+  "title": "Ukraine’s new pocket-sized gadget turns Russian drones’ cameras against them",
+  "source": "TechCrunch",
+  "source_id": "techcrunch",
+  "recommended": true,
+  "date": "2026-11-03T01:12+00:00",
+  "excerpt": "A Kyiv startup’s pocket-sized, 10-ounce receiver lets Ukrainian troops watch the video feeds of Russian drones, though Russian moves toward digital video and AI-guided drones that emit no signals could make the victory short-lived.",
+  "tags": [
+   "ai",
+   "deep-tech"
+  ],
+  "topics": [
+   "physical-ai"
+  ],
+  "watch": [],
+  "kinds": [],
+  "round": null,
+  "score": 5,
+  "angles": [
+   "L'Europa può vincere nella physical AI, dove contano industria e dati più del software?"
+  ],
+  "first_seen": "2026-11-03T04:59+00:00"
+ },
+ {
+  "id": "b2485c91dd17",
+  "url": "https://techcrunch.com/2026/11/02/trajectory-raises-45m-to-make-ai-model-training-accessible-to-nontechnical-experts/",
+  "title": "Trajectory raises $45M to make AI model training accessible to nontechnical experts",
+  "source": "TechCrunch",
+  "source_id": "techcrunch-venture",
+  "recommended": true,
+  "date": "2026-11-02T23:13+00:00",
+  "excerpt": "The one-year-old startup is now valued at $300 million.",
+  "tags": [
+   "ai"
+  ],
+  "topics": [
+   "ai-race"
+  ],
+  "watch": [],
+  "kinds": [
+   "round"
+  ],
+  "round": {
+   "amount": "$45M",
+   "musd": 45.0,
+   "stage": null,
+   "company": "Trajectory"
+  },
+  "score": 10,
+  "angles": [
+   "Chi vince la corsa ai modelli, e dove può creare valore un VC early-stage europeo?",
+   "Faresti questo investimento? Chiediti chi è il team, quanto è grande il mercato e se l'azienda può restituire un fondo."
+  ],
+  "first_seen": "2026-11-03T04:59+00:00"
+ },
+ {
+  "id": "855688c450b2",
+  "url": "https://techcrunch.com/2026/11/02/anthropic-warns-that-its-very-close-to-rsi-capability-aka-self-building-ai/",
+  "title": "Anthropic warns that it’s very close to RSI capability, aka self-building AI",
+  "source": "TechCrunch",
+  "source_id": "techcrunch",
+  "recommended": true,
+  "date": "2026-11-02T22:14+00:00",
+  "excerpt": "RSI is the point at which AI grows so good at training itself that it spawns a dramatic acceleration of AI capabilities. To the AI doomers, RSI represents the cataclysm from which there is no return.",
+  "tags": [
+   "ai"
+  ],
+  "topics": [
+   "ai-race"
+  ],
+  "watch": [],
+  "kinds": [],
+  "round": null,
+  "score": 5,
+  "angles": [
+   "Chi vince la corsa ai modelli, e dove può creare valore un VC early-stage europeo?"
+  ],
+  "first_seen": "2026-11-03T04:59+00:00"
+ },
+ {
+  "id": "a437782712b7",
+  "url": "https://techcrunch.com/2026/11/02/new-york-times-and-other-outlets-sue-web-browser-brave-over-alleged-content-scraping/",
+  "title": "New York Times and other outlets sue web browser Brave over alleged content scraping",
+  "source": "TechCrunch",
+  "source_id": "techcrunch",
+  "recommended": true,
+  "date": "2026-11-02T19:19+00:00",
+  "excerpt": "The New York Times is suing privacy-focused web browser company Brave for allegedly scraping the outlet’s copyrighted content and unlawfully distributing it to its own customers, like Anthropic and Perplexity.",
+  "tags": [
+   "ai",
+   "usa"
+  ],
+  "topics": [
+   "ai-race"
+  ],
+  "watch": [],
+  "kinds": [],
+  "round": null,
+  "score": 5,
+  "angles": [
+   "Chi vince la corsa ai modelli, e dove può creare valore un VC early-stage europeo?"
+  ],
+  "first_seen": "2026-11-03T04:59+00:00"
+ },
+ {
+  "id": "48d997914930",
+  "url": "https://techcrunch.com/2026/11/02/in-one-of-the-largest-deals-in-tech-history-marvell-buys-lumentum-for-115b/",
+  "title": "In one of the largest deals in tech history, Marvell buys Lumentum for $115B",
+  "source": "TechCrunch",
+  "source_id": "techcrunch",
+  "recommended": true,
+  "date": "2026-11-02T17:54+00:00",
+  "excerpt": "Marvell's planned purchase of Lumentum is one of the biggest acquisitions in tech history. And they both have the same strategic investor: Nvidia.",
+  "tags": [],
+  "topics": [
+   "nvidia-vc"
+  ],
+  "watch": [],
+  "kinds": [
+   "exit"
+  ],
+  "round": null,
+  "score": 8,
+  "angles": [
+   "Le Big Tech che investono nelle startup accelerano il mercato o lo distorcono?",
+   "Chi guadagna da questa exit e cosa insegna sulle strade di uscita per le startup europee?"
+  ],
+  "first_seen": "2026-11-03T04:59+00:00"
+ },
+ {
+  "id": "1d6be4080224",
+  "url": "https://techcrunch.com/2026/11/02/readwise-takes-on-amazons-kindle-and-goodreads-with-its-new-app-for-book-lovers/",
+  "title": "Readwise takes on Amazon’s Kindle and Goodreads with its new app for book lovers",
+  "source": "TechCrunch",
+  "source_id": "techcrunch",
+  "recommended": true,
+  "date": "2026-11-02T17:49+00:00",
+  "excerpt": "Readwise Books combines an e-book store, reading tracker, detailed reading stats, and AI features in a bid to challenge Amazon's ecosystem.",
+  "tags": [
+   "ai"
+  ],
+  "topics": [
+   "nvidia-vc"
+  ],
+  "watch": [],
+  "kinds": [],
+  "round": null,
+  "score": 5,
+  "angles": [
+   "Le Big Tech che investono nelle startup accelerano il mercato o lo distorcono?"
+  ],
+  "first_seen": "2026-11-03T04:59+00:00"
+ },
+ {
+  "id": "ca8d5855f5a0",
+  "url": "https://techcrunch.com/2026/11/02/spacex-reportedly-wants-to-buy-boost-mobile-to-compete-with-att-t-mobile-and-verizon/",
+  "title": "SpaceX reportedly wants to buy Boost Mobile to compete with AT&T, T-Mobile, and Verizon",
+  "source": "TechCrunch",
+  "source_id": "techcrunch",
+  "recommended": true,
+  "date": "2026-11-02T16:44+00:00",
+  "excerpt": "SpaceX has been looking for new ways to use its Starlink network, and a tie-up with cellular operator Boost Mobile could give it the terrestrial access it needs.",
+  "tags": [],
+  "topics": [],
+  "watch": [],
+  "kinds": [
+   "exit"
+  ],
+  "round": null,
+  "score": 6,
+  "angles": [
+   "Chi guadagna da questa exit e cosa insegna sulle strade di uscita per le startup europee?"
+  ],
+  "first_seen": "2026-11-03T04:59+00:00"
+ },
+ {
+  "id": "b4be616ba320",
+  "url": "https://www.eu-startups.com/2026/11/is-mistral-overlooking-europe-10-homegrown-startups-that-could-join-its-connector-ecosystem/",
+  "title": "Is Mistral overlooking Europe? 10 homegrown startups that could join its connector ecosystem",
+  "source": "EU-Startups",
+  "source_id": "eustartups",
+  "recommended": false,
+  "date": "2026-11-02T15:40+00:00",
+  "excerpt": "Of the 12 companies listed by French AI unicorn Mistral as available Connectors (ready-made integrations connecting AI to external applications), not one hails from Europe; raising questions about the continent’s competitiveness. Despite what this may imply…",
+  "tags": [
+   "ai",
+   "europa"
+  ],
+  "topics": [
+   "ai-race",
+   "europa-usa"
+  ],
+  "watch": [],
+  "kinds": [],
+  "round": null,
+  "score": 8,
+  "angles": [
+   "Chi vince la corsa ai modelli, e dove può creare valore un VC early-stage europeo?"
+  ],
+  "first_seen": "2026-11-03T04:59+00:00"
+ },
+ {
+  "id": "31255b2b57a8",
+  "url": "https://techcrunch.com/2026/11/02/omen-ai-adds-liquid-know-how-in-16-million-aquatic-labs-acquisition/",
+  "title": "Omen AI adds liquid know-how in $16 million Aquatic Labs acquisition",
+  "source": "TechCrunch",
+  "source_id": "techcrunch",
+  "recommended": true,
+  "date": "2026-11-02T15:00+00:00",
+  "excerpt": "Two startups tackling the data center water problem are joining forces in a $16 million deal.",
+  "tags": [
+   "ai"
+  ],
+  "topics": [],
+  "watch": [],
+  "kinds": [
+   "exit"
+  ],
+  "round": null,
+  "score": 6,
+  "angles": [
+   "Chi guadagna da questa exit e cosa insegna sulle strade di uscita per le startup europee?"
+  ],
+  "first_seen": "2026-11-03T04:59+00:00"
+ },
+ {
+  "id": "4040ae18545d",
+  "url": "https://sifted.eu/articles/creandum-750-largest-vc-fund-back-ai-san-francisco/",
+  "title": "Lovable backer Creandum raises $750m for largest-ever fund to back AI boom",
+  "source": "Sifted",
+  "source_id": "sifted",
+  "recommended": true,
+  "date": "2026-11-02T12:04+00:00",
+  "excerpt": "",
+  "tags": [
+   "ai"
+  ],
+  "topics": [],
+  "watch": [],
+  "kinds": [
+   "fondi"
+  ],
+  "round": {
+   "amount": "$750M",
+   "musd": 750.0,
+   "stage": null,
+   "company": null
+  },
+  "score": 8,
+  "angles": [
+   "Cosa dice questa raccolta sull'appetito degli LP per il venture capital in questo momento?"
+  ],
+  "first_seen": "2026-11-03T04:59+00:00"
+ },
+ {
+  "id": "b62704632904",
+  "url": "https://news.crunchbase.com/venture/q3-2026-charts-funding-amounts-vs-round-counts/",
+  "title": "More Money, Fewer Checks: These 3 Charts Show The Divide Behind VC’s Record Funding Year",
+  "source": "Crunchbase News",
+  "source_id": "crunchbase",
+  "recommended": false,
+  "date": "2026-11-02T12:00+00:00",
+  "excerpt": "Record venture funding in 2026 has been increasingly concentrated in massive AI rounds, while seed- and early-stage deal counts are on the decline. Using Crunchbase data we provide a look at how third-quarter funding continued the year's…",
+  "tags": [
+   "ai"
+  ],
+  "topics": [],
+  "watch": [],
+  "kinds": [
+   "round"
+  ],
+  "round": {
+   "amount": null,
+   "musd": null,
+   "stage": "Seed",
+   "company": null
+  },
+  "score": 6,
+  "angles": [
+   "Faresti questo investimento? Chiediti chi è il team, quanto è grande il mercato e se l'azienda può restituire un fondo."
+  ],
+  "first_seen": "2026-11-03T04:59+00:00"
+ },
+ {
+  "id": "b99f095e406f",
+  "url": "https://www.eu-startups.com/2026/11/looking-for-a-job-estonias-roleo-just-raised-e2-9-million-to-help-you-on-your-journey/",
+  "title": "Looking for a job? Estonia’s Roleo just raised €2.9 million to help you on your journey",
+  "source": "EU-Startups",
+  "source_id": "eustartups",
+  "recommended": false,
+  "date": "2026-11-02T11:29+00:00",
+  "excerpt": "Roleo, an Estonian personal AI career agent, has raised €2.9 million to expand across Europe and help tech professionals discover career opportunities – without the hassle of searching and applying. The round was led by the Baltic venture capital firm…",
+  "tags": [
+   "ai",
+   "europa"
+  ],
+  "topics": [],
+  "watch": [],
+  "kinds": [
+   "round"
+  ],
+  "round": {
+   "amount": "€2.9M",
+   "musd": 3.19,
+   "stage": null,
+   "company": "Looking for a job? Estonia’s Roleo just"
+  },
+  "score": 8,
+  "angles": [
+   "Faresti questo investimento? Chiediti chi è il team, quanto è grande il mercato e se l'azienda può restituire un fondo."
+  ],
+  "first_seen": "2026-11-03T04:59+00:00"
+ },
+ {
+  "id": "121ff2252960",
+  "url": "https://sifted.eu/articles/missile-startup-hypersonica-fundraise-lightspeed-general-catalyst-europe/",
+  "title": "Missile startup Hypersonica raises €100m from Lightspeed, General Catalyst as missile defence takes off",
+  "source": "Sifted",
+  "source_id": "sifted",
+  "recommended": true,
+  "date": "2026-11-02T10:39+00:00",
+  "excerpt": "",
+  "tags": [
+   "deep-tech"
+  ],
+  "topics": [],
+  "watch": [],
+  "kinds": [
+   "round"
+  ],
+  "round": {
+   "amount": "€100M",
+   "musd": 110.0,
+   "stage": null,
+   "company": "Hypersonica"
+  },
+  "score": 9,
+  "angles": [
+   "Faresti questo investimento? Chiediti chi è il team, quanto è grande il mercato e se l'azienda può restituire un fondo."
+  ],
+  "first_seen": "2026-11-03T04:59+00:00"
+ },
+ {
+  "id": "ae06eae9ecca",
+  "url": "https://www.eu-startups.com/2026/11/swedish-vc-creandum-closes-e668-million-cviii-fund-its-largest-to-date/",
+  "title": "Swedish VC Creandum closes €668 million CVIII fund – its largest to date",
+  "source": "EU-Startups",
+  "source_id": "eustartups",
+  "recommended": false,
+  "date": "2026-11-02T10:16+00:00",
+  "excerpt": "Stockholm-based venture capital firm Creandum has closed a €668 million ($750 million) fund, Creandum VIII, to back early-stage technology startups from pre-Seed to Series A. The fund, its largest to date, will support approximately 30 investments over the…",
+  "tags": [
+   "europa"
+  ],
+  "topics": [],
+  "watch": [],
+  "kinds": [
+   "fondi"
+  ],
+  "round": {
+   "amount": "€668M",
+   "musd": 734.8,
+   "stage": "Pre-seed",
+   "company": null
+  },
+  "score": 9,
+  "angles": [
+   "Cosa dice questa raccolta sull'appetito degli LP per il venture capital in questo momento?"
+  ],
+  "first_seen": "2026-11-03T04:59+00:00"
+ },
+ {
+  "id": "5c0f047a3c5e",
+  "url": "https://www.eu-startups.com/2026/11/hypersonica-secures-e100-million-to-boost-sovereign-hypersonic-deep-strike-systems-for-europe-and-its-allies/",
+  "title": "Hypersonica secures €100 million to boost sovereign hypersonic deep-strike systems for Europe and its allies",
+  "source": "EU-Startups",
+  "source_id": "eustartups",
+  "recommended": false,
+  "date": "2026-11-02T09:35+00:00",
+  "excerpt": "Hypersonica, the British-German defence company developing sovereign hypersonic deep-strike systems for Europe and its allies, has secured €100 million in Series B funding. The Series B funding round was co-led by Lightspeed and General Catalyst, with…",
+  "tags": [
+   "deep-tech",
+   "europa"
+  ],
+  "topics": [],
+  "watch": [],
+  "kinds": [
+   "round"
+  ],
+  "round": {
+   "amount": "€100M",
+   "musd": 110.0,
+   "stage": "Series B",
+   "company": "Hypersonica"
+  },
+  "score": 10,
+  "angles": [
+   "Faresti questo investimento? Chiediti chi è il team, quanto è grande il mercato e se l'azienda può restituire un fondo."
+  ],
+  "first_seen": "2026-11-03T04:59+00:00"
+ },
+ {
+  "id": "7fa7ef0a7b09",
+  "url": "https://www.eu-startups.com/2026/11/paris-based-gallium-defense-emerges-from-stealth-with-e7-1-million-to-scale-affordable-drone-detection/",
+  "title": "Paris-based Gallium Defence emerges from stealth with €7.1 million to scale affordable drone detection",
+  "source": "EU-Startups",
+  "source_id": "eustartups",
+  "recommended": false,
+  "date": "2026-11-02T09:00+00:00",
+  "excerpt": "Gallium Defence, a Paris-based startup working on drone detection at a fraction of the cost of legacy systems, has emerged from stealth with a €7.1 million Seed funding round. The round was led by Keen Venture Partners and 360 Capital, with participation from…",
+  "tags": [
+   "deep-tech",
+   "europa"
+  ],
+  "topics": [
+   "physical-ai"
+  ],
+  "watch": [
+   "360 Capital"
+  ],
+  "kinds": [
+   "round"
+  ],
+  "round": {
+   "amount": "€7.1M",
+   "musd": 7.81,
+   "stage": "Seed",
+   "company": null
+  },
+  "score": 16,
+  "angles": [
+   "Riguarda un fondo che segui (360 Capital): preparati a commentarla al colloquio.",
+   "L'Europa può vincere nella physical AI, dove contano industria e dati più del software?"
+  ],
+  "first_seen": "2026-11-03T04:59+00:00"
+ },
+ {
+  "id": "b295e4607b77",
+  "url": "https://www.eu-startups.com/2026/11/munichs-marble-cognition-raises-e3-35-million-to-build-ai-coworkers-that-learn-business-processes-before-automating-them/",
+  "title": "Munich’s Marble Cognition raises €3.35 million to build AI coworkers that learn business processes before automating them",
+  "source": "EU-Startups",
+  "source_id": "eustartups",
+  "recommended": false,
+  "date": "2026-11-02T08:00+00:00",
+  "excerpt": "Marble Cognition (Marble), a Munich-based startup building AI coworkers that understand how work is executed to optimise and automate business operations, has raised €3.35 million ($3.75 million) in a pre-Seed round. The round was co-led by Heartcore and…",
+  "tags": [
+   "ai",
+   "europa"
+  ],
+  "topics": [],
+  "watch": [],
+  "kinds": [
+   "round"
+  ],
+  "round": {
+   "amount": "€3.4M",
+   "musd": 3.69,
+   "stage": "Pre-seed",
+   "company": "Marble Cognition"
+  },
+  "score": 8,
+  "angles": [
+   "Faresti questo investimento? Chiediti chi è il team, quanto è grande il mercato e se l'azienda può restituire un fondo."
+  ],
+  "first_seen": "2026-11-03T04:59+00:00"
+ },
+ {
+  "id": "12f5b32bdd33",
+  "url": "https://www.eu-startups.com/2026/11/portos-seamoretech-secures-e1-1-million-to-turn-desalination-brine-into-freshwater-and-critical-minerals/",
+  "title": "Porto’s female-led startup Seamoretech secures €1.1 million to turn desalination brine into freshwater and critical minerals",
+  "source": "EU-Startups",
+  "source_id": "eustartups",
+  "recommended": false,
+  "date": "2026-11-02T06:22+00:00",
+  "excerpt": "Seamoretech, a Porto-based CleanTech startup that converts desalination brine into freshwater and critical minerals, has secured €1.1 million in the first closing of its Seed round. The round saw participation from Rypples, 7Seas Capital, and Crédito…",
+  "tags": [
+   "climate"
+  ],
+  "topics": [
+   "climate-capex"
+  ],
+  "watch": [],
+  "kinds": [
+   "round"
+  ],
+  "round": {
+   "amount": "€1.1M",
+   "musd": 1.21,
+   "stage": "Seed",
+   "company": "Seamoretech"
+  },
+  "score": 8,
+  "angles": [
+   "Come trattiene l'Europa le aziende deep tech che hanno bisogno di round enormi?",
+   "Faresti questo investimento? Chiediti chi è il team, quanto è grande il mercato e se l'azienda può restituire un fondo."
+  ],
+  "first_seen": "2026-11-03T04:59+00:00"
+ },
+ {
+  "id": "935bddcbcdd8",
+  "url": "https://sifted.eu/articles/enterprise-customers-want-to-see-ais-roi-heres-how-startups-can-show-it/",
+  "title": "Enterprise customers want to see AI’s ROI. Here’s how startups can show it",
+  "source": "Sifted",
+  "source_id": "sifted",
+  "recommended": true,
+  "date": "2026-11-02T05:00+00:00",
+  "excerpt": "",
+  "tags": [
+   "ai"
+  ],
+  "topics": [],
+  "watch": [],
+  "kinds": [],
+  "round": null,
+  "score": 3,
+  "angles": [],
+  "first_seen": "2026-11-03T04:59+00:00"
+ },
+ {
+  "id": "c6efee47e4d4",
+  "url": "https://sifted.eu/articles/bulgaria-startup-ecosystem-2026/",
+  "title": "A satellite unicorn has put Bulgarian tech on the map",
+  "source": "Sifted",
+  "source_id": "sifted",
+  "recommended": true,
+  "date": "2026-11-02T05:00+00:00",
+  "excerpt": "",
+  "tags": [
+   "deep-tech"
+  ],
+  "topics": [
+   "europa-usa"
+  ],
+  "watch": [],
+  "kinds": [],
+  "round": null,
+  "score": 5,
+  "angles": [
+   "Perché l'Europa produce meno exit grandi, e cosa servirebbe per cambiare?"
+  ],
+  "first_seen": "2026-11-03T04:59+00:00"
+ },
+ {
+  "id": "6f9387a22608",
+  "url": "https://sifted.eu/articles/15-photonics-startups-to-watch-according-to-vcs/",
+  "title": "15 photonics startups to watch, according to VCs",
+  "source": "Sifted",
+  "source_id": "sifted",
+  "recommended": true,
+  "date": "2026-11-02T05:00+00:00",
+  "excerpt": "",
+  "tags": [
+   "deep-tech"
+  ],
+  "topics": [],
+  "watch": [],
+  "kinds": [],
+  "round": null,
+  "score": 3,
+  "angles": [],
+  "first_seen": "2026-11-03T04:59+00:00"
+ },
+ {
+  "id": "a100926f52ce",
+  "url": "https://sifted.eu/articles/london-is-the-best-place-in-the-world-to-launch-an-ai-company/",
+  "title": "London is the 'best place in the world to launch an AI company'",
+  "source": "Sifted",
+  "source_id": "sifted",
+  "recommended": true,
+  "date": "2026-11-02T05:00+00:00",
+  "excerpt": "",
+  "tags": [
+   "ai",
+   "europa"
+  ],
+  "topics": [],
+  "watch": [],
+  "kinds": [],
+  "round": null,
+  "score": 5,
+  "angles": [],
+  "first_seen": "2026-11-03T04:59+00:00"
+ },
+ {
+  "id": "0fa4ef7744d9",
+  "url": "https://sifted.eu/articles/the-future-office-ai/",
+  "title": "AI has changed how we work. So why does the office look exactly the same?",
+  "source": "Sifted",
+  "source_id": "sifted",
+  "recommended": true,
+  "date": "2026-11-02T05:00+00:00",
+  "excerpt": "",
+  "tags": [
+   "ai"
+  ],
+  "topics": [],
+  "watch": [],
+  "kinds": [],
+  "round": null,
+  "score": 3,
+  "angles": [],
+  "first_seen": "2026-11-03T04:59+00:00"
+ },
+ {
   "id": "0dbf0226aa90",
   "url": "https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/",
   "title": "OpenAI might rebrand its data centers as ‘AI compute campuses’",
