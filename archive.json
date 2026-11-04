@@ -1,5 +1,596 @@
 [
  {
+  "id": "40e55875b57f",
+  "url": "https://sifted.eu/articles/ex-hummingbird-new-vc-firm/",
+  "title": "Ex-Hummingbird investor plots new VC firm, sources say",
+  "source": "Sifted",
+  "source_id": "sifted",
+  "recommended": true,
+  "date": "2026-11-04T05:00+00:00",
+  "excerpt": "",
+  "tags": [],
+  "topics": [],
+  "watch": [],
+  "kinds": [],
+  "round": null,
+  "score": 3,
+  "angles": [],
+  "first_seen": "2026-11-04T05:02+00:00"
+ },
+ {
+  "id": "89272e1a67f6",
+  "url": "https://sifted.eu/articles/tech-media-future-etn-20vc-sifted-summit/",
+  "title": "Can tech media survive the rise of AI and influencers?",
+  "source": "Sifted",
+  "source_id": "sifted",
+  "recommended": true,
+  "date": "2026-11-04T05:00+00:00",
+  "excerpt": "",
+  "tags": [
+   "ai"
+  ],
+  "topics": [],
+  "watch": [],
+  "kinds": [],
+  "round": null,
+  "score": 3,
+  "angles": [],
+  "first_seen": "2026-11-04T05:02+00:00"
+ },
+ {
+  "id": "39f6558b019b",
+  "url": "https://techcrunch.com/2026/11/03/indias-eloelo-nabs-80m-from-nbc-universal-to-bet-on-the-countrys-rising-microdrama-market/",
+  "title": "India’s EloElo nabs $80M from NBCUniversal to bet on the country’s rising microdrama market",
+  "source": "TechCrunch",
+  "source_id": "techcrunch",
+  "recommended": true,
+  "date": "2026-11-04T04:45+00:00",
+  "excerpt": "StoryTV has more than 33 million monthly active users according to Sensor Tower figures",
+  "tags": [],
+  "topics": [],
+  "watch": [],
+  "kinds": [
+   "round"
+  ],
+  "round": {
+   "amount": "$80M",
+   "musd": 80.0,
+   "stage": null,
+   "company": "EloElo"
+  },
+  "score": 9,
+  "angles": [
+   "Faresti questo investimento? Chiediti chi è il team, quanto è grande il mercato e se l'azienda può restituire un fondo."
+  ],
+  "first_seen": "2026-11-04T05:02+00:00"
+ },
+ {
+  "id": "993e48dc4504",
+  "url": "https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity/",
+  "title": "Anthropic is working on a system to prove AI models’ identity",
+  "source": "TechCrunch",
+  "source_id": "techcrunch",
+  "recommended": true,
+  "date": "2026-11-03T22:41+00:00",
+  "excerpt": "Called FlashProve, the system would let anyone check that an AI response really came from the model it claims to be from.",
+  "tags": [
+   "ai"
+  ],
+  "topics": [
+   "ai-race"
+  ],
+  "watch": [],
+  "kinds": [],
+  "round": null,
+  "score": 5,
+  "angles": [
+   "Chi vince la corsa ai modelli, e dove può creare valore un VC early-stage europeo?"
+  ],
+  "first_seen": "2026-11-04T05:02+00:00"
+ },
+ {
+  "id": "97ea381abb97",
+  "url": "https://techcrunch.com/2026/11/03/data-centers-are-turning-to-old-jet-engines-as-the-wait-for-power-grows/",
+  "title": "Data centers are turning to old jet engines as the wait for power grows",
+  "source": "TechCrunch",
+  "source_id": "techcrunch",
+  "recommended": true,
+  "date": "2026-11-03T22:19+00:00",
+  "excerpt": "The years-long wait for access to the grid and new turbines is causing data center builders to turn to an unusual, less-efficient and less environmentally friendly solution: once-discarded jet engines.",
+  "tags": [
+   "climate"
+  ],
+  "topics": [
+   "climate-capex"
+  ],
+  "watch": [],
+  "kinds": [],
+  "round": null,
+  "score": 5,
+  "angles": [
+   "Come trattiene l'Europa le aziende deep tech che hanno bisogno di round enormi?"
+  ],
+  "first_seen": "2026-11-04T05:02+00:00"
+ },
+ {
+  "id": "f7b02949050d",
+  "url": "https://techcrunch.com/2026/11/03/ted-schleins-ballistic-ventures-seeks-490m-for-new-funds-amid-ai-driven-cybersecurity-boom/",
+  "title": "Ted Schlein’s Ballistic Ventures seeks $490M for new funds amid AI-driven cybersecurity boom",
+  "source": "TechCrunch",
+  "source_id": "techcrunch-venture",
+  "recommended": true,
+  "date": "2026-11-03T21:43+00:00",
+  "excerpt": "Cybersecurity-focused Ballistic Ventures is seeking to raise $360 million for a new flagship fund and another $130 million for a separate investment vehicle.",
+  "tags": [
+   "ai"
+  ],
+  "topics": [],
+  "watch": [],
+  "kinds": [
+   "fondi"
+  ],
+  "round": {
+   "amount": "$490M",
+   "musd": 490.0,
+   "stage": null,
+   "company": null
+  },
+  "score": 8,
+  "angles": [
+   "Cosa dice questa raccolta sull'appetito degli LP per il venture capital in questo momento?"
+  ],
+  "first_seen": "2026-11-04T05:02+00:00"
+ },
+ {
+  "id": "42ec3b43220b",
+  "url": "https://techcrunch.com/2026/11/03/ai-inference-startup-fal-doubles-its-valuation-to-16b-as-demand-surges/",
+  "title": "AI inference startup Fal doubles its valuation to $16B as demand surges",
+  "source": "TechCrunch",
+  "source_id": "techcrunch",
+  "recommended": true,
+  "date": "2026-11-03T19:34+00:00",
+  "excerpt": "The five-year-old startup raised a $1.3 billion round led by Bessemer.",
+  "tags": [
+   "ai"
+  ],
+  "topics": [
+   "ai-race",
+   "vc-vs-pe"
+  ],
+  "watch": [],
+  "kinds": [],
+  "round": null,
+  "score": 7,
+  "angles": [
+   "Chi vince la corsa ai modelli, e dove può creare valore un VC early-stage europeo?"
+  ],
+  "first_seen": "2026-11-04T05:02+00:00"
+ },
+ {
+  "id": "a4abd1e2a1c1",
+  "url": "https://techcrunch.com/2026/11/03/anthropic-is-still-grappling-with-the-economics-of-compute/",
+  "title": "Anthropic is still grappling with the economics of compute",
+  "source": "TechCrunch",
+  "source_id": "techcrunch",
+  "recommended": true,
+  "date": "2026-11-03T17:07+00:00",
+  "excerpt": "At a moment when Anthropic's compute margins should be getting better, they’re getting worse.",
+  "tags": [
+   "ai"
+  ],
+  "topics": [
+   "ai-race"
+  ],
+  "watch": [],
+  "kinds": [],
+  "round": null,
+  "score": 5,
+  "angles": [
+   "Chi vince la corsa ai modelli, e dove può creare valore un VC early-stage europeo?"
+  ],
+  "first_seen": "2026-11-04T05:02+00:00"
+ },
+ {
+  "id": "13775dae291d",
+  "url": "https://techcrunch.com/2026/11/03/rivian-spinout-also-owns-up-to-mistakes-in-delayed-e-bike-launch/",
+  "title": "Rivian spinout Also was working on an e-moto project in Kenya — until it walked away",
+  "source": "TechCrunch",
+  "source_id": "techcrunch",
+  "recommended": true,
+  "date": "2026-11-03T16:49+00:00",
+  "excerpt": "Also co-founder and president Chris Yu told TechCrunch that he wanted to prioritize autonomous vehicles.",
+  "tags": [],
+  "topics": [
+   "physical-ai"
+  ],
+  "watch": [],
+  "kinds": [],
+  "round": null,
+  "score": 5,
+  "angles": [
+   "L'Europa può vincere nella physical AI, dove contano industria e dati più del software?"
+  ],
+  "first_seen": "2026-11-04T05:02+00:00"
+ },
+ {
+  "id": "f29893d9c832",
+  "url": "https://www.eu-startups.com/2026/11/london-based-tallia-raises-e4-million-to-bring-ai-powered-research-and-review-to-tax-firms/",
+  "title": "Tallia raises €4 million to bring AI-powered research and review to tax firms",
+  "source": "EU-Startups",
+  "source_id": "eustartups",
+  "recommended": false,
+  "date": "2026-11-03T16:10+00:00",
+  "excerpt": "London-based AI startup Tallia, formerly known as Revax, has secured €4 million ($4.5 million) in Seed funding to expand its AI-powered research and drafting platform for tax and accountancy professionals. The round was co-led by Outward VC and the Institute…",
+  "tags": [
+   "ai",
+   "europa"
+  ],
+  "topics": [],
+  "watch": [],
+  "kinds": [
+   "round"
+  ],
+  "round": {
+   "amount": "€4M",
+   "musd": 4.4,
+   "stage": "Seed",
+   "company": "Tallia"
+  },
+  "score": 8,
+  "angles": [
+   "Faresti questo investimento? Chiediti chi è il team, quanto è grande il mercato e se l'azienda può restituire un fondo."
+  ],
+  "first_seen": "2026-11-04T05:02+00:00"
+ },
+ {
+  "id": "93c0ccd9181e",
+  "url": "https://www.eu-startups.com/2026/11/10-european-bootstrapped-startups-who-are-crushing-it-in-2026/",
+  "title": "10 European bootstrapped startups who are crushing it in 2026",
+  "source": "EU-Startups",
+  "source_id": "eustartups",
+  "recommended": false,
+  "date": "2026-11-03T14:31+00:00",
+  "excerpt": "Europe’s startup ecosystem is often associated with major funding rounds, venture capital and ambitious expansion plans. However, some of the continent’s most interesting companies are taking a different approach, building their businesses without relying on…",
+  "tags": [
+   "europa"
+  ],
+  "topics": [],
+  "watch": [],
+  "kinds": [],
+  "round": null,
+  "score": 4,
+  "angles": [],
+  "first_seen": "2026-11-04T05:02+00:00"
+ },
+ {
+  "id": "f7141f9a4697",
+  "url": "https://sifted.eu/articles/lovable-apps-expose-sensitive-user-data-researchers-find/",
+  "title": "Lovable apps expose sensitive user data, researchers find",
+  "source": "Sifted",
+  "source_id": "sifted",
+  "recommended": true,
+  "date": "2026-11-03T13:20+00:00",
+  "excerpt": "",
+  "tags": [],
+  "topics": [],
+  "watch": [],
+  "kinds": [],
+  "round": null,
+  "score": 3,
+  "angles": [],
+  "first_seen": "2026-11-04T05:02+00:00"
+ },
+ {
+  "id": "041c386f0d41",
+  "url": "https://www.eu-startups.com/2026/11/turning-pollution-into-everyday-products-southamptons-virdi-raises-e2-6-million-to-transform-waste/",
+  "title": "Turning pollution into everyday products – Southampton’s Virdi raises €2.6 million to transform waste",
+  "source": "EU-Startups",
+  "source_id": "eustartups",
+  "recommended": false,
+  "date": "2026-11-03T12:35+00:00",
+  "excerpt": "Viridi, a British DeepTech that enables the transformation of waste carbon dioxide into chemical products, has closed a €2.6 million (£2.2 million) round to scale their technology, strengthen its team and support its expansion into Asia and the US. The round…",
+  "tags": [
+   "deep-tech",
+   "climate",
+   "europa"
+  ],
+  "topics": [
+   "climate-capex"
+  ],
+  "watch": [],
+  "kinds": [
+   "round"
+  ],
+  "round": {
+   "amount": "€2.6M",
+   "musd": 2.86,
+   "stage": null,
+   "company": "Virdi"
+  },
+  "score": 10,
+  "angles": [
+   "Come trattiene l'Europa le aziende deep tech che hanno bisogno di round enormi?",
+   "Faresti questo investimento? Chiediti chi è il team, quanto è grande il mercato e se l'azienda può restituire un fondo."
+  ],
+  "first_seen": "2026-11-04T05:02+00:00"
+ },
+ {
+  "id": "f95b9a9a967e",
+  "url": "https://sifted.eu/articles/evertrue-capital-closes-17m-debut-fund/",
+  "title": "Ex-LocalGlobe partner closes $17m debut fund",
+  "source": "Sifted",
+  "source_id": "sifted",
+  "recommended": true,
+  "date": "2026-11-03T12:00+00:00",
+  "excerpt": "",
+  "tags": [],
+  "topics": [],
+  "watch": [],
+  "kinds": [
+   "fondi"
+  ],
+  "round": {
+   "amount": "$17M",
+   "musd": 17.0,
+   "stage": null,
+   "company": null
+  },
+  "score": 7,
+  "angles": [
+   "Cosa dice questa raccolta sull'appetito degli LP per il venture capital in questo momento?"
+  ],
+  "first_seen": "2026-11-04T05:02+00:00"
+ },
+ {
+  "id": "7bdbafabfde0",
+  "url": "https://www.eu-startups.com/2026/11/4-evertrue-capital-raises-e15-million-debut-fund-backed-by-british-business-bank-and-phoenix-court/",
+  "title": "Evertrue Capital raises €15 million debut fund backed by British Business Bank and Phoenix Court",
+  "source": "EU-Startups",
+  "source_id": "eustartups",
+  "recommended": false,
+  "date": "2026-11-03T12:00+00:00",
+  "excerpt": "British VC firm Evertrue Capital, the debut fund of Yvonne Bajela, has closed at €15 million ($17 million) aiming to invest €299-€599k (£250k–£500k) at pre-Seed in founders building frontier technologies primarily in the UK and Europe. The fund is backed by…",
+  "tags": [
+   "europa"
+  ],
+  "topics": [],
+  "watch": [],
+  "kinds": [
+   "fondi"
+  ],
+  "round": {
+   "amount": "€15M",
+   "musd": 16.5,
+   "stage": "Pre-seed",
+   "company": null
+  },
+  "score": 8,
+  "angles": [
+   "Cosa dice questa raccolta sull'appetito degli LP per il venture capital in questo momento?"
+  ],
+  "first_seen": "2026-11-04T05:02+00:00"
+ },
+ {
+  "id": "f0c49356143e",
+  "url": "https://news.crunchbase.com/venture/october-2026-global-startup-funding-strong-china-deepseek/",
+  "title": "China’s Largest Startup Deal Ever Lifts Global Venture Funding To $59B In October",
+  "source": "Crunchbase News",
+  "source_id": "crunchbase",
+  "recommended": false,
+  "date": "2026-11-03T12:00+00:00",
+  "excerpt": "Global venture funding in October totaled $59 billion, a 45% jump from a year earlier, per Crunchbase data, in large part due to a record-setting $15.9 billion funding round for China’s DeepSeek.",
+  "tags": [],
+  "topics": [
+   "ai-race"
+  ],
+  "watch": [],
+  "kinds": [
+   "fondi"
+  ],
+  "round": {
+   "amount": "$59B",
+   "musd": 59000.0,
+   "stage": null,
+   "company": null
+  },
+  "score": 9,
+  "angles": [
+   "Chi vince la corsa ai modelli, e dove può creare valore un VC early-stage europeo?",
+   "Cosa dice questa raccolta sull'appetito degli LP per il venture capital in questo momento?"
+  ],
+  "first_seen": "2026-11-04T05:02+00:00"
+ },
+ {
+  "id": "84b0d2c0c336",
+  "url": "https://www.eu-startups.com/2026/11/freighttech-startup-conlio-secures-e6-4-million-to-expand-ai-powered-financial-automation-across-europe/",
+  "title": "FreightTech startup Conlio secures €6.4 million to expand AI-powered financial automation across Europe",
+  "source": "EU-Startups",
+  "source_id": "eustartups",
+  "recommended": false,
+  "date": "2026-11-03T10:49+00:00",
+  "excerpt": "Conlio, a German AI-powered financial operations platform for road freight forwarders, today announces a €6.4 million fundraise to expand across Europe – accelerating the automation of financial systems across freight. The fundraise was led by Piton Capital…",
+  "tags": [
+   "ai",
+   "europa"
+  ],
+  "topics": [
+   "vc-vs-pe"
+  ],
+  "watch": [],
+  "kinds": [
+   "round"
+  ],
+  "round": {
+   "amount": "€6.4M",
+   "musd": 7.04,
+   "stage": null,
+   "company": "Conlio"
+  },
+  "score": 10,
+  "angles": [
+   "Che tipo di investitore deve essere un VC per vincere i deal migliori?",
+   "Faresti questo investimento? Chiediti chi è il team, quanto è grande il mercato e se l'azienda può restituire un fondo."
+  ],
+  "first_seen": "2026-11-04T05:02+00:00"
+ },
+ {
+  "id": "0e022216c2cb",
+  "url": "https://www.technologyreview.com/2026/11/03/1147934/reverse-game-theory-mechanism-design-ai-alignment/",
+  "title": "How “reverse game theory” could keep AI agents in check",
+  "source": "MIT Technology Review",
+  "source_id": "mittr",
+  "recommended": true,
+  "date": "2026-11-03T10:43+00:00",
+  "excerpt": "A new approach known as “reverse game theory” aims to control powerful AI models by designing systems that incentivize them to stick to the rules. As AI models become more capable, safety researchers are scrambling to ensure they are “aligned” with human…",
+  "tags": [
+   "ai"
+  ],
+  "topics": [
+   "ai-race"
+  ],
+  "watch": [],
+  "kinds": [],
+  "round": null,
+  "score": 5,
+  "angles": [
+   "Chi vince la corsa ai modelli, e dove può creare valore un VC early-stage europeo?"
+  ],
+  "first_seen": "2026-11-04T05:02+00:00"
+ },
+ {
+  "id": "77ac8479d0ae",
+  "url": "https://www.eu-startups.com/2026/11/opinion-healthcares-pilot-culture-is-holding-back-healthtech-innovation/",
+  "title": "OPINION: Healthcare’s pilot culture is holding back HealthTech innovation",
+  "source": "EU-Startups",
+  "source_id": "eustartups",
+  "recommended": false,
+  "date": "2026-11-03T10:10+00:00",
+  "excerpt": "Across Europe, HealthTech companies are developing new technologies that can improve patient care, ease pressure on clinicians and help health services make better use of limited resources. But while these technologies are often successful in getting into…",
+  "tags": [
+   "europa"
+  ],
+  "topics": [],
+  "watch": [],
+  "kinds": [],
+  "round": null,
+  "score": 4,
+  "angles": [],
+  "first_seen": "2026-11-04T05:02+00:00"
+ },
+ {
+  "id": "f84baa3233d7",
+  "url": "https://www.eu-startups.com/2026/11/following-austrias-first-commercial-satellite-launch-tumbleweed-raises-e6-9-million-to-accelerate-space-missions/",
+  "title": "Following Austria’s first commercial satellite launch, Tumbleweed raises €6.9 million to accelerate space missions",
+  "source": "EU-Startups",
+  "source_id": "eustartups",
+  "recommended": false,
+  "date": "2026-11-03T09:35+00:00",
+  "excerpt": "SpaceTech company Tumbleweed has raised €6.9 million, allegedly the largest SpaceTech Seed round ever raised in Austria, four months after the startup put the country’s first commercial satellite in orbit. The round was led by PactVC, with participation from…",
+  "tags": [
+   "deep-tech",
+   "europa"
+  ],
+  "topics": [],
+  "watch": [],
+  "kinds": [
+   "round"
+  ],
+  "round": {
+   "amount": "€6.9M",
+   "musd": 7.59,
+   "stage": "Seed",
+   "company": "Tumbleweed"
+  },
+  "score": 8,
+  "angles": [
+   "Faresti questo investimento? Chiediti chi è il team, quanto è grande il mercato e se l'azienda può restituire un fondo."
+  ],
+  "first_seen": "2026-11-04T05:02+00:00"
+ },
+ {
+  "id": "3e1f82f0fe99",
+  "url": "https://www.eu-startups.com/2026/11/solo-vc-robin-capital-closes-e15-million-second-fund-to-back-ai-robotics-and-space-startups/",
+  "title": "Solo VC Robin Capital closes €15 million second fund to back AI, robotics and space startups",
+  "source": "EU-Startups",
+  "source_id": "eustartups",
+  "recommended": false,
+  "date": "2026-11-03T08:35+00:00",
+  "excerpt": "Berlin-based VC firm Robin Capital has closed its second €15 million fund, bringing total commitments across its two early-stage funds to €30 million. The new fund, Robin Capital Fund II, follows the firm’s first €15 million vehicle closed in 2024. It has…",
+  "tags": [
+   "ai",
+   "deep-tech",
+   "europa"
+  ],
+  "topics": [
+   "physical-ai",
+   "vc-vs-pe"
+  ],
+  "watch": [],
+  "kinds": [
+   "fondi"
+  ],
+  "round": {
+   "amount": "€15M",
+   "musd": 16.5,
+   "stage": null,
+   "company": null
+  },
+  "score": 12,
+  "angles": [
+   "L'Europa può vincere nella physical AI, dove contano industria e dati più del software?",
+   "Cosa dice questa raccolta sull'appetito degli LP per il venture capital in questo momento?"
+  ],
+  "first_seen": "2026-11-04T05:02+00:00"
+ },
+ {
+  "id": "3c0296acb11a",
+  "url": "https://techcrunch.com/2026/11/03/yvonne-bajela-is-bringing-17m-in-fresh-capital-to-europes-startup-scene/",
+  "title": "Yvonne Bajela is bringing $17M in fresh capital to Europe’s startup scene",
+  "source": "TechCrunch",
+  "source_id": "techcrunch-venture",
+  "recommended": true,
+  "date": "2026-11-03T08:01+00:00",
+  "excerpt": "Evertrue Capital announces $17M debut fund to back early-stage AI and fintech.",
+  "tags": [
+   "ai",
+   "fintech",
+   "europa"
+  ],
+  "topics": [],
+  "watch": [],
+  "kinds": [],
+  "round": null,
+  "score": 5,
+  "angles": [],
+  "first_seen": "2026-11-04T05:02+00:00"
+ },
+ {
+  "id": "8535a844c7e6",
+  "url": "https://sifted.eu/articles/photonics-mapped-74-european-startups-using-light-to-power-the-ai-era/",
+  "title": "Photonics mapped: 74 European startups using light to power the AI era",
+  "source": "Sifted",
+  "source_id": "sifted",
+  "recommended": true,
+  "date": "2026-11-03T05:00+00:00",
+  "excerpt": "",
+  "tags": [
+   "ai",
+   "deep-tech",
+   "europa"
+  ],
+  "topics": [
+   "europa-usa"
+  ],
+  "watch": [],
+  "kinds": [],
+  "round": null,
+  "score": 7,
+  "angles": [
+   "Perché l'Europa produce meno exit grandi, e cosa servirebbe per cambiare?"
+  ],
+  "first_seen": "2026-11-04T05:02+00:00"
+ },
+ {
   "id": "a251fc6094e1",
   "url": "https://techcrunch.com/2026/11/02/ukraines-new-pocket-sized-gadget-turns-russian-drones-cameras-against-them/",
   "title": "Ukraine’s new pocket-sized gadget turns Russian drones’ cameras against them",
