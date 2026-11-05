@@ -1,5 +1,822 @@
 [
  {
+  "id": "a1e153edc152",
+  "url": "https://techcrunch.com/2026/11/04/openai-is-already-trying-to-shape-the-2028-election/",
+  "title": "OpenAI is already trying to shape the 2028 election",
+  "source": "TechCrunch",
+  "source_id": "techcrunch",
+  "recommended": true,
+  "date": "2026-11-04T21:25+00:00",
+  "excerpt": "OpenAI’s Chris Lehane wants AI to define the 2028 election, proposing a new social contract that could benefit Americans while also advancing the AI giant’s own business interests.",
+  "tags": [
+   "ai"
+  ],
+  "topics": [
+   "ai-race"
+  ],
+  "watch": [],
+  "kinds": [],
+  "round": null,
+  "score": 5,
+  "angles": [
+   "Chi vince la corsa ai modelli, e dove può creare valore un VC early-stage europeo?"
+  ],
+  "first_seen": "2026-11-05T05:03+00:00"
+ },
+ {
+  "id": "d23caa988630",
+  "url": "https://techcrunch.com/2026/11/04/meta-acquires-ai-coding-startup-conductor/",
+  "title": "Meta acquires AI coding startup Conductor",
+  "source": "TechCrunch",
+  "source_id": "techcrunch",
+  "recommended": true,
+  "date": "2026-11-04T21:10+00:00",
+  "excerpt": "The startup allows software engineers to deploy teams of agents to work on various aspects of a project simultaneously.",
+  "tags": [
+   "ai"
+  ],
+  "topics": [],
+  "watch": [],
+  "kinds": [
+   "exit"
+  ],
+  "round": null,
+  "score": 6,
+  "angles": [
+   "Chi guadagna da questa exit e cosa insegna sulle strade di uscita per le startup europee?"
+  ],
+  "first_seen": "2026-11-05T05:03+00:00"
+ },
+ {
+  "id": "1d082b72e7e2",
+  "url": "https://news.crunchbase.com/venture/2026-post-election-funding-red-states-drops/",
+  "title": "Crunchbase Data: Less Than 2% Of 2026 Venture Funding Went To Post-Election Red States",
+  "source": "Crunchbase News",
+  "source_id": "crunchbase",
+  "recommended": false,
+  "date": "2026-11-04T19:47+00:00",
+  "excerpt": "So far this year, less than 2% of all startup investment has gone to companies in post-election red states, a share that is much smaller than in years’ past due to five states shifting to purple in the most recent election.",
+  "tags": [],
+  "topics": [],
+  "watch": [],
+  "kinds": [
+   "fondi"
+  ],
+  "round": {
+   "amount": null,
+   "musd": null,
+   "stage": null,
+   "company": null
+  },
+  "score": 5,
+  "angles": [
+   "Cosa dice questa raccolta sull'appetito degli LP per il venture capital in questo momento?"
+  ],
+  "first_seen": "2026-11-05T05:03+00:00"
+ },
+ {
+  "id": "49cf82dfae35",
+  "url": "https://techcrunch.com/video/open-source-ai-is-booming-hugging-face-explains-who-profits/",
+  "title": "Open source AI is booming. Hugging Face explains who profits.",
+  "source": "TechCrunch",
+  "source_id": "techcrunch",
+  "recommended": true,
+  "date": "2026-11-04T19:30+00:00",
+  "excerpt": "Open source models are becoming more mainstream as enterprises, governments and startups alike rely on the promise of lower costs, more control, and more flexibility. But as increasingly capable models become more freely available, how do companies capture…",
+  "tags": [
+   "ai"
+  ],
+  "topics": [
+   "ai-race"
+  ],
+  "watch": [],
+  "kinds": [],
+  "round": null,
+  "score": 5,
+  "angles": [
+   "Chi vince la corsa ai modelli, e dove può creare valore un VC early-stage europeo?"
+  ],
+  "first_seen": "2026-11-05T05:03+00:00"
+ },
+ {
+  "id": "dda2b2db6c67",
+  "url": "https://www.technologyreview.com/2026/11/04/1148043/texas-was-the-new-epicenter-of-the-ai-data-center-buildout-that-might-be-kaput/",
+  "title": "Texas was the new epicenter of the AI data center buildout. That might be kaput.",
+  "source": "MIT Technology Review",
+  "source_id": "mittr",
+  "recommended": true,
+  "date": "2026-11-04T18:50+00:00",
+  "excerpt": "Texas is the fastest-growing data center market in the US and ground zero for Big Tech’s largest AI buildouts. But the blue wave that swept the Lone Star State may jeopardize that position. Democrat James Talarico won the US Senate seat against Ken Paxton…",
+  "tags": [
+   "ai",
+   "usa"
+  ],
+  "topics": [
+   "nvidia-vc"
+  ],
+  "watch": [],
+  "kinds": [],
+  "round": null,
+  "score": 5,
+  "angles": [
+   "Le Big Tech che investono nelle startup accelerano il mercato o lo distorcono?"
+  ],
+  "first_seen": "2026-11-05T05:03+00:00"
+ },
+ {
+  "id": "c89ec53e2bac",
+  "url": "https://techcrunch.com/2026/11/04/waymo-confirms-its-shaking-up-its-uber-relationship-in-january-2028/",
+  "title": "Waymo confirms it’s shaking up its Uber relationship in January 2028",
+  "source": "TechCrunch",
+  "source_id": "techcrunch",
+  "recommended": true,
+  "date": "2026-11-04T18:12+00:00",
+  "excerpt": "The change will set up direct competition in those markets, as Uber has many other autonomous vehicle partners on its network.",
+  "tags": [],
+  "topics": [
+   "physical-ai"
+  ],
+  "watch": [],
+  "kinds": [],
+  "round": null,
+  "score": 5,
+  "angles": [
+   "L'Europa può vincere nella physical AI, dove contano industria e dati più del software?"
+  ],
+  "first_seen": "2026-11-05T05:03+00:00"
+ },
+ {
+  "id": "232f3b13da83",
+  "url": "https://news.crunchbase.com/startups/tech-layoffs/",
+  "title": "The Crunchbase Tech Layoffs Tracker",
+  "source": "Crunchbase News",
+  "source_id": "crunchbase",
+  "recommended": false,
+  "date": "2026-11-04T17:42+00:00",
+  "excerpt": "Over 127,000 workers at U.S.-based tech companies were laid off in mass job cuts in 2025, per a Crunchbase News tally, and the layoffs have continued into 2026. See the latest companies to cut roles.",
+  "tags": [
+   "usa"
+  ],
+  "topics": [],
+  "watch": [],
+  "kinds": [],
+  "round": null,
+  "score": 2,
+  "angles": [],
+  "first_seen": "2026-10-29T04:52+00:00"
+ },
+ {
+  "id": "a4b63e1585c2",
+  "url": "https://techcrunch.com/2026/11/04/sequoia-hits-rewind-undoing-20-years-of-expansion/",
+  "title": "Sequoia hits rewind, undoing 20 years of expansion",
+  "source": "TechCrunch",
+  "source_id": "techcrunch-venture",
+  "recommended": true,
+  "date": "2026-11-04T17:11+00:00",
+  "excerpt": "Sequoia is consolidating into a smaller, Bay Area–centered firm, shutting down the programs and offices it built during a 20-year expansion while announcing roughly $10 billion in new funds.",
+  "tags": [
+   "usa"
+  ],
+  "topics": [],
+  "watch": [],
+  "kinds": [],
+  "round": null,
+  "score": 3,
+  "angles": [],
+  "first_seen": "2026-11-05T05:03+00:00"
+ },
+ {
+  "id": "be3d48fbd51b",
+  "url": "https://sifted.eu/articles/starling-bank-ceo-raman-bhatia-quits-reports/",
+  "title": "Starling Bank CEO to step down after just two years, reports say",
+  "source": "Sifted",
+  "source_id": "sifted",
+  "recommended": true,
+  "date": "2026-11-04T17:06+00:00",
+  "excerpt": "",
+  "tags": [],
+  "topics": [],
+  "watch": [],
+  "kinds": [],
+  "round": null,
+  "score": 3,
+  "angles": [],
+  "first_seen": "2026-11-05T05:03+00:00"
+ },
+ {
+  "id": "9468c76ebd0f",
+  "url": "https://www.eu-startups.com/2026/11/tired-of-roku-and-the-like-spains-titan-os-just-raised-e40-million-to-provide-you-with-an-alternative/",
+  "title": "Tired of Roku and the like? Spain’s Titan OS just raised €40 million to provide you with an alternative.",
+  "source": "EU-Startups",
+  "source_id": "eustartups",
+  "recommended": false,
+  "date": "2026-11-04T15:57+00:00",
+  "excerpt": "Titan OS, a Barcelona-based technology, entertainment and advertising company, today announced a €40 million ($46 million) financing round to further develop their smart TV Operating System. The round saw participation from existing investors Highland Europe…",
+  "tags": [
+   "europa"
+  ],
+  "topics": [],
+  "watch": [],
+  "kinds": [
+   "round"
+  ],
+  "round": {
+   "amount": "€40M",
+   "musd": 44.0,
+   "stage": null,
+   "company": "Tired of Roku and the like? Spain’s Titan OS just"
+  },
+  "score": 9,
+  "angles": [
+   "Faresti questo investimento? Chiediti chi è il team, quanto è grande il mercato e se l'azienda può restituire un fondo."
+  ],
+  "first_seen": "2026-11-05T05:03+00:00"
+ },
+ {
+  "id": "e4a2bfe8c864",
+  "url": "https://www.eu-startups.com/2026/11/return-secures-e835-million-financing-to-expand-battery-storage-capacity-in-germany/",
+  "title": "Return secures €835 million financing to expand battery storage capacity in Germany",
+  "source": "EU-Startups",
+  "source_id": "eustartups",
+  "recommended": false,
+  "date": "2026-11-04T15:22+00:00",
+  "excerpt": "Amsterdam-based Return, an energy storage startup specialising in large-scale battery systems and energy flexibility services, has secured €835 million in portfolio financing underwritten by Deutsche Bank and Rabobank. The financing will support the company’s…",
+  "tags": [
+   "climate",
+   "europa"
+  ],
+  "topics": [
+   "climate-capex"
+  ],
+  "watch": [],
+  "kinds": [
+   "round"
+  ],
+  "round": {
+   "amount": "€835M",
+   "musd": 918.5,
+   "stage": null,
+   "company": "Return"
+  },
+  "score": 12,
+  "angles": [
+   "Come trattiene l'Europa le aziende deep tech che hanno bisogno di round enormi?",
+   "Faresti questo investimento? Chiediti chi è il team, quanto è grande il mercato e se l'azienda può restituire un fondo."
+  ],
+  "first_seen": "2026-11-05T05:03+00:00"
+ },
+ {
+  "id": "e5e6237f873c",
+  "url": "https://techcrunch.com/2026/11/04/titan-os-raises-46-million-to-expand-its-smart-tv-os-internationally/",
+  "title": "Titan OS raises $46 million to expand its smart TV OS internationally",
+  "source": "TechCrunch",
+  "source_id": "techcrunch",
+  "recommended": true,
+  "date": "2026-11-04T15:00+00:00",
+  "excerpt": "Titan OS has raised $110 million in funding to date.",
+  "tags": [],
+  "topics": [],
+  "watch": [],
+  "kinds": [
+   "round"
+  ],
+  "round": {
+   "amount": "$46M",
+   "musd": 46.0,
+   "stage": null,
+   "company": "Titan OS"
+  },
+  "score": 8,
+  "angles": [
+   "Faresti questo investimento? Chiediti chi è il team, quanto è grande il mercato e se l'azienda può restituire un fondo."
+  ],
+  "first_seen": "2026-11-05T05:03+00:00"
+ },
+ {
+  "id": "033349eb97ce",
+  "url": "https://sifted.eu/articles/sequoia-closes-london-office/",
+  "title": "Sequoia to close London office, cut Europe team",
+  "source": "Sifted",
+  "source_id": "sifted",
+  "recommended": true,
+  "date": "2026-11-04T14:22+00:00",
+  "excerpt": "",
+  "tags": [
+   "europa",
+   "usa"
+  ],
+  "topics": [],
+  "watch": [],
+  "kinds": [],
+  "round": null,
+  "score": 5,
+  "angles": [],
+  "first_seen": "2026-11-05T05:03+00:00"
+ },
+ {
+  "id": "99eee0796c9b",
+  "url": "https://techcrunch.com/2026/11/04/revoluts-valuation-jumps-53-to-115b-in-new-share-sale-as-it-prepares-to-launch-us-bank/",
+  "title": "Revolut’s valuation jumps 53% to $115B in new share sale as it prepares to launch US bank",
+  "source": "TechCrunch",
+  "source_id": "techcrunch",
+  "recommended": true,
+  "date": "2026-11-04T14:10+00:00",
+  "excerpt": "Glade Brook, Coatue, and T. Rowe Price were among the investors that led the share sale.",
+  "tags": [],
+  "topics": [
+   "vc-vs-pe"
+  ],
+  "watch": [],
+  "kinds": [],
+  "round": null,
+  "score": 5,
+  "angles": [
+   "Che tipo di investitore deve essere un VC per vincere i deal migliori?"
+  ],
+  "first_seen": "2026-11-05T05:03+00:00"
+ },
+ {
+  "id": "a08d26478987",
+  "url": "https://www.eu-startups.com/2026/11/exclusive-top-10-largest-investments-by-eic-in-2026-so-far/",
+  "title": "Exclusive: Top 10 largest investments by EIC in 2026 – so far",
+  "source": "EU-Startups",
+  "source_id": "eustartups",
+  "recommended": false,
+  "date": "2026-11-04T13:11+00:00",
+  "excerpt": "EU-Startups has received exclusive investment data directly from our partners at the European Innovation Council (EIC), revealing the ten companies that secured the largest EIC Fund commitments during the first three quarters of the year. From quantum…",
+  "tags": [
+   "deep-tech",
+   "europa"
+  ],
+  "topics": [
+   "climate-capex"
+  ],
+  "watch": [],
+  "kinds": [],
+  "round": null,
+  "score": 6,
+  "angles": [
+   "Come trattiene l'Europa le aziende deep tech che hanno bisogno di round enormi?"
+  ],
+  "first_seen": "2026-11-05T05:03+00:00"
+ },
+ {
+  "id": "007bf73a86d5",
+  "url": "https://www.eu-startups.com/2026/11/women-techeu-allies-supporting-women-led-deeptech-startups-across-europe/",
+  "title": "Women TechEU Allies: supporting women-led DeepTech startups across Europe",
+  "source": "EU-Startups",
+  "source_id": "eustartups",
+  "recommended": false,
+  "date": "2026-11-04T12:50+00:00",
+  "excerpt": "Women TechEU is a European Union initiative that supports the growth of women-led DeepTech startups across Europe. Between 2026 and 2028, the programme aims to support 160 startups through grants of €75,000 each, alongside mentoring, training, expert…",
+  "tags": [
+   "deep-tech",
+   "europa"
+  ],
+  "topics": [
+   "climate-capex"
+  ],
+  "watch": [],
+  "kinds": [],
+  "round": null,
+  "score": 6,
+  "angles": [
+   "Come trattiene l'Europa le aziende deep tech che hanno bisogno di round enormi?"
+  ],
+  "first_seen": "2026-11-05T05:03+00:00"
+ },
+ {
+  "id": "b3301207fadd",
+  "url": "https://tech.eu/2026/11/04/sort-a-brick-is-turning-forgotten-lego-into-a-multibillion-euro-circular-economy-market/",
+  "title": "Sort A Brick is turning forgotten LEGO into a multibillion-euro circular economy market",
+  "source": "Tech.eu",
+  "source_id": "techeu",
+  "recommended": false,
+  "date": "2026-11-04T12:00+00:00",
+  "excerpt": "Billions of LEGO bricks are sitting unused in homes worldwide. While the bricks themselves can last for generations, rebuilding original sets from mixed collections can require hours of painstaking ma...",
+  "tags": [
+   "climate"
+  ],
+  "topics": [],
+  "watch": [],
+  "kinds": [],
+  "round": null,
+  "score": 2,
+  "angles": [],
+  "first_seen": "2026-11-05T05:03+00:00"
+ },
+ {
+  "id": "c739b9b63988",
+  "url": "https://news.crunchbase.com/venture/startup-billionaire-founders-ai-defense-anthropic-spcx/",
+  "title": "Most Venture Capital Is Going To Companies That Are Founded Or Led By Billionaires",
+  "source": "Crunchbase News",
+  "source_id": "crunchbase",
+  "recommended": false,
+  "date": "2026-11-04T12:00+00:00",
+  "excerpt": "More than half of all seed- through growth-stage venture capital raised in the U.S. so far in 2026 went to seven companies founded or led by men who are already billionaires. Together, these companies raised more than $260 billion in equity funding in the…",
+  "tags": [
+   "usa"
+  ],
+  "topics": [
+   "europa-usa"
+  ],
+  "watch": [],
+  "kinds": [
+   "round"
+  ],
+  "round": {
+   "amount": "$260B",
+   "musd": 260000.0,
+   "stage": "Seed",
+   "company": null
+  },
+  "score": 10,
+  "angles": [
+   "Perché l'Europa produce meno exit grandi, e cosa servirebbe per cambiare?",
+   "Faresti questo investimento? Chiediti chi è il team, quanto è grande il mercato e se l'azienda può restituire un fondo."
+  ],
+  "first_seen": "2026-11-05T05:03+00:00"
+ },
+ {
+  "id": "e7020b67ec47",
+  "url": "https://tech.eu/2026/11/04/microsoft-minor-contract-loss-says-nscale-key-investor/",
+  "title": "Microsoft \"minor contract\" loss, says Nscale key investor",
+  "source": "Tech.eu",
+  "source_id": "techeu",
+  "recommended": false,
+  "date": "2026-11-04T11:58+00:00",
+  "excerpt": "The CEO of the largest investor in the UK AI infrastructure startup gearing up for a planned $35bn IPO today termed Microsoft pulling out of a data centre deal with Nscale as a “minor contract\", as he...",
+  "tags": [
+   "ai",
+   "europa"
+  ],
+  "topics": [
+   "nvidia-vc"
+  ],
+  "watch": [],
+  "kinds": [
+   "round"
+  ],
+  "round": {
+   "amount": "$35B",
+   "musd": 35000.0,
+   "stage": null,
+   "company": null
+  },
+  "score": 12,
+  "angles": [
+   "Le Big Tech che investono nelle startup accelerano il mercato o lo distorcono?",
+   "Faresti questo investimento? Chiediti chi è il team, quanto è grande il mercato e se l'azienda può restituire un fondo."
+  ],
+  "first_seen": "2026-11-05T05:03+00:00"
+ },
+ {
+  "id": "e5e406750a64",
+  "url": "https://tech.eu/2026/11/04/fal-doubles-valuation-to-16b-after-13b-series-f/",
+  "title": "Fal doubles valuation to $16B after $1.3B Series F",
+  "source": "Tech.eu",
+  "source_id": "techeu",
+  "recommended": false,
+  "date": "2026-11-04T11:15+00:00",
+  "excerpt": "AI infrastructure company fal has raised $1.3 billion in aSeries F funding round led by Bessemer Venture Partners, with participationfrom NVIDIA, Sound Ventures, HOF Capital and T. Rowe Price. Founded...",
+  "tags": [
+   "ai"
+  ],
+  "topics": [
+   "nvidia-vc",
+   "vc-vs-pe"
+  ],
+  "watch": [],
+  "kinds": [
+   "round"
+  ],
+  "round": {
+   "amount": "$16B",
+   "musd": 16000.0,
+   "stage": "Series F",
+   "company": null
+  },
+  "score": 12,
+  "angles": [
+   "Le Big Tech che investono nelle startup accelerano il mercato o lo distorcono?",
+   "Faresti questo investimento? Chiediti chi è il team, quanto è grande il mercato e se l'azienda può restituire un fondo."
+  ],
+  "first_seen": "2026-11-05T05:03+00:00"
+ },
+ {
+  "id": "480b6e9a9fc2",
+  "url": "https://www.eu-startups.com/2026/11/opinion-ireland-is-losing-irish-companies-because-they-cant-scale-here/",
+  "title": "OPINION: Ireland is losing Irish companies because they can’t scale here",
+  "source": "EU-Startups",
+  "source_id": "eustartups",
+  "recommended": false,
+  "date": "2026-11-04T10:59+00:00",
+  "excerpt": "When Ireland’s Government recently announced Budget 2027, it focused on addressing a problem that has beset Ireland’s startup community for decades. A €1 billion Ireland Strategic Investment Fund (ISIF) scaling programme would seek to provide startups with…",
+  "tags": [
+   "europa",
+   "policy"
+  ],
+  "topics": [],
+  "watch": [],
+  "kinds": [],
+  "round": null,
+  "score": 4,
+  "angles": [],
+  "first_seen": "2026-11-05T05:03+00:00"
+ },
+ {
+  "id": "8ad9e18397be",
+  "url": "https://sifted.eu/articles/job-applicants-be-ai-pilled/",
+  "title": "Tech companies tell job applicants: Be AI-pilled (but not too AI-pilled!)",
+  "source": "Sifted",
+  "source_id": "sifted",
+  "recommended": true,
+  "date": "2026-11-04T10:40+00:00",
+  "excerpt": "",
+  "tags": [
+   "ai"
+  ],
+  "topics": [],
+  "watch": [],
+  "kinds": [],
+  "round": null,
+  "score": 3,
+  "angles": [],
+  "first_seen": "2026-11-05T05:03+00:00"
+ },
+ {
+  "id": "b64d4b4d7eb1",
+  "url": "https://www.eu-startups.com/2026/11/copenhagens-biograil-raises-e20-million-for-oral-drug-delivery-device-designed-as-an-alternative-to-injections/",
+  "title": "Copenhagen’s Biograil raises €20 million for oral drug delivery device designed as an alternative to injections",
+  "source": "EU-Startups",
+  "source_id": "eustartups",
+  "recommended": false,
+  "date": "2026-11-04T10:23+00:00",
+  "excerpt": "Biograil, a Copenhagen-based BioTech company developing an oral device to deliver therapeutics that would otherwise require injection, has closed a €20 million funding round. The round was backed by Verve Ventures and Megatrend Invest. HTGF, which led the…",
+  "tags": [
+   "deep-tech",
+   "europa"
+  ],
+  "topics": [],
+  "watch": [],
+  "kinds": [
+   "round"
+  ],
+  "round": {
+   "amount": "€20M",
+   "musd": 22.0,
+   "stage": null,
+   "company": "Biograil"
+  },
+  "score": 9,
+  "angles": [
+   "Faresti questo investimento? Chiediti chi è il team, quanto è grande il mercato e se l'azienda può restituire un fondo."
+  ],
+  "first_seen": "2026-11-05T05:03+00:00"
+ },
+ {
+  "id": "82929c4e4818",
+  "url": "https://www.eu-startups.com/2026/11/station-f-unveils-2026-future-40-as-its-startups-raise-a-record-e2-billion/",
+  "title": "STATION F unveils 2026 Future 40 as its startups raise a record €2 billion",
+  "source": "EU-Startups",
+  "source_id": "eustartups",
+  "recommended": false,
+  "date": "2026-11-04T09:54+00:00",
+  "excerpt": "The world’s biggest startup campus, STATION F, has revealed its top 40 companies for 2026, as well as announcing that STATION F companies have raised a record €2 billion in 2026 alone. This is the 8th edition of the annual list, with 320 companies recognised…",
+  "tags": [],
+  "topics": [],
+  "watch": [],
+  "kinds": [
+   "round"
+  ],
+  "round": {
+   "amount": "€2B",
+   "musd": 2200.0,
+   "stage": null,
+   "company": null
+  },
+  "score": 8,
+  "angles": [
+   "Faresti questo investimento? Chiediti chi è il team, quanto è grande il mercato e se l'azienda può restituire un fondo."
+  ],
+  "first_seen": "2026-11-05T05:03+00:00"
+ },
+ {
+  "id": "8381c37de8a1",
+  "url": "https://tech.eu/2026/11/04/supa-raises-ps21m-in-seed-funding-to-transform-uk-residential-block-management/",
+  "title": "Supa raises £21M in seed funding to transform UK residential block management",
+  "source": "Tech.eu",
+  "source_id": "techeu",
+  "recommended": false,
+  "date": "2026-11-04T09:31+00:00",
+  "excerpt": "UK-based proptechcompany Supa has raised £21 million in seed funding to expand its AI-poweredproperty management platform. The financing includes an equity round co-led by2150 and OpenOcean, with part...",
+  "tags": [
+   "ai",
+   "europa"
+  ],
+  "topics": [],
+  "watch": [],
+  "kinds": [
+   "round"
+  ],
+  "round": {
+   "amount": "£21M",
+   "musd": 27.3,
+   "stage": "Seed",
+   "company": "Supa"
+  },
+  "score": 9,
+  "angles": [
+   "Faresti questo investimento? Chiediti chi è il team, quanto è grande il mercato e se l'azienda può restituire un fondo."
+  ],
+  "first_seen": "2026-11-05T05:03+00:00"
+ },
+ {
+  "id": "2b97ea129e14",
+  "url": "https://tech.eu/2026/11/04/lazzaro-one-lands-pre-seed-funding-to-advance-maritime-intelligence-technology/",
+  "title": "Lazzaro One lands pre-seed funding to advance maritime intelligence technology",
+  "source": "Tech.eu",
+  "source_id": "techeu",
+  "recommended": false,
+  "date": "2026-11-04T09:05+00:00",
+  "excerpt": "Berlin-based maritimetechnology startup Lazzaro One has secured a six-figure pre-seed funding roundfrom B#, the pre-seed fund of IBB Ventures. The investment will support thedevelopment of its maritim...",
+  "tags": [
+   "europa"
+  ],
+  "topics": [],
+  "watch": [],
+  "kinds": [
+   "round"
+  ],
+  "round": {
+   "amount": null,
+   "musd": null,
+   "stage": "Pre-seed",
+   "company": "Lazzaro One"
+  },
+  "score": 8,
+  "angles": [
+   "Faresti questo investimento? Chiediti chi è il team, quanto è grande il mercato e se l'azienda può restituire un fondo."
+  ],
+  "first_seen": "2026-11-05T05:03+00:00"
+ },
+ {
+  "id": "276826bda92a",
+  "url": "https://tech.eu/2026/11/04/human-cell-programming-company-bitbio-closes-25m-series-d/",
+  "title": "Human cell programming company bit.bio closes $25M Series D",
+  "source": "Tech.eu",
+  "source_id": "techeu",
+  "recommended": false,
+  "date": "2026-11-04T09:01+00:00",
+  "excerpt": "Human cell programming company bit.bio has secured $25million in Series D funding to expand its portfolio of human cell models andincrease access to its technology for pharmaceutical companies, biotec...",
+  "tags": [],
+  "topics": [],
+  "watch": [],
+  "kinds": [
+   "round"
+  ],
+  "round": {
+   "amount": "$25M",
+   "musd": 25.0,
+   "stage": "Series D",
+   "company": "bit.bio"
+  },
+  "score": 7,
+  "angles": [
+   "Faresti questo investimento? Chiediti chi è il team, quanto è grande il mercato e se l'azienda può restituire un fondo."
+  ],
+  "first_seen": "2026-11-05T05:03+00:00"
+ },
+ {
+  "id": "8f180899b56f",
+  "url": "https://www.eu-startups.com/2026/11/glovos-e461-million-startup-multiplier-effect-showcased-at-annual-startup-campus/",
+  "title": "Glovo’s €461 million startup multiplier effect showcased at annual Startup Campus",
+  "source": "EU-Startups",
+  "source_id": "eustartups",
+  "recommended": false,
+  "date": "2026-11-04T09:01+00:00",
+  "excerpt": "Glovo showcased its growing influence on Europe’s entrepreneurial ecosystem at its fourth annual Startup Campus, held at its Yellow Park headquarters in Barcelona. The three-day event brought together 19 startups and 33 founders and team members for…",
+  "tags": [
+   "europa"
+  ],
+  "topics": [],
+  "watch": [],
+  "kinds": [],
+  "round": null,
+  "score": 4,
+  "angles": [],
+  "first_seen": "2026-11-05T05:03+00:00"
+ },
+ {
+  "id": "e9e447065825",
+  "url": "https://tech.eu/2026/11/04/revolut-confirms-115bn-valuation-after-completing-secondary-sale/",
+  "title": "Revolut confirms $115BN valuation, after completing secondary sale",
+  "source": "Tech.eu",
+  "source_id": "techeu",
+  "recommended": false,
+  "date": "2026-11-04T09:00+00:00",
+  "excerpt": "Revolut has today confirmed it's now valued at $115bn, more than doubling its valuation in around two years, after completing a secondary share sale. The fintech giant today confirmed it had completed...",
+  "tags": [
+   "fintech"
+  ],
+  "topics": [
+   "vc-vs-pe"
+  ],
+  "watch": [],
+  "kinds": [],
+  "round": null,
+  "score": 4,
+  "angles": [
+   "Che tipo di investitore deve essere un VC per vincere i deal migliori?"
+  ],
+  "first_seen": "2026-11-05T05:03+00:00"
+ },
+ {
+  "id": "7725292740de",
+  "url": "https://tech.eu/2026/11/04/station-f-startups-raise-record-2b-as-campus-unveils-2026-future-40/",
+  "title": "STATION F startups raise record €2B as campus unveils 2026 Future 40",
+  "source": "Tech.eu",
+  "source_id": "techeu",
+  "recommended": false,
+  "date": "2026-11-04T09:00+00:00",
+  "excerpt": "STATION F has unveiled its 2026 Future 40, highlighting promising startups emerging from its Paris campus, as companies across its wider ecosystem raised a record €2 billion this year. Six companies i...",
+  "tags": [
+   "europa"
+  ],
+  "topics": [],
+  "watch": [],
+  "kinds": [
+   "round"
+  ],
+  "round": {
+   "amount": "€2B",
+   "musd": 2200.0,
+   "stage": null,
+   "company": null
+  },
+  "score": 10,
+  "angles": [
+   "Faresti questo investimento? Chiediti chi è il team, quanto è grande il mercato e se l'azienda può restituire un fondo."
+  ],
+  "first_seen": "2026-11-05T05:03+00:00"
+ },
+ {
+  "id": "c9d32cdb7852",
+  "url": "https://www.eu-startups.com/2026/11/rotterdams-hardt-hyperloop-secures-multi-million-euro-funding-to-bounce-back-from-bankruptcy-and-expand-into-the-americas/",
+  "title": "Rotterdam’s Hardt Hyperloop secures multi-million-euro funding to bounce back from bankruptcy and expand into the Americas",
+  "source": "EU-Startups",
+  "source_id": "eustartups",
+  "recommended": false,
+  "date": "2026-11-04T07:59+00:00",
+  "excerpt": "Hardt Hyperloop, a Rotterdam-based mobility systems developer, has secured a multi-million-euro investment, marking its return after one of its entities entered bankruptcy proceedings earlier this year. The investment round was led by Green Rock, a US-based…",
+  "tags": [
+   "usa"
+  ],
+  "topics": [],
+  "watch": [],
+  "kinds": [
+   "round"
+  ],
+  "round": {
+   "amount": null,
+   "musd": null,
+   "stage": null,
+   "company": "Hardt Hyperloop"
+  },
+  "score": 6,
+  "angles": [
+   "Faresti questo investimento? Chiediti chi è il team, quanto è grande il mercato e se l'azienda può restituire un fondo."
+  ],
+  "first_seen": "2026-11-05T05:03+00:00"
+ },
+ {
+  "id": "e4ac121d767c",
+  "url": "https://www.eu-startups.com/2026/11/leipzig-based-jawbuddy-raises-e818k-to-help-people-reduce-jaw-pain-bruxism-and-tmj-related-tension/",
+  "title": "Leipzig-based JawBuddy raises €818k to help people reduce jaw pain, bruxism, and TMJ-related tension",
+  "source": "EU-Startups",
+  "source_id": "eustartups",
+  "recommended": false,
+  "date": "2026-11-04T07:24+00:00",
+  "excerpt": "JawBuddy, a Leipzig-based HealthTech startup that helps people reduce jaw pain, bruxism, and TMJ-related tension, has raised €818k in a pre-Seed round led by healthcare platform HALBZEIT. The round was also backed by Dr. Siegfried Marquardt, a specialist in…",
+  "tags": [],
+  "topics": [],
+  "watch": [],
+  "kinds": [
+   "round"
+  ],
+  "round": {
+   "amount": "€0.8M",
+   "musd": 0.9,
+   "stage": "Pre-seed",
+   "company": "Leipzig-based JawBuddy"
+  },
+  "score": 6,
+  "angles": [
+   "Faresti questo investimento? Chiediti chi è il team, quanto è grande il mercato e se l'azienda può restituire un fondo."
+  ],
+  "first_seen": "2026-11-05T05:03+00:00"
+ },
+ {
   "id": "40e55875b57f",
   "url": "https://sifted.eu/articles/ex-hummingbird-new-vc-firm/",
   "title": "Ex-Hummingbird investor plots new VC firm, sources say",
@@ -36,6 +853,49 @@
   "score": 3,
   "angles": [],
   "first_seen": "2026-11-04T05:02+00:00"
+ },
+ {
+  "id": "a1f4bbb8acd9",
+  "url": "https://sifted.eu/articles/founders-make-terrible-employees/",
+  "title": "Founders make terrible employees — here’s why every startup should hire them",
+  "source": "Sifted",
+  "source_id": "sifted",
+  "recommended": true,
+  "date": "2026-11-04T05:00+00:00",
+  "excerpt": "",
+  "tags": [],
+  "topics": [],
+  "watch": [],
+  "kinds": [],
+  "round": null,
+  "score": 3,
+  "angles": [],
+  "first_seen": "2026-11-05T05:03+00:00"
+ },
+ {
+  "id": "4ec1bed4e9cb",
+  "url": "https://sifted.eu/articles/what-spinout-investors-know-that-most-deeptech-vcs-dont/",
+  "title": "Deeptech VCs are still too risk-averse with spinouts, and it’s costing them, say Europe’s leading spinout investors",
+  "source": "Sifted",
+  "source_id": "sifted",
+  "recommended": true,
+  "date": "2026-11-04T05:00+00:00",
+  "excerpt": "",
+  "tags": [
+   "deep-tech",
+   "europa"
+  ],
+  "topics": [
+   "climate-capex"
+  ],
+  "watch": [],
+  "kinds": [],
+  "round": null,
+  "score": 7,
+  "angles": [
+   "Come trattiene l'Europa le aziende deep tech che hanno bisogno di round enormi?"
+  ],
+  "first_seen": "2026-11-05T05:03+00:00"
  },
  {
   "id": "39f6558b019b",
@@ -401,6 +1261,33 @@
   "first_seen": "2026-11-04T05:02+00:00"
  },
  {
+  "id": "bc43d7dd0f57",
+  "url": "https://tech.eu/2026/11/03/riga-based-unitoq-raises-eur155k-in-pre-seed-to-make-real-estate-investment-more-accessible/",
+  "title": "Riga-based Unitoq raises €155K in pre-seed to make real estate investment more accessible",
+  "source": "Tech.eu",
+  "source_id": "techeu",
+  "recommended": false,
+  "date": "2026-11-03T11:30+00:00",
+  "excerpt": "Latvian proptech startup Unitoq has raised €155,000 in apre-seed funding round from a syndicate of business angels, including membersof the Latvian Business Angel Network (LatBAN).Founded in 2026 by E...",
+  "tags": [],
+  "topics": [],
+  "watch": [],
+  "kinds": [
+   "round"
+  ],
+  "round": {
+   "amount": "€0.2M",
+   "musd": 0.17,
+   "stage": "Pre-seed",
+   "company": "Riga-based Unitoq"
+  },
+  "score": 6,
+  "angles": [
+   "Faresti questo investimento? Chiediti chi è il team, quanto è grande il mercato e se l'azienda può restituire un fondo."
+  ],
+  "first_seen": "2026-11-05T05:03+00:00"
+ },
+ {
   "id": "84b0d2c0c336",
   "url": "https://www.eu-startups.com/2026/11/freighttech-startup-conlio-secures-e6-4-million-to-expand-ai-powered-financial-automation-across-europe/",
   "title": "FreightTech startup Conlio secures €6.4 million to expand AI-powered financial automation across Europe",
@@ -434,6 +1321,75 @@
   "first_seen": "2026-11-04T05:02+00:00"
  },
  {
+  "id": "57e0353c06c2",
+  "url": "https://tech.eu/2026/11/03/cyberkord-raises-eur27m-to-automate-it-and-cybersecurity-operations-with-ai/",
+  "title": "CyberKord raises €2.7M to automate IT and cybersecurity operations with AI",
+  "source": "Tech.eu",
+  "source_id": "techeu",
+  "recommended": false,
+  "date": "2026-11-03T10:47+00:00",
+  "excerpt": "Italian cybersecuritystartup CyberKord has raised €2.7 million in a pre-seed funding round tosupport the development of its AI-powered platform for automating IT andcybersecurity operations. The round...",
+  "tags": [
+   "ai",
+   "italia"
+  ],
+  "topics": [
+   "italia-ambizione"
+  ],
+  "watch": [
+   "Cyberkord"
+  ],
+  "kinds": [
+   "round"
+  ],
+  "round": {
+   "amount": "€2.7M",
+   "musd": 2.97,
+   "stage": "Pre-seed",
+   "company": "CyberKord"
+  },
+  "score": 17,
+  "angles": [
+   "Riguarda un fondo che segui (Cyberkord): preparati a commentarla al colloquio.",
+   "Il vero limite delle startup italiane è il capitale o la mentalità?"
+  ],
+  "first_seen": "2026-11-05T05:03+00:00"
+ },
+ {
+  "id": "ce86a0b9b089",
+  "url": "https://tech.eu/2026/11/03/ex-phoenix-court-partner-launches-17m-debut-solo-fund-to-discover-next-lovable/",
+  "title": "Ex-Phoenix Court partner launches $17M debut solo fund to discover next Lovable",
+  "source": "Tech.eu",
+  "source_id": "techeu",
+  "recommended": false,
+  "date": "2026-11-03T10:45+00:00",
+  "excerpt": "A former partner at London VC firm Phoenix Court, who bet on fintech giant Wise and insurance unicorn Marshmallow, has launched her debut solo fund, a $17m fund looking to unearth Europe’s next AI suc...",
+  "tags": [
+   "ai",
+   "fintech",
+   "europa"
+  ],
+  "topics": [
+   "europa-usa"
+  ],
+  "watch": [],
+  "kinds": [
+   "fondi"
+  ],
+  "round": {
+   "amount": "$17M",
+   "musd": 17.0,
+   "stage": null,
+   "company": null
+  },
+  "score": 10,
+  "angles": [
+   "Perché l'Europa produce meno exit grandi, e cosa servirebbe per cambiare?",
+   "Cosa dice questa raccolta sull'appetito degli LP per il venture capital in questo momento?"
+  ],
+  "first_seen": "2026-11-05T05:03+00:00"
+ },
+ {
   "id": "0e022216c2cb",
   "url": "https://www.technologyreview.com/2026/11/03/1147934/reverse-game-theory-mechanism-design-ai-alignment/",
   "title": "How “reverse game theory” could keep AI agents in check",
@@ -458,6 +1414,35 @@
   "first_seen": "2026-11-04T05:02+00:00"
  },
  {
+  "id": "1b48e2734a5f",
+  "url": "https://tech.eu/2026/11/03/vitroscope-raises-7m-to-turn-living-human-tissue-into-a-new-source-of-drug-discovery-data/",
+  "title": "Vitroscope raises $7M to turn living human tissue into a new source of drug discovery data",
+  "source": "Tech.eu",
+  "source_id": "techeu",
+  "recommended": false,
+  "date": "2026-11-03T10:29+00:00",
+  "excerpt": "Vitroscope, a biotech company developing perfusion platforms to study immune activity, treatment responses and disease mechanisms in real time, has raised $7 million, comprising a $5 million seed roun...",
+  "tags": [
+   "deep-tech"
+  ],
+  "topics": [],
+  "watch": [],
+  "kinds": [
+   "round"
+  ],
+  "round": {
+   "amount": "$7M",
+   "musd": 7.0,
+   "stage": "Seed",
+   "company": "Vitroscope"
+  },
+  "score": 6,
+  "angles": [
+   "Faresti questo investimento? Chiediti chi è il team, quanto è grande il mercato e se l'azienda può restituire un fondo."
+  ],
+  "first_seen": "2026-11-05T05:03+00:00"
+ },
+ {
   "id": "77ac8479d0ae",
   "url": "https://www.eu-startups.com/2026/11/opinion-healthcares-pilot-culture-is-holding-back-healthtech-innovation/",
   "title": "OPINION: Healthcare’s pilot culture is holding back HealthTech innovation",
@@ -476,6 +1461,68 @@
   "score": 4,
   "angles": [],
   "first_seen": "2026-11-04T05:02+00:00"
+ },
+ {
+  "id": "26220132155e",
+  "url": "https://tech.eu/2026/11/03/venture-kick-backs-apolarion-with-eur164k-to-advance-plasma-based-seed-treatment/",
+  "title": "Venture Kick backs Apolarion with €164K to advance plasma-based seed treatment",
+  "source": "Tech.eu",
+  "source_id": "techeu",
+  "recommended": false,
+  "date": "2026-11-03T10:00+00:00",
+  "excerpt": "Swiss cleantech startup Apolarion, a spin-off from EPFL, has received€164,000 (CHF 150,000) from Venture Kick to advance its chemical-free seedtreatment technology.Founded by Jesus Poley and Luke Simo...",
+  "tags": [
+   "climate",
+   "europa"
+  ],
+  "topics": [
+   "climate-capex"
+  ],
+  "watch": [],
+  "kinds": [
+   "round"
+  ],
+  "round": {
+   "amount": "€0.2M",
+   "musd": 0.18,
+   "stage": "Seed",
+   "company": null
+  },
+  "score": 10,
+  "angles": [
+   "Come trattiene l'Europa le aziende deep tech che hanno bisogno di round enormi?",
+   "Faresti questo investimento? Chiediti chi è il team, quanto è grande il mercato e se l'azienda può restituire un fondo."
+  ],
+  "first_seen": "2026-11-05T05:03+00:00"
+ },
+ {
+  "id": "36b960d2fb54",
+  "url": "https://tech.eu/2026/11/03/scottish-startup-1nhaler-secures-ps22m-to-replace-bulky-plastic-inhalers-with-cardboard/",
+  "title": "Scottish startup 1nhaler secures £2.2M to replace bulky plastic inhalers with cardboard",
+  "source": "Tech.eu",
+  "source_id": "techeu",
+  "recommended": false,
+  "date": "2026-11-03T09:58+00:00",
+  "excerpt": "1nhaler, a Scotland-based drug delivery device developer, has secured £2.2 million in follow-on funding to progress its novel pop-up cardboard inhaler towards first regulatory approval. Archangels led...",
+  "tags": [
+   "policy"
+  ],
+  "topics": [],
+  "watch": [],
+  "kinds": [
+   "round"
+  ],
+  "round": {
+   "amount": "£2.2M",
+   "musd": 2.86,
+   "stage": null,
+   "company": "1nhaler"
+  },
+  "score": 6,
+  "angles": [
+   "Faresti questo investimento? Chiediti chi è il team, quanto è grande il mercato e se l'azienda può restituire un fondo."
+  ],
+  "first_seen": "2026-11-05T05:03+00:00"
  },
  {
   "id": "f84baa3233d7",
@@ -543,6 +1590,39 @@
   "first_seen": "2026-11-04T05:02+00:00"
  },
  {
+  "id": "1d9f2c0a76eb",
+  "url": "https://tech.eu/2026/11/03/quint-computing-raises-eur91m-to-scale-quantum-computing-technology/",
+  "title": "Quint Computing raises €9.1M to scale quantum computing technology",
+  "source": "Tech.eu",
+  "source_id": "techeu",
+  "recommended": false,
+  "date": "2026-11-03T08:05+00:00",
+  "excerpt": "German quantum computing startup Quint Computing has raised €9.1 million in an initial funding round led by Vsquared,with participation from Quantonation, Nucleus Capital, Faber, Vanagon Venturesand Z...",
+  "tags": [
+   "deep-tech",
+   "europa"
+  ],
+  "topics": [
+   "climate-capex"
+  ],
+  "watch": [],
+  "kinds": [
+   "round"
+  ],
+  "round": {
+   "amount": "€9.1M",
+   "musd": 10.01,
+   "stage": null,
+   "company": "Quint Computing"
+  },
+  "score": 11,
+  "angles": [
+   "Come trattiene l'Europa le aziende deep tech che hanno bisogno di round enormi?",
+   "Faresti questo investimento? Chiediti chi è il team, quanto è grande il mercato e se l'azienda può restituire un fondo."
+  ],
+  "first_seen": "2026-11-05T05:03+00:00"
+ },
+ {
   "id": "3c0296acb11a",
   "url": "https://techcrunch.com/2026/11/03/yvonne-bajela-is-bringing-17m-in-fresh-capital-to-europes-startup-scene/",
   "title": "Yvonne Bajela is bringing $17M in fresh capital to Europe’s startup scene",
@@ -563,6 +1643,96 @@
   "score": 5,
   "angles": [],
   "first_seen": "2026-11-04T05:02+00:00"
+ },
+ {
+  "id": "b31e450583eb",
+  "url": "https://tech.eu/2026/11/03/tumbleweed-raises-record-eur69m-seed-round-to-bring-microgravity-research-to-the-masses/",
+  "title": "Tumbleweed raises record €6.9M seed round to bring microgravity research to the masses",
+  "source": "Tech.eu",
+  "source_id": "techeu",
+  "recommended": false,
+  "date": "2026-11-03T08:00+00:00",
+  "excerpt": "Austrian startup Tumbleweed has raised €6.9 million in the country's largest-ever spacetech seed round, just four months after launching Austria's first commercial satellite. PactVC led the round, wit...",
+  "tags": [
+   "deep-tech",
+   "europa"
+  ],
+  "topics": [],
+  "watch": [],
+  "kinds": [
+   "round"
+  ],
+  "round": {
+   "amount": "€6.9M",
+   "musd": 7.59,
+   "stage": "Seed",
+   "company": "Tumbleweed"
+  },
+  "score": 8,
+  "angles": [
+   "Faresti questo investimento? Chiediti chi è il team, quanto è grande il mercato e se l'azienda può restituire un fondo."
+  ],
+  "first_seen": "2026-11-05T05:03+00:00"
+ },
+ {
+  "id": "48ed43932063",
+  "url": "https://tech.eu/2026/11/03/portuguese-ai-startup-granter-bags-eur16m-to-expand-across-europe/",
+  "title": "Portuguese AI startup Granter bags €1.6M to expand across Europe",
+  "source": "Tech.eu",
+  "source_id": "techeu",
+  "recommended": false,
+  "date": "2026-11-03T08:00+00:00",
+  "excerpt": "Portuguese startup Granter has raised €1.6 million in a funding round toexpand its AI-powered platform that simplifies access to European fundingprogrammes. The round was led by 3XP Global through its...",
+  "tags": [
+   "ai",
+   "europa"
+  ],
+  "topics": [],
+  "watch": [],
+  "kinds": [
+   "round"
+  ],
+  "round": {
+   "amount": "€1.6M",
+   "musd": 1.76,
+   "stage": null,
+   "company": "Granter"
+  },
+  "score": 8,
+  "angles": [
+   "Faresti questo investimento? Chiediti chi è il team, quanto è grande il mercato e se l'azienda può restituire un fondo."
+  ],
+  "first_seen": "2026-11-05T05:03+00:00"
+ },
+ {
+  "id": "bfc5f226e05a",
+  "url": "https://tech.eu/2026/11/03/i-didnt-become-a-vc-to-be-important-i-became-one-to-be-useful-robin-capital-raises-eur15m-fund-ii/",
+  "title": "“I didn't become a VC to be important. I became one to be useful”: Robin Capital raises €15M Fund II",
+  "source": "Tech.eu",
+  "source_id": "techeu",
+  "recommended": false,
+  "date": "2026-11-03T07:00+00:00",
+  "excerpt": "Before I even spoke to Robin Haak, more than one person warned me he was “a lot”. And they're not entirely wrong. He's outspoken, intense and hardly your typical VC. But spend any time talking to him,...",
+  "tags": [],
+  "topics": [
+   "vc-vs-pe"
+  ],
+  "watch": [],
+  "kinds": [
+   "fondi"
+  ],
+  "round": {
+   "amount": "€15M",
+   "musd": 16.5,
+   "stage": null,
+   "company": null
+  },
+  "score": 8,
+  "angles": [
+   "Che tipo di investitore deve essere un VC per vincere i deal migliori?",
+   "Cosa dice questa raccolta sull'appetito degli LP per il venture capital in questo momento?"
+  ],
+  "first_seen": "2026-11-05T05:03+00:00"
  },
  {
   "id": "8535a844c7e6",
@@ -794,6 +1964,40 @@
   "first_seen": "2026-11-03T04:59+00:00"
  },
  {
+  "id": "26f2a60931ed",
+  "url": "https://tech.eu/2026/11/02/gallium-defense-raises-eur71m-to-make-drone-detection-cheaper-and-scalable/",
+  "title": "Gallium Defense raises €7.1M to make drone detection cheaper and scalable",
+  "source": "Tech.eu",
+  "source_id": "techeu",
+  "recommended": false,
+  "date": "2026-11-02T15:03+00:00",
+  "excerpt": "Gallium Defense has emerged from stealth with a €7.1 million seed funding round led by Keen Venture Partners and 360 Capital, with participation from Omnes Capital and Polytechnique Ventures. The Fren...",
+  "tags": [
+   "deep-tech"
+  ],
+  "topics": [
+   "physical-ai"
+  ],
+  "watch": [
+   "360 Capital"
+  ],
+  "kinds": [
+   "round"
+  ],
+  "round": {
+   "amount": "€7.1M",
+   "musd": 7.81,
+   "stage": "Seed",
+   "company": "Gallium Defense"
+  },
+  "score": 14,
+  "angles": [
+   "Riguarda un fondo che segui (360 Capital): preparati a commentarla al colloquio.",
+   "L'Europa può vincere nella physical AI, dove contano industria e dati più del software?"
+  ],
+  "first_seen": "2026-11-05T05:03+00:00"
+ },
+ {
   "id": "31255b2b57a8",
   "url": "https://techcrunch.com/2026/11/02/omen-ai-adds-liquid-know-how-in-16-million-aquatic-labs-acquisition/",
   "title": "Omen AI adds liquid know-how in $16 million Aquatic Labs acquisition",
@@ -816,6 +2020,35 @@
    "Chi guadagna da questa exit e cosa insegna sulle strade di uscita per le startup europee?"
   ],
   "first_seen": "2026-11-03T04:59+00:00"
+ },
+ {
+  "id": "4f6d41b19799",
+  "url": "https://tech.eu/2026/11/02/london-based-lotech-lands-12m-series-a-led-by-mmc/",
+  "title": "London-based LO:TECH lands $12M Series A led by MMC",
+  "source": "Tech.eu",
+  "source_id": "techeu",
+  "recommended": false,
+  "date": "2026-11-02T14:15+00:00",
+  "excerpt": "London-based LO:TECH, a capital markets firm built for round-the-clock andonchain markets, has raised $12 million in a Series A funding round led by MMC,with participation from existing investors Fact...",
+  "tags": [
+   "europa"
+  ],
+  "topics": [],
+  "watch": [],
+  "kinds": [
+   "round"
+  ],
+  "round": {
+   "amount": "$12M",
+   "musd": 12.0,
+   "stage": "Series A",
+   "company": "London-based LO:TECH"
+  },
+  "score": 9,
+  "angles": [
+   "Faresti questo investimento? Chiediti chi è il team, quanto è grande il mercato e se l'azienda può restituire un fondo."
+  ],
+  "first_seen": "2026-11-05T05:03+00:00"
  },
  {
   "id": "4040ae18545d",
@@ -2722,26 +3955,6 @@
   "angles": [
    "Chi vince la corsa ai modelli, e dove può creare valore un VC early-stage europeo?"
   ],
-  "first_seen": "2026-10-29T04:52+00:00"
- },
- {
-  "id": "232f3b13da83",
-  "url": "https://news.crunchbase.com/startups/tech-layoffs/",
-  "title": "The Crunchbase Tech Layoffs Tracker",
-  "source": "Crunchbase News",
-  "source_id": "crunchbase",
-  "recommended": false,
-  "date": "2026-10-28T16:25+00:00",
-  "excerpt": "Over 127,000 workers at U.S.-based tech companies were laid off in mass job cuts in 2025, per a Crunchbase News tally, and the layoffs have continued into 2026. See the latest companies to cut roles.",
-  "tags": [
-   "usa"
-  ],
-  "topics": [],
-  "watch": [],
-  "kinds": [],
-  "round": null,
-  "score": 2,
-  "angles": [],
   "first_seen": "2026-10-29T04:52+00:00"
  },
  {
