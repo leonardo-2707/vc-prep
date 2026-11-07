@@ -1,5 +1,436 @@
 [
  {
+  "id": "0819cd72b72e",
+  "url": "https://techcrunch.com/2026/11/06/from-the-front-row-to-the-hot-seat-what-the-midterms-mean-for-big-tech/",
+  "title": "From the front row to the hot seat — what the midterms mean for Big Tech",
+  "source": "TechCrunch",
+  "source_id": "techcrunch",
+  "recommended": true,
+  "date": "2026-11-07T04:16+00:00",
+  "excerpt": "After spending two years getting cozy with the White House, Big Tech is suddenly trying to make friends with Democrats, and the open question is whether that image makeover can hold up against what states, local communities, and the markets are about to do.",
+  "tags": [],
+  "topics": [
+   "nvidia-vc"
+  ],
+  "watch": [],
+  "kinds": [],
+  "round": null,
+  "score": 5,
+  "angles": [
+   "Le Big Tech che investono nelle startup accelerano il mercato o lo distorcono?"
+  ],
+  "first_seen": "2026-11-07T04:56+00:00"
+ },
+ {
+  "id": "118369de89f0",
+  "url": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/",
+  "title": "OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation",
+  "source": "TechCrunch",
+  "source_id": "techcrunch",
+  "recommended": true,
+  "date": "2026-11-06T22:53+00:00",
+  "excerpt": "OpenAI has reportedly raised an additional $11 billion as part of a funding round that hasn't closed yet but is expected to in the coming weeks.",
+  "tags": [
+   "ai"
+  ],
+  "topics": [
+   "ai-race",
+   "vc-vs-pe"
+  ],
+  "watch": [],
+  "kinds": [
+   "round"
+  ],
+  "round": {
+   "amount": "$11B",
+   "musd": 11000.0,
+   "stage": null,
+   "company": "OpenAI reportedly"
+  },
+  "score": 13,
+  "angles": [
+   "Chi vince la corsa ai modelli, e dove può creare valore un VC early-stage europeo?",
+   "Faresti questo investimento? Chiediti chi è il team, quanto è grande il mercato e se l'azienda può restituire un fondo."
+  ],
+  "first_seen": "2026-11-07T04:56+00:00"
+ },
+ {
+  "id": "e576e62166bc",
+  "url": "https://news.crunchbase.com/venture/biggest-startup-rounds-ai-defense-space-tech-shield-zipline/",
+  "title": "The Week’s 10 Biggest Funding Rounds: AI, Defense And Space Tech Lead For Large Rounds",
+  "source": "Crunchbase News",
+  "source_id": "crunchbase",
+  "recommended": false,
+  "date": "2026-11-06T19:29+00:00",
+  "excerpt": "This week brought another plethora of large funding rounds for startups and growth-stage companies. Shield AI, a defense tech player focused on autonomy and virtual simulations, secured the largest financing, bringing in $2 billion. Next on the list was drone…",
+  "tags": [
+   "ai",
+   "deep-tech"
+  ],
+  "topics": [
+   "physical-ai",
+   "europa-usa"
+  ],
+  "watch": [],
+  "kinds": [
+   "round"
+  ],
+  "round": {
+   "amount": "$2B",
+   "musd": 2000.0,
+   "stage": null,
+   "company": null
+  },
+  "score": 12,
+  "angles": [
+   "L'Europa può vincere nella physical AI, dove contano industria e dati più del software?",
+   "Faresti questo investimento? Chiediti chi è il team, quanto è grande il mercato e se l'azienda può restituire un fondo."
+  ],
+  "first_seen": "2026-11-07T04:56+00:00"
+ },
+ {
+  "id": "81e4cffc9954",
+  "url": "https://techcrunch.com/2026/11/06/pentagon-offers-battery-startup-6k-250m-loan-to-build-u-s-factory/",
+  "title": "Pentagon offers battery startup 6K $250M loan to build US factory",
+  "source": "TechCrunch",
+  "source_id": "techcrunch",
+  "recommended": true,
+  "date": "2026-11-06T16:50+00:00",
+  "excerpt": "The Pentagon has conditionally approved a $250 million loan to help 6K scale up its microwave-plasma battery material manufacturing process.",
+  "tags": [
+   "climate"
+  ],
+  "topics": [
+   "climate-capex"
+  ],
+  "watch": [],
+  "kinds": [],
+  "round": null,
+  "score": 5,
+  "angles": [
+   "Come trattiene l'Europa le aziende deep tech che hanno bisogno di round enormi?"
+  ],
+  "first_seen": "2026-11-07T04:56+00:00"
+ },
+ {
+  "id": "f959e1653374",
+  "url": "https://techcrunch.com/2026/11/06/fox-completes-its-22b-acquisition-of-roku/",
+  "title": "Fox completes its $22B acquisition of Roku",
+  "source": "TechCrunch",
+  "source_id": "techcrunch",
+  "recommended": true,
+  "date": "2026-11-06T16:05+00:00",
+  "excerpt": "A few months after DOJ investigators were probing the deal, Fox just completed its $22B acquisition of the streaming giant Roku.",
+  "tags": [],
+  "topics": [],
+  "watch": [],
+  "kinds": [
+   "round",
+   "exit"
+  ],
+  "round": {
+   "amount": "$22B",
+   "musd": 22000.0,
+   "stage": null,
+   "company": "Fox"
+  },
+  "score": 12,
+  "angles": [
+   "Faresti questo investimento? Chiediti chi è il team, quanto è grande il mercato e se l'azienda può restituire un fondo.",
+   "Chi guadagna da questa exit e cosa insegna sulle strade di uscita per le startup europee?"
+  ],
+  "first_seen": "2026-11-07T04:56+00:00"
+ },
+ {
+  "id": "7c70b636a2cf",
+  "url": "https://techcrunch.com/2026/11/06/ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo/",
+  "title": "Ramp data shows AI spending stalling just as Anthropic nears its IPO",
+  "source": "TechCrunch",
+  "source_id": "techcrunch",
+  "recommended": true,
+  "date": "2026-11-06T15:54+00:00",
+  "excerpt": "AI usage keeps climbing, but spending has stalled. Price cuts and smarter cost controls among the biggest spenders could challenge investor assumptions about AI hypergrowth.",
+  "tags": [
+   "ai"
+  ],
+  "topics": [
+   "ai-race"
+  ],
+  "watch": [],
+  "kinds": [
+   "exit"
+  ],
+  "round": null,
+  "score": 8,
+  "angles": [
+   "Chi vince la corsa ai modelli, e dove può creare valore un VC early-stage europeo?",
+   "Chi guadagna da questa exit e cosa insegna sulle strade di uscita per le startup europee?"
+  ],
+  "first_seen": "2026-11-07T04:56+00:00"
+ },
+ {
+  "id": "4a6109d50595",
+  "url": "https://techcrunch.com/2026/11/06/after-blocking-muse-amazon-now-lets-users-text-alexa-to-help-them-shop/",
+  "title": "After blocking Muse, Amazon now lets users text Alexa to help them shop",
+  "source": "TechCrunch",
+  "source_id": "techcrunch",
+  "recommended": true,
+  "date": "2026-11-06T14:10+00:00",
+  "excerpt": "Amazon said that the feature will roll out to millions of users in coming weeks.",
+  "tags": [],
+  "topics": [
+   "nvidia-vc"
+  ],
+  "watch": [],
+  "kinds": [],
+  "round": null,
+  "score": 5,
+  "angles": [
+   "Le Big Tech che investono nelle startup accelerano il mercato o lo distorcono?"
+  ],
+  "first_seen": "2026-11-07T04:56+00:00"
+ },
+ {
+  "id": "b5e1454ea0be",
+  "url": "https://sifted.eu/articles/sequoia-is-leaving-london-should-europe-be-worried/",
+  "title": "Sequoia is leaving London. Should Europe be worried?",
+  "source": "Sifted",
+  "source_id": "sifted",
+  "recommended": true,
+  "date": "2026-11-06T13:36+00:00",
+  "excerpt": "",
+  "tags": [
+   "europa",
+   "usa"
+  ],
+  "topics": [],
+  "watch": [],
+  "kinds": [],
+  "round": null,
+  "score": 5,
+  "angles": [],
+  "first_seen": "2026-11-07T04:56+00:00"
+ },
+ {
+  "id": "937989bcc37a",
+  "url": "https://www.technologyreview.com/2026/11/06/1148154/the-download-humanoid-robot-cleaner-samsung-ai-chip-boom/",
+  "title": "The Download: a humanoid cleans house and Samsung builds for the AI boom",
+  "source": "MIT Technology Review",
+  "source_id": "mittr",
+  "recommended": true,
+  "date": "2026-11-06T13:10+00:00",
+  "excerpt": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. I watched a humanoid robot clean my apartment. It felt like a taste of the future. —Grace Huckins When I saw an X post…",
+  "tags": [
+   "ai",
+   "deep-tech"
+  ],
+  "topics": [
+   "physical-ai"
+  ],
+  "watch": [],
+  "kinds": [],
+  "round": null,
+  "score": 5,
+  "angles": [
+   "L'Europa può vincere nella physical AI, dove contano industria e dati più del software?"
+  ],
+  "first_seen": "2026-11-07T04:56+00:00"
+ },
+ {
+  "id": "1f3694f5e3c9",
+  "url": "https://techcrunch.com/2026/11/06/physicl-raises-10m-to-make-the-digital-world-real-enough-for-robots/",
+  "title": "Physicl raises $10M to make the digital world real enough for robots",
+  "source": "TechCrunch",
+  "source_id": "techcrunch",
+  "recommended": true,
+  "date": "2026-11-06T13:00+00:00",
+  "excerpt": "Physicl is trying to solve the sim-to-real gap with a pipeline originally built to market goods online.",
+  "tags": [
+   "deep-tech"
+  ],
+  "topics": [
+   "physical-ai"
+  ],
+  "watch": [],
+  "kinds": [
+   "round"
+  ],
+  "round": {
+   "amount": "$10M",
+   "musd": 10.0,
+   "stage": null,
+   "company": "Physicl"
+  },
+  "score": 10,
+  "angles": [
+   "L'Europa può vincere nella physical AI, dove contano industria e dati più del software?",
+   "Faresti questo investimento? Chiediti chi è il team, quanto è grande il mercato e se l'azienda può restituire un fondo."
+  ],
+  "first_seen": "2026-11-07T04:56+00:00"
+ },
+ {
+  "id": "a6b07da9a7df",
+  "url": "https://sifted.eu/articles/what-sequoia-london-exit-means-europe/",
+  "title": "What Sequoia’s London exit means for Europe",
+  "source": "Sifted",
+  "source_id": "sifted",
+  "recommended": true,
+  "date": "2026-11-06T12:00+00:00",
+  "excerpt": "",
+  "tags": [
+   "europa",
+   "usa"
+  ],
+  "topics": [],
+  "watch": [],
+  "kinds": [
+   "exit"
+  ],
+  "round": null,
+  "score": 8,
+  "angles": [
+   "Chi guadagna da questa exit e cosa insegna sulle strade di uscita per le startup europee?"
+  ],
+  "first_seen": "2026-11-07T04:56+00:00"
+ },
+ {
+  "id": "5b68be650e83",
+  "url": "https://news.crunchbase.com/ai/challenging-monopolies-semiconductors-anand-tensordyn/",
+  "title": "How To Challenge A Monopoly In The AI Age",
+  "source": "Crunchbase News",
+  "source_id": "crunchbase",
+  "recommended": false,
+  "date": "2026-11-06T12:00+00:00",
+  "excerpt": "AI chip startups can challenge the sector's Goliath's by building substantially better hardware for emerging inference demands, much as Juniper challenged Cisco with a new architecture suited to the internet’s rapid growth. To win customers, writes guest…",
+  "tags": [
+   "ai",
+   "deep-tech"
+  ],
+  "topics": [
+   "ai-race"
+  ],
+  "watch": [],
+  "kinds": [],
+  "round": null,
+  "score": 4,
+  "angles": [
+   "Chi vince la corsa ai modelli, e dove può creare valore un VC early-stage europeo?"
+  ],
+  "first_seen": "2026-11-07T04:56+00:00"
+ },
+ {
+  "id": "e4341cf18914",
+  "url": "https://news.crunchbase.com/venture/october-2026-lead-startup-investors/",
+  "title": "General Catalyst Tops Lead Investors For October In Busy Month For US Startup Dealmaking",
+  "source": "Crunchbase News",
+  "source_id": "crunchbase",
+  "recommended": false,
+  "date": "2026-11-06T12:00+00:00",
+  "excerpt": "October was a busy month for U.S. startup funding, led by well-known venture investors with a healthy appetite for big deals. We take a look at active investor rankings across three categories: lead deal count, largest lead investments and total venture…",
+  "tags": [
+   "usa"
+  ],
+  "topics": [],
+  "watch": [],
+  "kinds": [],
+  "round": null,
+  "score": 2,
+  "angles": [],
+  "first_seen": "2026-11-07T04:56+00:00"
+ },
+ {
+  "id": "3aa255d099e4",
+  "url": "https://sifted.eu/articles/european-startups-defence-rollups-vc-sceptical/",
+  "title": "European startups are using rollup strategies for defence. Some VCs are sceptical",
+  "source": "Sifted",
+  "source_id": "sifted",
+  "recommended": true,
+  "date": "2026-11-06T10:45+00:00",
+  "excerpt": "",
+  "tags": [
+   "deep-tech",
+   "europa"
+  ],
+  "topics": [
+   "europa-usa"
+  ],
+  "watch": [],
+  "kinds": [],
+  "round": null,
+  "score": 7,
+  "angles": [
+   "Perché l'Europa produce meno exit grandi, e cosa servirebbe per cambiare?"
+  ],
+  "first_seen": "2026-11-07T04:56+00:00"
+ },
+ {
+  "id": "93fc4c1ba090",
+  "url": "https://www.technologyreview.com/2026/11/06/1148090/i-watched-a-humanoid-robot-clean-my-apartment-it-felt-like-a-taste-of-the-future/",
+  "title": "I watched a humanoid robot clean my apartment. It felt like a taste of the future.",
+  "source": "MIT Technology Review",
+  "source_id": "mittr",
+  "recommended": true,
+  "date": "2026-11-06T10:00+00:00",
+  "excerpt": "I’m not the sort of person who typically pays for a house cleaner. I’m too frugal, and I kind of enjoy putting on a podcast and going to town on my tub with a Magic Eraser. But when I saw an X post about a new humanoid-robot cleaning service in San Francisco…",
+  "tags": [
+   "deep-tech",
+   "usa"
+  ],
+  "topics": [
+   "physical-ai"
+  ],
+  "watch": [],
+  "kinds": [],
+  "round": null,
+  "score": 5,
+  "angles": [
+   "L'Europa può vincere nella physical AI, dove contano industria e dati più del software?"
+  ],
+  "first_seen": "2026-11-07T04:56+00:00"
+ },
+ {
+  "id": "904574e3ce24",
+  "url": "https://techcrunch.com/2026/11/05/palo-alto-networks-in-talks-to-buy-ai-agent-security-startup-clutch-for-500m/",
+  "title": "Palo Alto Networks in talks to buy AI agent security startup Clutch for $500M",
+  "source": "TechCrunch",
+  "source_id": "techcrunch",
+  "recommended": true,
+  "date": "2026-11-06T06:28+00:00",
+  "excerpt": "Clutch, backed by Lightspeed and SignalFire, was last valued at $85 million, according to a source.",
+  "tags": [
+   "ai"
+  ],
+  "topics": [],
+  "watch": [],
+  "kinds": [
+   "exit"
+  ],
+  "round": null,
+  "score": 6,
+  "angles": [
+   "Chi guadagna da questa exit e cosa insegna sulle strade di uscita per le startup europee?"
+  ],
+  "first_seen": "2026-11-07T04:56+00:00"
+ },
+ {
+  "id": "09c1d3bbdbb7",
+  "url": "https://sifted.eu/articles/onstage-w26-cohort/",
+  "title": "The 12 startups most in demand from Onstage's W26 cohort",
+  "source": "Sifted",
+  "source_id": "sifted",
+  "recommended": true,
+  "date": "2026-11-06T05:00+00:00",
+  "excerpt": "",
+  "tags": [],
+  "topics": [],
+  "watch": [],
+  "kinds": [],
+  "round": null,
+  "score": 3,
+  "angles": [],
+  "first_seen": "2026-11-07T04:56+00:00"
+ },
+ {
   "id": "4262d4cffb1e",
   "url": "https://techcrunch.com/2026/11/05/the-new-york-times-reportedly-in-talks-to-buy-letterboxd-for-330-million/",
   "title": "The New York Times reportedly in talks to buy Letterboxd for $330 million",
