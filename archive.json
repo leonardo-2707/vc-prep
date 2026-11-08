@@ -1,5 +1,71 @@
 [
  {
+  "id": "2c93e9013ac1",
+  "url": "https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo/",
+  "title": "Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo",
+  "source": "TechCrunch",
+  "source_id": "techcrunch",
+  "recommended": true,
+  "date": "2026-11-07T21:17+00:00",
+  "excerpt": "A memo circulated earlier this year reportedly claimed that China’s Ministry of State Security recruited a female technology executive to spy on Nvidia's CEO.",
+  "tags": [
+   "policy"
+  ],
+  "topics": [
+   "nvidia-vc"
+  ],
+  "watch": [],
+  "kinds": [],
+  "round": null,
+  "score": 5,
+  "angles": [
+   "Le Big Tech che investono nelle startup accelerano il mercato o lo distorcono?"
+  ],
+  "first_seen": "2026-11-08T04:57+00:00"
+ },
+ {
+  "id": "de8f61359cd8",
+  "url": "https://techcrunch.com/2026/11/07/amazons-new-basic-kindle-proves-you-dont-need-all-the-bells-and-whistles/",
+  "title": "Amazon’s new basic Kindle proves you don’t need all the bells and whistles",
+  "source": "TechCrunch",
+  "source_id": "techcrunch",
+  "recommended": true,
+  "date": "2026-11-07T17:18+00:00",
+  "excerpt": "Amazon's redesigned basic Kindle costs more than before, but its lighter build and improved display make a compelling case for skipping the pricier models.",
+  "tags": [],
+  "topics": [
+   "nvidia-vc"
+  ],
+  "watch": [],
+  "kinds": [],
+  "round": null,
+  "score": 5,
+  "angles": [
+   "Le Big Tech che investono nelle startup accelerano il mercato o lo distorcono?"
+  ],
+  "first_seen": "2026-11-08T04:57+00:00"
+ },
+ {
+  "id": "a0f4bc0ee5c7",
+  "url": "https://techcrunch.com/2026/11/06/sequoia-shutting-down-its-scouts-program-marks-the-end-of-an-era/",
+  "title": "Sequoia shutting down its Scouts program marks the end of an era",
+  "source": "TechCrunch",
+  "source_id": "techcrunch-venture",
+  "recommended": true,
+  "date": "2026-11-07T05:01+00:00",
+  "excerpt": "Sequoia pioneered the scouts model and many VC firms followed suit, but a consensus now seems to be forming that the model has reached limits in its current form.",
+  "tags": [
+   "usa"
+  ],
+  "topics": [],
+  "watch": [],
+  "kinds": [],
+  "round": null,
+  "score": 3,
+  "angles": [],
+  "first_seen": "2026-11-08T04:57+00:00"
+ },
+ {
   "id": "0819cd72b72e",
   "url": "https://techcrunch.com/2026/11/06/from-the-front-row-to-the-hot-seat-what-the-midterms-mean-for-big-tech/",
   "title": "From the front row to the hot seat — what the midterms mean for Big Tech",
@@ -89,6 +155,26 @@
   "first_seen": "2026-11-07T04:56+00:00"
  },
  {
+  "id": "e5aef921bb26",
+  "url": "https://www.eu-startups.com/2026/11/weekly-funding-round-up-all-of-the-european-startup-funding-rounds-we-tracked-this-week-nov-02-nov-06/",
+  "title": "Weekly funding round-up! All of the European startup funding rounds we tracked this week (Nov. 02– Nov. 06)",
+  "source": "EU-Startups",
+  "source_id": "eustartups",
+  "recommended": false,
+  "date": "2026-11-06T16:55+00:00",
+  "excerpt": "This article is visible for CLUB members only. If you are already a member but don’t see the content of this article, please login here. If you’re not a CLUB member yet, but you’d like to read members-only content like this one, have unrestricted access to…",
+  "tags": [
+   "europa"
+  ],
+  "topics": [],
+  "watch": [],
+  "kinds": [],
+  "round": null,
+  "score": 4,
+  "angles": [],
+  "first_seen": "2026-11-08T04:57+00:00"
+ },
+ {
   "id": "81e4cffc9954",
   "url": "https://techcrunch.com/2026/11/06/pentagon-offers-battery-startup-6k-250m-loan-to-build-u-s-factory/",
   "title": "Pentagon offers battery startup 6K $250M loan to build US factory",
@@ -169,6 +255,39 @@
   "first_seen": "2026-11-07T04:56+00:00"
  },
  {
+  "id": "6d6dbf3adb27",
+  "url": "https://www.eu-startups.com/2026/11/defencetech-unicorn-tekever-strengthens-nordic-ambitions-amid-e520-million-funding-round/",
+  "title": "DefenceTech unicorn TEKEVER strengthens Nordic ambitions amid €520 million funding round",
+  "source": "EU-Startups",
+  "source_id": "eustartups",
+  "recommended": false,
+  "date": "2026-11-06T15:17+00:00",
+  "excerpt": "Portuguese DefenceTech scale-up TEKEVER has today announced that they have secured €13 million from EIFO as part of their Series D raise of €520 million ($580 million) at a €5.7 billion ($6.4 billion) valuation to support the company’s continued growth. The…",
+  "tags": [
+   "europa"
+  ],
+  "topics": [
+   "europa-usa",
+   "vc-vs-pe"
+  ],
+  "watch": [],
+  "kinds": [
+   "round"
+  ],
+  "round": {
+   "amount": "€520M",
+   "musd": 572.0,
+   "stage": "Series D",
+   "company": null
+  },
+  "score": 14,
+  "angles": [
+   "Perché l'Europa produce meno exit grandi, e cosa servirebbe per cambiare?",
+   "Faresti questo investimento? Chiediti chi è il team, quanto è grande il mercato e se l'azienda può restituire un fondo."
+  ],
+  "first_seen": "2026-11-08T04:57+00:00"
+ },
+ {
   "id": "4a6109d50595",
   "url": "https://techcrunch.com/2026/11/06/after-blocking-muse-amazon-now-lets-users-text-alexa-to-help-them-shop/",
   "title": "After blocking Muse, Amazon now lets users text Alexa to help them shop",
@@ -235,6 +354,30 @@
    "L'Europa può vincere nella physical AI, dove contano industria e dati più del software?"
   ],
   "first_seen": "2026-11-07T04:56+00:00"
+ },
+ {
+  "id": "8a7c19daa19a",
+  "url": "https://www.eu-startups.com/2026/11/autostore-to-acquire-dutch-warehouse-and-horticulture-automation-firm-logiqs-for-up-to-e30-million/",
+  "title": "AutoStore to acquire Dutch warehouse and horticulture automation firm Logiqs for up to €30 million",
+  "source": "EU-Startups",
+  "source_id": "eustartups",
+  "recommended": false,
+  "date": "2026-11-06T13:04+00:00",
+  "excerpt": "AutoStore, a Norwegian company specialising in intelligent fulfilment, has announced an agreement to acquire Logiqs, a Maasdijk-based provider of roaming pallet Automated Storage and Retrieval Systems (AS/RS), for up to €30 million. AutoStore noted that it…",
+  "tags": [
+   "europa"
+  ],
+  "topics": [],
+  "watch": [],
+  "kinds": [
+   "exit"
+  ],
+  "round": null,
+  "score": 7,
+  "angles": [
+   "Chi guadagna da questa exit e cosa insegna sulle strade di uscita per le startup europee?"
+  ],
+  "first_seen": "2026-11-08T04:57+00:00"
  },
  {
   "id": "1f3694f5e3c9",
@@ -364,6 +507,40 @@
   "first_seen": "2026-11-07T04:56+00:00"
  },
  {
+  "id": "5e68b98fa73b",
+  "url": "https://www.eu-startups.com/2026/11/opinion-europes-quantum-startups-need-more-than-research-funding/",
+  "title": "OPINION: Europe’s quantum startups need more than research funding",
+  "source": "EU-Startups",
+  "source_id": "eustartups",
+  "recommended": false,
+  "date": "2026-11-06T10:25+00:00",
+  "excerpt": "According to McKinsey’s 2026 Quantum Technology Monitor, investment in quantum technology startups reached €11.15 billion ($12.6 billion) in 2025, 6.3 times more than a year earlier. Only 3% came from public sources, including governments, sovereign wealth…",
+  "tags": [
+   "deep-tech",
+   "fintech",
+   "europa"
+  ],
+  "topics": [
+   "climate-capex"
+  ],
+  "watch": [],
+  "kinds": [
+   "round"
+  ],
+  "round": {
+   "amount": "€11.2B",
+   "musd": 12265.0,
+   "stage": null,
+   "company": null
+  },
+  "score": 12,
+  "angles": [
+   "Come trattiene l'Europa le aziende deep tech che hanno bisogno di round enormi?",
+   "Faresti questo investimento? Chiediti chi è il team, quanto è grande il mercato e se l'azienda può restituire un fondo."
+  ],
+  "first_seen": "2026-11-08T04:57+00:00"
+ },
+ {
   "id": "93fc4c1ba090",
   "url": "https://www.technologyreview.com/2026/11/06/1148090/i-watched-a-humanoid-robot-clean-my-apartment-it-felt-like-a-taste-of-the-future/",
   "title": "I watched a humanoid robot clean my apartment. It felt like a taste of the future.",
@@ -387,6 +564,122 @@
    "L'Europa può vincere nella physical AI, dove contano industria e dati più del software?"
   ],
   "first_seen": "2026-11-07T04:56+00:00"
+ },
+ {
+  "id": "3afaac878862",
+  "url": "https://www.eu-startups.com/2026/11/with-a-new-equity-round-in-sight-candi-solar-secures-e44-million-for-solar-projects-in-india/",
+  "title": "With a new equity round in sight, Candi Solar secures €44 million for solar projects in India",
+  "source": "EU-Startups",
+  "source_id": "eustartups",
+  "recommended": false,
+  "date": "2026-11-06T09:56+00:00",
+  "excerpt": "Candi Solar, a Swiss clean energy company distributing solar solutions, announced a €44 million ($50 million) financing partnership to build rooftop, ground-mounted, and open-access solar installations paired with BESS across key business hubs in India. This…",
+  "tags": [
+   "climate",
+   "europa"
+  ],
+  "topics": [],
+  "watch": [],
+  "kinds": [
+   "round"
+  ],
+  "round": {
+   "amount": "€44M",
+   "musd": 48.4,
+   "stage": null,
+   "company": "Candi Solar"
+  },
+  "score": 9,
+  "angles": [
+   "Faresti questo investimento? Chiediti chi è il team, quanto è grande il mercato e se l'azienda può restituire un fondo."
+  ],
+  "first_seen": "2026-11-08T04:57+00:00"
+ },
+ {
+  "id": "82906395dd6a",
+  "url": "https://www.eu-startups.com/2026/11/bioliberty-raises-e2-95-million-to-bring-its-ai-powered-rehabilitation-technology-into-the-home/",
+  "title": "Bioliberty raises €2.95 million to bring its AI-powered rehabilitation technology into the home",
+  "source": "EU-Startups",
+  "source_id": "eustartups",
+  "recommended": false,
+  "date": "2026-11-06T09:13+00:00",
+  "excerpt": "Bioliberty, an Edinburgh- and Boston-based rehabilitation technology startup, has raised a €2.95 million ($3.3 million) Series A extension, bringing its total funding to €12.07 million ($13.5 million). The Series A extension adds four new institutional…",
+  "tags": [
+   "ai",
+   "usa"
+  ],
+  "topics": [],
+  "watch": [],
+  "kinds": [
+   "round"
+  ],
+  "round": {
+   "amount": "€3M",
+   "musd": 3.25,
+   "stage": "Series A",
+   "company": "Bioliberty"
+  },
+  "score": 6,
+  "angles": [
+   "Faresti questo investimento? Chiediti chi è il team, quanto è grande il mercato e se l'azienda può restituire un fondo."
+  ],
+  "first_seen": "2026-11-08T04:57+00:00"
+ },
+ {
+  "id": "578655bddf4c",
+  "url": "https://www.eu-startups.com/2026/11/oxford-spin-out-alethio-therapeutics-raises-e80-46-million-series-a-to-advance-targeted-blood-cancer-therapies/",
+  "title": "Oxford spin-out Alethio Therapeutics raises €80.46 million Series A to advance targeted blood cancer therapies",
+  "source": "EU-Startups",
+  "source_id": "eustartups",
+  "recommended": false,
+  "date": "2026-11-06T08:17+00:00",
+  "excerpt": "Alethio Therapeutics (Alethio), an Abingdon-on-Thames-based biopharmaceutical company developing next-generation therapies for myeloproliferative neoplasms (MPNs), has announced the completion of an oversubscribed €80.46 million ($90 million/£67 million)…",
+  "tags": [],
+  "topics": [],
+  "watch": [],
+  "kinds": [
+   "round"
+  ],
+  "round": {
+   "amount": "€80.5M",
+   "musd": 88.51,
+   "stage": "Series A",
+   "company": "Oxford spin-out Alethio Therapeutics"
+  },
+  "score": 8,
+  "angles": [
+   "Faresti questo investimento? Chiediti chi è il team, quanto è grande il mercato e se l'azienda può restituire un fondo."
+  ],
+  "first_seen": "2026-11-08T04:57+00:00"
+ },
+ {
+  "id": "818dd1176fb5",
+  "url": "https://www.eu-startups.com/2026/11/helsinkis-vensum-power-secures-e9-million-to-scale-its-software-defined-power-conversion-platform/",
+  "title": "Helsinki’s Vensum Power secures €9 million to scale its software-defined power conversion platform",
+  "source": "EU-Startups",
+  "source_id": "eustartups",
+  "recommended": false,
+  "date": "2026-11-06T07:49+00:00",
+  "excerpt": "Vensum Power, a Helsinki-based developer of Software-Defined Power Conversion (SDPC) solution, has closed a €9 million Series A round. The round was co-led by existing backer Lifeline Ventures alongside two new investors, Larsen & Toubro Group and Eviny…",
+  "tags": [
+   "europa"
+  ],
+  "topics": [],
+  "watch": [],
+  "kinds": [
+   "round"
+  ],
+  "round": {
+   "amount": "€9M",
+   "musd": 9.9,
+   "stage": "Series A",
+   "company": "Vensum Power"
+  },
+  "score": 8,
+  "angles": [
+   "Faresti questo investimento? Chiediti chi è il team, quanto è grande il mercato e se l'azienda può restituire un fondo."
+  ],
+  "first_seen": "2026-11-08T04:57+00:00"
  },
  {
   "id": "904574e3ce24",
@@ -663,6 +956,34 @@
   "first_seen": "2026-11-06T05:01+00:00"
  },
  {
+  "id": "9d4f385edf3e",
+  "url": "https://www.eu-startups.com/2026/11/the-eic-confirms-e1-8-billion-for-startups-and-deeptech-in-2027-with-expanded-defence-and-women-led-startup-support/",
+  "title": "The EIC confirms €1.8 billion for startups in 2027, with expanded defence and women-led startup support",
+  "source": "EU-Startups",
+  "source_id": "eustartups",
+  "recommended": false,
+  "date": "2026-11-05T15:47+00:00",
+  "excerpt": "The European Commission has adopted the 2027 European Innovation Council (EIC) Work Programme, allocating €1.8 billion to support DeepTech startups, scale-ups and researchers across Europe. The funding package aims to help promising technologies move from…",
+  "tags": [
+   "deep-tech",
+   "europa",
+   "policy"
+  ],
+  "topics": [
+   "climate-capex",
+   "europa-usa",
+   "regime-28"
+  ],
+  "watch": [],
+  "kinds": [],
+  "round": null,
+  "score": 10,
+  "angles": [
+   "Come trattiene l'Europa le aziende deep tech che hanno bisogno di round enormi?"
+  ],
+  "first_seen": "2026-11-08T04:57+00:00"
+ },
+ {
   "id": "c0298e22e943",
   "url": "https://techcrunch.com/2026/11/05/zipline-hits-21-5b-valuation-as-walmart-expands-bet-on-drone-delivery/",
   "title": "Zipline hits $21.5B valuation as Walmart expands bet on drone delivery",
@@ -757,6 +1078,39 @@
    "Chi guadagna da questa exit e cosa insegna sulle strade di uscita per le startup europee?"
   ],
   "first_seen": "2026-11-06T05:01+00:00"
+ },
+ {
+  "id": "dcf8371dede6",
+  "url": "https://www.eu-startups.com/2026/11/germanys-vaeridion-raises-e124-million-to-bring-electric-regional-flights-closer-to-reality/",
+  "title": "Germany’s VÆRIDION raises €124 million to bring electric regional flights closer to reality",
+  "source": "EU-Startups",
+  "source_id": "eustartups",
+  "recommended": false,
+  "date": "2026-11-05T12:10+00:00",
+  "excerpt": "Munich-based aviation startup VÆRIDION has raised €30 million in a Series A2 funding round and selected for a €94.5 million grant from the European Commission’s Innovation Fund, bringing the combined value to €124.5 million. The investment round was co-led by…",
+  "tags": [
+   "europa",
+   "policy"
+  ],
+  "topics": [
+   "regime-28"
+  ],
+  "watch": [],
+  "kinds": [
+   "round"
+  ],
+  "round": {
+   "amount": "€124M",
+   "musd": 136.4,
+   "stage": null,
+   "company": "VÆRIDION"
+  },
+  "score": 12,
+  "angles": [
+   "Il 28° regime può davvero ridurre il divario con gli USA?",
+   "Faresti questo investimento? Chiediti chi è il team, quanto è grande il mercato e se l'azienda può restituire un fondo."
+  ],
+  "first_seen": "2026-11-08T04:57+00:00"
  },
  {
   "id": "d12522f01ecb",
