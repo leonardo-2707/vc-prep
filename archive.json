@@ -1,5 +1,153 @@
 [
  {
+  "id": "d733b25e58e0",
+  "url": "https://sifted.eu/articles/fintech-growth-drought/",
+  "title": "The winners and losers of Europe's fintech growth funding drought",
+  "source": "Sifted",
+  "source_id": "sifted",
+  "recommended": true,
+  "date": "2026-11-09T05:00+00:00",
+  "excerpt": "",
+  "tags": [
+   "fintech",
+   "europa"
+  ],
+  "topics": [
+   "europa-usa"
+  ],
+  "watch": [],
+  "kinds": [],
+  "round": null,
+  "score": 7,
+  "angles": [
+   "Perché l'Europa produce meno exit grandi, e cosa servirebbe per cambiare?"
+  ],
+  "first_seen": "2026-11-09T05:10+00:00"
+ },
+ {
+  "id": "08c4f8350526",
+  "url": "https://sifted.eu/articles/sf-confidence-reality-checks-and-ai-bubble-anxiety-come-to-the-rise-venture-salon-in-the-alps/",
+  "title": "SF confidence, reality checks and AI bubble anxiety come to the Rise venture salon in the Alps",
+  "source": "Sifted",
+  "source_id": "sifted",
+  "recommended": true,
+  "date": "2026-11-09T05:00+00:00",
+  "excerpt": "",
+  "tags": [
+   "ai"
+  ],
+  "topics": [],
+  "watch": [],
+  "kinds": [],
+  "round": null,
+  "score": 3,
+  "angles": [],
+  "first_seen": "2026-11-09T05:10+00:00"
+ },
+ {
+  "id": "a0e7f0895236",
+  "url": "https://sifted.eu/articles/ucl-spinouts-looking-to-raise/",
+  "title": "UCL spinouts looking to raise",
+  "source": "Sifted",
+  "source_id": "sifted",
+  "recommended": true,
+  "date": "2026-11-09T05:00+00:00",
+  "excerpt": "",
+  "tags": [],
+  "topics": [],
+  "watch": [],
+  "kinds": [],
+  "round": null,
+  "score": 3,
+  "angles": [],
+  "first_seen": "2026-11-09T05:10+00:00"
+ },
+ {
+  "id": "45da7994669e",
+  "url": "https://techcrunch.com/2026/11/08/nvidia-says-its-investigating-ceo-jensen-huangs-relationship-with-possible-chinese-spy/",
+  "title": "Nvidia will investigate CEO Jensen Huang’s relationship with possible Chinese spy",
+  "source": "TechCrunch",
+  "source_id": "techcrunch",
+  "recommended": true,
+  "date": "2026-11-08T21:00+00:00",
+  "excerpt": "In a memo to the company, Huang admitted that he had an affair.",
+  "tags": [],
+  "topics": [
+   "nvidia-vc"
+  ],
+  "watch": [],
+  "kinds": [],
+  "round": null,
+  "score": 5,
+  "angles": [
+   "Le Big Tech che investono nelle startup accelerano il mercato o lo distorcono?"
+  ],
+  "first_seen": "2026-11-09T05:10+00:00"
+ },
+ {
+  "id": "552b8c95ef42",
+  "url": "https://techcrunch.com/2026/11/08/coordinated-disturbances-haunt-grids-worldwide-heres-how-researchers-solved-the-mystery/",
+  "title": "Coordinated disturbances haunt grids worldwide. Here’s how researchers solved the mystery.",
+  "source": "TechCrunch",
+  "source_id": "techcrunch",
+  "recommended": true,
+  "date": "2026-11-08T20:30+00:00",
+  "excerpt": "Mystery solved: Coordinated power drops have been haunting power grid worldwide, but a team of researchers in Germany found the culprit.",
+  "tags": [
+   "climate",
+   "europa"
+  ],
+  "topics": [
+   "climate-capex"
+  ],
+  "watch": [],
+  "kinds": [],
+  "round": null,
+  "score": 7,
+  "angles": [
+   "Come trattiene l'Europa le aziende deep tech che hanno bisogno di round enormi?"
+  ],
+  "first_seen": "2026-11-09T05:10+00:00"
+ },
+ {
+  "id": "8f9edb697d23",
+  "url": "https://techcrunch.com/2026/11/08/sequoia-partners-reportedly-blindsided-when-roelof-botha-joined-spacex-board/",
+  "title": "Sequoia partners reportedly blindsided when Roelof Botha joined SpaceX board",
+  "source": "TechCrunch",
+  "source_id": "techcrunch-venture",
+  "recommended": true,
+  "date": "2026-11-08T19:51+00:00",
+  "excerpt": "A new report claims Sequoia's recent changes undo the legacy of the firm's former steward.",
+  "tags": [
+   "usa"
+  ],
+  "topics": [],
+  "watch": [],
+  "kinds": [],
+  "round": null,
+  "score": 3,
+  "angles": [],
+  "first_seen": "2026-11-09T05:10+00:00"
+ },
+ {
+  "id": "d42d09f1aa1d",
+  "url": "https://techcrunch.com/2026/11/08/the-ex-secret-service-agent-who-flipped-a-hacker-is-now-raising-a-second-250m-cybersecurity-fund/",
+  "title": "He arrested a hacker, then spent 18 months clearing his own name. Now he’s a cybersecurity VC.",
+  "source": "TechCrunch",
+  "source_id": "techcrunch-venture",
+  "recommended": true,
+  "date": "2026-11-08T17:30+00:00",
+  "excerpt": "Stephen Ward, a former Secret Service agent and Home Depot CISO, is preparing a second fund of roughly $250 million for Brightmind Partners.",
+  "tags": [],
+  "topics": [],
+  "watch": [],
+  "kinds": [],
+  "round": null,
+  "score": 3,
+  "angles": [],
+  "first_seen": "2026-11-09T05:10+00:00"
+ },
+ {
   "id": "2c93e9013ac1",
   "url": "https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo/",
   "title": "Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo",
