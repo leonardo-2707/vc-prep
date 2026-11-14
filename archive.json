@@ -1,5 +1,338 @@
 [
  {
+  "id": "4c02b6f51e28",
+  "url": "https://techcrunch.com/2026/11/13/amazons-new-kindle-colorsoft-is-a-premium-e-reader-with-a-premium-price/",
+  "title": "Amazon’s new Kindle Colorsoft is a premium e-reader with a premium price",
+  "source": "TechCrunch",
+  "source_id": "techcrunch",
+  "recommended": true,
+  "date": "2026-11-13T23:00+00:00",
+  "excerpt": "The latest model is lighter and thinner than its predecessor and features an edge-to-edge display. But if you already own the first-generation Colorsoft, there’s little reason to upgrade.",
+  "tags": [],
+  "topics": [
+   "nvidia-vc"
+  ],
+  "watch": [],
+  "kinds": [],
+  "round": null,
+  "score": 5,
+  "angles": [
+   "Le Big Tech che investono nelle startup accelerano il mercato o lo distorcono?"
+  ],
+  "first_seen": "2026-11-14T04:57+00:00"
+ },
+ {
+  "id": "ad639fbc6552",
+  "url": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/",
+  "title": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
+  "source": "TechCrunch",
+  "source_id": "techcrunch-venture",
+  "recommended": true,
+  "date": "2026-11-13T22:43+00:00",
+  "excerpt": "Nvidia poured tens of billions into AI startups under Huang. Without him at the helm, founders and VCs are bracing for smaller checks and lower valuations.",
+  "tags": [
+   "ai"
+  ],
+  "topics": [
+   "nvidia-vc",
+   "vc-vs-pe"
+  ],
+  "watch": [],
+  "kinds": [],
+  "round": null,
+  "score": 7,
+  "angles": [
+   "Le Big Tech che investono nelle startup accelerano il mercato o lo distorcono?"
+  ],
+  "first_seen": "2026-11-14T04:57+00:00"
+ },
+ {
+  "id": "af7856192571",
+  "url": "https://news.crunchbase.com/venture/huang-nvda-ai-startup-funding-record-2026/",
+  "title": "Crunchbase Data: Nvidia’s Startup Funding Deals Hit A Record. What’s Next After Huang?",
+  "source": "Crunchbase News",
+  "source_id": "crunchbase",
+  "recommended": false,
+  "date": "2026-11-13T20:32+00:00",
+  "excerpt": "Before it was thrust into crisis this week, Nvidia was steadily continuing its pace as one of the busiest startup investors around, including backing many of the biggest venture deals of 2026. We take a fresh look at where Nvidia and its venture arm NVentures…",
+  "tags": [],
+  "topics": [
+   "nvidia-vc"
+  ],
+  "watch": [],
+  "kinds": [],
+  "round": null,
+  "score": 4,
+  "angles": [
+   "Le Big Tech che investono nelle startup accelerano il mercato o lo distorcono?"
+  ],
+  "first_seen": "2026-11-14T04:57+00:00"
+ },
+ {
+  "id": "38741df50e34",
+  "url": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/",
+  "title": "AI agent startup LangChain hits $3B valuation",
+  "source": "TechCrunch",
+  "source_id": "techcrunch",
+  "recommended": true,
+  "date": "2026-11-13T19:37+00:00",
+  "excerpt": "LangChain now claims 7,000 customers of its model and platform agnostic agent management tool LangSmith.",
+  "tags": [
+   "ai"
+  ],
+  "topics": [
+   "vc-vs-pe"
+  ],
+  "watch": [],
+  "kinds": [],
+  "round": null,
+  "score": 5,
+  "angles": [
+   "Che tipo di investitore deve essere un VC per vincere i deal migliori?"
+  ],
+  "first_seen": "2026-11-14T04:57+00:00"
+ },
+ {
+  "id": "b70ca052c6ac",
+  "url": "https://news.crunchbase.com/venture/biggest-startup-funding-rounds-agentic-ai-infrastructure-mirendil-mercor/",
+  "title": "The Week’s 10 Biggest Funding Rounds: Agentic AI And Infrastructure Are Still On A Roll",
+  "source": "Crunchbase News",
+  "source_id": "crunchbase",
+  "recommended": false,
+  "date": "2026-11-13T19:20+00:00",
+  "excerpt": "It was another big week for AI-related startup financings. Mirendil, a developer of agentic AI for R&D, led the pack with a $1 billion series A, followed by Mercor, which secured $750 million to connect AI developers with human experts.",
+  "tags": [
+   "ai"
+  ],
+  "topics": [],
+  "watch": [],
+  "kinds": [
+   "round"
+  ],
+  "round": {
+   "amount": "$1B",
+   "musd": 1000.0,
+   "stage": "Series A",
+   "company": null
+  },
+  "score": 8,
+  "angles": [
+   "Faresti questo investimento? Chiediti chi è il team, quanto è grande il mercato e se l'azienda può restituire un fondo."
+  ],
+  "first_seen": "2026-11-14T04:57+00:00"
+ },
+ {
+  "id": "f17748102e2c",
+  "url": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/",
+  "title": "Export-banned Nvidia chips are behind China’s most powerful AI models — uh-oh, Jensen!",
+  "source": "TechCrunch",
+  "source_id": "techcrunch",
+  "recommended": true,
+  "date": "2026-11-13T18:40+00:00",
+  "excerpt": "New research shows the most advanced AI models from China were trained on banned Nvidia chips.",
+  "tags": [
+   "ai",
+   "deep-tech"
+  ],
+  "topics": [
+   "ai-race",
+   "nvidia-vc"
+  ],
+  "watch": [],
+  "kinds": [],
+  "round": null,
+  "score": 7,
+  "angles": [
+   "Chi vince la corsa ai modelli, e dove può creare valore un VC early-stage europeo?"
+  ],
+  "first_seen": "2026-11-14T04:57+00:00"
+ },
+ {
+  "id": "56623f1d9c94",
+  "url": "https://techcrunch.com/2026/11/13/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+  "title": "The unfolding Jensen Huang scandal: a timeline",
+  "source": "TechCrunch",
+  "source_id": "techcrunch",
+  "recommended": true,
+  "date": "2026-11-13T15:58+00:00",
+  "excerpt": "Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
+  "tags": [
+   "ai",
+   "usa"
+  ],
+  "topics": [
+   "nvidia-vc"
+  ],
+  "watch": [],
+  "kinds": [],
+  "round": null,
+  "score": 5,
+  "angles": [
+   "Le Big Tech che investono nelle startup accelerano il mercato o lo distorcono?"
+  ],
+  "first_seen": "2026-11-14T04:57+00:00"
+ },
+ {
+  "id": "0f9792dd1c3a",
+  "url": "https://techcrunch.com/2026/11/13/microsoft-latest-email-outage-turned-into-a-full-blown-global-cloud-crisis/",
+  "title": "Microsoft’s latest email outage turned into a full-blown global cloud crisis",
+  "source": "TechCrunch",
+  "source_id": "techcrunch",
+  "recommended": true,
+  "date": "2026-11-13T13:15+00:00",
+  "excerpt": "Microsoft's daylong outage began with Outlook and Teams and ended up taking much of the company's cloud services offline. Microsoft says it's gradually restoring service.",
+  "tags": [],
+  "topics": [
+   "nvidia-vc"
+  ],
+  "watch": [],
+  "kinds": [],
+  "round": null,
+  "score": 5,
+  "angles": [
+   "Le Big Tech che investono nelle startup accelerano il mercato o lo distorcono?"
+  ],
+  "first_seen": "2026-11-14T04:57+00:00"
+ },
+ {
+  "id": "0d39dbbb5cbe",
+  "url": "https://www.technologyreview.com/2026/11/13/1148551/the-download-silicon-valley-midterms-nvidia-chip-tracking/",
+  "title": "The Download: Silicon Valley’s blind spot and Nvidia’s chip-tracking plan",
+  "source": "MIT Technology Review",
+  "source_id": "mittr",
+  "recommended": true,
+  "date": "2026-11-13T13:10+00:00",
+  "excerpt": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Silicon Valley claims to know the future. So why did it get the midterms so wrong? —Aaron Zamost, a tech communications…",
+  "tags": [
+   "deep-tech",
+   "usa"
+  ],
+  "topics": [
+   "nvidia-vc",
+   "europa-usa"
+  ],
+  "watch": [],
+  "kinds": [],
+  "round": null,
+  "score": 7,
+  "angles": [
+   "Le Big Tech che investono nelle startup accelerano il mercato o lo distorcono?"
+  ],
+  "first_seen": "2026-11-14T04:57+00:00"
+ },
+ {
+  "id": "e00ed907e42f",
+  "url": "https://techcrunch.com/2026/11/13/israels-vcs-see-opportunity-for-challengers-in-nvidias-turmoil/",
+  "title": "Israel’s VCs see opportunity for challengers in Nvidia’s turmoil",
+  "source": "TechCrunch",
+  "source_id": "techcrunch",
+  "recommended": true,
+  "date": "2026-11-13T12:52+00:00",
+  "excerpt": "Given Nvidia’s stronghold on AI and its importance in Israel, many in the country's startup ecosystem are worried about the impact of his departure.",
+  "tags": [
+   "ai"
+  ],
+  "topics": [
+   "nvidia-vc"
+  ],
+  "watch": [],
+  "kinds": [],
+  "round": null,
+  "score": 5,
+  "angles": [
+   "Le Big Tech che investono nelle startup accelerano il mercato o lo distorcono?"
+  ],
+  "first_seen": "2026-11-14T04:57+00:00"
+ },
+ {
+  "id": "b9c513e073a6",
+  "url": "https://news.crunchbase.com/agtech-foodtech/protein-startup-snacks-drinks-sample-taste/",
+  "title": "Protein Startups Are Selling Lots Of Snacks And Drinks. Our Sample Tasting Found Most Neither Great Nor Horrible",
+  "source": "Crunchbase News",
+  "source_id": "crunchbase",
+  "recommended": false,
+  "date": "2026-11-13T12:00+00:00",
+  "excerpt": "As we chronicled earlier this week, both startups and established food brands are making it simpler than ever to up protein intake. From sodas to snack bars to ice cream, it’s now possible to get a fix of this coveted macronutrient with foods and drinks more…",
+  "tags": [],
+  "topics": [],
+  "watch": [],
+  "kinds": [],
+  "round": null,
+  "score": 2,
+  "angles": [],
+  "first_seen": "2026-11-14T04:57+00:00"
+ },
+ {
+  "id": "b25cbb908603",
+  "url": "https://sifted.eu/articles/samsung-european-tech/",
+  "title": "Inside Samsung’s year of European deal making",
+  "source": "Sifted",
+  "source_id": "sifted",
+  "recommended": true,
+  "date": "2026-11-13T11:00+00:00",
+  "excerpt": "",
+  "tags": [
+   "europa"
+  ],
+  "topics": [],
+  "watch": [],
+  "kinds": [],
+  "round": null,
+  "score": 5,
+  "angles": [],
+  "first_seen": "2026-11-14T04:57+00:00"
+ },
+ {
+  "id": "bd6f30a01ed6",
+  "url": "https://www.technologyreview.com/2026/11/13/1148474/more-autonomy-fewer-ndas-volunteers-have-new-requests-for-brain-implant-trials/",
+  "title": "More autonomy, fewer NDAs: Volunteers have new requests for brain implant trials",
+  "source": "MIT Technology Review",
+  "source_id": "mittr",
+  "recommended": true,
+  "date": "2026-11-13T10:00+00:00",
+  "excerpt": "Scientists have been working on ways to decode brain activity for decades. Teams have developed brain implants that can be used to control robotic limbs and computers, and even to “speak.” The people who volunteer for trials of those devices play a vital role…",
+  "tags": [
+   "deep-tech"
+  ],
+  "topics": [
+   "physical-ai"
+  ],
+  "watch": [],
+  "kinds": [],
+  "round": null,
+  "score": 5,
+  "angles": [
+   "L'Europa può vincere nella physical AI, dove contano industria e dati più del software?"
+  ],
+  "first_seen": "2026-11-14T04:57+00:00"
+ },
+ {
+  "id": "65785fe3eaf7",
+  "url": "https://www.technologyreview.com/2026/11/13/1148498/silicon-valley-claims-to-know-the-future-so-why-did-it-get-the-midterms-so-wrong/",
+  "title": "Silicon Valley claims to know the future. So why did it get the midterms so wrong?",
+  "source": "MIT Technology Review",
+  "source_id": "mittr",
+  "recommended": true,
+  "date": "2026-11-13T10:00+00:00",
+  "excerpt": "The self-styled visionaries of Silicon Valley, leaders like OpenAI chief executive Sam Altman and SpaceX boss Elon Musk, have built careers claiming to see the future. Long-term vision is currency: Meta’s Mark Zuckerberg built a 10-year road map for Facebook…",
+  "tags": [
+   "ai",
+   "usa"
+  ],
+  "topics": [
+   "ai-race",
+   "europa-usa"
+  ],
+  "watch": [],
+  "kinds": [],
+  "round": null,
+  "score": 7,
+  "angles": [
+   "Chi vince la corsa ai modelli, e dove può creare valore un VC early-stage europeo?"
+  ],
+  "first_seen": "2026-11-14T04:57+00:00"
+ },
+ {
   "id": "1f2b6ca29670",
   "url": "https://sifted.eu/articles/why-european-tech-asia-get-closer-next-five-years-gp-bullhound/",
   "title": "Why European tech and Asia will be ‘a lot closer’ in next five years, according to bankers",
@@ -15058,342 +15391,6 @@
   "kinds": [],
   "round": null,
   "score": 5,
-  "angles": [],
-  "first_seen": "2026-10-16T04:40+00:00"
- },
- {
-  "id": "ca1ee36e5b48",
-  "url": "https://sifted.eu/articles/europes-ai-fintech-market-mapped-94-startups-automating-the-business-of-money/",
-  "title": "Europe’s AI fintech market mapped: 94 startups automating the business of money",
-  "source": "Sifted",
-  "source_id": "sifted",
-  "recommended": true,
-  "date": "2026-10-16T05:00+00:00",
-  "excerpt": "",
-  "tags": [
-   "ai",
-   "fintech",
-   "europa"
-  ],
-  "topics": [],
-  "watch": [],
-  "kinds": [],
-  "round": null,
-  "score": 5,
-  "angles": [],
-  "first_seen": "2026-10-16T04:40+00:00"
- },
- {
-  "id": "0d1018897dde",
-  "url": "https://techcrunch.com/2026/10/15/amazon-devices-chief-panos-panay-on-the-importance-of-failure-and-bouncing-back-from-it/",
-  "title": "Amazon devices chief Panos Panay on the importance of failure and bouncing back from it",
-  "source": "TechCrunch",
-  "source_id": "techcrunch",
-  "recommended": true,
-  "date": "2026-10-15T20:38+00:00",
-  "excerpt": "Panay said that it's possible to recover and learn from all sorts of failures, even catastrophic ones, when building products.",
-  "tags": [],
-  "topics": [
-   "nvidia-vc"
-  ],
-  "watch": [],
-  "kinds": [],
-  "round": null,
-  "score": 5,
-  "angles": [
-   "Le Big Tech che investono nelle startup accelerano il mercato o lo distorcono?"
-  ],
-  "first_seen": "2026-10-16T04:40+00:00"
- },
- {
-  "id": "d5bac5a69bce",
-  "url": "https://techcrunch.com/2026/10/15/meta-launches-an-open-weight-model-that-runs-on-macs/",
-  "title": "Meta launches an open-weight AI model that runs on Macs",
-  "source": "TechCrunch",
-  "source_id": "techcrunch",
-  "recommended": true,
-  "date": "2026-10-15T20:04+00:00",
-  "excerpt": "Meta and Apple have teamed up for the launch of the social media giant's newest model, Muse Spark Open, which will run locally on Apple silicon.",
-  "tags": [
-   "ai"
-  ],
-  "topics": [
-   "ai-race"
-  ],
-  "watch": [],
-  "kinds": [],
-  "round": null,
-  "score": 5,
-  "angles": [
-   "Chi vince la corsa ai modelli, e dove può creare valore un VC early-stage europeo?"
-  ],
-  "first_seen": "2026-10-16T04:40+00:00"
- },
- {
-  "id": "a983409c8d0b",
-  "url": "https://techcrunch.com/2026/10/15/amazon-devices-chief-panos-panay-sees-a-future-where-ai-devices-replace-the-need-to-use-apps/",
-  "title": "Amazon devices chief Panos Panay sees a future where AI devices replace the need to use apps",
-  "source": "TechCrunch",
-  "source_id": "techcrunch",
-  "recommended": true,
-  "date": "2026-10-15T19:55+00:00",
-  "excerpt": "Speaking at TechCrunch Disrupt, Amazon devices chief Panos Panay described a future where ambient AI devices work in the background, anticipating users' needs instead of waiting for commands.",
-  "tags": [
-   "ai"
-  ],
-  "topics": [
-   "nvidia-vc"
-  ],
-  "watch": [],
-  "kinds": [],
-  "round": null,
-  "score": 5,
-  "angles": [
-   "Le Big Tech che investono nelle startup accelerano il mercato o lo distorcono?"
-  ],
-  "first_seen": "2026-10-16T04:40+00:00"
- },
- {
-  "id": "989df1a0f101",
-  "url": "https://techcrunch.com/2026/10/15/bluesky-wants-to-make-it-easier-to-buy-sell-and-fundraise-on-the-network/",
-  "title": "Bluesky wants to make it easier to buy, sell, and fundraise on the network",
-  "source": "TechCrunch",
-  "source_id": "techcrunch",
-  "recommended": true,
-  "date": "2026-10-15T19:29+00:00",
-  "excerpt": "The executives argued that advertising isn’t the only path to monetization, and that there are alternative models that are feasible when it comes to monetization.",
-  "tags": [],
-  "topics": [
-   "vc-vs-pe"
-  ],
-  "watch": [],
-  "kinds": [
-   "exit"
-  ],
-  "round": null,
-  "score": 8,
-  "angles": [
-   "Che tipo di investitore deve essere un VC per vincere i deal migliori?",
-   "Chi guadagna da questa exit e cosa insegna sulle strade di uscita per le startup europee?"
-  ],
-  "first_seen": "2026-10-16T04:40+00:00"
- },
- {
-  "id": "e925c3137a8a",
-  "url": "https://techcrunch.com/2026/10/15/anthropic-is-letting-metr-researchers-look-under-the-hood-with-employee-level-access/",
-  "title": "Anthropic is letting METR researchers look under the hood with employee-level access",
-  "source": "TechCrunch",
-  "source_id": "techcrunch",
-  "recommended": true,
-  "date": "2026-10-15T19:14+00:00",
-  "excerpt": "METR will publish its own assessments of Anthropic’s risks, incidents, and practices, and the frontier AI model maker has given up the right to block them.",
-  "tags": [
-   "ai"
-  ],
-  "topics": [
-   "ai-race"
-  ],
-  "watch": [],
-  "kinds": [],
-  "round": null,
-  "score": 5,
-  "angles": [
-   "Chi vince la corsa ai modelli, e dove può creare valore un VC early-stage europeo?"
-  ],
-  "first_seen": "2026-10-16T04:40+00:00"
- },
- {
-  "id": "3218dd2117b7",
-  "url": "https://techcrunch.com/2026/10/15/volvo-makes-a-bigger-bet-on-nvidia/",
-  "title": "Volvo makes a bigger bet on Nvidia for hands-free automated driving",
-  "source": "TechCrunch",
-  "source_id": "techcrunch",
-  "recommended": true,
-  "date": "2026-10-15T17:34+00:00",
-  "excerpt": "Volvo is leveling up its automated driving system through an expansion of its nearly decade-long partnership with Nvidia that will extend beyond its battery electric vehicles.",
-  "tags": [
-   "climate"
-  ],
-  "topics": [
-   "nvidia-vc",
-   "climate-capex"
-  ],
-  "watch": [],
-  "kinds": [],
-  "round": null,
-  "score": 7,
-  "angles": [
-   "Le Big Tech che investono nelle startup accelerano il mercato o lo distorcono?"
-  ],
-  "first_seen": "2026-10-16T04:40+00:00"
- },
- {
-  "id": "cf358b896d9e",
-  "url": "https://sifted.eu/articles/accel-deepmind-researcher-60m/",
-  "title": "Exclusive: Accel set to lead DeepMind alum’s $60m round",
-  "source": "Sifted",
-  "source_id": "sifted",
-  "recommended": true,
-  "date": "2026-10-15T16:48+00:00",
-  "excerpt": "",
-  "tags": [],
-  "topics": [],
-  "watch": [],
-  "kinds": [
-   "round"
-  ],
-  "round": {
-   "amount": "$60M",
-   "musd": 60.0,
-   "stage": null,
-   "company": null
-  },
-  "score": 9,
-  "angles": [
-   "Faresti questo investimento? Chiediti chi è il team, quanto è grande il mercato e se l'azienda può restituire un fondo."
-  ],
-  "first_seen": "2026-10-16T04:40+00:00"
- },
- {
-  "id": "3813a4bc4f77",
-  "url": "https://sifted.eu/articles/jensen-huang-london-2026/",
-  "title": "Jensen Huang wants Europe to dream bigger — with Nvidia’s help",
-  "source": "Sifted",
-  "source_id": "sifted",
-  "recommended": true,
-  "date": "2026-10-15T16:16+00:00",
-  "excerpt": "",
-  "tags": [
-   "europa"
-  ],
-  "topics": [
-   "nvidia-vc"
-  ],
-  "watch": [],
-  "kinds": [],
-  "round": null,
-  "score": 7,
-  "angles": [
-   "Le Big Tech che investono nelle startup accelerano il mercato o lo distorcono?"
-  ],
-  "first_seen": "2026-10-16T04:40+00:00"
- },
- {
-  "id": "df0d96d3d0bd",
-  "url": "https://www.eu-startups.com/2026/10/german-ai-startup-elevatry-secures-e3-million-to-automate-procurement-workflows/",
-  "title": "German AI startup Elevatry secures €3 million to automate procurement workflows",
-  "source": "EU-Startups",
-  "source_id": "eustartups",
-  "recommended": false,
-  "date": "2026-10-15T15:18+00:00",
-  "excerpt": "Munich-based Elevatry, an AI ​​platform for strategic procurement, has closed a €3 million pre-Seed financing round in order to enhance its platform, expand its team, and support market entry in Europe before expanding to North America. Investors include…",
-  "tags": [
-   "ai",
-   "europa"
-  ],
-  "topics": [],
-  "watch": [],
-  "kinds": [
-   "round"
-  ],
-  "round": {
-   "amount": "€3M",
-   "musd": 3.3,
-   "stage": "Pre-seed",
-   "company": "Elevatry"
-  },
-  "score": 8,
-  "angles": [
-   "Faresti questo investimento? Chiediti chi è il team, quanto è grande il mercato e se l'azienda può restituire un fondo."
-  ],
-  "first_seen": "2026-10-16T04:40+00:00"
- },
- {
-  "id": "76647e634b64",
-  "url": "https://techcrunch.com/2026/10/15/ramp-reaches-60b-valuation-as-it-pushes-deeper-into-ai/",
-  "title": "Ramp reaches $60B valuation as it pushes deeper into AI",
-  "source": "TechCrunch",
-  "source_id": "techcrunch",
-  "recommended": true,
-  "date": "2026-10-15T14:47+00:00",
-  "excerpt": "The funding comes as Ramp's annualized revenue crosses $2B, and its customer count reaches 85,000.",
-  "tags": [
-   "ai"
-  ],
-  "topics": [
-   "vc-vs-pe"
-  ],
-  "watch": [],
-  "kinds": [],
-  "round": null,
-  "score": 5,
-  "angles": [
-   "Che tipo di investitore deve essere un VC per vincere i deal migliori?"
-  ],
-  "first_seen": "2026-10-16T04:40+00:00"
- },
- {
-  "id": "244831af6248",
-  "url": "https://techcrunch.com/2026/10/15/googles-universal-cart-shopping-tool-launches-in-the-us/",
-  "title": "Google’s Universal Cart shopping tool launches in the US",
-  "source": "TechCrunch",
-  "source_id": "techcrunch",
-  "recommended": true,
-  "date": "2026-10-15T14:29+00:00",
-  "excerpt": "The new shopping tool is available in the U.S. across Google Search and the Gemini app.",
-  "tags": [
-   "usa"
-  ],
-  "topics": [
-   "ai-race"
-  ],
-  "watch": [],
-  "kinds": [],
-  "round": null,
-  "score": 5,
-  "angles": [
-   "Chi vince la corsa ai modelli, e dove può creare valore un VC early-stage europeo?"
-  ],
-  "first_seen": "2026-10-16T04:40+00:00"
- },
- {
-  "id": "18b645017ec3",
-  "url": "https://www.eu-startups.com/2026/10/are-we-attracting-talent-to-live-in-europe-or-to-build-here/",
-  "title": "OPINION: Are we attracting talent to live in Europe or to build here?",
-  "source": "EU-Startups",
-  "source_id": "eustartups",
-  "recommended": false,
-  "date": "2026-10-15T14:16+00:00",
-  "excerpt": "Europe is an attractive place to live because of its high quality of life, job opportunities, and stability. However, attracting people to live here for the lifestyle is different from attracting talent and companies to move here and build. The latter entails…",
-  "tags": [
-   "europa"
-  ],
-  "topics": [],
-  "watch": [],
-  "kinds": [],
-  "round": null,
-  "score": 4,
-  "angles": [],
-  "first_seen": "2026-10-16T04:40+00:00"
- },
- {
-  "id": "e3a836188fbd",
-  "url": "https://tech.eu/2026/10/15/prototype-warfare-a-defence-prime-s-playbook-for-turning-technology-into-battlefield-capability/",
-  "title": "Prototype warfare: A defence prime’s playbook for turning technology into battlefield capability",
-  "source": "Tech.eu",
-  "source_id": "techeu",
-  "recommended": false,
-  "date": "2026-10-15T13:17+00:00",
-  "excerpt": "At Tech.eu, I spend a lot of time talking to startups in sectors such as defencetech and spacetech. But startups are only one part of the innovation ecosystem. For founders, understanding how the defe...",
-  "tags": [
-   "deep-tech",
-   "europa"
-  ],
-  "topics": [],
-  "watch": [],
-  "kinds": [],
-  "round": null,
-  "score": 4,
   "angles": [],
   "first_seen": "2026-10-16T04:40+00:00"
  }
