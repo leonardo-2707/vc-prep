@@ -1,5 +1,102 @@
 [
  {
+  "id": "cdf34d438f12",
+  "url": "https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/",
+  "title": "Where was Nvidia’s security team?",
+  "source": "TechCrunch",
+  "source_id": "techcrunch",
+  "recommended": true,
+  "date": "2026-11-15T00:08+00:00",
+  "excerpt": "Nvidia’s security chief quietly left in August, and now that CEO Jensen Huang has stepped down over his relationships, including one with an executive at a company suspected of funneling chips to China, a former intelligence officer says it’s the kind of leak…",
+  "tags": [
+   "deep-tech"
+  ],
+  "topics": [
+   "nvidia-vc"
+  ],
+  "watch": [],
+  "kinds": [],
+  "round": null,
+  "score": 5,
+  "angles": [
+   "Le Big Tech che investono nelle startup accelerano il mercato o lo distorcono?"
+  ],
+  "first_seen": "2026-11-15T11:55+00:00"
+ },
+ {
+  "id": "9a736294c460",
+  "url": "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/",
+  "title": "Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang",
+  "source": "TechCrunch",
+  "source_id": "techcrunch",
+  "recommended": true,
+  "date": "2026-11-14T21:41+00:00",
+  "excerpt": "The petition had attracted more than 115,000 signatures as of Saturday afternoon.",
+  "tags": [],
+  "topics": [
+   "nvidia-vc"
+  ],
+  "watch": [],
+  "kinds": [],
+  "round": null,
+  "score": 5,
+  "angles": [
+   "Le Big Tech che investono nelle startup accelerano il mercato o lo distorcono?"
+  ],
+  "first_seen": "2026-11-15T11:55+00:00"
+ },
+ {
+  "id": "b08cefd9996d",
+  "url": "https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+  "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
+  "source": "TechCrunch",
+  "source_id": "techcrunch",
+  "recommended": true,
+  "date": "2026-11-14T17:30+00:00",
+  "excerpt": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
+  "tags": [
+   "ai"
+  ],
+  "topics": [
+   "ai-race"
+  ],
+  "watch": [],
+  "kinds": [],
+  "round": null,
+  "score": 5,
+  "angles": [
+   "Chi vince la corsa ai modelli, e dove può creare valore un VC early-stage europeo?"
+  ],
+  "first_seen": "2026-11-15T11:55+00:00"
+ },
+ {
+  "id": "2a2bfff1121f",
+  "url": "https://techcrunch.com/2026/11/14/asian-governments-react-to-nvidia-ceo-jensen-huangs-exit/",
+  "title": "Asian governments react to Nvidia CEO Jensen Huang’s exit",
+  "source": "TechCrunch",
+  "source_id": "techcrunch",
+  "recommended": true,
+  "date": "2026-11-14T16:34+00:00",
+  "excerpt": "Some governments moved to confirm chip supply commitments, while others are monitoring the impact on local projects or addressing ongoing investigations.",
+  "tags": [
+   "deep-tech"
+  ],
+  "topics": [
+   "nvidia-vc"
+  ],
+  "watch": [],
+  "kinds": [
+   "exit"
+  ],
+  "round": null,
+  "score": 8,
+  "angles": [
+   "Le Big Tech che investono nelle startup accelerano il mercato o lo distorcono?",
+   "Chi guadagna da questa exit e cosa insegna sulle strade di uscita per le startup europee?"
+  ],
+  "first_seen": "2026-11-15T11:55+00:00"
+ },
+ {
   "id": "4c02b6f51e28",
   "url": "https://techcrunch.com/2026/11/13/amazons-new-kindle-colorsoft-is-a-premium-e-reader-with-a-premium-price/",
   "title": "Amazon’s new Kindle Colorsoft is a premium e-reader with a premium price",
@@ -15308,90 +15405,5 @@
    "Faresti questo investimento? Chiediti chi è il team, quanto è grande il mercato e se l'azienda può restituire un fondo."
   ],
   "first_seen": "2026-10-17T04:37+00:00"
- },
- {
-  "id": "a1e5c012c858",
-  "url": "https://techcrunch.com/2026/10/15/even-benchmark-thinks-ai-is-eroding-the-venture-pact-against-backing-rivals/",
-  "title": "Even Benchmark thinks AI is eroding the venture pact against backing rivals",
-  "source": "TechCrunch",
-  "source_id": "techcrunch-venture",
-  "recommended": true,
-  "date": "2026-10-16T05:16+00:00",
-  "excerpt": "Benchmark says the Valley’s rule against backing rivals is getting harder to keep.",
-  "tags": [
-   "ai"
-  ],
-  "topics": [],
-  "watch": [],
-  "kinds": [],
-  "round": null,
-  "score": 3,
-  "angles": [],
-  "first_seen": "2026-10-17T04:37+00:00"
- },
- {
-  "id": "a3c1d770d76b",
-  "url": "https://sifted.eu/articles/open-weight-models-sovereignty-ai-safety/",
-  "title": "Are open-weight AI models safe?",
-  "source": "Sifted",
-  "source_id": "sifted",
-  "recommended": true,
-  "date": "2026-10-16T05:00+00:00",
-  "excerpt": "",
-  "tags": [
-   "ai"
-  ],
-  "topics": [
-   "ai-race"
-  ],
-  "watch": [],
-  "kinds": [],
-  "round": null,
-  "score": 5,
-  "angles": [
-   "Chi vince la corsa ai modelli, e dove può creare valore un VC early-stage europeo?"
-  ],
-  "first_seen": "2026-10-16T04:40+00:00"
- },
- {
-  "id": "43c01b5eaf9f",
-  "url": "https://sifted.eu/articles/blurry-world-defence-tech-revenue-arr-vc/",
-  "title": "The 'blurry' world of defence tech revenue",
-  "source": "Sifted",
-  "source_id": "sifted",
-  "recommended": true,
-  "date": "2026-10-16T05:00+00:00",
-  "excerpt": "",
-  "tags": [
-   "deep-tech"
-  ],
-  "topics": [],
-  "watch": [],
-  "kinds": [],
-  "round": null,
-  "score": 3,
-  "angles": [],
-  "first_seen": "2026-10-16T04:40+00:00"
- },
- {
-  "id": "3bc85857de13",
-  "url": "https://sifted.eu/articles/reson8-unicorn-interview/",
-  "title": "‘I’m 30. I’ve got one more shot’: Reson8’s founder wants to build a European AI giant",
-  "source": "Sifted",
-  "source_id": "sifted",
-  "recommended": true,
-  "date": "2026-10-16T05:00+00:00",
-  "excerpt": "",
-  "tags": [
-   "ai",
-   "europa"
-  ],
-  "topics": [],
-  "watch": [],
-  "kinds": [],
-  "round": null,
-  "score": 5,
-  "angles": [],
-  "first_seen": "2026-10-16T04:40+00:00"
  }
 ]
