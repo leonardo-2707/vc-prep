@@ -1,5 +1,467 @@
 [
  {
+  "id": "cae2d4f86171",
+  "url": "https://sifted.eu/articles/isomorphic-labs-raises-5bn-backed-by-sequoia-and-a16z/",
+  "title": "Isomorphic Labs raises $5bn backed by Sequoia and A16z",
+  "source": "Sifted",
+  "source_id": "sifted",
+  "recommended": true,
+  "date": "2026-11-17T12:55+00:00",
+  "excerpt": "",
+  "tags": [
+   "usa"
+  ],
+  "topics": [],
+  "watch": [],
+  "kinds": [
+   "round"
+  ],
+  "round": {
+   "amount": "$5B",
+   "musd": 5000.0,
+   "stage": null,
+   "company": "Isomorphic Labs"
+  },
+  "score": 9,
+  "angles": [
+   "Faresti questo investimento? Chiediti chi è il team, quanto è grande il mercato e se l'azienda può restituire un fondo."
+  ],
+  "first_seen": "2026-11-17T13:17+00:00"
+ },
+ {
+  "id": "badcc354937a",
+  "url": "https://sifted.eu/articles/remanence-30m-seed-round/",
+  "title": "EQT and FirstMark back trio of H Company alumni in $30m seed round",
+  "source": "Sifted",
+  "source_id": "sifted",
+  "recommended": true,
+  "date": "2026-11-17T12:03+00:00",
+  "excerpt": "",
+  "tags": [],
+  "topics": [],
+  "watch": [],
+  "kinds": [
+   "round"
+  ],
+  "round": {
+   "amount": "$30M",
+   "musd": 30.0,
+   "stage": "Seed",
+   "company": null
+  },
+  "score": 8,
+  "angles": [
+   "Faresti questo investimento? Chiediti chi è il team, quanto è grande il mercato e se l'azienda può restituire un fondo."
+  ],
+  "first_seen": "2026-11-17T13:17+00:00"
+ },
+ {
+  "id": "2309afb8a8ba",
+  "url": "https://news.crunchbase.com/startups/founder-venture-funding-pressure-meerbott-you-loud-clear/",
+  "title": "The Money Cleared The Bank. Now The Founder Is The Risk.",
+  "source": "Crunchbase News",
+  "source_id": "crunchbase",
+  "recommended": false,
+  "date": "2026-11-17T12:00+00:00",
+  "excerpt": "The first 90 days after a funding round can be overwhelming for founders, but executive coach Kelly Meerbott explains how they can protect their decision-making by pausing before major commitments, acknowledging stress, scheduling candid co-founder…",
+  "tags": [],
+  "topics": [],
+  "watch": [],
+  "kinds": [],
+  "round": null,
+  "score": 2,
+  "angles": [],
+  "first_seen": "2026-11-17T13:17+00:00"
+ },
+ {
+  "id": "15fe10f49158",
+  "url": "https://news.crunchbase.com/public/ipo-ma-spac-ai-forecast-qa-pwcs-partner-bellin/",
+  "title": "PwC’s IPO Lead On A Selective Market, AI Valuations And The Outlook For 2027",
+  "source": "Crunchbase News",
+  "source_id": "crunchbase",
+  "recommended": false,
+  "date": "2026-11-17T12:00+00:00",
+  "excerpt": "In this Q&A, Mike Bellin, a partner and U.S. IPO services leader at PricewaterhouseCoopers, discussed the slowdown in IPO momentum, how public investors are evaluating AI companies, biotech’s resurgence and why SPACs are attracting renewed interest. He also…",
+  "tags": [
+   "ai",
+   "deep-tech",
+   "usa"
+  ],
+  "topics": [
+   "vc-vs-pe"
+  ],
+  "watch": [],
+  "kinds": [
+   "exit"
+  ],
+  "round": null,
+  "score": 7,
+  "angles": [
+   "Che tipo di investitore deve essere un VC per vincere i deal migliori?",
+   "Chi guadagna da questa exit e cosa insegna sulle strade di uscita per le startup europee?"
+  ],
+  "first_seen": "2026-11-17T13:17+00:00"
+ },
+ {
+  "id": "2dab2ee6eba6",
+  "url": "https://sifted.eu/articles/europe-world-models-mapped/",
+  "title": "Europe's world models startups: mapped",
+  "source": "Sifted",
+  "source_id": "sifted",
+  "recommended": true,
+  "date": "2026-11-17T05:00+00:00",
+  "excerpt": "",
+  "tags": [
+   "europa"
+  ],
+  "topics": [
+   "europa-usa"
+  ],
+  "watch": [],
+  "kinds": [],
+  "round": null,
+  "score": 7,
+  "angles": [
+   "Perché l'Europa produce meno exit grandi, e cosa servirebbe per cambiare?"
+  ],
+  "first_seen": "2026-11-17T13:17+00:00"
+ },
+ {
+  "id": "2bc7b8c139fe",
+  "url": "https://sifted.eu/articles/legoras-revenue-vp-leonard-schreij-interview/",
+  "title": "Legora’s revenue chief on hiring at speed, keeping culture intact and the need for ‘extreme urgency’",
+  "source": "Sifted",
+  "source_id": "sifted",
+  "recommended": true,
+  "date": "2026-11-17T05:00+00:00",
+  "excerpt": "",
+  "tags": [],
+  "topics": [],
+  "watch": [],
+  "kinds": [],
+  "round": null,
+  "score": 3,
+  "angles": [],
+  "first_seen": "2026-11-17T13:17+00:00"
+ },
+ {
+  "id": "638b0521e80f",
+  "url": "https://sifted.eu/articles/thiel-fintech-majority-rebtel-merge/",
+  "title": "Exclusive: Thiel-backed fintech Majority to merge with Rebtel",
+  "source": "Sifted",
+  "source_id": "sifted",
+  "recommended": true,
+  "date": "2026-11-17T05:00+00:00",
+  "excerpt": "",
+  "tags": [
+   "fintech"
+  ],
+  "topics": [],
+  "watch": [],
+  "kinds": [
+   "exit"
+  ],
+  "round": null,
+  "score": 6,
+  "angles": [
+   "Chi guadagna da questa exit e cosa insegna sulle strade di uscita per le startup europee?"
+  ],
+  "first_seen": "2026-11-17T13:17+00:00"
+ },
+ {
+  "id": "bec78e9702b1",
+  "url": "https://techcrunch.com/2026/11/16/cybersecurity-ai-startup-corma-reaches-1b-valuation-in-about-3-months/",
+  "title": "Cybersecurity AI startup Corma reaches $1B valuation in about 3 months",
+  "source": "TechCrunch",
+  "source_id": "techcrunch",
+  "recommended": true,
+  "date": "2026-11-16T23:32+00:00",
+  "excerpt": "Three months since introducing its product, AI cybersecurity startup Corba has raised a $125 million Series A at a $1 billion valuation led by NEA.",
+  "tags": [
+   "ai"
+  ],
+  "topics": [
+   "vc-vs-pe"
+  ],
+  "watch": [],
+  "kinds": [
+   "round"
+  ],
+  "round": {
+   "amount": "$1B",
+   "musd": 1000.0,
+   "stage": "Series A",
+   "company": null
+  },
+  "score": 11,
+  "angles": [
+   "Che tipo di investitore deve essere un VC per vincere i deal migliori?",
+   "Faresti questo investimento? Chiediti chi è il team, quanto è grande il mercato e se l'azienda può restituire un fondo."
+  ],
+  "first_seen": "2026-11-17T13:17+00:00"
+ },
+ {
+  "id": "51273f0e0cc7",
+  "url": "https://techcrunch.com/2026/11/16/all-the-questions-nvidia-should-answer-on-tuesday-but-probably-wont/",
+  "title": "All the questions Nvidia should answer on Tuesday — but probably won’t",
+  "source": "TechCrunch",
+  "source_id": "techcrunch",
+  "recommended": true,
+  "date": "2026-11-16T22:03+00:00",
+  "excerpt": "Nvidia interim CEO and longtime CFO Colette Kress is about to have one of the biggest days of her career on Tuesday when the company reports its third-quarter results. Given the turmoil Nvidia is in, there are a number of questions that Nvidia should answer.",
+  "tags": [],
+  "topics": [
+   "nvidia-vc"
+  ],
+  "watch": [],
+  "kinds": [],
+  "round": null,
+  "score": 5,
+  "angles": [
+   "Le Big Tech che investono nelle startup accelerano il mercato o lo distorcono?"
+  ],
+  "first_seen": "2026-11-17T13:17+00:00"
+ },
+ {
+  "id": "773cc78ee17a",
+  "url": "https://techcrunch.com/2026/11/16/california-state-ag-sues-openai-over-rogue-agent-incidents/",
+  "title": "California state AG sues OpenAI over rogue agent incidents",
+  "source": "TechCrunch",
+  "source_id": "techcrunch",
+  "recommended": true,
+  "date": "2026-11-16T20:07+00:00",
+  "excerpt": "The California lawsuit represents one of the first attempts to hold an AI lab legally accountable for a rogue agent incident.",
+  "tags": [
+   "ai"
+  ],
+  "topics": [
+   "ai-race"
+  ],
+  "watch": [],
+  "kinds": [],
+  "round": null,
+  "score": 5,
+  "angles": [
+   "Chi vince la corsa ai modelli, e dove può creare valore un VC early-stage europeo?"
+  ],
+  "first_seen": "2026-11-17T13:17+00:00"
+ },
+ {
+  "id": "668b96b1a125",
+  "url": "https://techcrunch.com/2026/11/16/trump-says-ex-nvidia-ceo-jensen-huangs-affair-with-an-alleged-chinese-spy-did-not-threaten-national-security/",
+  "title": "Trump says ex-Nvidia CEO Jensen Huang’s affair with an alleged Chinese spy did not threaten national security",
+  "source": "TechCrunch",
+  "source_id": "techcrunch",
+  "recommended": true,
+  "date": "2026-11-16T19:12+00:00",
+  "excerpt": "Trump contradicted his own government's intelligence officials, who reportedly concluded that Alice Huang is a Chinese spy.",
+  "tags": [
+   "policy"
+  ],
+  "topics": [
+   "nvidia-vc"
+  ],
+  "watch": [],
+  "kinds": [],
+  "round": null,
+  "score": 5,
+  "angles": [
+   "Le Big Tech che investono nelle startup accelerano il mercato o lo distorcono?"
+  ],
+  "first_seen": "2026-11-17T13:17+00:00"
+ },
+ {
+  "id": "21a6fc2b55ff",
+  "url": "https://www.technologyreview.com/2026/11/16/1148624/the-open-source-movement-wants-jensen-huang-back/",
+  "title": "The open-source movement wants Jensen Huang back",
+  "source": "MIT Technology Review",
+  "source_id": "mittr",
+  "recommended": true,
+  "date": "2026-11-16T18:38+00:00",
+  "excerpt": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. On Friday, a petition to reinstate Jensen Huang as CEO of Nvidia began circulating on social media, and by Monday it…",
+  "tags": [
+   "ai"
+  ],
+  "topics": [
+   "nvidia-vc"
+  ],
+  "watch": [],
+  "kinds": [],
+  "round": null,
+  "score": 5,
+  "angles": [
+   "Le Big Tech che investono nelle startup accelerano il mercato o lo distorcono?"
+  ],
+  "first_seen": "2026-11-17T13:17+00:00"
+ },
+ {
+  "id": "adc690e60e20",
+  "url": "https://techcrunch.com/2026/11/16/sam-altman-on-nvidia-without-jensen-huang-the-industry-will-be-fine/",
+  "title": "Sam Altman on Nvidia without Jensen Huang: The industry will be ‘fine’",
+  "source": "TechCrunch",
+  "source_id": "techcrunch",
+  "recommended": true,
+  "date": "2026-11-16T18:11+00:00",
+  "excerpt": "OpenAI CEO Sam Altman acknowledged the special role Nvidia CEO Jensen Huang has played in the AI boom, but ultimately thinks the industry will be “fine” without him at the helm.",
+  "tags": [
+   "ai"
+  ],
+  "topics": [
+   "ai-race",
+   "nvidia-vc"
+  ],
+  "watch": [],
+  "kinds": [],
+  "round": null,
+  "score": 7,
+  "angles": [
+   "Chi vince la corsa ai modelli, e dove può creare valore un VC early-stage europeo?"
+  ],
+  "first_seen": "2026-11-17T13:17+00:00"
+ },
+ {
+  "id": "99f66f454c3b",
+  "url": "https://techcrunch.com/2026/11/16/openai-will-embed-apollo-researchers-to-investigate-ai-subversion/",
+  "title": "OpenAI will embed safety researchers to investigate AI subversion",
+  "source": "TechCrunch",
+  "source_id": "techcrunch",
+  "recommended": true,
+  "date": "2026-11-16T17:02+00:00",
+  "excerpt": "OpenAI will embed six Apollo Research evaluators to investigate whether its AI models engage in subversive behavior, but restrictions on access and disclosure raise questions about their independence.",
+  "tags": [
+   "ai"
+  ],
+  "topics": [
+   "ai-race"
+  ],
+  "watch": [],
+  "kinds": [],
+  "round": null,
+  "score": 5,
+  "angles": [
+   "Chi vince la corsa ai modelli, e dove può creare valore un VC early-stage europeo?"
+  ],
+  "first_seen": "2026-11-17T13:17+00:00"
+ },
+ {
+  "id": "8c824024c914",
+  "url": "https://techcrunch.com/2026/11/16/openai-releases-a-new-image-classifier-and-chatgpt-warnings-to-combat-csam/",
+  "title": "OpenAI releases a new image classifier and ChatGPT warnings to combat CSAM",
+  "source": "TechCrunch",
+  "source_id": "techcrunch",
+  "recommended": true,
+  "date": "2026-11-16T17:00+00:00",
+  "excerpt": "ChatGPT will ban an account trying to access CSAM content for 24 hours as a warning.",
+  "tags": [
+   "ai"
+  ],
+  "topics": [
+   "ai-race"
+  ],
+  "watch": [],
+  "kinds": [],
+  "round": null,
+  "score": 5,
+  "angles": [
+   "Chi vince la corsa ai modelli, e dove può creare valore un VC early-stage europeo?"
+  ],
+  "first_seen": "2026-11-17T13:17+00:00"
+ },
+ {
+  "id": "aea96a823e22",
+  "url": "https://techcrunch.com/2026/11/16/instagram-now-lets-creators-add-amazon-affiliate-links-in-reels-and-feed-posts/",
+  "title": "Instagram now lets creators add Amazon affiliate links in reels and feed posts",
+  "source": "TechCrunch",
+  "source_id": "techcrunch",
+  "recommended": true,
+  "date": "2026-11-16T17:00+00:00",
+  "excerpt": "While creators have long shared Amazon affiliate links through stories, DMs, and their bios, the new integration brings them to new parts of the app.",
+  "tags": [],
+  "topics": [
+   "nvidia-vc"
+  ],
+  "watch": [],
+  "kinds": [],
+  "round": null,
+  "score": 5,
+  "angles": [
+   "Le Big Tech che investono nelle startup accelerano il mercato o lo distorcono?"
+  ],
+  "first_seen": "2026-11-17T13:17+00:00"
+ },
+ {
+  "id": "293dc9830e21",
+  "url": "https://techcrunch.com/2026/11/16/serena-williams-winds-down-her-vc-firm-launches-new-fund-targets-200m/",
+  "title": "Serena Williams winds down her VC firm, launches new fund, seeks $200M",
+  "source": "TechCrunch",
+  "source_id": "techcrunch-venture",
+  "recommended": true,
+  "date": "2026-11-16T16:06+00:00",
+  "excerpt": "Serena Williams and longtime business partner Beth Ferreira announced Monday the launch of an early-stage firm called Starfire Ventures.",
+  "tags": [],
+  "topics": [
+   "vc-vs-pe"
+  ],
+  "watch": [],
+  "kinds": [
+   "fondi"
+  ],
+  "round": {
+   "amount": "$200M",
+   "musd": 200.0,
+   "stage": null,
+   "company": null
+  },
+  "score": 10,
+  "angles": [
+   "Che tipo di investitore deve essere un VC per vincere i deal migliori?",
+   "Cosa dice questa raccolta sull'appetito degli LP per il venture capital in questo momento?"
+  ],
+  "first_seen": "2026-11-17T13:17+00:00"
+ },
+ {
+  "id": "ea6ee25fa2b6",
+  "url": "https://www.technologyreview.com/2026/11/16/1148565/building-trustworthy-ai-by-fencing-it-in-not-predicting-it/",
+  "title": "Building trustworthy AI by fencing it in, not predicting it",
+  "source": "MIT Technology Review",
+  "source_id": "mittr",
+  "recommended": true,
+  "date": "2026-11-16T16:04+00:00",
+  "excerpt": "In October this year, OpenAI disclosed that two of its AI agents had switched off the systems built to monitor them. One muted its own safety alerts after misreading an instruction not to send messages; the other removed its monitoring integration during…",
+  "tags": [
+   "ai"
+  ],
+  "topics": [
+   "ai-race"
+  ],
+  "watch": [],
+  "kinds": [],
+  "round": null,
+  "score": 5,
+  "angles": [
+   "Chi vince la corsa ai modelli, e dove può creare valore un VC early-stage europeo?"
+  ],
+  "first_seen": "2026-11-17T13:17+00:00"
+ },
+ {
+  "id": "ce9490d4ac8b",
+  "url": "https://sifted.eu/articles/starling-ceo-to-step-down/",
+  "title": "Starling Bank CEO to step down at the end of the year",
+  "source": "Sifted",
+  "source_id": "sifted",
+  "recommended": true,
+  "date": "2026-11-16T16:01+00:00",
+  "excerpt": "",
+  "tags": [],
+  "topics": [],
+  "watch": [],
+  "kinds": [],
+  "round": null,
+  "score": 3,
+  "angles": [],
+  "first_seen": "2026-11-17T13:17+00:00"
+ },
+ {
   "id": "fcbaf2152a3d",
   "url": "https://techcrunch.com/2026/11/16/freshworks-alums-raise-53m-to-take-on-salesforce-hubspot-with-ai-native-crm/",
   "title": "Freshworks alums raise $53M to take on Salesforce, HubSpot with AI-native CRM",
@@ -14918,459 +15380,5 @@
    "Faresti questo investimento? Chiediti chi è il team, quanto è grande il mercato e se l'azienda può restituire un fondo."
   ],
   "first_seen": "2026-10-20T04:38+00:00"
- },
- {
-  "id": "5331edc2af5b",
-  "url": "https://techcrunch.com/2026/10/19/khosla-ventures-doubles-down-on-even-healthcare-to-challenge-indias-hospital-economics/",
-  "title": "Khosla Ventures doubles down on Even Healthcare to challenge India’s hospital economics",
-  "source": "TechCrunch",
-  "source_id": "techcrunch",
-  "recommended": true,
-  "date": "2026-10-19T07:30+00:00",
-  "excerpt": "Even Healthcare reaches a $300 million valuation in a Khosla Ventures-led round as it plans to expand its hospital network in India.",
-  "tags": [],
-  "topics": [
-   "vc-vs-pe"
-  ],
-  "watch": [],
-  "kinds": [],
-  "round": null,
-  "score": 5,
-  "angles": [
-   "Che tipo di investitore deve essere un VC per vincere i deal migliori?"
-  ],
-  "first_seen": "2026-10-20T04:38+00:00"
- },
- {
-  "id": "68180900d2b0",
-  "url": "https://tech.eu/2026/10/19/vessla-exits-stealth-with-33m-to-bring-ai-agents-to-property-management/",
-  "title": "Vessla exits stealth with $3.3M to bring AI agents to property management",
-  "source": "Tech.eu",
-  "source_id": "techeu",
-  "recommended": false,
-  "date": "2026-10-19T07:00+00:00",
-  "excerpt": "Stockholm-based AI startup Vesslahas emerged from stealth with a $3.3 million pre-seed funding round led bySeedcamp. Other participants included Inception Fund, Tiny VC, operators fromLovable and Open...",
-  "tags": [
-   "ai",
-   "europa"
-  ],
-  "topics": [
-   "europa-usa"
-  ],
-  "watch": [],
-  "kinds": [
-   "round"
-  ],
-  "round": {
-   "amount": "$3.3M",
-   "musd": 3.3,
-   "stage": "Pre-seed",
-   "company": null
-  },
-  "score": 10,
-  "angles": [
-   "Perché l'Europa produce meno exit grandi, e cosa servirebbe per cambiare?",
-   "Faresti questo investimento? Chiediti chi è il team, quanto è grande il mercato e se l'azienda può restituire un fondo."
-  ],
-  "first_seen": "2026-10-20T04:38+00:00"
- },
- {
-  "id": "76f8c11269aa",
-  "url": "https://www.eu-startups.com/2026/10/stockholms-vessla-exits-stealth-with-e2-94-million-to-bring-ai-agents-to-property-management/",
-  "title": "Stockholm’s Vessla exits stealth with €2.94 million to bring AI agents to property management",
-  "source": "EU-Startups",
-  "source_id": "eustartups",
-  "recommended": false,
-  "date": "2026-10-19T07:00+00:00",
-  "excerpt": "Vessla, a Stockholm-based AI startup building an agentic operating system for real estate, has emerged from stealth with €2.94 million ($3.3 million) pre-Seed funding. The funding round was more than 2× oversubscribed and was led by Seedcamp. Other investors…",
-  "tags": [
-   "ai",
-   "europa"
-  ],
-  "topics": [
-   "europa-usa"
-  ],
-  "watch": [],
-  "kinds": [
-   "round"
-  ],
-  "round": {
-   "amount": "€2.9M",
-   "musd": 3.23,
-   "stage": "Pre-seed",
-   "company": null
-  },
-  "score": 10,
-  "angles": [
-   "Perché l'Europa produce meno exit grandi, e cosa servirebbe per cambiare?",
-   "Faresti questo investimento? Chiediti chi è il team, quanto è grande il mercato e se l'azienda può restituire un fondo."
-  ],
-  "first_seen": "2026-10-20T04:38+00:00"
- },
- {
-  "id": "594c5364682b",
-  "url": "https://www.eu-startups.com/2026/10/amsterdams-huppa-raises-e1-million-to-build-an-operating-system-for-class-based-gyms-and-studios/",
-  "title": "Amsterdam’s Huppa raises €1 million to build an operating system for class-based gyms and studios",
-  "source": "EU-Startups",
-  "source_id": "eustartups",
-  "recommended": false,
-  "date": "2026-10-19T06:10+00:00",
-  "excerpt": "Huppa, an Amsterdam-based SportsTech startup offering an all-in-one platform for gyms, CrossFit boxes and studios, has secured €1 million in pre-Seed funding. The investment round was led by a group of seasoned entrepreneurs and investors, including the…",
-  "tags": [
-   "europa"
-  ],
-  "topics": [],
-  "watch": [],
-  "kinds": [
-   "round"
-  ],
-  "round": {
-   "amount": "€1M",
-   "musd": 1.1,
-   "stage": "Pre-seed",
-   "company": "Huppa"
-  },
-  "score": 8,
-  "angles": [
-   "Faresti questo investimento? Chiediti chi è il team, quanto è grande il mercato e se l'azienda può restituire un fondo."
-  ],
-  "first_seen": "2026-10-20T04:38+00:00"
- },
- {
-  "id": "c37f7511a149",
-  "url": "https://sifted.eu/articles/the-investors-with-the-biggest-jumps-in-the-sifted-ai-100/",
-  "title": "The investors with the biggest jumps in the Sifted AI 100",
-  "source": "Sifted",
-  "source_id": "sifted",
-  "recommended": true,
-  "date": "2026-10-19T05:00+00:00",
-  "excerpt": "",
-  "tags": [
-   "ai"
-  ],
-  "topics": [],
-  "watch": [],
-  "kinds": [],
-  "round": null,
-  "score": 3,
-  "angles": [],
-  "first_seen": "2026-10-19T04:41+00:00"
- },
- {
-  "id": "8be11b10f58c",
-  "url": "https://sifted.eu/articles/government-procurement-selling-ai-sifted-summit/",
-  "title": "Governments need startups. So why is it so hard to sell to them?",
-  "source": "Sifted",
-  "source_id": "sifted",
-  "recommended": true,
-  "date": "2026-10-19T05:00+00:00",
-  "excerpt": "",
-  "tags": [],
-  "topics": [],
-  "watch": [],
-  "kinds": [],
-  "round": null,
-  "score": 3,
-  "angles": [],
-  "first_seen": "2026-10-19T04:41+00:00"
- },
- {
-  "id": "0716d882492d",
-  "url": "https://techcrunch.com/2026/10/18/no-agenda-no-rush-no-leaving-san-francisco-benchmarks-partners-on-investing-in-a-frenzied-market/",
-  "title": "No agenda, no rush, no leaving San Francisco: Benchmark’s partners on investing in a frenzied market",
-  "source": "TechCrunch",
-  "source_id": "techcrunch-venture",
-  "recommended": true,
-  "date": "2026-10-18T21:00+00:00",
-  "excerpt": "Benchmark may have grown its funds and swapped out some partners, but onstage the five who are left sounded like friends who just happen to be running one of the Valley’s most storied firms",
-  "tags": [
-   "usa"
-  ],
-  "topics": [],
-  "watch": [],
-  "kinds": [],
-  "round": null,
-  "score": 3,
-  "angles": [],
-  "first_seen": "2026-10-19T04:41+00:00"
- },
- {
-  "id": "efeb3746fdd3",
-  "url": "https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/",
-  "title": "Anthropic says it’s committing 5% of its shares to a ‘public benefit fund’",
-  "source": "TechCrunch",
-  "source_id": "techcrunch",
-  "recommended": true,
-  "date": "2026-10-18T20:37+00:00",
-  "excerpt": "Anthropic said that it will commit 5% of its shares to the fund.",
-  "tags": [
-   "ai"
-  ],
-  "topics": [
-   "ai-race"
-  ],
-  "watch": [],
-  "kinds": [],
-  "round": null,
-  "score": 5,
-  "angles": [
-   "Chi vince la corsa ai modelli, e dove può creare valore un VC early-stage europeo?"
-  ],
-  "first_seen": "2026-10-19T04:41+00:00"
- },
- {
-  "id": "0dabc6c10b97",
-  "url": "https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/",
-  "title": "Anthropic says its workforce has become less junior and is spending more time in meetings",
-  "source": "TechCrunch",
-  "source_id": "techcrunch",
-  "recommended": true,
-  "date": "2026-10-17T20:21+00:00",
-  "excerpt": "The composition of Anthropic’s workforce and the type of work getting done have changed significantly in the past year.",
-  "tags": [
-   "ai"
-  ],
-  "topics": [
-   "ai-race"
-  ],
-  "watch": [],
-  "kinds": [],
-  "round": null,
-  "score": 5,
-  "angles": [
-   "Chi vince la corsa ai modelli, e dove può creare valore un VC early-stage europeo?"
-  ],
-  "first_seen": "2026-10-18T04:37+00:00"
- },
- {
-  "id": "6435f671229b",
-  "url": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/",
-  "title": "Replit makes OpenAI its default over Anthropic, CEO says",
-  "source": "TechCrunch",
-  "source_id": "techcrunch",
-  "recommended": true,
-  "date": "2026-10-17T18:48+00:00",
-  "excerpt": "Over the weekend, Masad clarified that OpenAI would replace Anthropic as its default model provider. Claude will still be available to customers on the platform.",
-  "tags": [
-   "ai"
-  ],
-  "topics": [
-   "ai-race"
-  ],
-  "watch": [],
-  "kinds": [],
-  "round": null,
-  "score": 5,
-  "angles": [
-   "Chi vince la corsa ai modelli, e dove può creare valore un VC early-stage europeo?"
-  ],
-  "first_seen": "2026-10-18T04:37+00:00"
- },
- {
-  "id": "18f9fd010555",
-  "url": "https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/",
-  "title": "Replit is no longer working with Anthropic, CEO says",
-  "source": "TechCrunch",
-  "source_id": "techcrunch",
-  "recommended": true,
-  "date": "2026-10-16T21:22+00:00",
-  "excerpt": "Masad said the decision was made for a number of different reasons, including cost. Replit announced a partnership with OpenAI in August, but there was never any indication that it was no longer with Anthropic.",
-  "tags": [
-   "ai"
-  ],
-  "topics": [
-   "ai-race"
-  ],
-  "watch": [],
-  "kinds": [],
-  "round": null,
-  "score": 5,
-  "angles": [
-   "Chi vince la corsa ai modelli, e dove può creare valore un VC early-stage europeo?"
-  ],
-  "first_seen": "2026-10-17T04:37+00:00"
- },
- {
-  "id": "8e38105a14b5",
-  "url": "https://techcrunch.com/2026/10/16/porsches-electric-macan-turbo-is-an-automotive-existential-crisis/",
-  "title": "Porsche’s electric Macan Turbo is an automotive existential crisis",
-  "source": "TechCrunch",
-  "source_id": "techcrunch",
-  "recommended": true,
-  "date": "2026-10-16T19:40+00:00",
-  "excerpt": "The 2026 Porsche Macan Turbo EV is a two-row crossover with 630 horsepower and a 100-kilowatt-hour battery.",
-  "tags": [
-   "climate"
-  ],
-  "topics": [
-   "climate-capex"
-  ],
-  "watch": [],
-  "kinds": [],
-  "round": null,
-  "score": 5,
-  "angles": [
-   "Come trattiene l'Europa le aziende deep tech che hanno bisogno di round enormi?"
-  ],
-  "first_seen": "2026-10-17T04:37+00:00"
- },
- {
-  "id": "8069354151ed",
-  "url": "https://www.technologyreview.com/2026/10/16/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/",
-  "title": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
-  "source": "MIT Technology Review",
-  "source_id": "mittr",
-  "recommended": true,
-  "date": "2026-10-16T18:00+00:00",
-  "excerpt": "Listen to the session or watch below Can AI design new life forms? In 2025, Stanford University PhD student Samuel King came up with a preliminary answer when he used a generative AI model to propose genetic blueprints for microscopic viruses. It isn’t yet an…",
-  "tags": [
-   "ai"
-  ],
-  "topics": [
-   "ai-race"
-  ],
-  "watch": [],
-  "kinds": [],
-  "round": null,
-  "score": 5,
-  "angles": [
-   "Chi vince la corsa ai modelli, e dove può creare valore un VC early-stage europeo?"
-  ],
-  "first_seen": "2026-10-17T04:37+00:00"
- },
- {
-  "id": "84c2c565c396",
-  "url": "https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/",
-  "title": "An Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet",
-  "source": "TechCrunch",
-  "source_id": "techcrunch-venture",
-  "recommended": true,
-  "date": "2026-10-16T16:30+00:00",
-  "excerpt": "Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA’s robotics platforms, says robotics is currently in its “Lego era,” with the basic building blocks like actuators, robotic hands, software, and safety standards still being rebuilt…",
-  "tags": [
-   "deep-tech"
-  ],
-  "topics": [
-   "nvidia-vc",
-   "physical-ai"
-  ],
-  "watch": [],
-  "kinds": [],
-  "round": null,
-  "score": 7,
-  "angles": [
-   "Le Big Tech che investono nelle startup accelerano il mercato o lo distorcono?"
-  ],
-  "first_seen": "2026-10-17T04:37+00:00"
- },
- {
-  "id": "6bb605f3ee09",
-  "url": "https://techcrunch.com/2026/10/16/waymos-robotaxis-are-headed-to-canada/",
-  "title": "Waymo’s robotaxis are headed to Canada",
-  "source": "TechCrunch",
-  "source_id": "techcrunch",
-  "recommended": true,
-  "date": "2026-10-16T16:06+00:00",
-  "excerpt": "The company will start off by testing its self-driving vehicles on Toronto's streets.",
-  "tags": [
-   "deep-tech"
-  ],
-  "topics": [
-   "physical-ai"
-  ],
-  "watch": [],
-  "kinds": [],
-  "round": null,
-  "score": 5,
-  "angles": [
-   "L'Europa può vincere nella physical AI, dove contano industria e dati più del software?"
-  ],
-  "first_seen": "2026-10-17T04:37+00:00"
- },
- {
-  "id": "1aa8b1ac1c09",
-  "url": "https://techcrunch.com/2026/10/16/elorians-first-ai-model-wants-to-reason-with-images-not-just-about-them/",
-  "title": "Elorian’s first AI model wants to reason with images, not just about them",
-  "source": "TechCrunch",
-  "source_id": "techcrunch",
-  "recommended": true,
-  "date": "2026-10-16T16:01+00:00",
-  "excerpt": "According to Elorian's evaluations, Glimpse outperforms even GPT-6 Astra on scientific chart reasoning and short-form video captioning, with competitive results on other visual reasoning tasks.",
-  "tags": [
-   "ai"
-  ],
-  "topics": [
-   "ai-race"
-  ],
-  "watch": [],
-  "kinds": [],
-  "round": null,
-  "score": 5,
-  "angles": [
-   "Chi vince la corsa ai modelli, e dove può creare valore un VC early-stage europeo?"
-  ],
-  "first_seen": "2026-10-17T04:37+00:00"
- },
- {
-  "id": "351478776159",
-  "url": "https://techcrunch.com/2026/10/16/jev-is-vercels-fastest-adopted-ai-model-ever/",
-  "title": "Jev is Vercel’s fastest-adopted AI model ever",
-  "source": "TechCrunch",
-  "source_id": "techcrunch",
-  "recommended": true,
-  "date": "2026-10-16T15:33+00:00",
-  "excerpt": "The data comes from Vercel's AI gateway, a unified API service similar to OpenRouter.",
-  "tags": [
-   "ai"
-  ],
-  "topics": [
-   "ai-race"
-  ],
-  "watch": [],
-  "kinds": [],
-  "round": null,
-  "score": 5,
-  "angles": [
-   "Chi vince la corsa ai modelli, e dove può creare valore un VC early-stage europeo?"
-  ],
-  "first_seen": "2026-10-17T04:37+00:00"
- },
- {
-  "id": "6a0b3b0e012a",
-  "url": "https://sifted.eu/articles/harry-stebbings-podcast/",
-  "title": "Harry Stebbings on 996 regrets, political ambitions and building a personal brand",
-  "source": "Sifted",
-  "source_id": "sifted",
-  "recommended": true,
-  "date": "2026-10-16T15:16+00:00",
-  "excerpt": "",
-  "tags": [],
-  "topics": [],
-  "watch": [],
-  "kinds": [],
-  "round": null,
-  "score": 3,
-  "angles": [],
-  "first_seen": "2026-10-17T04:37+00:00"
- },
- {
-  "id": "0671023ca374",
-  "url": "https://www.eu-startups.com/2026/10/weekly-funding-round-up-all-of-the-european-startup-funding-rounds-we-tracked-this-week-oct-12-oct-16/",
-  "title": "Weekly funding round-up! All of the European startup funding rounds we tracked this week (Oct. 12 – Oct. 16)",
-  "source": "EU-Startups",
-  "source_id": "eustartups",
-  "recommended": false,
-  "date": "2026-10-16T15:10+00:00",
-  "excerpt": "This article is visible for CLUB members only. If you are already a member but don’t see the content of this article, please login here. If you’re not a CLUB member yet, but you’d like to read members-only content like this one, have unrestricted access to…",
-  "tags": [
-   "europa"
-  ],
-  "topics": [],
-  "watch": [],
-  "kinds": [],
-  "round": null,
-  "score": 4,
-  "angles": [],
-  "first_seen": "2026-10-17T04:37+00:00"
  }
 ]
