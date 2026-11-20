@@ -1,5 +1,628 @@
 [
  {
+  "id": "7227ce969ae5",
+  "url": "https://news.crunchbase.com/venture/interesting-startup-deals-ai-solar-healthcare-space-tech/",
+  "title": "5 Interesting Startup Deals You May Have Missed: Reflecting Sunlight From Space, Better Breathing And Smarter Garbage Trucks",
+  "source": "Crunchbase News",
+  "source_id": "crunchbase",
+  "recommended": false,
+  "date": "2026-11-20T12:00+00:00",
+  "excerpt": "What if solar farms could keep generating electricity after sunset with a little help from mirrors orbiting Earth? Or researchers could send an experiment into space for less than the price of a car? Our latest roundup also includes a company bringing AI to…",
+  "tags": [
+   "ai",
+   "deep-tech",
+   "climate"
+  ],
+  "topics": [],
+  "watch": [],
+  "kinds": [],
+  "round": null,
+  "score": 2,
+  "angles": [],
+  "first_seen": "2026-11-20T12:49+00:00"
+ },
+ {
+  "id": "b8e47744db0e",
+  "url": "https://news.crunchbase.com/venture/telecom-bust-ai-startup-debt-boom-spreng-runway-growth/",
+  "title": "What The Telecom Bust Taught Me About AI’s Debt Boom",
+  "source": "Crunchbase News",
+  "source_id": "crunchbase",
+  "recommended": false,
+  "date": "2026-11-20T12:00+00:00",
+  "excerpt": "The AI buildout’s growing reliance on debt echoes the telecom bubble, raising the risk that infrastructure spending will outpace the revenue needed to meet fixed repayment obligations. According to guest author David Spreng of Runway Growth Capital, even if…",
+  "tags": [
+   "ai"
+  ],
+  "topics": [],
+  "watch": [],
+  "kinds": [],
+  "round": null,
+  "score": 2,
+  "angles": [],
+  "first_seen": "2026-11-20T12:49+00:00"
+ },
+ {
+  "id": "130b47e8213c",
+  "url": "https://tech.eu/2026/11/20/oaknorth-wins-us-banking-licence/",
+  "title": "OakNorth wins US banking licence",
+  "source": "Tech.eu",
+  "source_id": "techeu",
+  "recommended": false,
+  "date": "2026-11-20T09:27+00:00",
+  "excerpt": "OakNorth, the UK SME lender, has won a US banking licence, it said today, allowing it to offer services beyond lending including checking and savings accounts to businesses in the US, which now accoun...",
+  "tags": [
+   "fintech",
+   "europa"
+  ],
+  "topics": [],
+  "watch": [],
+  "kinds": [],
+  "round": null,
+  "score": 4,
+  "angles": [],
+  "first_seen": "2026-11-20T12:49+00:00"
+ },
+ {
+  "id": "9dad0d9d3bcb",
+  "url": "https://tech.eu/2026/11/20/archer-raises-10m-to-connect-recruiters-and-job-seekers-with-ai/",
+  "title": "Archer raises $10M to connect recruiters and job seekers with AI",
+  "source": "Tech.eu",
+  "source_id": "techeu",
+  "recommended": false,
+  "date": "2026-11-20T09:11+00:00",
+  "excerpt": "Archer (formerly hackajob) has raised$10 million in new funding in a round led by Volition Capital, withparticipation from existing investor AVP. The company develops an AI-poweredrecruiting platform ...",
+  "tags": [
+   "ai"
+  ],
+  "topics": [],
+  "watch": [],
+  "kinds": [
+   "round"
+  ],
+  "round": {
+   "amount": "$10M",
+   "musd": 10.0,
+   "stage": null,
+   "company": "Archer"
+  },
+  "score": 7,
+  "angles": [
+   "Faresti questo investimento? Chiediti chi è il team, quanto è grande il mercato e se l'azienda può restituire un fondo."
+  ],
+  "first_seen": "2026-11-20T12:49+00:00"
+ },
+ {
+  "id": "2ba455b21152",
+  "url": "https://tech.eu/2026/11/20/ukrainian-drone-engineering-meets-german-manufacturing-as-qfi-ramps-up-production/",
+  "title": "Ukrainian drone engineering meets German manufacturing as QFI ramps up production",
+  "source": "Tech.eu",
+  "source_id": "techeu",
+  "recommended": false,
+  "date": "2026-11-20T06:49+00:00",
+  "excerpt": "Quantum Systems and Frontline Robotics are expanding their industrial cooperation through a programme for long-term support capacity in Ukraine aimed at systems developed by Frontline Robotics and pro...",
+  "tags": [
+   "deep-tech",
+   "europa"
+  ],
+  "topics": [
+   "physical-ai",
+   "climate-capex"
+  ],
+  "watch": [],
+  "kinds": [],
+  "round": null,
+  "score": 8,
+  "angles": [
+   "L'Europa può vincere nella physical AI, dove contano industria e dati più del software?"
+  ],
+  "first_seen": "2026-11-20T12:49+00:00"
+ },
+ {
+  "id": "2861f356d4b8",
+  "url": "https://sifted.eu/articles/kanishka-narayan-ai-uk-minister-sovereign/",
+  "title": "UK AI minister rejects calls for sovereign model, sparking backlash: 'I'm so angry'",
+  "source": "Sifted",
+  "source_id": "sifted",
+  "recommended": true,
+  "date": "2026-11-20T05:00+00:00",
+  "excerpt": "",
+  "tags": [
+   "ai",
+   "europa"
+  ],
+  "topics": [],
+  "watch": [],
+  "kinds": [],
+  "round": null,
+  "score": 5,
+  "angles": [],
+  "first_seen": "2026-11-20T12:49+00:00"
+ },
+ {
+  "id": "3a9181d5b0b0",
+  "url": "https://sifted.eu/articles/pre-seed-fintechs-to-watch/",
+  "title": "13 pre-seed fintechs to watch, according to VCs",
+  "source": "Sifted",
+  "source_id": "sifted",
+  "recommended": true,
+  "date": "2026-11-20T05:00+00:00",
+  "excerpt": "",
+  "tags": [],
+  "topics": [],
+  "watch": [],
+  "kinds": [
+   "round"
+  ],
+  "round": {
+   "amount": null,
+   "musd": null,
+   "stage": "Pre-seed",
+   "company": null
+  },
+  "score": 7,
+  "angles": [
+   "Faresti questo investimento? Chiediti chi è il team, quanto è grande il mercato e se l'azienda può restituire un fondo."
+  ],
+  "first_seen": "2026-11-20T12:49+00:00"
+ },
+ {
+  "id": "c72794481d06",
+  "url": "https://sifted.eu/articles/inside-slush-2026-robots-riches-and-the-race-to-superintelligence/",
+  "title": "Inside Slush 2026: Robots, riches and the race to superintelligence",
+  "source": "Sifted",
+  "source_id": "sifted",
+  "recommended": true,
+  "date": "2026-11-20T05:00+00:00",
+  "excerpt": "",
+  "tags": [
+   "deep-tech"
+  ],
+  "topics": [
+   "physical-ai"
+  ],
+  "watch": [],
+  "kinds": [],
+  "round": null,
+  "score": 5,
+  "angles": [
+   "L'Europa può vincere nella physical AI, dove contano industria e dati più del software?"
+  ],
+  "first_seen": "2026-11-20T12:49+00:00"
+ },
+ {
+  "id": "9e060a0f409e",
+  "url": "https://sifted.eu/articles/slush-20u20-2026/",
+  "title": "‘I want to be the world’s youngest billionaire’: Meet the Slush 20u20",
+  "source": "Sifted",
+  "source_id": "sifted",
+  "recommended": true,
+  "date": "2026-11-20T05:00+00:00",
+  "excerpt": "",
+  "tags": [],
+  "topics": [],
+  "watch": [],
+  "kinds": [],
+  "round": null,
+  "score": 3,
+  "angles": [],
+  "first_seen": "2026-11-20T12:49+00:00"
+ },
+ {
+  "id": "667cfc8dbcb8",
+  "url": "https://sifted.eu/articles/espoo-closes-in-on-helsinki-as-finlands-startup-funding-race-tightens/",
+  "title": "Espoo closes in on Helsinki as Finland’s startup funding race tightens",
+  "source": "Sifted",
+  "source_id": "sifted",
+  "recommended": true,
+  "date": "2026-11-20T05:00+00:00",
+  "excerpt": "",
+  "tags": [
+   "europa"
+  ],
+  "topics": [],
+  "watch": [],
+  "kinds": [
+   "round"
+  ],
+  "round": {
+   "amount": null,
+   "musd": null,
+   "stage": null,
+   "company": "Espoo"
+  },
+  "score": 9,
+  "angles": [
+   "Faresti questo investimento? Chiediti chi è il team, quanto è grande il mercato e se l'azienda può restituire un fondo."
+  ],
+  "first_seen": "2026-11-20T12:49+00:00"
+ },
+ {
+  "id": "2ed09bbf2a0c",
+  "url": "https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/",
+  "title": "Apple may be developing its own AI agent that runs your Mac",
+  "source": "TechCrunch",
+  "source_id": "techcrunch",
+  "recommended": true,
+  "date": "2026-11-20T00:56+00:00",
+  "excerpt": "The iPhone maker appears to be building agents that can compete with the likes of Meta Muse, Instinct, Claude, and OpenAI Dots.",
+  "tags": [
+   "ai"
+  ],
+  "topics": [
+   "ai-race"
+  ],
+  "watch": [],
+  "kinds": [],
+  "round": null,
+  "score": 5,
+  "angles": [
+   "Chi vince la corsa ai modelli, e dove può creare valore un VC early-stage europeo?"
+  ],
+  "first_seen": "2026-11-20T12:49+00:00"
+ },
+ {
+  "id": "4aacf31011a3",
+  "url": "https://techcrunch.com/2026/11/19/anthropics-7-founders-cashed-out-nearly-2b-in-record-breaking-ipo/",
+  "title": "Anthropic’s 7 founders cashed out nearly $2B in record-breaking IPO",
+  "source": "TechCrunch",
+  "source_id": "techcrunch",
+  "recommended": true,
+  "date": "2026-11-20T00:43+00:00",
+  "excerpt": "At the upgraded $83/share IPO price, Anthropic's seven founders each pocketed $280 million, while the company nabbed nearly $105 billion.",
+  "tags": [
+   "ai"
+  ],
+  "topics": [
+   "ai-race"
+  ],
+  "watch": [],
+  "kinds": [
+   "exit"
+  ],
+  "round": null,
+  "score": 8,
+  "angles": [
+   "Chi vince la corsa ai modelli, e dove può creare valore un VC early-stage europeo?",
+   "Chi guadagna da questa exit e cosa insegna sulle strade di uscita per le startup europee?"
+  ],
+  "first_seen": "2026-11-20T12:49+00:00"
+ },
+ {
+  "id": "271e5d72d10e",
+  "url": "https://techcrunch.com/2026/11/19/anthropic-rival-says-companies-can-mostly-skip-the-pricey-models/",
+  "title": "Anthropic rival says companies can (mostly) skip the pricey models",
+  "source": "TechCrunch",
+  "source_id": "techcrunch-venture",
+  "recommended": true,
+  "date": "2026-11-20T00:26+00:00",
+  "excerpt": "On the day Anthropic went public, Fireworks AI’s co-founder made the case for open source models as a cheaper alternative, and addressed the breaches that have cost the company some customers’ trust.",
+  "tags": [
+   "ai"
+  ],
+  "topics": [
+   "ai-race"
+  ],
+  "watch": [],
+  "kinds": [],
+  "round": null,
+  "score": 5,
+  "angles": [
+   "Chi vince la corsa ai modelli, e dove può creare valore un VC early-stage europeo?"
+  ],
+  "first_seen": "2026-11-20T12:49+00:00"
+ },
+ {
+  "id": "2fc737ddb995",
+  "url": "https://techcrunch.com/2026/11/19/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+  "title": "The unfolding Jensen Huang scandal: a timeline",
+  "source": "TechCrunch",
+  "source_id": "techcrunch",
+  "recommended": true,
+  "date": "2026-11-19T20:18+00:00",
+  "excerpt": "Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
+  "tags": [
+   "ai",
+   "usa"
+  ],
+  "topics": [
+   "nvidia-vc"
+  ],
+  "watch": [],
+  "kinds": [],
+  "round": null,
+  "score": 5,
+  "angles": [
+   "Le Big Tech che investono nelle startup accelerano il mercato o lo distorcono?"
+  ],
+  "first_seen": "2026-11-20T12:49+00:00"
+ },
+ {
+  "id": "e22812a5ccc9",
+  "url": "https://techcrunch.com/2026/11/19/anthropics-ipo-could-deliver-156-billion-to-charity/",
+  "title": "Anthropic’s IPO could deliver $156B to charity",
+  "source": "TechCrunch",
+  "source_id": "techcrunch",
+  "recommended": true,
+  "date": "2026-11-19T19:10+00:00",
+  "excerpt": "At a stock price of $95, the frontier lab's Public Benefit Foundation, its employee donations, and the company's match tot up to $156 billion.",
+  "tags": [
+   "ai"
+  ],
+  "topics": [
+   "ai-race"
+  ],
+  "watch": [],
+  "kinds": [
+   "exit"
+  ],
+  "round": null,
+  "score": 8,
+  "angles": [
+   "Chi vince la corsa ai modelli, e dove può creare valore un VC early-stage europeo?",
+   "Chi guadagna da questa exit e cosa insegna sulle strade di uscita per le startup europee?"
+  ],
+  "first_seen": "2026-11-20T12:49+00:00"
+ },
+ {
+  "id": "6d6821f501bb",
+  "url": "https://techcrunch.com/2026/11/19/google-gives-gemini-the-ability-to-use-your-mac-for-you/",
+  "title": "Google gives Gemini the ability to use your Mac for you",
+  "source": "TechCrunch",
+  "source_id": "techcrunch",
+  "recommended": true,
+  "date": "2026-11-19T18:09+00:00",
+  "excerpt": "Google's latest update to Gemini brings an AI agent to the Mac that can organize files, fill out forms, and tackle multistep workflows.",
+  "tags": [
+   "ai"
+  ],
+  "topics": [
+   "ai-race"
+  ],
+  "watch": [],
+  "kinds": [],
+  "round": null,
+  "score": 5,
+  "angles": [
+   "Chi vince la corsa ai modelli, e dove può creare valore un VC early-stage europeo?"
+  ],
+  "first_seen": "2026-11-20T12:49+00:00"
+ },
+ {
+  "id": "88ae40f03632",
+  "url": "https://techcrunch.com/2026/11/19/former-alibaba-execs-everful-raises-48-5m-to-connect-retailers-with-chinese-factories/",
+  "title": "Former Alibaba exec’s Everful raises $48.5M to connect retailers with Chinese factories",
+  "source": "TechCrunch",
+  "source_id": "techcrunch",
+  "recommended": true,
+  "date": "2026-11-19T17:00+00:00",
+  "excerpt": "Everful has raised $48.5 million to expand its factory-direct sourcing platform, helping retailers source products from overseas manufacturers.",
+  "tags": [],
+  "topics": [],
+  "watch": [],
+  "kinds": [
+   "round"
+  ],
+  "round": {
+   "amount": "$48.5M",
+   "musd": 48.5,
+   "stage": null,
+   "company": "Former Alibaba exec’s Everful"
+  },
+  "score": 8,
+  "angles": [
+   "Faresti questo investimento? Chiediti chi è il team, quanto è grande il mercato e se l'azienda può restituire un fondo."
+  ],
+  "first_seen": "2026-11-20T12:49+00:00"
+ },
+ {
+  "id": "e71232150b49",
+  "url": "https://techcrunch.com/2026/11/19/anthropic-hits-nasdaq-exchanges-at-110-27-above-ipo-price/",
+  "title": "Anthropic hits Nasdaq exchanges at $111, 33% above IPO price",
+  "source": "TechCrunch",
+  "source_id": "techcrunch",
+  "recommended": true,
+  "date": "2026-11-19T16:59+00:00",
+  "excerpt": "Anthropic's IPO price was set at $83, representing more than $80 billion in new capital raised.",
+  "tags": [
+   "ai"
+  ],
+  "topics": [
+   "ai-race"
+  ],
+  "watch": [],
+  "kinds": [
+   "exit"
+  ],
+  "round": null,
+  "score": 8,
+  "angles": [
+   "Chi vince la corsa ai modelli, e dove può creare valore un VC early-stage europeo?",
+   "Chi guadagna da questa exit e cosa insegna sulle strade di uscita per le startup europee?"
+  ],
+  "first_seen": "2026-11-20T12:49+00:00"
+ },
+ {
+  "id": "3e5d1a7c85bc",
+  "url": "https://techcrunch.com/2026/11/19/at-nasdaq-opening-bell-anthropic-ceo-recommits-to-pacing-ai-development/",
+  "title": "At Nasdaq opening bell, Anthropic CEO recommits to pacing AI development",
+  "source": "TechCrunch",
+  "source_id": "techcrunch",
+  "recommended": true,
+  "date": "2026-11-19T16:19+00:00",
+  "excerpt": "In his Nasdaq opening bell speech, Dario Amodei reiterated Anthropic's commitment to pacing AI development, regardless of business or political pressure.",
+  "tags": [
+   "ai"
+  ],
+  "topics": [
+   "ai-race"
+  ],
+  "watch": [],
+  "kinds": [],
+  "round": null,
+  "score": 5,
+  "angles": [
+   "Chi vince la corsa ai modelli, e dove può creare valore un VC early-stage europeo?"
+  ],
+  "first_seen": "2026-11-20T12:49+00:00"
+ },
+ {
+  "id": "824e87dcfa8e",
+  "url": "https://techcrunch.com/2026/11/19/anthropics-ipo-puts-ais-circular-financing-boom-to-the-test/",
+  "title": "Anthropic’s IPO puts AI’s circular financing boom to the test",
+  "source": "TechCrunch",
+  "source_id": "techcrunch",
+  "recommended": true,
+  "date": "2026-11-19T14:54+00:00",
+  "excerpt": "Anthropic faces enormous compute commitments as it goes public, but its biggest infrastructure partners, including Amazon and Google, could continue profiting from AI even if Anthropic loses its lead.",
+  "tags": [
+   "ai",
+   "climate"
+  ],
+  "topics": [
+   "ai-race",
+   "nvidia-vc"
+  ],
+  "watch": [],
+  "kinds": [
+   "exit"
+  ],
+  "round": null,
+  "score": 10,
+  "angles": [
+   "Chi vince la corsa ai modelli, e dove può creare valore un VC early-stage europeo?",
+   "Chi guadagna da questa exit e cosa insegna sulle strade di uscita per le startup europee?"
+  ],
+  "first_seen": "2026-11-20T12:49+00:00"
+ },
+ {
+  "id": "98520a6e86dd",
+  "url": "https://sifted.eu/articles/menlo-ventures-podcast/",
+  "title": "Is AI in a bubble? Menlo Ventures’ Deedy Das on Anthropic’s IPO and Europe",
+  "source": "Sifted",
+  "source_id": "sifted",
+  "recommended": true,
+  "date": "2026-11-19T13:55+00:00",
+  "excerpt": "",
+  "tags": [
+   "ai",
+   "europa"
+  ],
+  "topics": [
+   "ai-race"
+  ],
+  "watch": [],
+  "kinds": [
+   "exit"
+  ],
+  "round": null,
+  "score": 10,
+  "angles": [
+   "Chi vince la corsa ai modelli, e dove può creare valore un VC early-stage europeo?",
+   "Chi guadagna da questa exit e cosa insegna sulle strade di uscita per le startup europee?"
+  ],
+  "first_seen": "2026-11-20T12:49+00:00"
+ },
+ {
+  "id": "5a15e14c1cf6",
+  "url": "https://sifted.eu/articles/eu-inc-watered-down-rules-rewrite-campaign/",
+  "title": "EU Inc demands Brussels scrap ‘weak’ reforms, start over",
+  "source": "Sifted",
+  "source_id": "sifted",
+  "recommended": true,
+  "date": "2026-11-19T13:47+00:00",
+  "excerpt": "",
+  "tags": [
+   "europa",
+   "policy"
+  ],
+  "topics": [
+   "regime-28"
+  ],
+  "watch": [],
+  "kinds": [],
+  "round": null,
+  "score": 7,
+  "angles": [
+   "Il 28° regime può davvero ridurre il divario con gli USA?"
+  ],
+  "first_seen": "2026-11-20T12:49+00:00"
+ },
+ {
+  "id": "2cfc4ca200da",
+  "url": "https://www.technologyreview.com/2026/11/19/1148979/the-download-liver-kept-alive-sila-battery-deal-ai-hype/",
+  "title": "The Download: a living liver, a billion-dollar battery deal, and AI hype",
+  "source": "MIT Technology Review",
+  "source_id": "mittr",
+  "recommended": true,
+  "date": "2026-11-19T13:10+00:00",
+  "excerpt": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. A human liver has been kept alive outside the body for a record seven weeks Researchers in Australia claim they’ve kept a…",
+  "tags": [
+   "ai",
+   "climate"
+  ],
+  "topics": [
+   "climate-capex"
+  ],
+  "watch": [],
+  "kinds": [],
+  "round": null,
+  "score": 5,
+  "angles": [
+   "Come trattiene l'Europa le aziende deep tech che hanno bisogno di round enormi?"
+  ],
+  "first_seen": "2026-11-20T12:49+00:00"
+ },
+ {
+  "id": "28d8b329c166",
+  "url": "https://tech.eu/2026/11/19/eu-inc-calls-on-von-der-leyen-to-withdraw-and-re-table-eu-inc-proposal/",
+  "title": "EU–INC calls on von der Leyen to withdraw and re-table EU Inc proposal",
+  "source": "Tech.eu",
+  "source_id": "techeu",
+  "recommended": false,
+  "date": "2026-11-19T13:00+00:00",
+  "excerpt": "EU–INC and Startups for Europe are calling on European Commission President Ursula von der Leyen to withdraw and re-table the original EU Inc proposal, warning that compromises made by EU Member State...",
+  "tags": [
+   "europa",
+   "policy"
+  ],
+  "topics": [
+   "regime-28"
+  ],
+  "watch": [],
+  "kinds": [],
+  "round": null,
+  "score": 6,
+  "angles": [
+   "Il 28° regime può davvero ridurre il divario con gli USA?"
+  ],
+  "first_seen": "2026-11-20T12:49+00:00"
+ },
+ {
+  "id": "b2c65f5e53fb",
+  "url": "https://tech.eu/2026/11/19/100b-in-company-value-one-shared-ambition-european-tech-leaders-demand-political-reform-at-slush/",
+  "title": "€100B in company value, one shared ambition: European tech leaders demand political reform at Slush",
+  "source": "Tech.eu",
+  "source_id": "techeu",
+  "recommended": false,
+  "date": "2026-11-19T12:35+00:00",
+  "excerpt": "More than 35 European tech founders and business leaders issued a joint declaration at Slush 2026, calling for three fundamental shifts in European technology policy to strengthen the continent's glob...",
+  "tags": [
+   "europa",
+   "policy"
+  ],
+  "topics": [
+   "europa-usa"
+  ],
+  "watch": [],
+  "kinds": [],
+  "round": null,
+  "score": 6,
+  "angles": [
+   "Perché l'Europa produce meno exit grandi, e cosa servirebbe per cambiare?"
+  ],
+  "first_seen": "2026-11-20T12:49+00:00"
+ },
+ {
   "id": "24982ecbee26",
   "url": "https://news.crunchbase.com/startups/blue-economy-technology-defense-energy-onetti-mind-the-bridge/",
   "title": "The Blue Economy: The World’s Quietest Economic Engine And Its Smartest Cities",
@@ -61,6 +684,52 @@
   "first_seen": "2026-11-19T12:58+00:00"
  },
  {
+  "id": "dd1589c41262",
+  "url": "https://tech.eu/2026/11/19/wallenberg-investments-takes-minority-stake-in-swedish-deeptech-algoryx/",
+  "title": "Wallenberg Investments takes minority stake in Swedish deeptech Algoryx",
+  "source": "Tech.eu",
+  "source_id": "techeu",
+  "recommended": false,
+  "date": "2026-11-19T12:00+00:00",
+  "excerpt": "The investment unit of the Wallenberg family, one of Sweden’s most prominent financial dynasties, has taken a minority stake in Swedish deeptech company Algoryx, the company said today. Wallenberg Inv...",
+  "tags": [
+   "deep-tech",
+   "europa"
+  ],
+  "topics": [
+   "climate-capex"
+  ],
+  "watch": [],
+  "kinds": [],
+  "round": null,
+  "score": 6,
+  "angles": [
+   "Come trattiene l'Europa le aziende deep tech che hanno bisogno di round enormi?"
+  ],
+  "first_seen": "2026-11-20T12:49+00:00"
+ },
+ {
+  "id": "abae301e8b57",
+  "url": "https://tech.eu/2026/11/19/software-europes-10-most-funded-companies-in-h1-2026/",
+  "title": "Software: Europe’s 10 most-funded companies in H1 2026",
+  "source": "Tech.eu",
+  "source_id": "techeu",
+  "recommended": false,
+  "date": "2026-11-19T11:05+00:00",
+  "excerpt": "European software companies attracted investment across awide range of applications in H1 2026, with AI-powered enterprise solutions,automation, cybersecurity and developer tools emerging as key areas...",
+  "tags": [
+   "ai",
+   "europa"
+  ],
+  "topics": [],
+  "watch": [],
+  "kinds": [],
+  "round": null,
+  "score": 4,
+  "angles": [],
+  "first_seen": "2026-11-20T12:49+00:00"
+ },
+ {
   "id": "d3eedb7cabc0",
   "url": "https://www.technologyreview.com/2026/11/19/1148922/sila-panasonic-battery-deal/",
   "title": "What a billion-dollar deal says about the US battery market",
@@ -83,6 +752,160 @@
    "Come trattiene l'Europa le aziende deep tech che hanno bisogno di round enormi?"
   ],
   "first_seen": "2026-11-19T12:58+00:00"
+ },
+ {
+  "id": "c934c33541f6",
+  "url": "https://tech.eu/2026/11/19/london-based-boltz-raises-110m-series-a/",
+  "title": "London-based Boltz raises $110M Series A",
+  "source": "Tech.eu",
+  "source_id": "techeu",
+  "recommended": false,
+  "date": "2026-11-19T10:04+00:00",
+  "excerpt": "London-based AI drug discovery startup Boltz has raised a $110m Series A funding round, less than a year after emerging out of stealth.Boltz is an AI research startup that develops AI models to speed ...",
+  "tags": [
+   "ai",
+   "europa"
+  ],
+  "topics": [
+   "ai-race"
+  ],
+  "watch": [],
+  "kinds": [
+   "round"
+  ],
+  "round": {
+   "amount": "$110M",
+   "musd": 110.0,
+   "stage": "Series A",
+   "company": "London-based Boltz"
+  },
+  "score": 12,
+  "angles": [
+   "Chi vince la corsa ai modelli, e dove può creare valore un VC early-stage europeo?",
+   "Faresti questo investimento? Chiediti chi è il team, quanto è grande il mercato e se l'azienda può restituire un fondo."
+  ],
+  "first_seen": "2026-11-20T12:49+00:00"
+ },
+ {
+  "id": "c227008cbd4e",
+  "url": "https://tech.eu/2026/11/19/wilgot-raises-3m-in-seed-funding-to-help-brands-get-recommended-by-ai/",
+  "title": "Wilgot raises $3M in seed funding to help brands get recommended by AI",
+  "source": "Tech.eu",
+  "source_id": "techeu",
+  "recommended": false,
+  "date": "2026-11-19T09:00+00:00",
+  "excerpt": "Stockholm-based startup Wilgot, which develops technology to help brandsimprove their product visibility in AI assistants, has raised $3 million in aseed funding round led by Industrifonden. The round...",
+  "tags": [
+   "ai",
+   "europa"
+  ],
+  "topics": [],
+  "watch": [],
+  "kinds": [
+   "round"
+  ],
+  "round": {
+   "amount": "$3M",
+   "musd": 3.0,
+   "stage": "Seed",
+   "company": "Wilgot"
+  },
+  "score": 8,
+  "angles": [
+   "Faresti questo investimento? Chiediti chi è il team, quanto è grande il mercato e se l'azienda può restituire un fondo."
+  ],
+  "first_seen": "2026-11-20T12:49+00:00"
+ },
+ {
+  "id": "2640ae75e92f",
+  "url": "https://tech.eu/2026/11/19/lato-secures-47m-to-automate-customer-and-expert-interviews-with-ai/",
+  "title": "LATO secures $4.7M to automate customer and expert interviews with AI",
+  "source": "Tech.eu",
+  "source_id": "techeu",
+  "recommended": false,
+  "date": "2026-11-19T08:15+00:00",
+  "excerpt": "AI-poweredmarket research platform LATO has raised $4.7 million in a seed funding roundco-led by Air Street Capital and Axiom Partners. Its backers also include YCombinator, Montis VC and Inception Fu...",
+  "tags": [
+   "ai"
+  ],
+  "topics": [],
+  "watch": [],
+  "kinds": [
+   "round"
+  ],
+  "round": {
+   "amount": "$4.7M",
+   "musd": 4.7,
+   "stage": "Seed",
+   "company": "LATO"
+  },
+  "score": 6,
+  "angles": [
+   "Faresti questo investimento? Chiediti chi è il team, quanto è grande il mercato e se l'azienda può restituire un fondo."
+  ],
+  "first_seen": "2026-11-20T12:49+00:00"
+ },
+ {
+  "id": "578c8be2fb05",
+  "url": "https://tech.eu/2026/11/19/noah-raises-eur800k-to-help-companies-unlock-their-ai-potential/",
+  "title": "Noah raises €800K to help companies unlock their AI potential",
+  "source": "Tech.eu",
+  "source_id": "techeu",
+  "recommended": false,
+  "date": "2026-11-19T07:45+00:00",
+  "excerpt": "Antwerp-based startup Noah, which develops an AI-powered platform tohelp companies identify and prioritise opportunities for artificialintelligence adoption, has raised €800,000 from a group of busine...",
+  "tags": [
+   "ai"
+  ],
+  "topics": [],
+  "watch": [],
+  "kinds": [
+   "round"
+  ],
+  "round": {
+   "amount": "€0.8M",
+   "musd": 0.88,
+   "stage": null,
+   "company": "Noah"
+  },
+  "score": 6,
+  "angles": [
+   "Faresti questo investimento? Chiediti chi è il team, quanto è grande il mercato e se l'azienda può restituire un fondo."
+  ],
+  "first_seen": "2026-11-20T12:49+00:00"
+ },
+ {
+  "id": "b30861cca371",
+  "url": "https://tech.eu/2026/11/19/intelliprove-raises-eur27m-to-bring-health-monitoring-from-smartphones-to-humanoid-robots/",
+  "title": "IntelliProve raises €2.7M to bring health monitoring from smartphones to humanoid robots",
+  "source": "Tech.eu",
+  "source_id": "techeu",
+  "recommended": false,
+  "date": "2026-11-19T06:55+00:00",
+  "excerpt": "Belgian healthtech company IntelliProve hasraised €2.7 million in a seed funding round led by Miles Ahead, withparticipation from Wit-Gele Kruis, imec.istart and several business angels. IntelliProve ...",
+  "tags": [
+   "deep-tech",
+   "europa"
+  ],
+  "topics": [
+   "physical-ai"
+  ],
+  "watch": [],
+  "kinds": [
+   "round"
+  ],
+  "round": {
+   "amount": "€2.7M",
+   "musd": 2.97,
+   "stage": "Seed",
+   "company": "IntelliProve"
+  },
+  "score": 10,
+  "angles": [
+   "L'Europa può vincere nella physical AI, dove contano industria e dati più del software?",
+   "Faresti questo investimento? Chiediti chi è il team, quanto è grande il mercato e se l'azienda può restituire un fondo."
+  ],
+  "first_seen": "2026-11-20T12:49+00:00"
  },
  {
   "id": "f1a3ed813d73",
@@ -289,7 +1112,7 @@
  {
   "id": "b7932c19dd51",
   "url": "https://news.crunchbase.com/public/ipo/anthropic-prices-ipo-ant-above-range/",
-  "title": "Anthropic Prices IPO Shares At $83, Above Range",
+  "title": "Anthropic Closes Up 17% After Massive IPO",
   "source": "Crunchbase News",
   "source_id": "crunchbase",
   "recommended": false,
@@ -625,6 +1448,38 @@
   "first_seen": "2026-11-19T12:58+00:00"
  },
  {
+  "id": "92b9c318af2c",
+  "url": "https://tech.eu/2026/11/18/eachlabs-bags-7m-to-make-generative-media-production-faster-and-cheaper/",
+  "title": "each::labs bags $7M to make generative media production faster and cheaper",
+  "source": "Tech.eu",
+  "source_id": "techeu",
+  "recommended": false,
+  "date": "2026-11-18T13:00+00:00",
+  "excerpt": "each::labs,a generative media platform that enables businesses to create images, videosand audio using AI models and automated workflows, has raised $7 million in aseed funding round co-led by Revo Ca...",
+  "tags": [
+   "ai"
+  ],
+  "topics": [
+   "ai-race"
+  ],
+  "watch": [],
+  "kinds": [
+   "round"
+  ],
+  "round": {
+   "amount": "$7M",
+   "musd": 7.0,
+   "stage": null,
+   "company": "each::labs"
+  },
+  "score": 8,
+  "angles": [
+   "Chi vince la corsa ai modelli, e dove può creare valore un VC early-stage europeo?",
+   "Faresti questo investimento? Chiediti chi è il team, quanto è grande il mercato e se l'azienda può restituire un fondo."
+  ],
+  "first_seen": "2026-11-20T12:49+00:00"
+ },
+ {
   "id": "37a699b95eba",
   "url": "https://sifted.eu/articles/elevenlabs-lovable-deepl-yann-lecun-eu-ai-open-letter/",
   "title": "ElevenLabs, Lovable and DeepL CEOs urge EU to back homegrown AI",
@@ -644,6 +1499,36 @@
   "score": 5,
   "angles": [],
   "first_seen": "2026-11-18T12:59+00:00"
+ },
+ {
+  "id": "0564cfee9584",
+  "url": "https://tech.eu/2026/11/18/dcubed-raises-eur272m-series-a-to-scale-space-deployment-and-power-systems/",
+  "title": "Dcubed raises €27.2M Series A+ to scale space deployment and power systems",
+  "source": "Tech.eu",
+  "source_id": "techeu",
+  "recommended": false,
+  "date": "2026-11-18T12:05+00:00",
+  "excerpt": "German spacetechcompany Dcubed has raised €27.2 million in a Series A+ funding round led byWarsaw Equity Group (WEG), with participation from the European InnovationCouncil (EIC) Fund, the HTGF Opport...",
+  "tags": [
+   "deep-tech",
+   "europa"
+  ],
+  "topics": [],
+  "watch": [],
+  "kinds": [
+   "round"
+  ],
+  "round": {
+   "amount": "€27.2M",
+   "musd": 29.92,
+   "stage": "Series A",
+   "company": "Dcubed"
+  },
+  "score": 9,
+  "angles": [
+   "Faresti questo investimento? Chiediti chi è il team, quanto è grande il mercato e se l'azienda può restituire un fondo."
+  ],
+  "first_seen": "2026-11-20T12:49+00:00"
  },
  {
   "id": "83de1b682377",
@@ -693,6 +1578,36 @@
    "Faresti questo investimento? Chiediti chi è il team, quanto è grande il mercato e se l'azienda può restituire un fondo."
   ],
   "first_seen": "2026-11-18T12:59+00:00"
+ },
+ {
+  "id": "542d75a66540",
+  "url": "https://tech.eu/2026/11/18/visage-technologies-launches-eur31m-eu-backed-project-to-develop-adaptive-training-technology/",
+  "title": "Visage Technologies launches €3.1M EU-backed project to develop adaptive training technology",
+  "source": "Tech.eu",
+  "source_id": "techeu",
+  "recommended": false,
+  "date": "2026-11-18T11:32+00:00",
+  "excerpt": "Computer vision and AI company Visage Technologies has launched a €3.1million research and development project to create an affective-cognitiveplatform for adaptive learning and simulation-based train...",
+  "tags": [
+   "ai",
+   "europa"
+  ],
+  "topics": [],
+  "watch": [],
+  "kinds": [
+   "round"
+  ],
+  "round": {
+   "amount": "€3.1M",
+   "musd": 3.41,
+   "stage": null,
+   "company": null
+  },
+  "score": 8,
+  "angles": [
+   "Faresti questo investimento? Chiediti chi è il team, quanto è grande il mercato e se l'azienda può restituire un fondo."
+  ],
+  "first_seen": "2026-11-20T12:49+00:00"
  },
  {
   "id": "55dde3921be9",
@@ -753,6 +1668,46 @@
   "first_seen": "2026-11-18T12:59+00:00"
  },
  {
+  "id": "ee34c25b6f7a",
+  "url": "https://tech.eu/2026/11/18/from-wi-fi-challenger-to-nato-defence-technology-oledcomms-li-fi-revival/",
+  "title": "From Wi-Fi challenger to NATO defence technology: Oledcomm's Li-Fi revival",
+  "source": "Tech.eu",
+  "source_id": "techeu",
+  "recommended": false,
+  "date": "2026-11-18T11:00+00:00",
+  "excerpt": "Li-Fi is hardly new. I first started writing about the technology more than a decade ago, when the idea of transmitting data through light rather than radio waves promised to transform wireless connec...",
+  "tags": [
+   "deep-tech"
+  ],
+  "topics": [],
+  "watch": [],
+  "kinds": [],
+  "round": null,
+  "score": 2,
+  "angles": [],
+  "first_seen": "2026-11-20T12:49+00:00"
+ },
+ {
+  "id": "bbc59bcda638",
+  "url": "https://tech.eu/2026/11/18/beyond-the-15-minute-delivery-race-glovos-next-chapter-in-quick-commerce/",
+  "title": "Beyond the 15-minute delivery race: Glovo's next chapter in quick commerce",
+  "source": "Tech.eu",
+  "source_id": "techeu",
+  "recommended": false,
+  "date": "2026-11-18T11:00+00:00",
+  "excerpt": "The days of racing to deliver groceries in 15 minutes — I once clocked a 7-minute delivery from the non-defunct Gorillas here in Berlin — may be over, but quick commerce is constantly evolving. What b...",
+  "tags": [
+   "europa"
+  ],
+  "topics": [],
+  "watch": [],
+  "kinds": [],
+  "round": null,
+  "score": 4,
+  "angles": [],
+  "first_seen": "2026-11-20T12:49+00:00"
+ },
+ {
   "id": "377b80d9e948",
   "url": "https://sifted.eu/articles/what-to-do-after-losing-your-dream-job/",
   "title": "How to bounce back from losing your dream job",
@@ -769,6 +1724,97 @@
   "score": 3,
   "angles": [],
   "first_seen": "2026-11-18T12:59+00:00"
+ },
+ {
+  "id": "6cd5aab7f465",
+  "url": "https://tech.eu/2026/11/18/goldman-sachs-leads-280m-funding-round-in-payhawk/",
+  "title": "Goldman Sachs leads $280M funding round in Payhawk",
+  "source": "Tech.eu",
+  "source_id": "techeu",
+  "recommended": false,
+  "date": "2026-11-18T08:32+00:00",
+  "excerpt": "Payhawk, the Bulgaria-founded spend management platform, has raised a $280m Series C funding round, led by new investor Goldman Sachs, as it looks to build the finance operating system for the AI era....",
+  "tags": [
+   "ai"
+  ],
+  "topics": [],
+  "watch": [],
+  "kinds": [
+   "round"
+  ],
+  "round": {
+   "amount": "$280M",
+   "musd": 280.0,
+   "stage": "Series C",
+   "company": null
+  },
+  "score": 8,
+  "angles": [
+   "Faresti questo investimento? Chiediti chi è il team, quanto è grande il mercato e se l'azienda può restituire un fondo."
+  ],
+  "first_seen": "2026-11-20T12:49+00:00"
+ },
+ {
+  "id": "d8d29aacc9da",
+  "url": "https://tech.eu/2026/11/18/perry-ai-secures-22m-to-automate-legal-work-across-private-capital/",
+  "title": "Perry AI secures $2.2M to automate legal work across private capital",
+  "source": "Tech.eu",
+  "source_id": "techeu",
+  "recommended": false,
+  "date": "2026-11-18T07:30+00:00",
+  "excerpt": "London-basedlegaltech startup Perry AI has raised $2.2 million in an oversubscribed seedfunding round led by Haatch, with participation from Antler, Syncorp Ventures,Araya Ventures, US angel investors...",
+  "tags": [
+   "ai",
+   "europa"
+  ],
+  "topics": [],
+  "watch": [],
+  "kinds": [
+   "round"
+  ],
+  "round": {
+   "amount": "$2.2M",
+   "musd": 2.2,
+   "stage": "Seed",
+   "company": "Perry AI"
+  },
+  "score": 8,
+  "angles": [
+   "Faresti questo investimento? Chiediti chi è il team, quanto è grande il mercato e se l'azienda può restituire un fondo."
+  ],
+  "first_seen": "2026-11-20T12:49+00:00"
+ },
+ {
+  "id": "7c5a329c68ee",
+  "url": "https://tech.eu/2026/11/18/investment-in-european-startups-surges-to-81bn-but-capital-concentration-is-a-challenge-for-startups-says-atomico/",
+  "title": "Investment in European startups surges to $81BN, but Europe faces challenges, says Atomico",
+  "source": "Tech.eu",
+  "source_id": "techeu",
+  "recommended": false,
+  "date": "2026-11-18T07:00+00:00",
+  "excerpt": "Europe was home to a record number of new startups in 2026, with investment in the region soaring, but Europe faces major challenges, the latest edition of Atomico’s State of European Tech report has ...",
+  "tags": [
+   "europa"
+  ],
+  "topics": [
+   "europa-usa"
+  ],
+  "watch": [],
+  "kinds": [
+   "round"
+  ],
+  "round": {
+   "amount": "$81B",
+   "musd": 81000.0,
+   "stage": null,
+   "company": null
+  },
+  "score": 12,
+  "angles": [
+   "Perché l'Europa produce meno exit grandi, e cosa servirebbe per cambiare?",
+   "Faresti questo investimento? Chiediti chi è il team, quanto è grande il mercato e se l'azienda può restituire un fondo."
+  ],
+  "first_seen": "2026-11-20T12:49+00:00"
  },
  {
   "id": "cf3bee1807ad",
@@ -14187,1068 +15233,5 @@
    "Faresti questo investimento? Chiediti chi è il team, quanto è grande il mercato e se l'azienda può restituire un fondo."
   ],
   "first_seen": "2026-10-22T04:39+00:00"
- },
- {
-  "id": "363a0cbf700d",
-  "url": "https://www.eu-startups.com/2026/10/fuse-energy-bets-on-nvidia-gpus-as-it-expands-from-energy-supply-into-ai-infrastructure/",
-  "title": "Fuse Energy bets on NVIDIA GPUs as it expands from energy supply into AI infrastructure",
-  "source": "EU-Startups",
-  "source_id": "eustartups",
-  "recommended": false,
-  "date": "2026-10-21T11:42+00:00",
-  "excerpt": "Fuse Energy, a British energy company, has opened reservations for Fuse Compute, its first commercial AI product, offering access to NVIDIA GPUs in UK data centres powered by Fuse – marking a new step into AI infrastructure by the EnergyTech startup…",
-  "tags": [
-   "ai",
-   "climate",
-   "europa"
-  ],
-  "topics": [
-   "nvidia-vc"
-  ],
-  "watch": [],
-  "kinds": [],
-  "round": null,
-  "score": 6,
-  "angles": [
-   "Le Big Tech che investono nelle startup accelerano il mercato o lo distorcono?"
-  ],
-  "first_seen": "2026-10-22T04:39+00:00"
- },
- {
-  "id": "d9eb01032d63",
-  "url": "https://news.crunchbase.com/ma/acquired-startup-employees-equity-plans-from-honig/",
-  "title": "When A Startup Sells, Its Employees’ Equity Plans Can Change Overnight",
-  "source": "Crunchbase News",
-  "source_id": "crunchbase",
-  "recommended": false,
-  "date": "2026-10-21T11:00+00:00",
-  "excerpt": "Startup acquisitions can reshape employees’ finances and careers, with individual outcomes depending on a variety of conditions. Guest author Ron Honig, co-CEO and managing partner of From-Honig Family Office, suggests that before making major life changes…",
-  "tags": [],
-  "topics": [],
-  "watch": [],
-  "kinds": [],
-  "round": null,
-  "score": 2,
-  "angles": [],
-  "first_seen": "2026-10-22T04:39+00:00"
- },
- {
-  "id": "3570519c564b",
-  "url": "https://news.crunchbase.com/venture/ai-edtech-healthcare-reach-capital-qa-kim/",
-  "title": "‘Weird And Maybe Uninvestable’: How Reach Capital Spots Its Venture Winners",
-  "source": "Crunchbase News",
-  "source_id": "crunchbase",
-  "recommended": false,
-  "date": "2026-10-21T11:00+00:00",
-  "excerpt": "Crunchbase News spoke with James Kim, partner at Reach Capital, about how Reach’s education roots inform its broader strategy, what it saw in AI detection company GPTZero, and why some of its best investments initially divided its own team. We also discussed…",
-  "tags": [
-   "ai"
-  ],
-  "topics": [],
-  "watch": [],
-  "kinds": [],
-  "round": null,
-  "score": 2,
-  "angles": [],
-  "first_seen": "2026-10-22T04:39+00:00"
- },
- {
-  "id": "3c99a01a0e12",
-  "url": "https://www.eu-startups.com/2026/10/eindhoven-based-photon-bridge-raises-e10-million-to-build-optical-engines-for-ai-and-telecom/",
-  "title": "Eindhoven-based Photon Bridge raises €10 million to build optical engines for AI and telecom",
-  "source": "EU-Startups",
-  "source_id": "eustartups",
-  "recommended": false,
-  "date": "2026-10-21T10:56+00:00",
-  "excerpt": "Photon Bridge (formerly Photon IP), an Eindhoven-based startup building optical engines for AI and telecom, has raised €10 million to tackle an emerging bottleneck in AI infrastructure: producing the millions of lasers needed to connect increasingly large…",
-  "tags": [
-   "ai"
-  ],
-  "topics": [],
-  "watch": [],
-  "kinds": [
-   "round"
-  ],
-  "round": {
-   "amount": "€10M",
-   "musd": 11.0,
-   "stage": null,
-   "company": "Eindhoven-based Photon Bridge"
-  },
-  "score": 7,
-  "angles": [
-   "Faresti questo investimento? Chiediti chi è il team, quanto è grande il mercato e se l'azienda può restituire un fondo."
-  ],
-  "first_seen": "2026-10-22T04:39+00:00"
- },
- {
-  "id": "626695f09749",
-  "url": "https://sifted.eu/articles/personal-ai-assistants/",
-  "title": "Should you get a personal AI assistant?",
-  "source": "Sifted",
-  "source_id": "sifted",
-  "recommended": true,
-  "date": "2026-10-21T10:40+00:00",
-  "excerpt": "",
-  "tags": [
-   "ai"
-  ],
-  "topics": [],
-  "watch": [],
-  "kinds": [],
-  "round": null,
-  "score": 3,
-  "angles": [],
-  "first_seen": "2026-10-22T04:39+00:00"
- },
- {
-  "id": "7e901a3c62d0",
-  "url": "https://sifted.eu/articles/pigment-series-e-nvidia-scaleup-europe-fund/",
-  "title": "Pigment raises $250m Series E led by Scaleup Europe Fund",
-  "source": "Sifted",
-  "source_id": "sifted",
-  "recommended": true,
-  "date": "2026-10-21T10:27+00:00",
-  "excerpt": "",
-  "tags": [
-   "europa"
-  ],
-  "topics": [
-   "europa-usa"
-  ],
-  "watch": [],
-  "kinds": [
-   "fondi"
-  ],
-  "round": {
-   "amount": "$250M",
-   "musd": 250.0,
-   "stage": "Series E",
-   "company": null
-  },
-  "score": 12,
-  "angles": [
-   "Perché l'Europa produce meno exit grandi, e cosa servirebbe per cambiare?",
-   "Cosa dice questa raccolta sull'appetito degli LP per il venture capital in questo momento?"
-  ],
-  "first_seen": "2026-10-22T04:39+00:00"
- },
- {
-  "id": "04cdfadd5f97",
-  "url": "https://tech.eu/2026/10/21/dutch-photonics-startup-photon-bridge-raises-eur10m-to-tackle-ais-looming-laser-bottleneck/",
-  "title": "Dutch photonics startup Photon Bridge raises €10M to tackle AI's looming laser bottleneck",
-  "source": "Tech.eu",
-  "source_id": "techeu",
-  "recommended": false,
-  "date": "2026-10-21T10:21+00:00",
-  "excerpt": "Dutch photonics company Photon Bridge has raised €10 million to tackle an emerging bottleneck in AI infrastructure: producing the millions of lasers that will be needed to connect increasingly large ...",
-  "tags": [
-   "ai",
-   "deep-tech",
-   "europa"
-  ],
-  "topics": [],
-  "watch": [],
-  "kinds": [
-   "round"
-  ],
-  "round": {
-   "amount": "€10M",
-   "musd": 11.0,
-   "stage": null,
-   "company": "Photon Bridge"
-  },
-  "score": 9,
-  "angles": [
-   "Faresti questo investimento? Chiediti chi è il team, quanto è grande il mercato e se l'azienda può restituire un fondo."
-  ],
-  "first_seen": "2026-10-22T04:39+00:00"
- },
- {
-  "id": "7262843cb716",
-  "url": "https://tech.eu/2026/10/21/go-eve-secures-ps750k-to-advance-its-dockchain-ev-charging-technology/",
-  "title": "Go Eve secures £750K to advance its DockChain EV charging technology",
-  "source": "Tech.eu",
-  "source_id": "techeu",
-  "recommended": false,
-  "date": "2026-10-21T10:08+00:00",
-  "excerpt": "Go Eve,a joint spin-out from University College Dublin (UCD) and Imperial CollegeLondon, has secured £750,000 in funding from Innovate UK and private investorsto further develop its electric vehicle (...",
-  "tags": [
-   "climate",
-   "europa"
-  ],
-  "topics": [],
-  "watch": [],
-  "kinds": [
-   "round"
-  ],
-  "round": {
-   "amount": "£0.8M",
-   "musd": 0.98,
-   "stage": null,
-   "company": "Go Eve"
-  },
-  "score": 8,
-  "angles": [
-   "Faresti questo investimento? Chiediti chi è il team, quanto è grande il mercato e se l'azienda può restituire un fondo."
-  ],
-  "first_seen": "2026-10-22T04:39+00:00"
- },
- {
-  "id": "9ab763dbb66c",
-  "url": "https://tech.eu/2026/10/21/europes-tech-funding-rebounds-to-eur278b-fuelled-by-billion-euro-mega-rounds/",
-  "title": "Europe's tech funding rebounds to €27.8B, fuelled by billion-euro mega-rounds",
-  "source": "Tech.eu",
-  "source_id": "techeu",
-  "recommended": false,
-  "date": "2026-10-21T09:50+00:00",
-  "excerpt": "In Q3 2026, the European tech market continued to gain momentum, with total funding reaching €27.8 billion across 732 deals.Investment value increased by 32.4 per cent from €21 billion in Q3 2025 and ...",
-  "tags": [
-   "europa"
-  ],
-  "topics": [
-   "europa-usa"
-  ],
-  "watch": [],
-  "kinds": [
-   "round"
-  ],
-  "round": {
-   "amount": "€27.8B",
-   "musd": 30580.0,
-   "stage": null,
-   "company": null
-  },
-  "score": 12,
-  "angles": [
-   "Perché l'Europa produce meno exit grandi, e cosa servirebbe per cambiare?",
-   "Faresti questo investimento? Chiediti chi è il team, quanto è grande il mercato e se l'azienda può restituire un fondo."
-  ],
-  "first_seen": "2026-10-22T04:39+00:00"
- },
- {
-  "id": "304a55e79a8e",
-  "url": "https://www.eu-startups.com/2026/10/britains-skyfly-raises-e8-91-million-to-bring-its-two-seat-axe-evtol-to-market-and-develop-longbow-for-defence/",
-  "title": "Britain’s Skyfly raises €8.91 million to bring its two-seat Axe eVTOL to market and develop Longbow for defence",
-  "source": "EU-Startups",
-  "source_id": "eustartups",
-  "recommended": false,
-  "date": "2026-10-21T09:48+00:00",
-  "excerpt": "Skyfly Technologies, a British developer of electric and hybrid-electric vertical take-off aircraft, has closed an €8.91 million ($10 million) Seed round. The round was led by HICO Investment Group, a specialist growth equity investor, with participation from…",
-  "tags": [
-   "deep-tech",
-   "europa"
-  ],
-  "topics": [],
-  "watch": [],
-  "kinds": [
-   "round"
-  ],
-  "round": {
-   "amount": "€8.9M",
-   "musd": 9.8,
-   "stage": "Seed",
-   "company": "Skyfly"
-  },
-  "score": 8,
-  "angles": [
-   "Faresti questo investimento? Chiediti chi è il team, quanto è grande il mercato e se l'azienda può restituire un fondo."
-  ],
-  "first_seen": "2026-10-22T04:39+00:00"
- },
- {
-  "id": "d0aa21347209",
-  "url": "https://www.technologyreview.com/2026/10/21/1146061/nuclear-powered-spaceships-impossible-issue/",
-  "title": "Nuclear-powered spaceships",
-  "source": "MIT Technology Review",
-  "source_id": "mittr",
-  "recommended": true,
-  "date": "2026-10-21T09:00+00:00",
-  "excerpt": "Just before the Artemis II crew began its historic slingshot around the moon this past April, NASA announced plans to build Space Reactor-1 Freedom. SR-1, the first-ever nuclear-reactor-­powered interplanetary spacecraft, is meant to fly an uncrewed mission…",
-  "tags": [
-   "deep-tech",
-   "climate"
-  ],
-  "topics": [
-   "climate-capex"
-  ],
-  "watch": [],
-  "kinds": [],
-  "round": null,
-  "score": 5,
-  "angles": [
-   "Come trattiene l'Europa le aziende deep tech che hanno bisogno di round enormi?"
-  ],
-  "first_seen": "2026-10-22T04:39+00:00"
- },
- {
-  "id": "02f4b36d0c4a",
-  "url": "https://www.technologyreview.com/2026/10/21/1146137/solid-state-batteries-impossible-issue/",
-  "title": "Solid-state batteries",
-  "source": "MIT Technology Review",
-  "source_id": "mittr",
-  "recommended": true,
-  "date": "2026-10-21T09:00+00:00",
-  "excerpt": "The rise of the lithium-ion battery, which powers everything from the smallest personal electronics to gargantuan energy storage systems, has been nothing short of revolutionary. But as anyone who’s boarded a plane in the last decade could tell you, storing…",
-  "tags": [
-   "climate"
-  ],
-  "topics": [
-   "climate-capex"
-  ],
-  "watch": [],
-  "kinds": [],
-  "round": null,
-  "score": 5,
-  "angles": [
-   "Come trattiene l'Europa le aziende deep tech che hanno bisogno di round enormi?"
-  ],
-  "first_seen": "2026-10-22T04:39+00:00"
- },
- {
-  "id": "ece443031286",
-  "url": "https://tech.eu/2026/10/21/scaleup-europe-fund-leads-ps250m-funding-round-in-pigment/",
-  "title": "Scaleup Europe Fund leads $250M funding round in Pigment",
-  "source": "Tech.eu",
-  "source_id": "techeu",
-  "recommended": false,
-  "date": "2026-10-21T08:45+00:00",
-  "excerpt": "French enterprise software startup Pigment has raised $250m at a $2.3bn valuation, it said today, in a funding round led by the EU's new €5bn ($5.6bn) investment fund aimed at scaling up future Europe...",
-  "tags": [
-   "europa"
-  ],
-  "topics": [
-   "europa-usa",
-   "vc-vs-pe"
-  ],
-  "watch": [],
-  "kinds": [
-   "round"
-  ],
-  "round": {
-   "amount": "$250M",
-   "musd": 250.0,
-   "stage": null,
-   "company": null
-  },
-  "score": 14,
-  "angles": [
-   "Perché l'Europa produce meno exit grandi, e cosa servirebbe per cambiare?",
-   "Faresti questo investimento? Chiediti chi è il team, quanto è grande il mercato e se l'azienda può restituire un fondo."
-  ],
-  "first_seen": "2026-10-22T04:39+00:00"
- },
- {
-  "id": "79fac9132aa8",
-  "url": "https://www.eu-startups.com/2026/10/freighttech-unicorn-sennder-targets-e1-billion-in-annual-revenue-as-c-h-robinson-integration-completes/",
-  "title": "FreightTech unicorn sennder targets €1 billion in annual revenue as C.H. Robinson integration completes",
-  "source": "EU-Startups",
-  "source_id": "eustartups",
-  "recommended": false,
-  "date": "2026-10-21T08:23+00:00",
-  "excerpt": "sennder, a German digital road freight forwarder, today announced that it will hit €1 billion in annual revenue for this year, as well as completing the integration of C.H. Robinson’s European operations. The delivery scale-up has raised over €340 million in…",
-  "tags": [
-   "europa"
-  ],
-  "topics": [
-   "europa-usa"
-  ],
-  "watch": [],
-  "kinds": [
-   "round"
-  ],
-  "round": {
-   "amount": "€1B",
-   "musd": 1100.0,
-   "stage": null,
-   "company": null
-  },
-  "score": 12,
-  "angles": [
-   "Perché l'Europa produce meno exit grandi, e cosa servirebbe per cambiare?",
-   "Faresti questo investimento? Chiediti chi è il team, quanto è grande il mercato e se l'azienda può restituire un fondo."
-  ],
-  "first_seen": "2026-10-22T04:39+00:00"
- },
- {
-  "id": "8638d4b50cb4",
-  "url": "https://tech.eu/2026/10/21/rulen-secures-eur18m-to-turn-tax-rules-into-action-with-ai/",
-  "title": "Rulen secures €1.8M to turn tax rules into action with AI",
-  "source": "Tech.eu",
-  "source_id": "techeu",
-  "recommended": false,
-  "date": "2026-10-21T08:00+00:00",
-  "excerpt": "Italian AI startup Rulen (formerly LexSA) has raised€1.8 million in its first funding round to further develop its AI-poweredplatform for the tax and accounting sector and support its commercialexpans...",
-  "tags": [
-   "ai",
-   "italia"
-  ],
-  "topics": [
-   "italia-ambizione"
-  ],
-  "watch": [],
-  "kinds": [
-   "round"
-  ],
-  "round": {
-   "amount": "€1.8M",
-   "musd": 1.98,
-   "stage": null,
-   "company": "Rulen"
-  },
-  "score": 11,
-  "angles": [
-   "Il vero limite delle startup italiane è il capitale o la mentalità?",
-   "Faresti questo investimento? Chiediti chi è il team, quanto è grande il mercato e se l'azienda può restituire un fondo."
-  ],
-  "first_seen": "2026-10-22T04:39+00:00"
- },
- {
-  "id": "beef52276269",
-  "url": "https://www.eu-startups.com/2026/10/berlin-based-ygo-raises-e8-million-to-make-travel-inventory-bookable-through-ai-agents/",
-  "title": "Berlin-based YGO raises €8 million to make travel inventory bookable through AI agents",
-  "source": "EU-Startups",
-  "source_id": "eustartups",
-  "recommended": false,
-  "date": "2026-10-21T07:31+00:00",
-  "excerpt": "YGO, a Berlin-based startup building an AI infrastructure layer for the travel industry, raised €8 million in a Series A round. The round was led by Ventech, with participation from Sake Bosch, Caesar and Business Angels. In August 2024, the company announced…",
-  "tags": [
-   "ai",
-   "europa"
-  ],
-  "topics": [],
-  "watch": [],
-  "kinds": [
-   "round"
-  ],
-  "round": {
-   "amount": "€8M",
-   "musd": 8.8,
-   "stage": "Series A",
-   "company": "Berlin-based YGO"
-  },
-  "score": 8,
-  "angles": [
-   "Faresti questo investimento? Chiediti chi è il team, quanto è grande il mercato e se l'azienda può restituire un fondo."
-  ],
-  "first_seen": "2026-10-22T04:39+00:00"
- },
- {
-  "id": "9d7026163d1c",
-  "url": "https://tech.eu/2026/10/21/ygo-secures-eur8m-to-scale-its-ai-powered-travel-infrastructure/",
-  "title": "YGO secures €8M to scale its AI-powered travel infrastructure",
-  "source": "Tech.eu",
-  "source_id": "techeu",
-  "recommended": false,
-  "date": "2026-10-21T07:00+00:00",
-  "excerpt": "YGO, a company developing anAI-powered platform connecting travel companies with airlines, hotels and touroperators, has raised €8 million in a Series A funding round led by Ventech,with participation...",
-  "tags": [
-   "ai"
-  ],
-  "topics": [],
-  "watch": [],
-  "kinds": [
-   "round"
-  ],
-  "round": {
-   "amount": "€8M",
-   "musd": 8.8,
-   "stage": "Series A",
-   "company": "YGO"
-  },
-  "score": 6,
-  "angles": [
-   "Faresti questo investimento? Chiediti chi è il team, quanto è grande il mercato e se l'azienda può restituire un fondo."
-  ],
-  "first_seen": "2026-10-22T04:39+00:00"
- },
- {
-  "id": "d47ce22bced0",
-  "url": "https://www.eu-startups.com/2026/10/former-international-boxers-legaltech-startup-estatemin-raises-e1-million-to-scale-in-the-us/",
-  "title": "Former international boxer’s LegalTech startup EstateMin raises €1 million to scale in the US",
-  "source": "EU-Startups",
-  "source_id": "eustartups",
-  "recommended": false,
-  "date": "2026-10-21T06:49+00:00",
-  "excerpt": "EstateMin, an Irish-founded LegalTech startup helping trust and estate law firms manage estate values with its AI-powered platform, has secured €1 million in pre-Seed funding. The funding round saw participation from NDRC, First Port Syndicate, and Enterprise…",
-  "tags": [
-   "ai",
-   "europa"
-  ],
-  "topics": [],
-  "watch": [],
-  "kinds": [
-   "round"
-  ],
-  "round": {
-   "amount": "€1M",
-   "musd": 1.1,
-   "stage": "Pre-seed",
-   "company": "EstateMin"
-  },
-  "score": 8,
-  "angles": [
-   "Faresti questo investimento? Chiediti chi è il team, quanto è grande il mercato e se l'azienda può restituire un fondo."
-  ],
-  "first_seen": "2026-10-22T04:39+00:00"
- },
- {
-  "id": "1a6d59f3e388",
-  "url": "https://sifted.eu/articles/eu-canada-mark-carney-tech-alliance-sovereignty/",
-  "title": "Can Europe and Canada build a tech alliance to rival the US?",
-  "source": "Sifted",
-  "source_id": "sifted",
-  "recommended": true,
-  "date": "2026-10-21T05:00+00:00",
-  "excerpt": "",
-  "tags": [
-   "europa"
-  ],
-  "topics": [],
-  "watch": [],
-  "kinds": [],
-  "round": null,
-  "score": 5,
-  "angles": [],
-  "first_seen": "2026-10-21T04:39+00:00"
- },
- {
-  "id": "33d0a1292b0e",
-  "url": "https://sifted.eu/articles/photon-bridge-laser-device-ai-chips-seed-round/",
-  "title": "Exclusive: Photon Bridge raises €10m to build laser devices that connect AI chips",
-  "source": "Sifted",
-  "source_id": "sifted",
-  "recommended": true,
-  "date": "2026-10-21T05:00+00:00",
-  "excerpt": "",
-  "tags": [
-   "ai",
-   "deep-tech"
-  ],
-  "topics": [],
-  "watch": [],
-  "kinds": [
-   "round"
-  ],
-  "round": {
-   "amount": "€10M",
-   "musd": 11.0,
-   "stage": null,
-   "company": "Photon Bridge"
-  },
-  "score": 8,
-  "angles": [
-   "Faresti questo investimento? Chiediti chi è il team, quanto è grande il mercato e se l'azienda può restituire un fondo."
-  ],
-  "first_seen": "2026-10-21T04:39+00:00"
- },
- {
-  "id": "8c92b8324d3a",
-  "url": "https://sifted.eu/articles/the-banks-lawyers-accountants-and-pr-firms-supporting-europes-250-fastest-growing-startups/",
-  "title": "The banks, lawyers, accountants and PR firms supporting Europe’s 250 fastest-growing startups",
-  "source": "Sifted",
-  "source_id": "sifted",
-  "recommended": true,
-  "date": "2026-10-21T05:00+00:00",
-  "excerpt": "",
-  "tags": [
-   "europa"
-  ],
-  "topics": [],
-  "watch": [],
-  "kinds": [],
-  "round": null,
-  "score": 5,
-  "angles": [],
-  "first_seen": "2026-10-21T04:39+00:00"
- },
- {
-  "id": "308c0ab14b8e",
-  "url": "https://tech.eu/2026/10/21/jenz-lands-eur540k-four-months-after-hackathon-win-to-streamline-retail-operations/",
-  "title": "Jenz lands €540K four months after hackathon win to streamline retail operations",
-  "source": "Tech.eu",
-  "source_id": "techeu",
-  "recommended": false,
-  "date": "2026-10-21T04:00+00:00",
-  "excerpt": "Norwegian AI startup Jenz has raised€540,000 in pre-seed funding from Antler and Ada Ventures. The company has alsoreceived a NOK 1 million (€92,000) startup grant from Innovation Norway.Founded by Re...",
-  "tags": [
-   "ai",
-   "europa"
-  ],
-  "topics": [],
-  "watch": [],
-  "kinds": [
-   "round"
-  ],
-  "round": {
-   "amount": "€0.5M",
-   "musd": 0.59,
-   "stage": "Pre-seed",
-   "company": "Jenz"
-  },
-  "score": 8,
-  "angles": [
-   "Faresti questo investimento? Chiediti chi è il team, quanto è grande il mercato e se l'azienda può restituire un fondo."
-  ],
-  "first_seen": "2026-10-21T04:39+00:00"
- },
- {
-  "id": "b6629abae55b",
-  "url": "https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/",
-  "title": "Anthropic pitches AI safety bill that may block a model if 50+ people could be killed",
-  "source": "TechCrunch",
-  "source_id": "techcrunch",
-  "recommended": true,
-  "date": "2026-10-20T23:01+00:00",
-  "excerpt": "The proposed policy seems to offer protections against AI run amok but actually forbids federal agencies from blocking a model's release without the permission of a judge.",
-  "tags": [
-   "ai",
-   "policy"
-  ],
-  "topics": [
-   "ai-race"
-  ],
-  "watch": [],
-  "kinds": [],
-  "round": null,
-  "score": 5,
-  "angles": [
-   "Chi vince la corsa ai modelli, e dove può creare valore un VC early-stage europeo?"
-  ],
-  "first_seen": "2026-10-21T04:39+00:00"
- },
- {
-  "id": "17f20161d88a",
-  "url": "https://techcrunch.com/2026/10/20/spacex-and-tesla-boards-form-special-committees-to-review-merger/",
-  "title": "SpaceX and Tesla boards form special committees to review merger",
-  "source": "TechCrunch",
-  "source_id": "techcrunch",
-  "recommended": true,
-  "date": "2026-10-20T22:57+00:00",
-  "excerpt": "Elon Musk likes the idea but says he is not on either committee, which is made up of independent directors.",
-  "tags": [],
-  "topics": [],
-  "watch": [],
-  "kinds": [
-   "exit"
-  ],
-  "round": null,
-  "score": 6,
-  "angles": [
-   "Chi guadagna da questa exit e cosa insegna sulle strade di uscita per le startup europee?"
-  ],
-  "first_seen": "2026-10-21T04:39+00:00"
- },
- {
-  "id": "342f3b31d430",
-  "url": "https://techcrunch.com/2026/10/20/hugging-face-ceo-warns-that-netflixs-openai-hack-documentary-isnt-accurate/",
-  "title": "Hugging Face CEO warns that Netflix’s OpenAI hack documentary isn’t accurate",
-  "source": "TechCrunch",
-  "source_id": "techcrunch",
-  "recommended": true,
-  "date": "2026-10-20T22:24+00:00",
-  "excerpt": "Before you share the Netflix documentary \"AI Gone Rogue\" take note. Clem Delangue, Hugging Face's co-founder who is featured in the film, says it went \"full doomer mode\" and isn't accurate.",
-  "tags": [
-   "ai"
-  ],
-  "topics": [
-   "ai-race"
-  ],
-  "watch": [],
-  "kinds": [],
-  "round": null,
-  "score": 5,
-  "angles": [
-   "Chi vince la corsa ai modelli, e dove può creare valore un VC early-stage europeo?"
-  ],
-  "first_seen": "2026-10-21T04:39+00:00"
- },
- {
-  "id": "dd8747983c69",
-  "url": "https://techcrunch.com/2026/10/20/anthropics-cloud-partnerships-are-getting-messy/",
-  "title": "Anthropic’s cloud partnerships are getting messy",
-  "source": "TechCrunch",
-  "source_id": "techcrunch",
-  "recommended": true,
-  "date": "2026-10-20T21:25+00:00",
-  "excerpt": "Anthropic is reportedly struggling to secure enough compute from cloud providers that increasingly view it as a competitor, even as its infrastructure spending balloons ahead of a planned November IPO.",
-  "tags": [
-   "ai"
-  ],
-  "topics": [
-   "ai-race"
-  ],
-  "watch": [],
-  "kinds": [],
-  "round": null,
-  "score": 5,
-  "angles": [
-   "Chi vince la corsa ai modelli, e dove può creare valore un VC early-stage europeo?"
-  ],
-  "first_seen": "2026-10-21T04:39+00:00"
- },
- {
-  "id": "d4e7b3784879",
-  "url": "https://sifted.eu/articles/starling-founder-anne-boden-sold-final-stake-at-cut-price-1-7bn-valuation-reports-say/",
-  "title": "Starling founder Anne Boden sold final stake at cut-price £1.7bn valuation, reports say",
-  "source": "Sifted",
-  "source_id": "sifted",
-  "recommended": true,
-  "date": "2026-10-20T21:02+00:00",
-  "excerpt": "",
-  "tags": [],
-  "topics": [
-   "vc-vs-pe"
-  ],
-  "watch": [],
-  "kinds": [],
-  "round": null,
-  "score": 5,
-  "angles": [
-   "Che tipo di investitore deve essere un VC per vincere i deal migliori?"
-  ],
-  "first_seen": "2026-10-21T04:39+00:00"
- },
- {
-  "id": "60ad5dd4790f",
-  "url": "https://www.technologyreview.com/2026/10/20/1145282/robotic-therapy-for-stroke-patients/",
-  "title": "Robotic therapy for stroke patients",
-  "source": "MIT Technology Review",
-  "source_id": "mittr",
-  "recommended": true,
-  "date": "2026-10-20T21:00+00:00",
-  "excerpt": "Strokes leave 5 million people with long-term impairments each year, and a growing shortage of physical therapists makes it hard for them to get the care they need. A new approach tries to solve that problem by combining artificial intelligence and human…",
-  "tags": [
-   "ai",
-   "deep-tech"
-  ],
-  "topics": [
-   "physical-ai"
-  ],
-  "watch": [],
-  "kinds": [],
-  "round": null,
-  "score": 5,
-  "angles": [
-   "L'Europa può vincere nella physical AI, dove contano industria e dati più del software?"
-  ],
-  "first_seen": "2026-10-21T04:39+00:00"
- },
- {
-  "id": "aeaa448f66c5",
-  "url": "https://techcrunch.com/2026/10/20/openai-acquires-startup-orchestra-bio%e2%81%a0-to-beef-up-its-biotech-business/",
-  "title": "OpenAI acquires startup Orchestra Bio⁠ to beef up its biotech business",
-  "source": "TechCrunch",
-  "source_id": "techcrunch",
-  "recommended": true,
-  "date": "2026-10-20T20:35+00:00",
-  "excerpt": "OpenAI says it's adding Orchestra's team and technology to work on Rosalind, its AI model for life sciences research, and to its related Rosalind Workbench tool, a harness that aims to help researchers plan experiments and analyze results.",
-  "tags": [
-   "ai",
-   "deep-tech"
-  ],
-  "topics": [
-   "ai-race"
-  ],
-  "watch": [],
-  "kinds": [
-   "exit"
-  ],
-  "round": null,
-  "score": 8,
-  "angles": [
-   "Chi vince la corsa ai modelli, e dove può creare valore un VC early-stage europeo?",
-   "Chi guadagna da questa exit e cosa insegna sulle strade di uscita per le startup europee?"
-  ],
-  "first_seen": "2026-10-21T04:39+00:00"
- },
- {
-  "id": "0e9ae3eb35f0",
-  "url": "https://techcrunch.com/2026/10/20/google-is-bringing-a-more-personal-version-of-its-gemini-ai-assistant-to-your-car/",
-  "title": "Google is bringing a more personal version of its Gemini AI assistant to your car",
-  "source": "TechCrunch",
-  "source_id": "techcrunch",
-  "recommended": true,
-  "date": "2026-10-20T20:00+00:00",
-  "excerpt": "Google is bringing Gemini's Personal Intelligence feature to cars, allowing its AI assistant to draw on information from Gmail, Calendar, Maps, YouTube, and other Google services to deliver more personalized responses while driving.",
-  "tags": [
-   "ai"
-  ],
-  "topics": [
-   "ai-race"
-  ],
-  "watch": [],
-  "kinds": [],
-  "round": null,
-  "score": 5,
-  "angles": [
-   "Chi vince la corsa ai modelli, e dove può creare valore un VC early-stage europeo?"
-  ],
-  "first_seen": "2026-10-21T04:39+00:00"
- },
- {
-  "id": "01dc03ee61c3",
-  "url": "https://techcrunch.com/2026/10/20/gm-to-close-detroit-battery-assembly-plant-but-not-for-reasons-you-might-think/",
-  "title": "GM to close Detroit battery-assembly plant, but not for reasons you might think",
-  "source": "TechCrunch",
-  "source_id": "techcrunch",
-  "recommended": true,
-  "date": "2026-10-20T19:32+00:00",
-  "excerpt": "GM is shuttering the Brownstown Battery Assembly Plant, though the closure has nothing to do with the automaker's electrification strategy.",
-  "tags": [
-   "climate"
-  ],
-  "topics": [
-   "climate-capex"
-  ],
-  "watch": [],
-  "kinds": [],
-  "round": null,
-  "score": 5,
-  "angles": [
-   "Come trattiene l'Europa le aziende deep tech che hanno bisogno di round enormi?"
-  ],
-  "first_seen": "2026-10-21T04:39+00:00"
- },
- {
-  "id": "2e553dc45565",
-  "url": "https://techcrunch.com/2026/10/20/google-has-joined-amazon-in-attacking-nvidias-stronghold-with-ai-app-developers/",
-  "title": "Google has joined Amazon in attacking Nvidia’s stronghold with AI app developers",
-  "source": "TechCrunch",
-  "source_id": "techcrunch",
-  "recommended": true,
-  "date": "2026-10-20T18:38+00:00",
-  "excerpt": "Google has joined Amazon in releasing a developer tool that makes it easy for PyTorch users to move their apps off Nvidia GPUs.",
-  "tags": [
-   "ai"
-  ],
-  "topics": [
-   "nvidia-vc"
-  ],
-  "watch": [],
-  "kinds": [],
-  "round": null,
-  "score": 5,
-  "angles": [
-   "Le Big Tech che investono nelle startup accelerano il mercato o lo distorcono?"
-  ],
-  "first_seen": "2026-10-21T04:39+00:00"
- },
- {
-  "id": "7fe075e5e5f0",
-  "url": "https://techcrunch.com/2026/10/20/eric-schmidt-reportedly-owns-about-half-as-much-of-anthropic-as-ceo-dario-amodei/",
-  "title": "Eric Schmidt reportedly owns about half as much of Anthropic as CEO Dario Amodei",
-  "source": "TechCrunch",
-  "source_id": "techcrunch",
-  "recommended": true,
-  "date": "2026-10-20T17:55+00:00",
-  "excerpt": "Eric Schmidt’s fortune is about to get even bigger.",
-  "tags": [
-   "ai"
-  ],
-  "topics": [
-   "ai-race"
-  ],
-  "watch": [],
-  "kinds": [],
-  "round": null,
-  "score": 5,
-  "angles": [
-   "Chi vince la corsa ai modelli, e dove può creare valore un VC early-stage europeo?"
-  ],
-  "first_seen": "2026-10-21T04:39+00:00"
- },
- {
-  "id": "2d379e8ffc91",
-  "url": "https://techcrunch.com/2026/10/20/ex-nvidia-turned-vc-amulya-vishwanath-physical-ai-is-in-its-lego-era/",
-  "title": "Ex-Nvidia-turned-VC Amulya Vishwanath: ‘Physical AI is in its LEGO era’",
-  "source": "TechCrunch",
-  "source_id": "techcrunch",
-  "recommended": true,
-  "date": "2026-10-20T16:20+00:00",
-  "excerpt": "It’s the moment everyone is waiting for — the ChatGPT moment for robotics, Amulya Vishwanath explained to TechCrunch’s Equity.",
-  "tags": [
-   "ai",
-   "deep-tech"
-  ],
-  "topics": [
-   "nvidia-vc",
-   "physical-ai"
-  ],
-  "watch": [],
-  "kinds": [],
-  "round": null,
-  "score": 7,
-  "angles": [
-   "Le Big Tech che investono nelle startup accelerano il mercato o lo distorcono?"
-  ],
-  "first_seen": "2026-10-21T04:39+00:00"
- },
- {
-  "id": "87c5cb39af2e",
-  "url": "https://techcrunch.com/2026/10/20/plants-can-speak-using-electricity-so-this-startup-built-an-ai-model-to-decipher-their-language/",
-  "title": "Plants can speak using electricity, so this startup built an AI model to decipher their language",
-  "source": "TechCrunch",
-  "source_id": "techcrunch",
-  "recommended": true,
-  "date": "2026-10-20T16:00+00:00",
-  "excerpt": "Electric Plant has built an AI-powered translator to help humans listen to what plants are saying with the subtle electricity coursing through their stems.",
-  "tags": [
-   "ai"
-  ],
-  "topics": [
-   "ai-race"
-  ],
-  "watch": [],
-  "kinds": [],
-  "round": null,
-  "score": 5,
-  "angles": [
-   "Chi vince la corsa ai modelli, e dove può creare valore un VC early-stage europeo?"
-  ],
-  "first_seen": "2026-10-21T04:39+00:00"
- },
- {
-  "id": "30f15547df9d",
-  "url": "https://www.eu-startups.com/2026/10/container-for-biological-material-helps-cellbox-raise-a-e5-million-series-a/",
-  "title": "Transport for biological material helps Cellbox raise a €5 million Series A",
-  "source": "EU-Startups",
-  "source_id": "eustartups",
-  "recommended": false,
-  "date": "2026-10-20T14:48+00:00",
-  "excerpt": "Cellbox Solutions, a German warm-chain logistics technology company, has completed the final closing of its Series A financing, bringing the total to €5 million – the company will develop its business model and expand its offering to include integrated…",
-  "tags": [
-   "europa"
-  ],
-  "topics": [],
-  "watch": [],
-  "kinds": [
-   "round"
-  ],
-  "round": {
-   "amount": "€5M",
-   "musd": 5.5,
-   "stage": "Series A",
-   "company": null
-  },
-  "score": 8,
-  "angles": [
-   "Faresti questo investimento? Chiediti chi è il team, quanto è grande il mercato e se l'azienda può restituire un fondo."
-  ],
-  "first_seen": "2026-10-21T04:39+00:00"
- },
- {
-  "id": "27a81c01e83c",
-  "url": "https://sifted.eu/articles/nvidia-germany-europe-uk-france-jensen-huang-invests/",
-  "title": "Nvidia backs four German startups as European spending spree continues",
-  "source": "Sifted",
-  "source_id": "sifted",
-  "recommended": true,
-  "date": "2026-10-20T14:28+00:00",
-  "excerpt": "",
-  "tags": [
-   "europa"
-  ],
-  "topics": [
-   "nvidia-vc"
-  ],
-  "watch": [],
-  "kinds": [],
-  "round": null,
-  "score": 7,
-  "angles": [
-   "Le Big Tech che investono nelle startup accelerano il mercato o lo distorcono?"
-  ],
-  "first_seen": "2026-10-21T04:39+00:00"
- },
- {
-  "id": "01e721a9f12b",
-  "url": "https://tech.eu/2026/10/20/daytona-hits-1b-valuation-with-60m-series-b-for-ai-agent-cloud/",
-  "title": "Daytona hits $1B valuation with $60M Series B for AI agent cloud",
-  "source": "Tech.eu",
-  "source_id": "techeu",
-  "recommended": false,
-  "date": "2026-10-20T14:08+00:00",
-  "excerpt": "Daytona, a companydeveloping cloud infrastructure for AI agents, has raised $60 million in aSeries B funding round at a $1 billion valuation, bringing its total funding to$91 million. The round was le...",
-  "tags": [
-   "ai"
-  ],
-  "topics": [
-   "vc-vs-pe"
-  ],
-  "watch": [],
-  "kinds": [
-   "round"
-  ],
-  "round": {
-   "amount": "$1B",
-   "musd": 1000.0,
-   "stage": "Series B",
-   "company": null
-  },
-  "score": 10,
-  "angles": [
-   "Che tipo di investitore deve essere un VC per vincere i deal migliori?",
-   "Faresti questo investimento? Chiediti chi è il team, quanto è grande il mercato e se l'azienda può restituire un fondo."
-  ],
-  "first_seen": "2026-10-21T04:39+00:00"
- },
- {
-  "id": "dac4ed1e7530",
-  "url": "https://techcrunch.com/2026/10/20/spacex-alums-aviation-startup-reliable-robotics-lands-115m-topping-1b-valuation/",
-  "title": "SpaceX alum’s aviation startup, Reliable Robotics, lands $115M, topping $1B valuation",
-  "source": "TechCrunch",
-  "source_id": "techcrunch",
-  "recommended": true,
-  "date": "2026-10-20T13:17+00:00",
-  "excerpt": "Reliable Robotics extended its Series D round with $115 million in equity and $25 million in debt.",
-  "tags": [
-   "deep-tech"
-  ],
-  "topics": [
-   "physical-ai",
-   "vc-vs-pe"
-  ],
-  "watch": [],
-  "kinds": [
-   "round"
-  ],
-  "round": {
-   "amount": "$115M",
-   "musd": 115.0,
-   "stage": "Series D",
-   "company": "Reliable Robotics,"
-  },
-  "score": 13,
-  "angles": [
-   "L'Europa può vincere nella physical AI, dove contano industria e dati più del software?",
-   "Faresti questo investimento? Chiediti chi è il team, quanto è grande il mercato e se l'azienda può restituire un fondo."
-  ],
-  "first_seen": "2026-10-21T04:39+00:00"
- },
- {
-  "id": "3309b6ce15f4",
-  "url": "https://techcrunch.com/2026/10/20/us-orders-federal-agencies-to-remove-chinas-deepseek-ai-from-their-systems/",
-  "title": "US orders federal agencies to remove China’s DeepSeek AI from their systems",
-  "source": "TechCrunch",
-  "source_id": "techcrunch",
-  "recommended": true,
-  "date": "2026-10-20T13:07+00:00",
-  "excerpt": "The U.S. has ordered federal civilian agencies to remove DeepSeek products and third-party services built using its technology, citing national security concerns.",
-  "tags": [
-   "ai",
-   "usa"
-  ],
-  "topics": [
-   "ai-race"
-  ],
-  "watch": [],
-  "kinds": [],
-  "round": null,
-  "score": 5,
-  "angles": [
-   "Chi vince la corsa ai modelli, e dove può creare valore un VC early-stage europeo?"
-  ],
-  "first_seen": "2026-10-21T04:39+00:00"
  }
 ]
