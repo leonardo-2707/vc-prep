@@ -1,5 +1,27 @@
 [
  {
+  "id": "a1abc1ba2744",
+  "url": "https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias/",
+  "title": "A tale of two Nvidias",
+  "source": "TechCrunch",
+  "source_id": "techcrunch",
+  "recommended": true,
+  "date": "2026-11-21T21:07+00:00",
+  "excerpt": "We got two very different pictures of Nvidia — the company’s latest earnings report vs. the tech executives loudly calling for Jensen Huang’s return.",
+  "tags": [],
+  "topics": [
+   "nvidia-vc"
+  ],
+  "watch": [],
+  "kinds": [],
+  "round": null,
+  "score": 5,
+  "angles": [
+   "Le Big Tech che investono nelle startup accelerano il mercato o lo distorcono?"
+  ],
+  "first_seen": "2026-11-22T12:32+00:00"
+ },
+ {
   "id": "86af0f29866d",
   "url": "https://news.crunchbase.com/venture/biggest-startup-rounds-science-neurotech-model-ml-galvanize-therapeutics/",
   "title": "The Week’s 10 Biggest Funding Rounds: $400M For Neurotech Leads, Followed By Big Deals For AI, Fintech, Biotech And More",
@@ -82,6 +104,26 @@
   "first_seen": "2026-11-21T12:35+00:00"
  },
  {
+  "id": "b61811b17425",
+  "url": "https://www.eu-startups.com/2026/11/weekly-funding-round-up-all-of-the-european-startup-funding-rounds-we-tracked-this-week-nov-16-nov-20/",
+  "title": "Weekly funding round-up! All of the European startup funding rounds we tracked this week (Nov.16 – Nov.20)",
+  "source": "EU-Startups",
+  "source_id": "eustartups",
+  "recommended": false,
+  "date": "2026-11-20T16:45+00:00",
+  "excerpt": "This article is visible for CLUB members only. If you are already a member but don’t see the content of this article, please login here. If you’re not a CLUB member yet, but you’d like to read members-only content like this one, have unrestricted access to…",
+  "tags": [
+   "europa"
+  ],
+  "topics": [],
+  "watch": [],
+  "kinds": [],
+  "round": null,
+  "score": 4,
+  "angles": [],
+  "first_seen": "2026-11-22T12:32+00:00"
+ },
+ {
   "id": "ffd07770f7d3",
   "url": "https://techcrunch.com/2026/11/20/bending-spoons-buys-mailchimp-for-3-68-billion/",
   "title": "Bending Spoons buys Mailchimp for $3.68B",
@@ -159,6 +201,27 @@
   "first_seen": "2026-11-21T12:35+00:00"
  },
  {
+  "id": "79027a33f6fe",
+  "url": "https://www.eu-startups.com/2026/11/uk-startup-clarity-sensors-receives-e2-2-million-nihr-award-to-make-advanced-medical-imaging-more-accessible/",
+  "title": "UK startup Clarity Sensors receives €2.2 million NIHR award to make advanced medical imaging more accessible",
+  "source": "EU-Startups",
+  "source_id": "eustartups",
+  "recommended": false,
+  "date": "2026-11-20T14:24+00:00",
+  "excerpt": "Cambridge-based semiconductor startup Clarity Sensors has secured a €2.2 million to support the development of a new generation of photon-counting CT detectors designed to make advanced medical imaging more affordable and accessible to hospitals. The funding…",
+  "tags": [
+   "deep-tech",
+   "europa"
+  ],
+  "topics": [],
+  "watch": [],
+  "kinds": [],
+  "round": null,
+  "score": 4,
+  "angles": [],
+  "first_seen": "2026-11-22T12:32+00:00"
+ },
+ {
   "id": "f52243df8570",
   "url": "https://techcrunch.com/2026/11/20/behind-jensen-huangs-exit-questions-about-a-management-style-reportedly-built-on-fear/",
   "title": "Behind Jensen Huang’s exit, questions about a management style reportedly built on fear",
@@ -226,6 +289,71 @@
   "first_seen": "2026-11-21T12:35+00:00"
  },
  {
+  "id": "c5fc8f9c2e45",
+  "url": "https://www.eu-startups.com/2026/11/london-based-archer-raises-e9-1-million-to-deploy-ai-recruiting-agents-for-employers-and-job-seekers/",
+  "title": "Archer raises €9.1 million to deploy AI recruiting agents for employers and job seekers",
+  "source": "EU-Startups",
+  "source_id": "eustartups",
+  "recommended": false,
+  "date": "2026-11-20T12:41+00:00",
+  "excerpt": "Archer (formerly hackajob), a London- and New York-based AI recruiting agent that works for both recruiters and job seekers, has raised €9.1 million ($10 million) in a new funding round. The round was led by Volition Capital, with participation from existing…",
+  "tags": [
+   "ai",
+   "europa",
+   "usa"
+  ],
+  "topics": [],
+  "watch": [],
+  "kinds": [
+   "round"
+  ],
+  "round": {
+   "amount": "€9.1M",
+   "musd": 10.01,
+   "stage": null,
+   "company": "Archer"
+  },
+  "score": 9,
+  "angles": [
+   "Faresti questo investimento? Chiediti chi è il team, quanto è grande il mercato e se l'azienda può restituire un fondo."
+  ],
+  "first_seen": "2026-11-22T12:32+00:00"
+ },
+ {
+  "id": "a786039034e4",
+  "url": "https://www.eu-startups.com/2026/11/following-e1-billion-funding-round-quantum-systems-commits-over-e10-million-to-expand-drone-support-in-ukraine/",
+  "title": "Following €1 billion funding round, Quantum Systems commits over €10 million to expand drone support in Ukraine",
+  "source": "EU-Startups",
+  "source_id": "eustartups",
+  "recommended": false,
+  "date": "2026-11-20T12:02+00:00",
+  "excerpt": "Quantum Systems and Frontline Robotics will commit more than €10 million to Ukraine to strengthen long-term support capacity for unmanned systems – arriving amid over €1.8 billion in European DefenceTech financing reported by EU-Startups in 2026. The joint…",
+  "tags": [
+   "deep-tech",
+   "europa"
+  ],
+  "topics": [
+   "physical-ai",
+   "climate-capex"
+  ],
+  "watch": [],
+  "kinds": [
+   "round"
+  ],
+  "round": {
+   "amount": "€1B",
+   "musd": 1100.0,
+   "stage": null,
+   "company": null
+  },
+  "score": 14,
+  "angles": [
+   "L'Europa può vincere nella physical AI, dove contano industria e dati più del software?",
+   "Faresti questo investimento? Chiediti chi è il team, quanto è grande il mercato e se l'azienda può restituire un fondo."
+  ],
+  "first_seen": "2026-11-22T12:32+00:00"
+ },
+ {
   "id": "7227ce969ae5",
   "url": "https://news.crunchbase.com/venture/interesting-startup-deals-ai-solar-healthcare-space-tech/",
   "title": "5 Interesting Startup Deals You May Have Missed: Reflecting Sunlight From Space, Better Breathing And Smarter Garbage Trucks",
@@ -266,6 +394,56 @@
   "score": 2,
   "angles": [],
   "first_seen": "2026-11-20T12:49+00:00"
+ },
+ {
+  "id": "66b7ea2e2e4a",
+  "url": "https://www.eu-startups.com/2026/11/building-in-the-uk-key-changes-and-deadlines-founders-need-to-know/",
+  "title": "Building in the UK? Key changes and deadlines founders need to know",
+  "source": "EU-Startups",
+  "source_id": "eustartups",
+  "recommended": false,
+  "date": "2026-11-20T10:23+00:00",
+  "excerpt": "In last month’s UK Budget, the Chancellor halved the lifetime limit on Business Asset Disposal Relief and introduced a new Founders’ Relief. Both take effect on 6 April 2027, and the details of the new relief are out for consultation until 30 November. If…",
+  "tags": [
+   "europa"
+  ],
+  "topics": [],
+  "watch": [],
+  "kinds": [],
+  "round": null,
+  "score": 4,
+  "angles": [],
+  "first_seen": "2026-11-22T12:32+00:00"
+ },
+ {
+  "id": "7c3e43d7e73b",
+  "url": "https://www.eu-startups.com/2026/11/madrid-based-wilco-secures-e2-5-million-to-scale-its-ai-patient-follow-up-platform-across-europe/",
+  "title": "Madrid-based Wilco secures €2.5 million to scale its AI patient follow-up platform across Europe",
+  "source": "EU-Startups",
+  "source_id": "eustartups",
+  "recommended": false,
+  "date": "2026-11-20T09:56+00:00",
+  "excerpt": "Wilco, a Madrid-based startup building AI voice and messaging agents for healthcare clinic groups, has announced its launch and a new €2.5 million funding round. The round was led by Samaipata, the European venture capital fund known for backing marketplace…",
+  "tags": [
+   "ai",
+   "europa"
+  ],
+  "topics": [],
+  "watch": [],
+  "kinds": [
+   "round"
+  ],
+  "round": {
+   "amount": "€2.5M",
+   "musd": 2.75,
+   "stage": null,
+   "company": "Madrid-based Wilco"
+  },
+  "score": 8,
+  "angles": [
+   "Faresti questo investimento? Chiediti chi è il team, quanto è grande il mercato e se l'azienda può restituire un fondo."
+  ],
+  "first_seen": "2026-11-22T12:32+00:00"
  },
  {
   "id": "130b47e8213c",
@@ -316,6 +494,68 @@
    "Faresti questo investimento? Chiediti chi è il team, quanto è grande il mercato e se l'azienda può restituire un fondo."
   ],
   "first_seen": "2026-11-20T12:49+00:00"
+ },
+ {
+  "id": "37022eb81325",
+  "url": "https://www.eu-startups.com/2026/11/berkshire-hathaway-backed-bending-spoons-to-buy-mailchimp-for-e3-35-billion-announces-e1-18-billion-private-placement/",
+  "title": "Berkshire-backed Bending Spoons to buy Mailchimp for €3.35 billion; announces €1.18 billion private placement",
+  "source": "EU-Startups",
+  "source_id": "eustartups",
+  "recommended": false,
+  "date": "2026-11-20T08:15+00:00",
+  "excerpt": "Bending Spoons, a Milan-based technology company that acquires and transforms digital businesses, has signed a definitive agreement to acquire Mailchimp, the email marketing automation platform, from Intuit, in a deal valued at €3.35 billion ($3.68 billion)…",
+  "tags": [
+   "italia"
+  ],
+  "topics": [
+   "italia-ambizione"
+  ],
+  "watch": [],
+  "kinds": [
+   "round",
+   "exit"
+  ],
+  "round": {
+   "amount": "€3.4B",
+   "musd": 3685.0,
+   "stage": null,
+   "company": null
+  },
+  "score": 16,
+  "angles": [
+   "Il vero limite delle startup italiane è il capitale o la mentalità?",
+   "Faresti questo investimento? Chiediti chi è il team, quanto è grande il mercato e se l'azienda può restituire un fondo."
+  ],
+  "first_seen": "2026-11-22T12:32+00:00"
+ },
+ {
+  "id": "c06296125744",
+  "url": "https://www.eu-startups.com/2026/11/dutch-startup-gradyent-lands-e20-million-eib-loan-to-expand-digital-twin-technology-across-europes-heating-networks/",
+  "title": "Gradyent lands €20 million EIB loan to expand digital twin technology across Europe’s heating networks",
+  "source": "EU-Startups",
+  "source_id": "eustartups",
+  "recommended": false,
+  "date": "2026-11-20T07:41+00:00",
+  "excerpt": "Gradyent, a Rotterdam-based SaaS provider for digital optimisation of district heating, cooling, and industrial networks, has secured a €20 million venture loan from the European Investment Bank (EIB). This financing follows a €28 million oversubscribed…",
+  "tags": [
+   "europa"
+  ],
+  "topics": [],
+  "watch": [],
+  "kinds": [
+   "round"
+  ],
+  "round": {
+   "amount": "€20M",
+   "musd": 22.0,
+   "stage": null,
+   "company": "Gradyent"
+  },
+  "score": 9,
+  "angles": [
+   "Faresti questo investimento? Chiediti chi è il team, quanto è grande il mercato e se l'azienda può restituire un fondo."
+  ],
+  "first_seen": "2026-11-22T12:32+00:00"
  },
  {
   "id": "2ba455b21152",
@@ -14981,240 +15221,6 @@
   "round": null,
   "score": 5,
   "angles": [],
-  "first_seen": "2026-10-22T04:39+00:00"
- },
- {
-  "id": "01bf5b5012e4",
-  "url": "https://sifted.eu/articles/sifteds-first-onstage-demo-day/",
-  "title": "Sifted’s first Onstage Demo Day",
-  "source": "Sifted",
-  "source_id": "sifted",
-  "recommended": true,
-  "date": "2026-10-22T05:00+00:00",
-  "excerpt": "",
-  "tags": [],
-  "topics": [],
-  "watch": [],
-  "kinds": [],
-  "round": null,
-  "score": 3,
-  "angles": [],
-  "first_seen": "2026-10-22T04:39+00:00"
- },
- {
-  "id": "5cb500cea1b9",
-  "url": "https://sifted.eu/articles/norway-startup-mafia-vc-physical-ai-cognite/",
-  "title": "More startup ‘mafias’ are coming in Norway, predicts VC",
-  "source": "Sifted",
-  "source_id": "sifted",
-  "recommended": true,
-  "date": "2026-10-22T05:00+00:00",
-  "excerpt": "",
-  "tags": [
-   "europa"
-  ],
-  "topics": [],
-  "watch": [],
-  "kinds": [],
-  "round": null,
-  "score": 5,
-  "angles": [],
-  "first_seen": "2026-10-22T04:39+00:00"
- },
- {
-  "id": "30f75273f5e0",
-  "url": "https://sifted.eu/articles/italian-startups-are-growing-up/",
-  "title": "Italian startups are growing up: bigger early-stage rounds and more late-stage money, data shows",
-  "source": "Sifted",
-  "source_id": "sifted",
-  "recommended": true,
-  "date": "2026-10-22T05:00+00:00",
-  "excerpt": "",
-  "tags": [
-   "italia"
-  ],
-  "topics": [
-   "europa-usa",
-   "italia-ambizione"
-  ],
-  "watch": [],
-  "kinds": [],
-  "round": null,
-  "score": 10,
-  "angles": [
-   "Perché l'Europa produce meno exit grandi, e cosa servirebbe per cambiare?"
-  ],
-  "first_seen": "2026-10-22T04:39+00:00"
- },
- {
-  "id": "adc46b40ada2",
-  "url": "https://sifted.eu/articles/yann-lecun-arthur-mensch-zurich-robotics-startup-30m-pre-seed/",
-  "title": "Yann LeCun and Arthur Mensch back Zurich robotics startup in $30m pre-seed",
-  "source": "Sifted",
-  "source_id": "sifted",
-  "recommended": true,
-  "date": "2026-10-22T05:00+00:00",
-  "excerpt": "",
-  "tags": [
-   "deep-tech",
-   "europa"
-  ],
-  "topics": [
-   "physical-ai"
-  ],
-  "watch": [],
-  "kinds": [
-   "round"
-  ],
-  "round": {
-   "amount": "$30M",
-   "musd": 30.0,
-   "stage": "Pre-seed",
-   "company": null
-  },
-  "score": 12,
-  "angles": [
-   "L'Europa può vincere nella physical AI, dove contano industria e dati più del software?",
-   "Faresti questo investimento? Chiediti chi è il team, quanto è grande il mercato e se l'azienda può restituire un fondo."
-  ],
-  "first_seen": "2026-10-22T04:39+00:00"
- },
- {
-  "id": "f7403dc55170",
-  "url": "https://techcrunch.com/2026/10/21/meta-wants-to-pay-for-its-broad-ai-buildout-with-a-newly-created-class-of-stock/",
-  "title": "Meta wants to pay for its broad AI buildout with a newly created class of stock",
-  "source": "TechCrunch",
-  "source_id": "techcrunch",
-  "recommended": true,
-  "date": "2026-10-21T22:45+00:00",
-  "excerpt": "The social media giant is planning a new stock strategy to help power its broad investments in AI models and services.",
-  "tags": [
-   "ai"
-  ],
-  "topics": [
-   "ai-race"
-  ],
-  "watch": [],
-  "kinds": [],
-  "round": null,
-  "score": 5,
-  "angles": [
-   "Chi vince la corsa ai modelli, e dove può creare valore un VC early-stage europeo?"
-  ],
-  "first_seen": "2026-10-22T04:39+00:00"
- },
- {
-  "id": "c600bafa0bd3",
-  "url": "https://techcrunch.com/2026/10/21/year-old-ai-lab-flapping-airplanes-raises-1b-at-a-6b-valuation/",
-  "title": "Year-old AI lab Flapping Airplanes raises $1B at a $6B valuation",
-  "source": "TechCrunch",
-  "source_id": "techcrunch",
-  "recommended": true,
-  "date": "2026-10-21T20:57+00:00",
-  "excerpt": "Just 9 months after raising a $180 million seed round, Flapping Airplanes has landed a $1 billion Series A for its mission to build AI models \"without ingesting half the internet.\"",
-  "tags": [
-   "ai"
-  ],
-  "topics": [
-   "ai-race",
-   "vc-vs-pe"
-  ],
-  "watch": [],
-  "kinds": [
-   "round"
-  ],
-  "round": {
-   "amount": "$1B",
-   "musd": 1000.0,
-   "stage": "Seed",
-   "company": "Year-old AI lab Flapping Airplanes"
-  },
-  "score": 13,
-  "angles": [
-   "Chi vince la corsa ai modelli, e dove può creare valore un VC early-stage europeo?",
-   "Faresti questo investimento? Chiediti chi è il team, quanto è grande il mercato e se l'azienda può restituire un fondo."
-  ],
-  "first_seen": "2026-10-22T04:39+00:00"
- },
- {
-  "id": "c4ee3f30eef4",
-  "url": "https://techcrunch.com/2026/10/21/tesla-stars-optimus-robot-production-in-california-as-profit-falls-43/",
-  "title": "Tesla starts Optimus robot production in California as profit falls 43%",
-  "source": "TechCrunch",
-  "source_id": "techcrunch",
-  "recommended": true,
-  "date": "2026-10-21T20:33+00:00",
-  "excerpt": "Tesla's revenue was flat and its expenses skyrocketed as it pressed the accelerator on its Optimus robots, AI, and autonomous driving.",
-  "tags": [
-   "ai",
-   "deep-tech"
-  ],
-  "topics": [
-   "physical-ai"
-  ],
-  "watch": [],
-  "kinds": [],
-  "round": null,
-  "score": 5,
-  "angles": [
-   "L'Europa può vincere nella physical AI, dove contano industria e dati più del software?"
-  ],
-  "first_seen": "2026-10-22T04:39+00:00"
- },
- {
-  "id": "4472664e9020",
-  "url": "https://techcrunch.com/2026/10/21/while-amazon-blocks-ai-agents-walmart-rolls-out-the-welcome-mat/",
-  "title": "While Amazon blocks AI agents, Walmart rolls out the welcome mat",
-  "source": "TechCrunch",
-  "source_id": "techcrunch",
-  "recommended": true,
-  "date": "2026-10-21T19:30+00:00",
-  "excerpt": "As Amazon blocks AI agents from shopping on its site, Walmart is taking the opposite approach, introducing new technology that lets AI agents make purchases on customers' behalf, with controls over spending and transaction approvals.",
-  "tags": [
-   "ai"
-  ],
-  "topics": [
-   "nvidia-vc"
-  ],
-  "watch": [],
-  "kinds": [],
-  "round": null,
-  "score": 5,
-  "angles": [
-   "Le Big Tech che investono nelle startup accelerano il mercato o lo distorcono?"
-  ],
-  "first_seen": "2026-10-22T04:39+00:00"
- },
- {
-  "id": "7029da4abf6c",
-  "url": "https://techcrunch.com/2026/10/21/legal-ai-startup-legora-raises-550m-series-e-at-8-8b-valuation/",
-  "title": "Legal AI startup Legora raises $550M Series E at $8.8B valuation",
-  "source": "TechCrunch",
-  "source_id": "techcrunch-venture",
-  "recommended": true,
-  "date": "2026-10-21T18:51+00:00",
-  "excerpt": "Legal AI startup Legora announced Wednesday that it raised a $550 million Series E round, valuing it at $8.8 billion.",
-  "tags": [
-   "ai"
-  ],
-  "topics": [
-   "vc-vs-pe"
-  ],
-  "watch": [],
-  "kinds": [
-   "round"
-  ],
-  "round": {
-   "amount": "$550M",
-   "musd": 550.0,
-   "stage": "Series E",
-   "company": "Legora"
-  },
-  "score": 11,
-  "angles": [
-   "Che tipo di investitore deve essere un VC per vincere i deal migliori?",
-   "Faresti questo investimento? Chiediti chi è il team, quanto è grande il mercato e se l'azienda può restituire un fondo."
-  ],
   "first_seen": "2026-10-22T04:39+00:00"
  }
 ]
