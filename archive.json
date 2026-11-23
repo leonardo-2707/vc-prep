@@ -1,5 +1,282 @@
 [
  {
+  "id": "ecab1061c917",
+  "url": "https://techcrunch.com/2026/11/23/nvidia-reverses-course-and-brings-jensen-huang-back-as-ceo/",
+  "title": "Nvidia reverses course and brings Jensen Huang back as CEO",
+  "source": "TechCrunch",
+  "source_id": "techcrunch",
+  "recommended": true,
+  "date": "2026-11-23T14:21+00:00",
+  "excerpt": "The stunning reversal was supported by senior officials in the U.S. government.",
+  "tags": [
+   "usa",
+   "policy"
+  ],
+  "topics": [
+   "nvidia-vc"
+  ],
+  "watch": [],
+  "kinds": [],
+  "round": null,
+  "score": 5,
+  "angles": [
+   "Le Big Tech che investono nelle startup accelerano il mercato o lo distorcono?"
+  ],
+  "first_seen": "2026-11-23T14:32+00:00"
+ },
+ {
+  "id": "6723cc317142",
+  "url": "https://sifted.eu/articles/agon-raise-northzone-lakestar-defence/",
+  "title": "Defence startup Agon raises $70m backed by Northzone and Lakestar",
+  "source": "Sifted",
+  "source_id": "sifted",
+  "recommended": true,
+  "date": "2026-11-23T13:56+00:00",
+  "excerpt": "",
+  "tags": [
+   "deep-tech"
+  ],
+  "topics": [],
+  "watch": [],
+  "kinds": [
+   "round"
+  ],
+  "round": {
+   "amount": "$70M",
+   "musd": 70.0,
+   "stage": null,
+   "company": "Agon"
+  },
+  "score": 9,
+  "angles": [
+   "Faresti questo investimento? Chiediti chi è il team, quanto è grande il mercato e se l'azienda può restituire un fondo."
+  ],
+  "first_seen": "2026-11-23T14:32+00:00"
+ },
+ {
+  "id": "72c606f0b0ed",
+  "url": "https://www.technologyreview.com/2026/11/23/1149548/the-download-ai-judgment-problem-carbon-removal-crop-threat/",
+  "title": "The Download: AI’s judgment problem and carbon removal’s crop threat",
+  "source": "MIT Technology Review",
+  "source_id": "mittr",
+  "recommended": true,
+  "date": "2026-11-23T13:10+00:00",
+  "excerpt": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The most misunderstood graph in AI just got a major update A new report from the AI evaluation nonprofit METR finds that…",
+  "tags": [
+   "ai",
+   "climate"
+  ],
+  "topics": [
+   "climate-capex"
+  ],
+  "watch": [],
+  "kinds": [],
+  "round": null,
+  "score": 5,
+  "angles": [
+   "Come trattiene l'Europa le aziende deep tech che hanno bisogno di round enormi?"
+  ],
+  "first_seen": "2026-11-23T14:32+00:00"
+ },
+ {
+  "id": "bcc727273b5a",
+  "url": "https://www.technologyreview.com/2026/11/23/1149392/why-using-rocks-for-carbon-removal-could-eventually-reduce-crop-growth/",
+  "title": "Why using rocks for carbon removal could eventually reduce crop growth",
+  "source": "MIT Technology Review",
+  "source_id": "mittr",
+  "recommended": true,
+  "date": "2026-11-23T11:00+00:00",
+  "excerpt": "Tech companies are investing a lot of hope and money in rocks. Google, Microsoft, and others have committed hundreds of millions of dollars to get startups to spread crushed basalt, olivine, or other alkaline materials across farms, in an effort to capture…",
+  "tags": [
+   "climate"
+  ],
+  "topics": [
+   "nvidia-vc",
+   "climate-capex"
+  ],
+  "watch": [],
+  "kinds": [],
+  "round": null,
+  "score": 7,
+  "angles": [
+   "Le Big Tech che investono nelle startup accelerano il mercato o lo distorcono?"
+  ],
+  "first_seen": "2026-11-23T14:32+00:00"
+ },
+ {
+  "id": "b4f8fe3fb79f",
+  "url": "https://sifted.eu/articles/plural-fund-ai-podcast/",
+  "title": "Plural’s Sten Tamkivi on its €1bn fund, defence tech and why Europe didn’t miss the AI wave",
+  "source": "Sifted",
+  "source_id": "sifted",
+  "recommended": true,
+  "date": "2026-11-23T10:49+00:00",
+  "excerpt": "",
+  "tags": [
+   "ai",
+   "deep-tech",
+   "europa"
+  ],
+  "topics": [],
+  "watch": [],
+  "kinds": [],
+  "round": null,
+  "score": 5,
+  "angles": [],
+  "first_seen": "2026-11-23T14:32+00:00"
+ },
+ {
+  "id": "1063d2137343",
+  "url": "https://sifted.eu/articles/acorda-pre-seed/",
+  "title": "Eileen Burbidge backs Monzo alums’ anti-fraud startup in £1.8m pre-seed",
+  "source": "Sifted",
+  "source_id": "sifted",
+  "recommended": true,
+  "date": "2026-11-23T05:00+00:00",
+  "excerpt": "",
+  "tags": [],
+  "topics": [],
+  "watch": [],
+  "kinds": [
+   "round"
+  ],
+  "round": {
+   "amount": "£1.8M",
+   "musd": 2.34,
+   "stage": "Pre-seed",
+   "company": null
+  },
+  "score": 7,
+  "angles": [
+   "Faresti questo investimento? Chiediti chi è il team, quanto è grande il mercato e se l'azienda può restituire un fondo."
+  ],
+  "first_seen": "2026-11-23T14:32+00:00"
+ },
+ {
+  "id": "cc2763521cf0",
+  "url": "https://sifted.eu/articles/black-forest-labs-nvidia-a16z-andreas-blattmann-interview/",
+  "title": "Backed by Nvidia and a16z, Black Forest Labs sets its sights on world models",
+  "source": "Sifted",
+  "source_id": "sifted",
+  "recommended": true,
+  "date": "2026-11-23T05:00+00:00",
+  "excerpt": "",
+  "tags": [
+   "usa"
+  ],
+  "topics": [
+   "nvidia-vc"
+  ],
+  "watch": [],
+  "kinds": [],
+  "round": null,
+  "score": 5,
+  "angles": [
+   "Le Big Tech che investono nelle startup accelerano il mercato o lo distorcono?"
+  ],
+  "first_seen": "2026-11-23T14:32+00:00"
+ },
+ {
+  "id": "914bb147d0bf",
+  "url": "https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo/",
+  "title": "How Notable Capital, GIC, and Baillie Gifford bet big on Anthropic before its IPO",
+  "source": "TechCrunch",
+  "source_id": "techcrunch-venture",
+  "recommended": true,
+  "date": "2026-11-23T01:25+00:00",
+  "excerpt": "Three significant backers share what gave them conviction to bet billions on Anthropic.",
+  "tags": [
+   "ai"
+  ],
+  "topics": [
+   "ai-race"
+  ],
+  "watch": [],
+  "kinds": [
+   "exit"
+  ],
+  "round": null,
+  "score": 8,
+  "angles": [
+   "Chi vince la corsa ai modelli, e dove può creare valore un VC early-stage europeo?",
+   "Chi guadagna da questa exit e cosa insegna sulle strade di uscita per le startup europee?"
+  ],
+  "first_seen": "2026-11-23T14:32+00:00"
+ },
+ {
+  "id": "05744626c0d6",
+  "url": "https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/",
+  "title": "OpenAI’s chief scientist has thoughts on how to limit AI development",
+  "source": "TechCrunch",
+  "source_id": "techcrunch",
+  "recommended": true,
+  "date": "2026-11-22T21:14+00:00",
+  "excerpt": "To establish a speed limit on AI development, you need to agree on how to measure speed.",
+  "tags": [
+   "ai"
+  ],
+  "topics": [
+   "ai-race"
+  ],
+  "watch": [],
+  "kinds": [],
+  "round": null,
+  "score": 5,
+  "angles": [
+   "Chi vince la corsa ai modelli, e dove può creare valore un VC early-stage europeo?"
+  ],
+  "first_seen": "2026-11-23T14:32+00:00"
+ },
+ {
+  "id": "bed82431ae1f",
+  "url": "https://techcrunch.com/2026/11/22/why-data-centers-are-at-the-center-of-the-big-tech-backlash/",
+  "title": "Why data centers are at the center of the Big Tech backlash",
+  "source": "TechCrunch",
+  "source_id": "techcrunch",
+  "recommended": true,
+  "date": "2026-11-22T18:08+00:00",
+  "excerpt": "Journalist Paris Marx unpacks his new book \"Hyperscale.\"",
+  "tags": [
+   "europa"
+  ],
+  "topics": [
+   "nvidia-vc"
+  ],
+  "watch": [],
+  "kinds": [],
+  "round": null,
+  "score": 7,
+  "angles": [
+   "Le Big Tech che investono nelle startup accelerano il mercato o lo distorcono?"
+  ],
+  "first_seen": "2026-11-23T14:32+00:00"
+ },
+ {
+  "id": "91d036c3af3f",
+  "url": "https://techcrunch.com/2026/11/22/techcrunch-mobility-a-b-testing-robots-vs-humans/",
+  "title": "TechCrunch Mobility: A/B testing robots vs. humans",
+  "source": "TechCrunch",
+  "source_id": "techcrunch",
+  "recommended": true,
+  "date": "2026-11-22T17:06+00:00",
+  "excerpt": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and, now more than ever, the role AI is playing in it.",
+  "tags": [
+   "ai",
+   "deep-tech"
+  ],
+  "topics": [
+   "physical-ai"
+  ],
+  "watch": [],
+  "kinds": [],
+  "round": null,
+  "score": 5,
+  "angles": [
+   "L'Europa può vincere nella physical AI, dove contano industria e dati più del software?"
+  ],
+  "first_seen": "2026-11-23T14:32+00:00"
+ },
+ {
   "id": "a1abc1ba2744",
   "url": "https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias/",
   "title": "A tale of two Nvidias",
@@ -14920,307 +15197,5 @@
    "Come trattiene l'Europa le aziende deep tech che hanno bisogno di round enormi?"
   ],
   "first_seen": "2026-10-23T04:38+00:00"
- },
- {
-  "id": "e0b130db39fe",
-  "url": "https://www.eu-startups.com/2026/10/spanish-vc-seaya-closes-new-fund-at-e600-million-in-just-six-months/",
-  "title": "Spanish VC Seaya closes new fund at €600 million in just six months",
-  "source": "EU-Startups",
-  "source_id": "eustartups",
-  "recommended": false,
-  "date": "2026-10-22T11:42+00:00",
-  "excerpt": "Seaya, a Spanish investment platform, has announced the launch of Seaya Nova, its new growth fund, following a first close of €600 million in just six months – tickets will range from €20-50 million per company. The fund is backed by the European Investment…",
-  "tags": [
-   "europa"
-  ],
-  "topics": [
-   "vc-vs-pe"
-  ],
-  "watch": [],
-  "kinds": [
-   "fondi"
-  ],
-  "round": {
-   "amount": "€600M",
-   "musd": 660.0,
-   "stage": "First Close",
-   "company": null
-  },
-  "score": 11,
-  "angles": [
-   "Che tipo di investitore deve essere un VC per vincere i deal migliori?",
-   "Cosa dice questa raccolta sull'appetito degli LP per il venture capital in questo momento?"
-  ],
-  "first_seen": "2026-10-23T04:38+00:00"
- },
- {
-  "id": "94fa6cf71fab",
-  "url": "https://news.crunchbase.com/public/ai-ipo-wave-anthropic-openai-delay-gurtu-airrived/",
-  "title": "The AI IPO Wave Is The Dot-Com Bubble’s Evil Twin. Anthropic’s Delay Just Proved It.",
-  "source": "Crunchbase News",
-  "source_id": "crunchbase",
-  "recommended": false,
-  "date": "2026-10-22T11:00+00:00",
-  "excerpt": "In this guest article from Airrived co-founder and CEO Anurag Gurtu, he contends that Anthropic’s rapid revenue growth does not justify its proposed $2 trillion IPO valuation, given enormous infrastructure commitments, safety concerns, customer concentration…",
-  "tags": [
-   "ai"
-  ],
-  "topics": [
-   "ai-race",
-   "vc-vs-pe"
-  ],
-  "watch": [],
-  "kinds": [
-   "exit"
-  ],
-  "round": null,
-  "score": 9,
-  "angles": [
-   "Chi vince la corsa ai modelli, e dove può creare valore un VC early-stage europeo?",
-   "Chi guadagna da questa exit e cosa insegna sulle strade di uscita per le startup europee?"
-  ],
-  "first_seen": "2026-10-23T04:38+00:00"
- },
- {
-  "id": "57d2c796e3bb",
-  "url": "https://news.crunchbase.com/ma/acquired-boom-era-startups-ezcater-anyscale/",
-  "title": "Acquirers Are Snapping Up Boom-Era Startups That Haven’t Raised Funding In Years",
-  "source": "Crunchbase News",
-  "source_id": "crunchbase",
-  "recommended": false,
-  "date": "2026-10-22T11:00+00:00",
-  "excerpt": "A number of companies whose names might feature on a playlist of 2021 boom-era unicorns have sold to acquirers in recent months, including one-time highfliers like Airtable, Headspace and Miro. In many cases, companies are selling at valuations which, while…",
-  "tags": [],
-  "topics": [
-   "europa-usa",
-   "vc-vs-pe"
-  ],
-  "watch": [],
-  "kinds": [
-   "round",
-   "exit"
-  ],
-  "round": {
-   "amount": null,
-   "musd": null,
-   "stage": null,
-   "company": "Acquirers Are Snapping Up Boom-Era Startups That Haven’t"
-  },
-  "score": 13,
-  "angles": [
-   "Perché l'Europa produce meno exit grandi, e cosa servirebbe per cambiare?",
-   "Faresti questo investimento? Chiediti chi è il team, quanto è grande il mercato e se l'azienda può restituire un fondo."
-  ],
-  "first_seen": "2026-10-23T04:38+00:00"
- },
- {
-  "id": "3774631da49c",
-  "url": "https://news.crunchbase.com/startups/building-brands-ai-agents-human-customers-coulthard-jacquard/",
-  "title": "Your Next Customer Might Be An Agent. Here’s How To Build Your Brand For Both Humans And AI.",
-  "source": "Crunchbase News",
-  "source_id": "crunchbase",
-  "recommended": false,
-  "date": "2026-10-22T11:00+00:00",
-  "excerpt": "As AI agents increasingly recommend and purchase products, brands must appeal to both machines and humans by documenting their voice, creating clear product descriptions and checking how AI summarizes their messaging. Guest author Toby Coulthard suggests that…",
-  "tags": [
-   "ai"
-  ],
-  "topics": [],
-  "watch": [],
-  "kinds": [],
-  "round": null,
-  "score": 2,
-  "angles": [],
-  "first_seen": "2026-10-23T04:38+00:00"
- },
- {
-  "id": "2cbbf79e933a",
-  "url": "https://www.technologyreview.com/2026/10/22/1147591/permafrost-primer/",
-  "title": "Three things you should know about permafrost",
-  "source": "MIT Technology Review",
-  "source_id": "mittr",
-  "recommended": true,
-  "date": "2026-10-22T10:00+00:00",
-  "excerpt": "How much do you know about permafrost? Maybe, like me, you’ve been aware that this layer of frozen soil is thawing, that it’s important in the global puzzle of climate change … and that’s about the extent of it. The great news for both of us is that my…",
-  "tags": [
-   "climate"
-  ],
-  "topics": [
-   "climate-capex"
-  ],
-  "watch": [],
-  "kinds": [],
-  "round": null,
-  "score": 5,
-  "angles": [
-   "Come trattiene l'Europa le aziende deep tech che hanno bisogno di round enormi?"
-  ],
-  "first_seen": "2026-10-23T04:38+00:00"
- },
- {
-  "id": "242df2ceda8b",
-  "url": "https://www.eu-startups.com/2026/10/lisbons-beyond-vision-raises-over-e28-million-to-scale-ai-drones-for-civilian-and-defence-markets/",
-  "title": "Lisbon’s Beyond Vision raises over €28 million to scale AI drones for civilian and defence markets",
-  "source": "EU-Startups",
-  "source_id": "eustartups",
-  "recommended": false,
-  "date": "2026-10-22T09:02+00:00",
-  "excerpt": "Beyond Vision, a Lisbon-based manufacturer of unmanned aerial systems and vehicles (drones), announced today the completion of an investment round of over €28 million. The round was co-led by Índico Capital Partners and Lince Capital, with a follow-on…",
-  "tags": [
-   "ai",
-   "deep-tech",
-   "europa"
-  ],
-  "topics": [
-   "physical-ai"
-  ],
-  "watch": [],
-  "kinds": [
-   "round"
-  ],
-  "round": {
-   "amount": "€28M",
-   "musd": 30.8,
-   "stage": null,
-   "company": "Beyond Vision"
-  },
-  "score": 11,
-  "angles": [
-   "L'Europa può vincere nella physical AI, dove contano industria e dati più del software?",
-   "Faresti questo investimento? Chiediti chi è il team, quanto è grande il mercato e se l'azienda può restituire un fondo."
-  ],
-  "first_seen": "2026-10-23T04:38+00:00"
- },
- {
-  "id": "8cc40610da0e",
-  "url": "https://www.eu-startups.com/2026/10/is-the-uk-leading-europes-startup-funding-race-yes-but-theres-a-catch/",
-  "title": "Is the UK leading Europe’s startup funding race? Yes, but there’s a catch",
-  "source": "EU-Startups",
-  "source_id": "eustartups",
-  "recommended": false,
-  "date": "2026-10-22T08:42+00:00",
-  "excerpt": "It should come as no surprise to hear that the UK is growing from strength to strength when it comes to startup investment, with new research revealing billions in funding for university spinouts, larger investment rounds in Cambridge and a wave of funding…",
-  "tags": [
-   "europa"
-  ],
-  "topics": [],
-  "watch": [],
-  "kinds": [],
-  "round": null,
-  "score": 4,
-  "angles": [],
-  "first_seen": "2026-10-23T04:38+00:00"
- },
- {
-  "id": "1ab6b1fbef69",
-  "url": "https://www.technologyreview.com/2026/10/22/1146948/ais-hidden-storage-bill-what-inference-leaves-behind/",
-  "title": "AI’s hidden storage bill: What inference leaves behind",
-  "source": "MIT Technology Review",
-  "source_id": "mittr",
-  "recommended": true,
-  "date": "2026-10-22T08:41+00:00",
-  "excerpt": "Ask most executives to picture the cost of AI and they’ll likely see GPUs—racks of accelerators with gigawatts of power—and a waitlist for silicon. But that picture leaves something out: Data storage costs. What happens to data after a model responds? Much of…",
-  "tags": [
-   "ai"
-  ],
-  "topics": [
-   "ai-race"
-  ],
-  "watch": [],
-  "kinds": [],
-  "round": null,
-  "score": 5,
-  "angles": [
-   "Chi vince la corsa ai modelli, e dove può creare valore un VC early-stage europeo?"
-  ],
-  "first_seen": "2026-10-23T04:38+00:00"
- },
- {
-  "id": "9283cedf862d",
-  "url": "https://www.eu-startups.com/2026/10/barcelonas-masia-closes-e18-million-debut-fund-and-opens-a-physical-hub-for-frontier-tech-founders-and-investors/",
-  "title": "Barcelona’s Masia closes €18 million debut fund and opens a physical hub for frontier tech founders and investors",
-  "source": "EU-Startups",
-  "source_id": "eustartups",
-  "recommended": false,
-  "date": "2026-10-22T06:47+00:00",
-  "excerpt": "Masia, a Barcelona-based venture capital platform, today announced it has closed its €18 million debut fund to invest in early-stage AI and frontier tech companies with a Barcelona connection. The fund attracted backing from more than 70 limited partners…",
-  "tags": [
-   "ai",
-   "europa"
-  ],
-  "topics": [
-   "vc-vs-pe"
-  ],
-  "watch": [],
-  "kinds": [
-   "fondi"
-  ],
-  "round": {
-   "amount": "€18M",
-   "musd": 19.8,
-   "stage": null,
-   "company": null
-  },
-  "score": 10,
-  "angles": [
-   "Che tipo di investitore deve essere un VC per vincere i deal migliori?",
-   "Cosa dice questa raccolta sull'appetito degli LP per il venture capital in questo momento?"
-  ],
-  "first_seen": "2026-10-23T04:38+00:00"
- },
- {
-  "id": "be78aa6d3b52",
-  "url": "https://www.eu-startups.com/2026/10/backed-by-yann-lecun-and-arthur-mensch-swiss-physical-ai-startup-enact-intelligence-exits-stealth-with-e26-68-million/",
-  "title": "Backed by Yann LeCun and Arthur Mensch, Swiss Physical AI startup Enact Intelligence exits stealth with €26.68 million",
-  "source": "EU-Startups",
-  "source_id": "eustartups",
-  "recommended": false,
-  "date": "2026-10-22T06:03+00:00",
-  "excerpt": "Enact Intelligence, a physical AI startup headquartered in Zurich, has come out of stealth today with a €26.68 million ($30 million) pre-Seed funding round, one of the largest pre-Seed raises in Europe to date. The round saw participation from institutional…",
-  "tags": [
-   "ai",
-   "europa"
-  ],
-  "topics": [
-   "physical-ai",
-   "europa-usa"
-  ],
-  "watch": [],
-  "kinds": [
-   "round"
-  ],
-  "round": {
-   "amount": "€26.7M",
-   "musd": 29.35,
-   "stage": "Pre-seed",
-   "company": null
-  },
-  "score": 13,
-  "angles": [
-   "L'Europa può vincere nella physical AI, dove contano industria e dati più del software?",
-   "Faresti questo investimento? Chiediti chi è il team, quanto è grande il mercato e se l'azienda può restituire un fondo."
-  ],
-  "first_seen": "2026-10-23T04:38+00:00"
- },
- {
-  "id": "3f739127f366",
-  "url": "https://sifted.eu/articles/irelands-ai-scene/",
-  "title": "Ireland’s AI scene has buzz. Now it needs breakouts",
-  "source": "Sifted",
-  "source_id": "sifted",
-  "recommended": true,
-  "date": "2026-10-22T05:00+00:00",
-  "excerpt": "",
-  "tags": [
-   "ai",
-   "europa"
-  ],
-  "topics": [],
-  "watch": [],
-  "kinds": [],
-  "round": null,
-  "score": 5,
-  "angles": [],
-  "first_seen": "2026-10-22T04:39+00:00"
  }
 ]
