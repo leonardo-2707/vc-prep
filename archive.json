@@ -1,5 +1,326 @@
 [
  {
+  "id": "e153b8757d5b",
+  "url": "https://sifted.eu/articles/the-skinner-shah-award-for-journalism/",
+  "title": "Introducing the Skinner-Shah Award for Journalism",
+  "source": "Sifted",
+  "source_id": "sifted",
+  "recommended": true,
+  "date": "2026-11-26T12:00+00:00",
+  "excerpt": "",
+  "tags": [],
+  "topics": [],
+  "watch": [],
+  "kinds": [],
+  "round": null,
+  "score": 3,
+  "angles": [],
+  "first_seen": "2026-11-26T13:51+00:00"
+ },
+ {
+  "id": "380382cc6170",
+  "url": "https://sifted.eu/articles/elevenlabs-funding-round-raise-33-bn-latest/",
+  "title": "ElevenLabs in talks to raise funding at $33bn valuation, reports say",
+  "source": "Sifted",
+  "source_id": "sifted",
+  "recommended": true,
+  "date": "2026-11-26T10:48+00:00",
+  "excerpt": "",
+  "tags": [],
+  "topics": [
+   "vc-vs-pe"
+  ],
+  "watch": [],
+  "kinds": [
+   "round"
+  ],
+  "round": {
+   "amount": "$33B",
+   "musd": 33000.0,
+   "stage": null,
+   "company": null
+  },
+  "score": 11,
+  "angles": [
+   "Che tipo di investitore deve essere un VC per vincere i deal migliori?",
+   "Faresti questo investimento? Chiediti chi è il team, quanto è grande il mercato e se l'azienda può restituire un fondo."
+  ],
+  "first_seen": "2026-11-26T13:51+00:00"
+ },
+ {
+  "id": "fa9ae78cfaa4",
+  "url": "https://sifted.eu/articles/exclusive-starforge-fundraise-nuclear-fusion-reactors/",
+  "title": "Exclusive: Starforge raises €6.6m to build nuclear fusion reactors at scale",
+  "source": "Sifted",
+  "source_id": "sifted",
+  "recommended": true,
+  "date": "2026-11-26T05:00+00:00",
+  "excerpt": "",
+  "tags": [
+   "deep-tech",
+   "climate"
+  ],
+  "topics": [
+   "climate-capex"
+  ],
+  "watch": [],
+  "kinds": [
+   "round"
+  ],
+  "round": {
+   "amount": "€6.6M",
+   "musd": 7.26,
+   "stage": null,
+   "company": "Starforge"
+  },
+  "score": 9,
+  "angles": [
+   "Come trattiene l'Europa le aziende deep tech che hanno bisogno di round enormi?",
+   "Faresti questo investimento? Chiediti chi è il team, quanto è grande il mercato e se l'azienda può restituire un fondo."
+  ],
+  "first_seen": "2026-11-26T13:51+00:00"
+ },
+ {
+  "id": "9d1c790d65fe",
+  "url": "https://sifted.eu/articles/goldfish-slush-100-winners/",
+  "title": "Meet Goldfish: The kings of Slush aiming to take on Apple",
+  "source": "Sifted",
+  "source_id": "sifted",
+  "recommended": true,
+  "date": "2026-11-26T05:00+00:00",
+  "excerpt": "",
+  "tags": [],
+  "topics": [],
+  "watch": [],
+  "kinds": [],
+  "round": null,
+  "score": 3,
+  "angles": [],
+  "first_seen": "2026-11-26T13:51+00:00"
+ },
+ {
+  "id": "e6a80ab9b430",
+  "url": "https://sifted.eu/articles/bolt-markus-villig-ceo-interview-europe/",
+  "title": "‘It’s not a fair fight’: Bolt’s Markus Villig on why Europe must protect homegrown tech",
+  "source": "Sifted",
+  "source_id": "sifted",
+  "recommended": true,
+  "date": "2026-11-26T05:00+00:00",
+  "excerpt": "",
+  "tags": [
+   "europa"
+  ],
+  "topics": [],
+  "watch": [],
+  "kinds": [],
+  "round": null,
+  "score": 5,
+  "angles": [],
+  "first_seen": "2026-11-26T13:51+00:00"
+ },
+ {
+  "id": "6c9107d74ff7",
+  "url": "https://sifted.eu/articles/anthropic-monzo-tom-blomfield-quits/",
+  "title": "Monzo cofounder Tom Blomfield leaves Anthropic after less than six months, reports say",
+  "source": "Sifted",
+  "source_id": "sifted",
+  "recommended": true,
+  "date": "2026-11-26T05:00+00:00",
+  "excerpt": "",
+  "tags": [
+   "ai"
+  ],
+  "topics": [
+   "ai-race"
+  ],
+  "watch": [],
+  "kinds": [],
+  "round": null,
+  "score": 5,
+  "angles": [
+   "Chi vince la corsa ai modelli, e dove può creare valore un VC early-stage europeo?"
+  ],
+  "first_seen": "2026-11-26T13:51+00:00"
+ },
+ {
+  "id": "bda4f9ce038a",
+  "url": "https://sifted.eu/articles/proxima-fusion-ceo-ai-bubble-japan-supply-chain/",
+  "title": "Proxima Fusion CEO calls out ‘short-termism’ amid AI boom",
+  "source": "Sifted",
+  "source_id": "sifted",
+  "recommended": true,
+  "date": "2026-11-26T05:00+00:00",
+  "excerpt": "",
+  "tags": [
+   "ai",
+   "deep-tech"
+  ],
+  "topics": [
+   "climate-capex"
+  ],
+  "watch": [],
+  "kinds": [],
+  "round": null,
+  "score": 5,
+  "angles": [
+   "Come trattiene l'Europa le aziende deep tech che hanno bisogno di round enormi?"
+  ],
+  "first_seen": "2026-11-26T13:51+00:00"
+ },
+ {
+  "id": "f27e0de9d097",
+  "url": "https://techcrunch.com/2026/11/25/sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks/",
+  "title": "S&P considers Nvidia credit downgrade over governance and ‘key man’ risks",
+  "source": "TechCrunch",
+  "source_id": "techcrunch",
+  "recommended": true,
+  "date": "2026-11-25T22:44+00:00",
+  "excerpt": "The credit rating agency may lower Nvidia's credit rating to AA-, the fourth-highest rating.",
+  "tags": [],
+  "topics": [
+   "nvidia-vc"
+  ],
+  "watch": [],
+  "kinds": [],
+  "round": null,
+  "score": 5,
+  "angles": [
+   "Le Big Tech che investono nelle startup accelerano il mercato o lo distorcono?"
+  ],
+  "first_seen": "2026-11-26T13:51+00:00"
+ },
+ {
+  "id": "4c44ce30146b",
+  "url": "https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/",
+  "title": "OpenAI says heavy ChatGPT users may hit limits sooner as it merges Chat and Work",
+  "source": "TechCrunch",
+  "source_id": "techcrunch",
+  "recommended": true,
+  "date": "2026-11-25T20:03+00:00",
+  "excerpt": "OpenAI will introduce a single usage meter across ChatGPT as it combines the Chat and Work experiences.",
+  "tags": [
+   "ai"
+  ],
+  "topics": [
+   "ai-race"
+  ],
+  "watch": [],
+  "kinds": [
+   "exit"
+  ],
+  "round": null,
+  "score": 8,
+  "angles": [
+   "Chi vince la corsa ai modelli, e dove può creare valore un VC early-stage europeo?",
+   "Chi guadagna da questa exit e cosa insegna sulle strade di uscita per le startup europee?"
+  ],
+  "first_seen": "2026-11-26T13:51+00:00"
+ },
+ {
+  "id": "e7d7a2ca3b37",
+  "url": "https://techcrunch.com/2026/11/25/jensen-huang-broke-nvidias-code-of-conduct-and-his-employees-may-not-forget-it/",
+  "title": "Jensen Huang broke Nvidia’s code of conduct, and his employees may not forget it",
+  "source": "TechCrunch",
+  "source_id": "techcrunch",
+  "recommended": true,
+  "date": "2026-11-25T19:54+00:00",
+  "excerpt": "Most codes of conduct serve as a reflection of corporate culture. In Nvidia's case, that could have consequences.",
+  "tags": [],
+  "topics": [
+   "nvidia-vc"
+  ],
+  "watch": [],
+  "kinds": [],
+  "round": null,
+  "score": 5,
+  "angles": [
+   "Le Big Tech che investono nelle startup accelerano il mercato o lo distorcono?"
+  ],
+  "first_seen": "2026-11-26T13:51+00:00"
+ },
+ {
+  "id": "372ac8913322",
+  "url": "https://techcrunch.com/2026/11/25/anthropics-dario-amodei-calls-accusations-of-surrendering-human-control-to-ai-absurd/",
+  "title": "Anthropic’s Dario Amodei calls accusations of surrendering human control to AI ‘absurd’",
+  "source": "TechCrunch",
+  "source_id": "techcrunch",
+  "recommended": true,
+  "date": "2026-11-25T19:44+00:00",
+  "excerpt": "Anthropic CEO Dario Amodei pushes back against rivals’ accusations that he favors surrendering human agency to AI, even as leading AI companies increasingly automate their own research and model development.",
+  "tags": [
+   "ai"
+  ],
+  "topics": [
+   "ai-race"
+  ],
+  "watch": [],
+  "kinds": [],
+  "round": null,
+  "score": 5,
+  "angles": [
+   "Chi vince la corsa ai modelli, e dove può creare valore un VC early-stage europeo?"
+  ],
+  "first_seen": "2026-11-26T13:51+00:00"
+ },
+ {
+  "id": "c2211ba4f6cd",
+  "url": "https://techcrunch.com/2026/11/25/want-to-buy-your-kid-an-ai-toy-this-christmas-not-in-new-york/",
+  "title": "Want to buy your kid an AI toy this Christmas? Not in New York",
+  "source": "TechCrunch",
+  "source_id": "techcrunch",
+  "recommended": true,
+  "date": "2026-11-25T18:11+00:00",
+  "excerpt": "New York has banned AI chatbot toys for five years as new research from Common Sense Media reveals troubling safety failures, including exposure to inappropriate content and risks to emotional development.",
+  "tags": [
+   "ai",
+   "usa"
+  ],
+  "topics": [],
+  "watch": [],
+  "kinds": [
+   "exit"
+  ],
+  "round": null,
+  "score": 6,
+  "angles": [
+   "Chi guadagna da questa exit e cosa insegna sulle strade di uscita per le startup europee?"
+  ],
+  "first_seen": "2026-11-26T13:51+00:00"
+ },
+ {
+  "id": "51ea6490f029",
+  "url": "https://sifted.eu/articles/polyais-ex-machine-learning-chief-raises-20m-for-new-robotics-startup/",
+  "title": "PolyAI’s ex-machine learning chief raises $20m for new robotics startup",
+  "source": "Sifted",
+  "source_id": "sifted",
+  "recommended": true,
+  "date": "2026-11-25T15:00+00:00",
+  "excerpt": "",
+  "tags": [
+   "ai",
+   "deep-tech"
+  ],
+  "topics": [
+   "physical-ai"
+  ],
+  "watch": [],
+  "kinds": [
+   "round"
+  ],
+  "round": {
+   "amount": "$20M",
+   "musd": 20.0,
+   "stage": null,
+   "company": "ex-machine learning chief"
+  },
+  "score": 10,
+  "angles": [
+   "L'Europa può vincere nella physical AI, dove contano industria e dati più del software?",
+   "Faresti questo investimento? Chiediti chi è il team, quanto è grande il mercato e se l'azienda può restituire un fondo."
+  ],
+  "first_seen": "2026-11-26T13:51+00:00"
+ },
+ {
   "id": "28175a595e60",
   "url": "https://techcrunch.com/2026/11/25/amazon-and-meta-reportedly-in-talks-to-lift-blockade-on-ai-agent-muse/",
   "title": "Amazon and Meta reportedly in talks to lift blockade on AI agent Muse",
@@ -53,7 +374,7 @@
   "source_id": "techcrunch",
   "recommended": true,
   "date": "2026-11-25T13:00+00:00",
-  "excerpt": "Huang still faces questions from Congress and his own board about his romantic relationship with an alleged chip smuggler.",
+  "excerpt": "The central question for investigators is what Nvidia knew about where those chips ended up and whether Huang's affair with a Megaspeed executive gave the company reason to doubt Megaspeed's assurances.",
   "tags": [
    "deep-tech"
   ],
@@ -187,21 +508,18 @@
   "source_id": "crunchbase",
   "recommended": false,
   "date": "2026-11-25T12:00+00:00",
-  "excerpt": "By Aaron Rubin and Greg Volkmar Valuations for AI companies have soared, and the companies are moving faster than ever. In the financings our firm has worked on so far in 2026, AI companies raised at median pre-money valuations up to 2.5 times those of non-AI…",
+  "excerpt": "When everything moves that fast, the terms of your financings and of your contracts for compute, data and distribution get set early and in a hurry. Some of those terms will later slow a sale, add cost and erode value.",
   "tags": [
    "ai"
   ],
-  "topics": [
-   "vc-vs-pe"
-  ],
+  "topics": [],
   "watch": [],
   "kinds": [
    "exit"
   ],
   "round": null,
-  "score": 7,
+  "score": 5,
   "angles": [
-   "Che tipo di investitore deve essere un VC per vincere i deal migliori?",
    "Chi guadagna da questa exit e cosa insegna sulle strade di uscita per le startup europee?"
   ],
   "first_seen": "2026-11-25T14:16+00:00"
@@ -14883,346 +15201,5 @@
    "Faresti questo investimento? Chiediti chi è il team, quanto è grande il mercato e se l'azienda può restituire un fondo."
   ],
   "first_seen": "2026-10-28T04:51+00:00"
- },
- {
-  "id": "0d4c913f9d52",
-  "url": "https://news.crunchbase.com/real-estate-property-tech/agentic-ai-staffing-coo-folgmann-get-covered/",
-  "title": "Your AI Agents Need A Chief Operating Officer, Too",
-  "source": "Crunchbase News",
-  "source_id": "crunchbase",
-  "recommended": false,
-  "date": "2026-10-27T11:00+00:00",
-  "excerpt": "Scaling AI agents requires treating them like employees in regulated roles, with written rules, clearly defined responsibilities and a named human manager accountable for their performance. Guest author Rick Folgmann, COO at Get Covered, tells companies they…",
-  "tags": [
-   "ai",
-   "policy"
-  ],
-  "topics": [],
-  "watch": [],
-  "kinds": [],
-  "round": null,
-  "score": 2,
-  "angles": [],
-  "first_seen": "2026-10-28T04:51+00:00"
- },
- {
-  "id": "631a6f171e9d",
-  "url": "https://www.technologyreview.com/2026/10/27/1147684/solid-state-transformers/",
-  "title": "How solid-state transformers could help power the AI boom",
-  "source": "MIT Technology Review",
-  "source_id": "mittr",
-  "recommended": true,
-  "date": "2026-10-27T09:00+00:00",
-  "excerpt": "Transformers are a crucial but nearly invisible part of our grid. The devices help efficiently move power across long distances, but they’re complicated and in short supply. And given that their basic design hasn’t changed much for about a century, they could…",
-  "tags": [
-   "ai",
-   "climate"
-  ],
-  "topics": [
-   "climate-capex"
-  ],
-  "watch": [],
-  "kinds": [],
-  "round": null,
-  "score": 5,
-  "angles": [
-   "Come trattiene l'Europa le aziende deep tech che hanno bisogno di round enormi?"
-  ],
-  "first_seen": "2026-10-28T04:51+00:00"
- },
- {
-  "id": "88f413c64797",
-  "url": "https://www.eu-startups.com/2026/10/paris-based-naboo-acquires-uk-meetings-and-events-specialist-pro-ven-following-e58-7-million-series-b/",
-  "title": "Paris-based Naboo acquires UK meetings and events specialist pro-ven following €58.7 million Series B",
-  "source": "EU-Startups",
-  "source_id": "eustartups",
-  "recommended": false,
-  "date": "2026-10-27T08:14+00:00",
-  "excerpt": "Naboo, a Paris-based EventTech scale-up, has joined forces with UK specialist pro-ven, bringing together two of the Meetings and Events (M&E) sector’s prominent names. Starting today, pro-ven becomes Naboo UK. Together, the combined entity now oversees €269…",
-  "tags": [
-   "europa"
-  ],
-  "topics": [
-   "europa-usa"
-  ],
-  "watch": [],
-  "kinds": [
-   "round",
-   "exit"
-  ],
-  "round": {
-   "amount": "€58.7M",
-   "musd": 64.57,
-   "stage": "Series B",
-   "company": null
-  },
-  "score": 15,
-  "angles": [
-   "Perché l'Europa produce meno exit grandi, e cosa servirebbe per cambiare?",
-   "Faresti questo investimento? Chiediti chi è il team, quanto è grande il mercato e se l'azienda può restituire un fondo."
-  ],
-  "first_seen": "2026-10-28T04:51+00:00"
- },
- {
-  "id": "b78ba7ad7e78",
-  "url": "https://www.eu-startups.com/2026/10/exclusive-copenhagen-based-proptech-cortas-lands-e1-47-million-in-a-pre-seed-round-led-by-psv-tech/",
-  "title": "EXCLUSIVE: Copenhagen-based PropTech Cortas lands €1.47 million in a pre-Seed round led by PSV Tech",
-  "source": "EU-Startups",
-  "source_id": "eustartups",
-  "recommended": false,
-  "date": "2026-10-27T07:30+00:00",
-  "excerpt": "Cortas, a Copenhagen-based PropTech startup building what it calls an entirely new operating model for property management, has raised €1.47 million in pre-Seed funding. The round was led by PSV Tech, which has backed Nordic companies for more than two…",
-  "tags": [
-   "europa"
-  ],
-  "topics": [],
-  "watch": [],
-  "kinds": [
-   "round"
-  ],
-  "round": {
-   "amount": "€1.5M",
-   "musd": 1.62,
-   "stage": "Pre-seed",
-   "company": "Copenhagen-based PropTech Cortas"
-  },
-  "score": 8,
-  "angles": [
-   "Faresti questo investimento? Chiediti chi è il team, quanto è grande il mercato e se l'azienda può restituire un fondo."
-  ],
-  "first_seen": "2026-10-28T04:51+00:00"
- },
- {
-  "id": "e287b22dd229",
-  "url": "https://sifted.eu/articles/new-funds-in-europe-in-q3-2026/",
-  "title": "New funds in Europe in Q3 2026",
-  "source": "Sifted",
-  "source_id": "sifted",
-  "recommended": true,
-  "date": "2026-10-27T05:00+00:00",
-  "excerpt": "",
-  "tags": [
-   "europa"
-  ],
-  "topics": [],
-  "watch": [],
-  "kinds": [
-   "fondi"
-  ],
-  "round": {
-   "amount": null,
-   "musd": null,
-   "stage": null,
-   "company": null
-  },
-  "score": 8,
-  "angles": [
-   "Cosa dice questa raccolta sull'appetito degli LP per il venture capital in questo momento?"
-  ],
-  "first_seen": "2026-10-28T04:51+00:00"
- },
- {
-  "id": "62ecc12b68be",
-  "url": "https://techcrunch.com/2026/10/26/how-openai-turned-its-coding-tools-into-dots-an-always-on-personal-assistant/",
-  "title": "How OpenAI turned its coding tools into dots, an always-on personal assistant",
-  "source": "TechCrunch",
-  "source_id": "techcrunch",
-  "recommended": true,
-  "date": "2026-10-27T02:00+00:00",
-  "excerpt": "Alexander Embiricos, the OpenAI executive responsible for dots, never wants to have a meeting with someone else's AI agent.",
-  "tags": [
-   "ai"
-  ],
-  "topics": [
-   "ai-race"
-  ],
-  "watch": [],
-  "kinds": [],
-  "round": null,
-  "score": 5,
-  "angles": [
-   "Chi vince la corsa ai modelli, e dove può creare valore un VC early-stage europeo?"
-  ],
-  "first_seen": "2026-10-27T04:39+00:00"
- },
- {
-  "id": "9af0a1a0b387",
-  "url": "https://techcrunch.com/2026/10/26/cohere-says-alibabas-qwen-model-tried-to-send-a-file-to-beijing/",
-  "title": "Cohere says Alibaba’s Qwen model tried to send a file to Beijing",
-  "source": "TechCrunch",
-  "source_id": "techcrunch",
-  "recommended": true,
-  "date": "2026-10-27T01:12+00:00",
-  "excerpt": "An AI model said it wouldn’t use any tools, then tried to send something to a server in Beijing anyway, and while researchers say it’s probably a training quirk and not espionage, the whole thing has people asking how much to trust free Chinese AI.",
-  "tags": [
-   "ai"
-  ],
-  "topics": [
-   "ai-race"
-  ],
-  "watch": [],
-  "kinds": [],
-  "round": null,
-  "score": 5,
-  "angles": [
-   "Chi vince la corsa ai modelli, e dove può creare valore un VC early-stage europeo?"
-  ],
-  "first_seen": "2026-10-27T04:39+00:00"
- },
- {
-  "id": "c1b086a10856",
-  "url": "https://news.crunchbase.com/public/anthropic-ipo-filing-ai-earnings-growth-risks/",
-  "title": "Some Observations About Anthropic’s IPO Filing",
-  "source": "Crunchbase News",
-  "source_id": "crunchbase",
-  "recommended": false,
-  "date": "2026-10-26T20:10+00:00",
-  "excerpt": "In an S-1 filing today preceding what could be the largest IPO ever, Anthropic laid out extensive new details about its earnings, growth, key stakeholders and the risks it faces going forward. Clocking in at 335 pages, the document wasn’t exactly light…",
-  "tags": [
-   "ai"
-  ],
-  "topics": [
-   "ai-race"
-  ],
-  "watch": [],
-  "kinds": [
-   "exit"
-  ],
-  "round": null,
-  "score": 7,
-  "angles": [
-   "Chi vince la corsa ai modelli, e dove può creare valore un VC early-stage europeo?",
-   "Chi guadagna da questa exit e cosa insegna sulle strade di uscita per le startup europee?"
-  ],
-  "first_seen": "2026-10-27T04:39+00:00"
- },
- {
-  "id": "5e41d0e1a60b",
-  "url": "https://techcrunch.com/2026/10/26/fusion-startups-are-giving-the-government-shares-in-exchange-for-awards-is-it-worth-it/",
-  "title": "Fusion startups are giving the government shares in exchange for awards. Is it worth it?",
-  "source": "TechCrunch",
-  "source_id": "techcrunch",
-  "recommended": true,
-  "date": "2026-10-26T18:59+00:00",
-  "excerpt": "Fusion startups face a new challenge, one unrelated to plasma physics: Give the government shares in exchange for funding awards or go it alone?",
-  "tags": [
-   "deep-tech",
-   "policy"
-  ],
-  "topics": [
-   "climate-capex"
-  ],
-  "watch": [],
-  "kinds": [],
-  "round": null,
-  "score": 5,
-  "angles": [
-   "Come trattiene l'Europa le aziende deep tech che hanno bisogno di round enormi?"
-  ],
-  "first_seen": "2026-10-27T04:39+00:00"
- },
- {
-  "id": "5383be2c86d2",
-  "url": "https://techcrunch.com/2026/10/26/this-startups-self-driving-excavators-help-dig-up-600m-in-new-funding/",
-  "title": "This startup’s self-driving excavators help dig up $600M in new funding",
-  "source": "TechCrunch",
-  "source_id": "techcrunch",
-  "recommended": true,
-  "date": "2026-10-26T17:45+00:00",
-  "excerpt": "Bedrock Robotics, which is now valued at $4.1 billion, is particularly focused on autonomous excavators, in part because of a growing shortage of skilled operators.",
-  "tags": [
-   "deep-tech"
-  ],
-  "topics": [
-   "physical-ai"
-  ],
-  "watch": [],
-  "kinds": [
-   "fondi"
-  ],
-  "round": {
-   "amount": "$600M",
-   "musd": 600.0,
-   "stage": null,
-   "company": null
-  },
-  "score": 10,
-  "angles": [
-   "L'Europa può vincere nella physical AI, dove contano industria e dati più del software?",
-   "Cosa dice questa raccolta sull'appetito degli LP per il venture capital in questo momento?"
-  ],
-  "first_seen": "2026-10-27T04:39+00:00"
- },
- {
-  "id": "f7b9bc5b7e40",
-  "url": "https://www.technologyreview.com/2026/10/26/1147672/will-the-real-anthropic-please-stand-up/",
-  "title": "Will the real Anthropic please stand up",
-  "source": "MIT Technology Review",
-  "source_id": "mittr",
-  "recommended": true,
-  "date": "2026-10-26T17:45+00:00",
-  "excerpt": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. After weeks of frenzied speculation, Anthropic has filed its IPO prospectus. The 335-page document (100 pages or so are…",
-  "tags": [
-   "ai"
-  ],
-  "topics": [
-   "ai-race"
-  ],
-  "watch": [],
-  "kinds": [],
-  "round": null,
-  "score": 5,
-  "angles": [
-   "Chi vince la corsa ai modelli, e dove può creare valore un VC early-stage europeo?"
-  ],
-  "first_seen": "2026-10-27T04:39+00:00"
- },
- {
-  "id": "ed70cec9fbbd",
-  "url": "https://sifted.eu/articles/revolut-lending-personal-watershed-challenge-banks/",
-  "title": "Revolut's UK lending push is a ‘watershed’ moment. Can it take on the big banks?",
-  "source": "Sifted",
-  "source_id": "sifted",
-  "recommended": true,
-  "date": "2026-10-26T17:03+00:00",
-  "excerpt": "",
-  "tags": [
-   "fintech",
-   "europa"
-  ],
-  "topics": [],
-  "watch": [],
-  "kinds": [],
-  "round": null,
-  "score": 5,
-  "angles": [],
-  "first_seen": "2026-10-27T04:39+00:00"
- },
- {
-  "id": "aa7e5f8a062f",
-  "url": "https://sifted.eu/articles/revolut-alumni-nevis-wealth-tech-management-funding-round/",
-  "title": "EQT Ventures and QuantumLight back wealthtech platform Nevis in $70m raise",
-  "source": "Sifted",
-  "source_id": "sifted",
-  "recommended": true,
-  "date": "2026-10-26T16:57+00:00",
-  "excerpt": "",
-  "tags": [],
-  "topics": [],
-  "watch": [],
-  "kinds": [
-   "round"
-  ],
-  "round": {
-   "amount": "$70M",
-   "musd": 70.0,
-   "stage": null,
-   "company": null
-  },
-  "score": 9,
-  "angles": [
-   "Faresti questo investimento? Chiediti chi è il team, quanto è grande il mercato e se l'azienda può restituire un fondo."
-  ],
-  "first_seen": "2026-10-27T04:39+00:00"
  }
 ]
