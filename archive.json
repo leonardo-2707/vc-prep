@@ -1,5 +1,156 @@
 [
  {
+  "id": "60bf9bc30e12",
+  "url": "https://sifted.eu/articles/welcome-to-venture-feudalism/",
+  "title": "Welcome to venture feudalism",
+  "source": "Sifted",
+  "source_id": "sifted",
+  "recommended": true,
+  "date": "2026-11-27T10:58+00:00",
+  "excerpt": "",
+  "tags": [],
+  "topics": [],
+  "watch": [],
+  "kinds": [],
+  "round": null,
+  "score": 3,
+  "angles": [],
+  "first_seen": "2026-11-27T13:48+00:00"
+ },
+ {
+  "id": "1bbe555684ae",
+  "url": "https://sifted.eu/articles/europe-neolab-live-up-to-hype/",
+  "title": "Can Europe’s neolabs live up to the hype?",
+  "source": "Sifted",
+  "source_id": "sifted",
+  "recommended": true,
+  "date": "2026-11-27T10:50+00:00",
+  "excerpt": "",
+  "tags": [
+   "europa"
+  ],
+  "topics": [],
+  "watch": [],
+  "kinds": [],
+  "round": null,
+  "score": 5,
+  "angles": [],
+  "first_seen": "2026-11-27T13:48+00:00"
+ },
+ {
+  "id": "35804d990e7b",
+  "url": "https://sifted.eu/articles/ramp-europe-expansion-interview/",
+  "title": "'Never say never': US fintech giant Ramp on more European acquisitions",
+  "source": "Sifted",
+  "source_id": "sifted",
+  "recommended": true,
+  "date": "2026-11-27T05:00+00:00",
+  "excerpt": "",
+  "tags": [
+   "fintech",
+   "europa"
+  ],
+  "topics": [],
+  "watch": [],
+  "kinds": [],
+  "round": null,
+  "score": 5,
+  "angles": [],
+  "first_seen": "2026-11-27T13:48+00:00"
+ },
+ {
+  "id": "d6b7f760dc7c",
+  "url": "https://sifted.eu/articles/conduct-ceo-on-building-an-ai-operating-system-for-enterprise-it-teams/",
+  "title": "‘We’re not migration software’: Conduct’s CEO on building an AI operating system for enterprise IT teams",
+  "source": "Sifted",
+  "source_id": "sifted",
+  "recommended": true,
+  "date": "2026-11-27T05:00+00:00",
+  "excerpt": "",
+  "tags": [
+   "ai"
+  ],
+  "topics": [],
+  "watch": [],
+  "kinds": [],
+  "round": null,
+  "score": 3,
+  "angles": [],
+  "first_seen": "2026-11-27T13:48+00:00"
+ },
+ {
+  "id": "c881f1e71110",
+  "url": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/",
+  "title": "Nvidia hits pause on chip shipments to Southeast Asia",
+  "source": "TechCrunch",
+  "source_id": "techcrunch",
+  "recommended": true,
+  "date": "2026-11-26T20:03+00:00",
+  "excerpt": "Nvidia has told manufacturing partners to pause server shipments to Malaysia, Singapore, Thailand and Indonesia as the U.S. tightens its push to keep AI chips out of China.",
+  "tags": [
+   "ai",
+   "deep-tech",
+   "usa"
+  ],
+  "topics": [
+   "nvidia-vc"
+  ],
+  "watch": [],
+  "kinds": [],
+  "round": null,
+  "score": 5,
+  "angles": [
+   "Le Big Tech che investono nelle startup accelerano il mercato o lo distorcono?"
+  ],
+  "first_seen": "2026-11-27T13:48+00:00"
+ },
+ {
+  "id": "c772b97adf28",
+  "url": "https://techcrunch.com/2026/11/26/is-alice-huang-a-spy-or-not/",
+  "title": "Is Alice Huang a spy or not?",
+  "source": "TechCrunch",
+  "source_id": "techcrunch",
+  "recommended": true,
+  "date": "2026-11-26T20:00+00:00",
+  "excerpt": "The central, still-unproven claim in the Nvidia scandal is that Alice Huang, the former Megaspeed exec with whom Nvidia CEO Jensen Huang had an extramarital affair, is a Chinese spy.",
+  "tags": [],
+  "topics": [
+   "nvidia-vc"
+  ],
+  "watch": [],
+  "kinds": [],
+  "round": null,
+  "score": 5,
+  "angles": [
+   "Le Big Tech che investono nelle startup accelerano il mercato o lo distorcono?"
+  ],
+  "first_seen": "2026-11-27T13:48+00:00"
+ },
+ {
+  "id": "ec74e9ba2187",
+  "url": "https://techcrunch.com/2026/11/26/as-anthropic-ipos-grand-theft-auto-vi-proves-why-efficiency-isnt-a-virtue/",
+  "title": "Grand Theft Auto VI proves why efficiency isn’t a virtue",
+  "source": "TechCrunch",
+  "source_id": "techcrunch",
+  "recommended": true,
+  "date": "2026-11-26T16:00+00:00",
+  "excerpt": "On the same day that Anthropic entered the public market, a painstakingly human video game became one of most successful entertainment launches of all time.",
+  "tags": [
+   "ai"
+  ],
+  "topics": [
+   "ai-race"
+  ],
+  "watch": [],
+  "kinds": [],
+  "round": null,
+  "score": 5,
+  "angles": [
+   "Chi vince la corsa ai modelli, e dove può creare valore un VC early-stage europeo?"
+  ],
+  "first_seen": "2026-11-27T13:48+00:00"
+ },
+ {
   "id": "e153b8757d5b",
   "url": "https://sifted.eu/articles/the-skinner-shah-award-for-journalism/",
   "title": "Introducing the Skinner-Shah Award for Journalism",
@@ -15015,190 +15166,6 @@
   "score": 5,
   "angles": [
    "Come trattiene l'Europa le aziende deep tech che hanno bisogno di round enormi?"
-  ],
-  "first_seen": "2026-10-28T04:51+00:00"
- },
- {
-  "id": "dbe7bc9c0f5b",
-  "url": "https://www.eu-startups.com/2026/10/opinon-europes-legal-work-is-awash-with-ai-slop-but-there-is-a-way-to-fix-it/",
-  "title": "OPINON: Europe’s legal work is awash with AI slop, but there is a way to fix it",
-  "source": "EU-Startups",
-  "source_id": "eustartups",
-  "recommended": false,
-  "date": "2026-10-27T14:07+00:00",
-  "excerpt": "Europe’s startups have been riding a wave of innovation, creating numerous applications of generative and agentic AI. This innovation has explored the art of the possible, but it has also flooded the world with slop. Content is awash with it, whether it is…",
-  "tags": [
-   "ai",
-   "europa"
-  ],
-  "topics": [],
-  "watch": [],
-  "kinds": [],
-  "round": null,
-  "score": 4,
-  "angles": [],
-  "first_seen": "2026-10-28T04:51+00:00"
- },
- {
-  "id": "6000ac2277f5",
-  "url": "https://sifted.eu/articles/sequoia-general-catalyst-22one-ai-police-startup/",
-  "title": "Sequoia and General Catalyst value ex-police chief’s AI startup at $400m — reports",
-  "source": "Sifted",
-  "source_id": "sifted",
-  "recommended": true,
-  "date": "2026-10-27T12:21+00:00",
-  "excerpt": "",
-  "tags": [
-   "ai",
-   "usa"
-  ],
-  "topics": [],
-  "watch": [],
-  "kinds": [],
-  "round": null,
-  "score": 3,
-  "angles": [],
-  "first_seen": "2026-10-28T04:51+00:00"
- },
- {
-  "id": "86e551dd7e95",
-  "url": "https://www.technologyreview.com/2026/10/27/1147693/the-download-anthropic-ipo-smarter-power-grids-exercise-pills/",
-  "title": "The Download: Anthropic’s IPO, smarter power grids, and exercise pills",
-  "source": "MIT Technology Review",
-  "source_id": "mittr",
-  "recommended": true,
-  "date": "2026-10-27T12:10+00:00",
-  "excerpt": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Will the real Anthropic please stand up? After weeks of frenzied speculation, Anthropic has filed its IPO prospectus. The…",
-  "tags": [
-   "ai"
-  ],
-  "topics": [
-   "ai-race"
-  ],
-  "watch": [],
-  "kinds": [
-   "exit"
-  ],
-  "round": null,
-  "score": 8,
-  "angles": [
-   "Chi vince la corsa ai modelli, e dove può creare valore un VC early-stage europeo?",
-   "Chi guadagna da questa exit e cosa insegna sulle strade di uscita per le startup europee?"
-  ],
-  "first_seen": "2026-10-28T04:51+00:00"
- },
- {
-  "id": "e4f2c3480bfb",
-  "url": "https://www.eu-startups.com/2026/10/british-sme-lender-lovey-secures-up-to-e298-million-to-support-uk-companies/",
-  "title": "British SME lender Lovey secures up to €298 million to support UK companies",
-  "source": "EU-Startups",
-  "source_id": "eustartups",
-  "recommended": false,
-  "date": "2026-10-27T11:43+00:00",
-  "excerpt": "Lovey, a British FinTech and financial services provider specialising in SME lending and brokerage, has today announced a senior secured credit facility of up to €298 million (£250 million) with Pollen Street Capital, an alternative asset manager. The…",
-  "tags": [
-   "fintech",
-   "europa"
-  ],
-  "topics": [],
-  "watch": [],
-  "kinds": [
-   "round"
-  ],
-  "round": {
-   "amount": "€298M",
-   "musd": 327.8,
-   "stage": null,
-   "company": "British SME lender Lovey"
-  },
-  "score": 10,
-  "angles": [
-   "Faresti questo investimento? Chiediti chi è il team, quanto è grande il mercato e se l'azienda può restituire un fondo."
-  ],
-  "first_seen": "2026-10-28T04:51+00:00"
- },
- {
-  "id": "fc8d04130bb3",
-  "url": "https://www.eu-startups.com/2026/10/finnish-defencetech-arctic-ravn-secures-e2-5-million-in-loan-commitments-before-its-first-product-launch/",
-  "title": "Finnish DefenceTech Arctic RAVN secures €2.5 million in loan commitments before its first product launch",
-  "source": "EU-Startups",
-  "source_id": "eustartups",
-  "recommended": false,
-  "date": "2026-10-27T11:12+00:00",
-  "excerpt": "Arctic RAVN, an Espoo-based DefenceTech startup, has secured €2.5 million in convertible loan commitments, surpassing its original €2 million target in under a week. The round, launched in October 2026, saw investor commitments arrive within just five days, a…",
-  "tags": [
-   "europa"
-  ],
-  "topics": [],
-  "watch": [],
-  "kinds": [
-   "round"
-  ],
-  "round": {
-   "amount": "€2.5M",
-   "musd": 2.75,
-   "stage": null,
-   "company": "Finnish DefenceTech Arctic RAVN"
-  },
-  "score": 8,
-  "angles": [
-   "Faresti questo investimento? Chiediti chi è il team, quanto è grande il mercato e se l'azienda può restituire un fondo."
-  ],
-  "first_seen": "2026-10-28T04:51+00:00"
- },
- {
-  "id": "912821485ddd",
-  "url": "https://sifted.eu/articles/repeat-fintech-founders-face-ai/",
-  "title": "‘It feels like you’re wearing a Superman suit’: Why Europe’s fintech founders are starting over with AI",
-  "source": "Sifted",
-  "source_id": "sifted",
-  "recommended": true,
-  "date": "2026-10-27T11:00+00:00",
-  "excerpt": "",
-  "tags": [
-   "ai",
-   "fintech",
-   "europa"
-  ],
-  "topics": [],
-  "watch": [],
-  "kinds": [],
-  "round": null,
-  "score": 5,
-  "angles": [],
-  "first_seen": "2026-10-28T04:51+00:00"
- },
- {
-  "id": "52122d3ed169",
-  "url": "https://news.crunchbase.com/venture/q3-2026-us-china-robotics-startup-funding-jumps-physical-ai-push/",
-  "title": "Crunchbase Data Shows Q3 Robotics Startup Funding Jumps 185% As US And China Lead Physical AI Push",
-  "source": "Crunchbase News",
-  "source_id": "crunchbase",
-  "recommended": false,
-  "date": "2026-10-27T11:00+00:00",
-  "excerpt": "Venture funding to robotics startups has soared in 2026, with the bulk of investment going to companies based in China and the U.S., Crunchbase data shows. All told, global venture funding to robotics startups totaled $9.9 billion in Q3, more than double the…",
-  "tags": [
-   "ai",
-   "deep-tech",
-   "usa"
-  ],
-  "topics": [
-   "physical-ai"
-  ],
-  "watch": [],
-  "kinds": [
-   "round"
-  ],
-  "round": {
-   "amount": "$9.9B",
-   "musd": 9900.0,
-   "stage": null,
-   "company": null
-  },
-  "score": 10,
-  "angles": [
-   "L'Europa può vincere nella physical AI, dove contano industria e dati più del software?",
-   "Faresti questo investimento? Chiediti chi è il team, quanto è grande il mercato e se l'azienda può restituire un fondo."
   ],
   "first_seen": "2026-10-28T04:51+00:00"
  }
